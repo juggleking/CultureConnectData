@@ -1,12 +1,178 @@
 [
   {
+    "ScraperName": "AbConcertsScraper",
+    "LastRunTime": "2026-01-30T13:10:53.543779+01:00",
+    "EventsFound": 205,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/abconcerts.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "ab_events.json"
+  },
+  {
+    "ScraperName": "BotaniqueScraper",
+    "LastRunTime": "2026-01-30T13:11:00.836436+01:00",
+    "EventsFound": 166,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/botanique.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "botanique_events.json"
+  },
+  {
+    "ScraperName": "CactusMusicScraper",
+    "LastRunTime": "2026-01-30T13:10:46.603187+01:00",
+    "EventsFound": 1,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/cactusmusic.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "cactus_events.json"
+  },
+  {
+    "ScraperName": "CeciliaScraper",
+    "LastRunTime": "2026-01-30T13:11:16.779064+01:00",
+    "EventsFound": 13,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/cecilia.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "cecilia_events.json"
+  },
+  {
+    "ScraperName": "DeKluizeScraper",
+    "LastRunTime": "2026-01-30T13:10:47.350505+01:00",
+    "EventsFound": 36,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/dekluize.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "dekluize_events.json"
+  },
+  {
+    "ScraperName": "DemocrazyScraper",
+    "LastRunTime": "2026-01-30T13:10:46.624852+01:00",
+    "EventsFound": 66,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "https://www.democrazy.be/favicon.ico",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "democrazy_events.json"
+  },
+  {
+    "ScraperName": "DeSteenovenScraper",
+    "LastRunTime": "2026-01-30T13:10:46.386866+01:00",
+    "EventsFound": 15,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/steenoven.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "steenoven_events.json"
+  },
+  {
+    "ScraperName": "EmotiaScraper",
+    "LastRunTime": "2026-01-30T13:10:47.060631+01:00",
+    "EventsFound": 50,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/emotia.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "emotia_events.json"
+  },
+  {
+    "ScraperName": "FourAdScraper",
+    "LastRunTime": "2026-01-30T13:10:46.785559+01:00",
+    "EventsFound": 16,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/4ad.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "4ad_events.json"
+  },
+  {
+    "ScraperName": "HaConcertsScraper",
+    "LastRunTime": "2026-01-30T13:10:55.037193+01:00",
+    "EventsFound": 63,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/haconcerts.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "ha_events.json"
+  },
+  {
+    "ScraperName": "HetDepotScraper",
+    "LastRunTime": "2026-01-30T13:11:24.532856+01:00",
+    "EventsFound": 87,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/hetdepot.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "hetdepot_events.json"
+  },
+  {
+    "ScraperName": "N9Scraper",
+    "LastRunTime": "2026-01-30T13:10:46.443411+01:00",
+    "EventsFound": 21,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/n9.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "n9_events.json"
+  },
+  {
+    "ScraperName": "SintLievensHoutemScraper",
+    "LastRunTime": "2026-01-30T13:10:47.121178+01:00",
+    "EventsFound": 22,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/slh.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "slh_events.json"
+  },
+  {
+    "ScraperName": "ToneelhuisScraper",
+    "LastRunTime": "2026-01-30T13:10:49.940227+01:00",
+    "EventsFound": 154,
+    "Status": "Success",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/toneelhuis.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "toneelhuis_events.json"
+  },
+  {
     "ScraperName": "WildeWestenScraper",
-    "LastRunTime": "2026-01-30T11:07:32.809687+01:00",
+    "LastRunTime": "2026-01-30T13:12:21.163411+01:00",
     "EventsFound": 56,
     "Status": "Success",
     "ErrorMessage": null,
     "FaviconUrl": "images/icons/wildewesten.png",
     "PostValidationPassed": true,
-    "PostValidationErrors": 0
+    "PostValidationErrors": 0,
+    "OutputFileName": "wildewesten_events.json"
+  },
+  {
+    "ScraperName": "WintercircusScraper",
+    "LastRunTime": "2026-01-30T13:10:46.394308+01:00",
+    "EventsFound": 33,
+    "Status": "Success (1 invalid)",
+    "ErrorMessage": null,
+    "FaviconUrl": "images/icons/wintercircus.png",
+    "PostValidationPassed": true,
+    "PostValidationErrors": 0,
+    "OutputFileName": "wintercircus_events.json"
   }
 ]
