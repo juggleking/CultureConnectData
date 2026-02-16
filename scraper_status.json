@@ -11,7 +11,7 @@
         "Year": 2026,
         "FileName": "ab-02-2026.json",
         "FilePath": "events/concerts/ab/ab-02-2026.json",
-        "Hash": "35512e07cc54164284cdd4350695d8b4c151603e90b50d6c96106dfd796b976d",
+        "Hash": "75f5b117faa7b234a7c0da3c87f4205f32ff1253fa064c1973e06355e1ffcb3e",
         "EventCount": 27,
         "Status": "Success",
         "ErrorMessage": null
@@ -99,9 +99,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:42.5449127Z",
-    "StartedAt": "2026-02-16T06:26:35.2147471Z",
-    "FinishedAt": "2026-02-16T06:26:42.5449102Z",
+    "RunTime": "2026-02-16T10:29:22.592983Z",
+    "StartedAt": "2026-02-16T10:29:07.5031467Z",
+    "FinishedAt": "2026-02-16T10:29:22.5929808Z",
     "FaviconUrl": "images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -110,7 +110,7 @@
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 165,
+    "TotalEventsFound": 166,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -127,7 +127,7 @@
         "Year": 2026,
         "FileName": "botanique-03-2026.json",
         "FilePath": "events/concerts/botanique/botanique-03-2026.json",
-        "Hash": "0a700e87a05c4f9624c00f7a0341490afebceb27ce0343551c2e32ae00fce64c",
+        "Hash": "1780227803d423074d72a9474d9d23ef2ef8fc8c6e90eb788d46def2856676ba",
         "EventCount": 60,
         "Status": "Success",
         "ErrorMessage": null
@@ -137,7 +137,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "9b1c60f53d584a77ed673ebb31a2604a7743748791d75fe95aa260e45bc14ab2",
+        "Hash": "de02ec9435908d8ef4ed1ace121ea583e1e2b714b6aaa5ea2fd8f7830e6c1fea",
         "EventCount": 53,
         "Status": "Success",
         "ErrorMessage": null
@@ -157,8 +157,8 @@
         "Year": 2026,
         "FileName": "botanique-06-2026.json",
         "FilePath": "events/concerts/botanique/botanique-06-2026.json",
-        "Hash": "cd168a04e25729528b150be2fffd3d318245ef0fd0bdc7562699c4f99d146d1c",
-        "EventCount": 2,
+        "Hash": "9941e28f36ec24461d2de1cd227e05bc1fe18e7f7ff1502a444b2618f13e26a3",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -195,18 +195,59 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:47.1542311Z",
-    "StartedAt": "2026-02-16T06:26:35.2165161Z",
-    "FinishedAt": "2026-02-16T06:26:47.1542278Z",
+    "RunTime": "2026-02-16T10:29:40.9738424Z",
+    "StartedAt": "2026-02-16T10:29:07.5051918Z",
+    "FinishedAt": "2026-02-16T10:29:40.9738417Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Coraline Gaye - Blumi",
+        "DateString": "2026-03-01T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/coraline-gaye-blumi-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-10/CORALINE%20GAYE%2001%20%28full%29%20%20Simon%20Vanrie.jpg?itok=ALigcIE5",
+        "Location": "Rotonde",
+        "Description": "Release | Frans chanson op de grens van klassiek, waar zachtheid samengaat met geweld en po\u00EBzie"
+      },
+      {
+        "Title": "OFiRA - Mona Mio",
+        "DateString": "2026-03-06T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/ofira-mona-mio-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-09/thumbnail_ofira_24_01.jpg?itok=O7KZhPgr",
+        "Location": "Witloof Bar",
+        "Description": "Release | De gratie van de barok ontmoet de kracht van hedendaagse elektronica"
+      },
+      {
+        "Title": "MAVEE - Mar\u00F9",
+        "DateString": "2026-03-29T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/mavee-maru-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-01/press_1.png?itok=vybvhh_6",
+        "Location": "Rotonde",
+        "Description": "Release | MAVEE biedt een unieke stijl met synthpop, soul en r\u0026b"
+      },
+      {
+        "Title": "Melody\u0027s Echo Chamber - A Ghost Column",
+        "DateString": "2026-04-17T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/melodys-echo-chamber-ghost-column-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-09/melody.jpeg?itok=ZMhbjvaZ",
+        "Location": "Orangerie",
+        "Description": "Lichtgevende en groovy psychedelische poprock waarin elk nummer de natuur ademt"
+      },
+      {
+        "Title": "Agriculture - Lintworm",
+        "DateString": "2026-06-25T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/agriculture-lintworm-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-01/Agriculture%202026..jpeg?itok=WsfU_eu5",
+        "Location": "Rotonde",
+        "Description": ""
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
     "VenueId": "cactus",
     "VenueName": "Cactus Muziekcentrum, Brugge",
     "Category": "Concerts",
-    "TotalEventsFound": 57,
+    "TotalEventsFound": 58,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -253,8 +294,8 @@
         "Year": 2026,
         "FileName": "cactus-06-2026.json",
         "FilePath": "events/concerts/cactus/cactus-06-2026.json",
-        "Hash": "2c103a42497af88bd85137bfdd61676584e1df435f74b3df103a55fed3d09b03",
-        "EventCount": 5,
+        "Hash": "587711b8b8becb7726a4ada0eea2e7034af7b7be9fc46b11165aad867aaf9642",
+        "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -301,11 +342,20 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:36.0679239Z",
-    "StartedAt": "2026-02-16T06:26:35.2167691Z",
-    "FinishedAt": "2026-02-16T06:26:36.0679214Z",
+    "RunTime": "2026-02-16T10:29:09.4538155Z",
+    "StartedAt": "2026-02-16T10:29:07.5060003Z",
+    "FinishedAt": "2026-02-16T10:29:09.4538144Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Modern Nature",
+        "DateString": "2026-06-15T00:00:00.0000000",
+        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/modern-nature",
+        "ImageUrl": "",
+        "Location": "Cactus Cafe",
+        "Description": "Pastorale krautrock die klinkt als een jam van Talk Talk, Robert Wyatt, Can en Yo La Tengo op het Britse platteland"
+      }
+    ]
   },
   {
     "ScraperName": "CeciliaScraper",
@@ -349,7 +399,7 @@
         "Year": 2026,
         "FileName": "cecilia-05-2026.json",
         "FilePath": "events/theatre/cecilia/cecilia-05-2026.json",
-        "Hash": "b28f23e3128823596e2cf1787629f7d55ffe2d52a592767687c8ffb300c01cc2",
+        "Hash": "322e8ade898f13c9cc6b0b45a392bbe919ddc74bb5b7d8f372c0e5903cdcd816",
         "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
@@ -367,9 +417,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:27:16.5624402Z",
-    "StartedAt": "2026-02-16T06:26:35.2168516Z",
-    "FinishedAt": "2026-02-16T06:27:16.5624367Z",
+    "RunTime": "2026-02-16T10:30:27.32555Z",
+    "StartedAt": "2026-02-16T10:29:07.5067825Z",
+    "FinishedAt": "2026-02-16T10:30:27.3255468Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -463,9 +513,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:36.2269032Z",
-    "StartedAt": "2026-02-16T06:26:35.217669Z",
-    "FinishedAt": "2026-02-16T06:26:36.2268999Z",
+    "RunTime": "2026-02-16T10:29:10.7325272Z",
+    "StartedAt": "2026-02-16T10:29:07.5078057Z",
+    "FinishedAt": "2026-02-16T10:29:10.7325249Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -519,9 +569,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:37.0262779Z",
-    "StartedAt": "2026-02-16T06:26:35.2180322Z",
-    "FinishedAt": "2026-02-16T06:26:37.026275Z",
+    "RunTime": "2026-02-16T10:29:11.6788656Z",
+    "StartedAt": "2026-02-16T10:29:07.5084756Z",
+    "FinishedAt": "2026-02-16T10:29:11.6788397Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -615,9 +665,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:36.2118975Z",
-    "StartedAt": "2026-02-16T06:26:35.2184895Z",
-    "FinishedAt": "2026-02-16T06:26:36.2118944Z",
+    "RunTime": "2026-02-16T10:29:10.6710231Z",
+    "StartedAt": "2026-02-16T10:29:07.5092846Z",
+    "FinishedAt": "2026-02-16T10:29:10.6710209Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -681,9 +731,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:35.9225145Z",
-    "StartedAt": "2026-02-16T06:26:35.2189915Z",
-    "FinishedAt": "2026-02-16T06:26:35.9225112Z",
+    "RunTime": "2026-02-16T10:29:10.4331504Z",
+    "StartedAt": "2026-02-16T10:29:07.510422Z",
+    "FinishedAt": "2026-02-16T10:29:10.433147Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -727,9 +777,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:35.8280809Z",
-    "StartedAt": "2026-02-16T06:26:35.2191653Z",
-    "FinishedAt": "2026-02-16T06:26:35.8280807Z",
+    "RunTime": "2026-02-16T10:29:10.1707695Z",
+    "StartedAt": "2026-02-16T10:29:07.5112532Z",
+    "FinishedAt": "2026-02-16T10:29:10.1707694Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -823,9 +873,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:36.4919417Z",
-    "StartedAt": "2026-02-16T06:26:35.2192475Z",
-    "FinishedAt": "2026-02-16T06:26:36.491916Z",
+    "RunTime": "2026-02-16T10:29:15.1861912Z",
+    "StartedAt": "2026-02-16T10:29:07.5119054Z",
+    "FinishedAt": "2026-02-16T10:29:15.1861893Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -889,9 +939,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:36.2107359Z",
-    "StartedAt": "2026-02-16T06:26:35.2193312Z",
-    "FinishedAt": "2026-02-16T06:26:36.2107326Z",
+    "RunTime": "2026-02-16T10:29:11.2398349Z",
+    "StartedAt": "2026-02-16T10:29:07.5127978Z",
+    "FinishedAt": "2026-02-16T10:29:11.2398319Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -965,9 +1015,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:43.1025373Z",
-    "StartedAt": "2026-02-16T06:26:35.2194098Z",
-    "FinishedAt": "2026-02-16T06:26:43.1025339Z",
+    "RunTime": "2026-02-16T10:29:20.4019492Z",
+    "StartedAt": "2026-02-16T10:29:07.5136109Z",
+    "FinishedAt": "2026-02-16T10:29:20.4019475Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -976,7 +1026,7 @@
     "VenueId": "hetdepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 80,
+    "TotalEventsFound": 81,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1043,8 +1093,8 @@
         "Year": 2026,
         "FileName": "hetdepot-10-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-10-2026.json",
-        "Hash": "7d3838e46ef82aafcbb4dd14d6687645a7edf5432bfe7eeb82939e25d81ab8bc",
-        "EventCount": 1,
+        "Hash": "8a31ee20635f05973f17c694584faf7ef9a467b70968beb1c580ebaece9dbf3e",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1061,11 +1111,20 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:27:02.8867896Z",
-    "StartedAt": "2026-02-16T06:26:35.2210592Z",
-    "FinishedAt": "2026-02-16T06:27:02.8867861Z",
+    "RunTime": "2026-02-16T10:30:20.1274234Z",
+    "StartedAt": "2026-02-16T10:29:07.5144881Z",
+    "FinishedAt": "2026-02-16T10:30:20.1274208Z",
     "FaviconUrl": "images/icons/hetdepot.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Levellers - 35 years of Levelling The Land",
+        "DateString": "2026-10-18T18:00:00.0000000Z",
+        "Url": "https://www.hetdepot.be/concert/2026/levellers-35-years-of-levelling-the-land",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF00000x6cVIYAY_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=1qcvM2Q-",
+        "Location": "Het Depot, Leuven",
+        "Description": "Brighton\u2019s folkrockiconen Levellers zijn al bijna 40 jaar een vaste waarde in de Britse muziekscene."
+      }
+    ]
   },
   {
     "ScraperName": "N9Scraper",
@@ -1127,9 +1186,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:35.8920207Z",
-    "StartedAt": "2026-02-16T06:26:35.221699Z",
-    "FinishedAt": "2026-02-16T06:26:35.8920171Z",
+    "RunTime": "2026-02-16T10:29:09.9819587Z",
+    "StartedAt": "2026-02-16T10:29:07.5152962Z",
+    "FinishedAt": "2026-02-16T10:29:09.9819555Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1173,9 +1232,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:37.8487811Z",
-    "StartedAt": "2026-02-16T06:26:35.2220854Z",
-    "FinishedAt": "2026-02-16T06:26:37.8487528Z",
+    "RunTime": "2026-02-16T10:29:16.5409912Z",
+    "StartedAt": "2026-02-16T10:29:07.5159033Z",
+    "FinishedAt": "2026-02-16T10:29:16.5409655Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1229,9 +1288,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:36.6416895Z",
-    "StartedAt": "2026-02-16T06:26:35.2224776Z",
-    "FinishedAt": "2026-02-16T06:26:36.641686Z",
+    "RunTime": "2026-02-16T10:29:17.5183457Z",
+    "StartedAt": "2026-02-16T10:29:07.5165779Z",
+    "FinishedAt": "2026-02-16T10:29:17.518343Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1305,9 +1364,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:55.1264278Z",
-    "StartedAt": "2026-02-16T06:26:35.2228948Z",
-    "FinishedAt": "2026-02-16T06:26:55.1264244Z",
+    "RunTime": "2026-02-16T10:29:39.9330128Z",
+    "StartedAt": "2026-02-16T10:29:07.5173601Z",
+    "FinishedAt": "2026-02-16T10:29:39.9330103Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1363,7 +1422,7 @@
         "Year": 2026,
         "FileName": "wildewesten-06-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-06-2026.json",
-        "Hash": "3ae85c082b6aeeb50e17535fa680e09c1db3401c0af54bc0ff36f729a7401d3b",
+        "Hash": "0db3cb4e2b5839cc96edfb94557adc60592182253f57e6b15eea46b6c0daf379",
         "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
@@ -1391,9 +1450,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:28:00.8553719Z",
-    "StartedAt": "2026-02-16T06:26:35.2234661Z",
-    "FinishedAt": "2026-02-16T06:28:00.8553701Z",
+    "RunTime": "2026-02-16T10:30:55.1168358Z",
+    "StartedAt": "2026-02-16T10:29:07.5183956Z",
+    "FinishedAt": "2026-02-16T10:30:55.1168337Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1477,9 +1536,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-02-16T06:26:35.909706Z",
-    "StartedAt": "2026-02-16T06:26:35.2240952Z",
-    "FinishedAt": "2026-02-16T06:26:35.9097023Z",
+    "RunTime": "2026-02-16T10:29:08.839168Z",
+    "StartedAt": "2026-02-16T10:29:07.5191636Z",
+    "FinishedAt": "2026-02-16T10:29:08.8391658Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
