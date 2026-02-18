@@ -11,7 +11,7 @@
         "Year": 2026,
         "FileName": "ab-02-2026.json",
         "FilePath": "events/concerts/ab/ab-02-2026.json",
-        "Hash": "dd0306f1aa31ec98a9d8304ea8e2e113dba697ae71f5e9596bdcdff8b82ebc34",
+        "Hash": "0d6574ccd5bcdf60a9a9918565f3fe28b96463051e4bee09b240e91598a9ecbb",
         "EventCount": 23,
         "Status": "Success",
         "ErrorMessage": null
@@ -31,7 +31,7 @@
         "Year": 2026,
         "FileName": "ab-04-2026.json",
         "FilePath": "events/concerts/ab/ab-04-2026.json",
-        "Hash": "5ed325b82cf33a883f0e2d22d858516f9ec5f89cee94a7d42fb782193d3ec291",
+        "Hash": "0b56977022b15c648d64cd80de519267ed0fe8e87f0d434164f41cbfe5952620",
         "EventCount": 41,
         "Status": "Success",
         "ErrorMessage": null
@@ -99,18 +99,27 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:07.2208458Z",
-    "StartedAt": "2026-02-18T15:00:00.5731619Z",
-    "FinishedAt": "2026-02-18T15:00:07.220843Z",
+    "RunTime": "2026-02-18T19:00:08.5845584Z",
+    "StartedAt": "2026-02-18T19:00:00.4263471Z",
+    "FinishedAt": "2026-02-18T19:00:08.5845561Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Charles",
+        "DateString": "2026-04-09T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/charles/a10Qw00000GvHanIAF",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000GqwJeMAJ_1240x720.jpg",
+        "Location": "AB Concerts, Brussel",
+        "Description": "This concert is postponed to 08/04/2027"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 168,
+    "TotalEventsFound": 169,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -127,7 +136,7 @@
         "Year": 2026,
         "FileName": "botanique-03-2026.json",
         "FilePath": "events/concerts/botanique/botanique-03-2026.json",
-        "Hash": "4fbf7ad175bef74b0f62d6bf3679709807366618d0ec91f4916c4d03826b6593",
+        "Hash": "9f7c820195a87ab2e3bdd10b847ebd994914807ac300efe880b7b1776138819f",
         "EventCount": 60,
         "Status": "Success",
         "ErrorMessage": null
@@ -137,8 +146,8 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "ce0585a5b3dadf114353af7faa386dd3ce60a2a1d058e9c99c197094452fada3",
-        "EventCount": 55,
+        "Hash": "21c86631b11d9bf54b0ee562d131f70d2ca9dd049d6cdfa7e22b6b9b5e76b598",
+        "EventCount": 56,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -195,11 +204,28 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:26.4215842Z",
-    "StartedAt": "2026-02-18T15:00:00.5752347Z",
-    "FinishedAt": "2026-02-18T15:00:26.4215809Z",
+    "RunTime": "2026-02-18T19:00:19.4659405Z",
+    "StartedAt": "2026-02-18T19:00:00.4279795Z",
+    "FinishedAt": "2026-02-18T19:00:19.4659371Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Sorry - Jaso",
+        "DateString": "2026-03-07T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/sorry-jaso-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-09/Valerie%20June%20%288%29.png?itok=0L-yF-0I",
+        "Location": "Orangerie",
+        "Description": "Indierock met eigenzinnige popinvloeden en postpunkbeats"
+      },
+      {
+        "Title": "Nicou",
+        "DateString": "2026-04-29T00:00:00.0000000",
+        "Url": "https://botanique.be/nl/concert/nicou-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/nicou%20horizontal.png?itok=B4kHHu-V",
+        "Location": "Witloof Bar",
+        "Description": ""
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -213,7 +239,7 @@
         "Year": 2026,
         "FileName": "cactus-02-2026.json",
         "FilePath": "events/concerts/cactus/cactus-02-2026.json",
-        "Hash": "e78e087dd558901e9b6e511fe6e1a65df5625ce15efa0fb2a038431d9f2469bf",
+        "Hash": "8f2b25897d446e05cd24f4f46c767a6d056514f4ad5b36d46a4edd44661987a9",
         "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
@@ -301,9 +327,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:02.2972557Z",
-    "StartedAt": "2026-02-18T15:00:00.5762119Z",
-    "FinishedAt": "2026-02-18T15:00:02.2972518Z",
+    "RunTime": "2026-02-18T19:00:01.5995522Z",
+    "StartedAt": "2026-02-18T19:00:00.4299701Z",
+    "FinishedAt": "2026-02-18T19:00:01.5995489Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -367,9 +393,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:01:32.6693383Z",
-    "StartedAt": "2026-02-18T15:00:00.5768351Z",
-    "FinishedAt": "2026-02-18T15:01:32.6693347Z",
+    "RunTime": "2026-02-18T19:01:42.6242167Z",
+    "StartedAt": "2026-02-18T19:00:00.4307504Z",
+    "FinishedAt": "2026-02-18T19:01:42.6242133Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -463,9 +489,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:02.1455431Z",
-    "StartedAt": "2026-02-18T15:00:00.577678Z",
-    "FinishedAt": "2026-02-18T15:00:02.1455393Z",
+    "RunTime": "2026-02-18T19:00:01.3021948Z",
+    "StartedAt": "2026-02-18T19:00:00.4315888Z",
+    "FinishedAt": "2026-02-18T19:00:01.3021917Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -519,9 +545,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:03.170268Z",
-    "StartedAt": "2026-02-18T15:00:00.5783637Z",
-    "FinishedAt": "2026-02-18T15:00:03.1702514Z",
+    "RunTime": "2026-02-18T19:00:02.3323921Z",
+    "StartedAt": "2026-02-18T19:00:00.4321788Z",
+    "FinishedAt": "2026-02-18T19:00:02.3323876Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -615,9 +641,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:02.1485994Z",
-    "StartedAt": "2026-02-18T15:00:00.5790108Z",
-    "FinishedAt": "2026-02-18T15:00:02.148596Z",
+    "RunTime": "2026-02-18T19:00:01.1279337Z",
+    "StartedAt": "2026-02-18T19:00:00.4328952Z",
+    "FinishedAt": "2026-02-18T19:00:01.1279303Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -681,9 +707,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:01.9062389Z",
-    "StartedAt": "2026-02-18T15:00:00.5796664Z",
-    "FinishedAt": "2026-02-18T15:00:01.9062388Z",
+    "RunTime": "2026-02-18T19:00:01.0439665Z",
+    "StartedAt": "2026-02-18T19:00:00.4335272Z",
+    "FinishedAt": "2026-02-18T19:00:01.0439664Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -727,9 +753,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:01.911934Z",
-    "StartedAt": "2026-02-18T15:00:00.5803657Z",
-    "FinishedAt": "2026-02-18T15:00:01.9119311Z",
+    "RunTime": "2026-02-18T19:00:01.0167802Z",
+    "StartedAt": "2026-02-18T19:00:00.4344594Z",
+    "FinishedAt": "2026-02-18T19:00:01.0167765Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -823,9 +849,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:02.6544214Z",
-    "StartedAt": "2026-02-18T15:00:00.5809802Z",
-    "FinishedAt": "2026-02-18T15:00:02.6544175Z",
+    "RunTime": "2026-02-18T19:00:01.8225552Z",
+    "StartedAt": "2026-02-18T19:00:00.4354432Z",
+    "FinishedAt": "2026-02-18T19:00:01.8225519Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -871,7 +897,7 @@
         "Year": 2026,
         "FileName": "4ad-05-2026.json",
         "FilePath": "events/concerts/4ad/4ad-05-2026.json",
-        "Hash": "e81b07faae78444eadf9f01c3854399da0715101b0e6d6cc6e6295004b71ce63",
+        "Hash": "fe59a925f6a2c9c3e755c698e008a5fbccfef1861ef1968185aaa599c4da3091",
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
@@ -889,9 +915,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:02.0344944Z",
-    "StartedAt": "2026-02-18T15:00:00.581678Z",
-    "FinishedAt": "2026-02-18T15:00:02.0344917Z",
+    "RunTime": "2026-02-18T19:00:03.353208Z",
+    "StartedAt": "2026-02-18T19:00:00.4363333Z",
+    "FinishedAt": "2026-02-18T19:00:03.3532039Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -900,15 +926,15 @@
     "VenueId": "ha",
     "VenueName": "Ha Concerts, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 51,
+    "TotalEventsFound": 50,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "ha-02-2026.json",
         "FilePath": "events/concerts/ha/ha-02-2026.json",
-        "Hash": "b50e16e5c397465b9e06385f92b52e4cf4e77cd99537522ad6d04b88e77b926d",
-        "EventCount": 12,
+        "Hash": "5c880a5e068c0fb071b168c433eee5771a9f31ca1a8c1412ac966d958b91e89a",
+        "EventCount": 11,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -965,9 +991,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:10.6549699Z",
-    "StartedAt": "2026-02-18T15:00:00.5841722Z",
-    "FinishedAt": "2026-02-18T15:00:10.6549659Z",
+    "RunTime": "2026-02-18T19:00:08.7190392Z",
+    "StartedAt": "2026-02-18T19:00:00.4371065Z",
+    "FinishedAt": "2026-02-18T19:00:08.7190356Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1061,9 +1087,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:31.0383802Z",
-    "StartedAt": "2026-02-18T15:00:00.5848822Z",
-    "FinishedAt": "2026-02-18T15:00:31.0383765Z",
+    "RunTime": "2026-02-18T19:00:28.5586711Z",
+    "StartedAt": "2026-02-18T19:00:00.4378766Z",
+    "FinishedAt": "2026-02-18T19:00:28.5586675Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1127,9 +1153,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:01.9385938Z",
-    "StartedAt": "2026-02-18T15:00:00.5856172Z",
-    "FinishedAt": "2026-02-18T15:00:01.93859Z",
+    "RunTime": "2026-02-18T19:00:01.0152001Z",
+    "StartedAt": "2026-02-18T19:00:00.4388158Z",
+    "FinishedAt": "2026-02-18T19:00:01.0151969Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1173,9 +1199,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:05.7959376Z",
-    "StartedAt": "2026-02-18T15:00:00.5862712Z",
-    "FinishedAt": "2026-02-18T15:00:05.7954996Z",
+    "RunTime": "2026-02-18T19:00:05.1343198Z",
+    "StartedAt": "2026-02-18T19:00:00.4465859Z",
+    "FinishedAt": "2026-02-18T19:00:05.1343148Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1229,9 +1255,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:03.0120081Z",
-    "StartedAt": "2026-02-18T15:00:00.5868894Z",
-    "FinishedAt": "2026-02-18T15:00:03.0119943Z",
+    "RunTime": "2026-02-18T19:00:01.7986144Z",
+    "StartedAt": "2026-02-18T19:00:00.4472934Z",
+    "FinishedAt": "2026-02-18T19:00:01.7985893Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1305,9 +1331,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:25.2174566Z",
-    "StartedAt": "2026-02-18T15:00:00.5875983Z",
-    "FinishedAt": "2026-02-18T15:00:25.217453Z",
+    "RunTime": "2026-02-18T19:00:22.6392555Z",
+    "StartedAt": "2026-02-18T19:00:00.4480345Z",
+    "FinishedAt": "2026-02-18T19:00:22.6392519Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1391,9 +1417,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:01:24.8638696Z",
-    "StartedAt": "2026-02-18T15:00:00.5884916Z",
-    "FinishedAt": "2026-02-18T15:01:24.8638663Z",
+    "RunTime": "2026-02-18T19:01:29.5940024Z",
+    "StartedAt": "2026-02-18T19:00:00.4492192Z",
+    "FinishedAt": "2026-02-18T19:01:29.5939988Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1477,35 +1503,10 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-02-18T15:00:01.8966948Z",
-    "StartedAt": "2026-02-18T15:00:00.5888358Z",
-    "FinishedAt": "2026-02-18T15:00:01.8966925Z",
+    "RunTime": "2026-02-18T19:00:01.0150458Z",
+    "StartedAt": "2026-02-18T19:00:00.4502854Z",
+    "FinishedAt": "2026-02-18T19:00:01.0150424Z",
     "FaviconUrl": "images/icons/wintercircus.png",
-    "NewEvents": [
-      {
-        "Title": "Plastic Fantastic - Refurbisch Your Memories",
-        "DateString": "2026-03-12T18:00:00.0000000\u002B01:00",
-        "Url": "https://docs.google.com/forms/d/e/1FAIpQLScHsKK0By0FGBEDXAL-LBZPB2IbjyktwkrpNBBEOlznWRzkhg/viewform",
-        "ImageUrl": "https://images.uitdatabank.be/f0c47417-c621-42f6-9fed-17cdf0d9c161.png",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": ""
-      },
-      {
-        "Title": "XXL Playground \u2013 Afterwork",
-        "DateString": "2026-03-20T16:00:00.0000000",
-        "Url": "https://portal.wintercircus.be/event/xxl-playground-afterwork-558",
-        "ImageUrl": "https://portal.wintercircus.be/web/image/155085-b8a6249a/Afterwork.png",
-        "Location": "Wintercircus, Gent",
-        "Description": ""
-      },
-      {
-        "Title": "Mo\u0027 Juice X Curfew - KAMMA b2b MASALO (NL), Forbidden Fruit (live), Mo Disko b2b Nico Jui",
-        "DateString": "2026-04-18T23:00:00.0000000\u002B02:00",
-        "Url": "https://www.viernulvier.gent/nl/agenda/mo-juice-x-curfew-th7r",
-        "ImageUrl": "https://images.uitdatabank.be/ea6c1473-4ee8-41cc-9c4e-39002f69ffd5.jpeg",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": ""
-      }
-    ]
+    "NewEvents": []
   }
 ]
