@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-02-18T06:28:43.4134406Z",
-  "ValidatedAt": "2026-02-18T06:28:43.413571Z",
+  "GeneratedAt": "2026-02-19T06:01:46.5669246Z",
+  "ValidatedAt": "2026-02-19T06:01:46.5670326Z",
   "TotalScrapers": 19,
-  "TotalEvents": 1068,
-  "TotalErrors": 103,
-  "TotalWarnings": 1032,
+  "TotalEvents": 1069,
+  "TotalErrors": 104,
+  "TotalWarnings": 1034,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,53 +20,15 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "AB Concerts, Brussel",
-      "TotalEvents": 193,
+      "TotalEvents": 192,
       "ErrorCount": 0,
-      "WarningCount": 386,
+      "WarningCount": 384,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Last Train",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/last-train/a10Qw00000FmVk4IAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'AB Concerts, Brussel' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "AB Concerts, Brussel"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kin'Gongolo Kiniata",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kingongolo-kiniata/a10Qw00000AtjjVIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'AB Concerts, Brussel' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "AB Concerts, Brussel"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Vlad Holiday + zo Lief",
+          "EventTitle": "Bertrand Belin",
           "EventDate": "2026-02-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/vlad-holiday/a10Qw00000FRWcfIAH",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bertrand-belin/a10Qw000003axRGIAY",
           "Issues": [
             {
               "Field": "DateString",
@@ -83,9 +45,9 @@
           ]
         },
         {
-          "EventTitle": "Bertrand Belin",
+          "EventTitle": "Vlad Holiday + zo Lief",
           "EventDate": "2026-02-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bertrand-belin/a10Qw000003axRGIAY",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/vlad-holiday/a10Qw00000FRWcfIAH",
           "Issues": [
             {
               "Field": "DateString",
@@ -786,9 +748,9 @@
           ]
         },
         {
-          "EventTitle": "Triple bill: Maria Iskariot + Stakattak + U-Boat Malfunction",
+          "EventTitle": "Tourist",
           "EventDate": "2026-03-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/triple-bill-maria-iskariot-stakattak-u-boat-malfunction/a10Qw00000EAJ6AIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tourist/a10Qw00000AvEGcIAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -805,9 +767,9 @@
           ]
         },
         {
-          "EventTitle": "Tourist",
+          "EventTitle": "Triple bill: Maria Iskariot + Stakattak + U-Boat Malfunction",
           "EventDate": "2026-03-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tourist/a10Qw00000AvEGcIAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/triple-bill-maria-iskariot-stakattak-u-boat-malfunction/a10Qw00000EAJ6AIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -1736,7 +1698,7 @@
           ]
         },
         {
-          "EventTitle": "DEADLETTER",
+          "EventTitle": "DEADLETTER + Bleech 9:3",
           "EventDate": "2026-04-07T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/deadletter/a10Qw00000AVT82IAH",
           "Issues": [
@@ -1795,7 +1757,7 @@
         {
           "EventTitle": "Charles",
           "EventDate": "2026-04-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/charles/a10Qw00000AhvLRIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/charles/a10Qw00000GvHanIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -2211,9 +2173,9 @@
           ]
         },
         {
-          "EventTitle": "Dekker",
+          "EventTitle": "TJE",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2230,9 +2192,9 @@
           ]
         },
         {
-          "EventTitle": "TJE",
+          "EventTitle": "Dekker",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
           "Issues": [
             {
               "Field": "DateString",
@@ -3085,6 +3047,25 @@
           ]
         },
         {
+          "EventTitle": "The Dwarfs of East Agouza",
+          "EventDate": "2026-06-06T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dwarfs-of-east-agouza/a10Qw00000GDeRSIA1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-06T00:00:00.0000000"
+            },
+            {
+              "Field": "Location",
+              "Description": "Location 'AB Concerts, Brussel' matches venue name but could not be geocoded to a GPS location.",
+              "Severity": 1,
+              "ActualValue": "AB Concerts, Brussel"
+            }
+          ]
+        },
+        {
           "EventTitle": "HUMBE",
           "EventDate": "2026-06-07T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/humbe/a10Qw00000GNgwbIAD",
@@ -3698,49 +3679,11 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 167,
-      "ErrorCount": 103,
-      "WarningCount": 214,
+      "TotalEvents": 168,
+      "ErrorCount": 104,
+      "WarningCount": 215,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "ADÉS THE PLANET - ANJEES G.G",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/ades-planet-anjees-gg-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location appears to be an internal room/hall name, not a venue address: 'Rotonde'. Expected the venue name or address (e.g. 'Botanique, Brussels').",
-              "Severity": 2,
-              "ActualValue": "Rotonde"
-            }
-          ]
-        },
-        {
-          "EventTitle": "It It Anita - CESAR SUN",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/it-it-anita-cesar-sun-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Witloof Bar' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Witloof Bar"
-            }
-          ]
-        },
         {
           "EventTitle": "Wednesday - Bleary Eyed",
           "EventDate": "2026-02-19T00:00:00.0000000",
@@ -4287,9 +4230,9 @@
           ]
         },
         {
-          "EventTitle": "Sorry",
+          "EventTitle": "Sorry - Jaso",
           "EventDate": "2026-03-07T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/sorry-2026",
+          "EventUrl": "https://botanique.be/nl/concert/sorry-jaso-2026",
           "Issues": [
             {
               "Field": "DateString",
@@ -6509,6 +6452,25 @@
           ]
         },
         {
+          "EventTitle": "Nora Brown with Stephanie Coleman",
+          "EventDate": "2026-06-09T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/nora-brown-stephanie-coleman-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-09T00:00:00.0000000"
+            },
+            {
+              "Field": "Location",
+              "Description": "Location 'Witloof Bar' could not be geocoded to a GPS location and is not in the known venues list.",
+              "Severity": 1,
+              "ActualValue": "Witloof Bar"
+            }
+          ]
+        },
+        {
           "EventTitle": "Colleen",
           "EventDate": "2026-06-11T00:00:00.0000000",
           "EventUrl": "https://botanique.be/nl/concert/colleen-2026",
@@ -6699,6 +6661,25 @@
           ]
         },
         {
+          "EventTitle": "Zap Mama & K.ZIA",
+          "EventDate": "2026-10-23T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/zap-mama-kzia-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-23T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-23T00:00:00.0000000"
+            },
+            {
+              "Field": "Location",
+              "Description": "Location appears to be an internal room/hall name, not a venue address: 'Museum'. Expected the venue name or address (e.g. 'Botanique, Brussels').",
+              "Severity": 2,
+              "ActualValue": "Museum"
+            }
+          ]
+        },
+        {
           "EventTitle": "VEN1",
           "EventDate": "2026-11-06T00:00:00.0000000",
           "EventUrl": "https://botanique.be/nl/concert/ven1-2026",
@@ -6773,6 +6754,25 @@
               "ActualValue": "Museum"
             }
           ]
+        },
+        {
+          "EventTitle": "The Sheepdogs",
+          "EventDate": "2026-11-19T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/sheepdogs-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-19T00:00:00.0000000"
+            },
+            {
+              "Field": "Location",
+              "Description": "Location appears to be an internal room/hall name, not a venue address: 'Museum'. Expected the venue name or address (e.g. 'Botanique, Brussels').",
+              "Severity": 2,
+              "ActualValue": "Museum"
+            }
+          ]
         }
       ]
     },
@@ -6780,24 +6780,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 60,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Stef Kamil Carlens & The Poem",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/stef-kamil-carlens",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "SONS + Pyo",
           "EventDate": "2026-02-19T00:00:00.0000000",
@@ -6825,7 +6812,7 @@
           ]
         },
         {
-          "EventTitle": "Omar Souleyman",
+          "EventTitle": "Omar Souleyman + Warm-up/afterparty Insein Radio",
           "EventDate": "2026-02-28T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/omar-souleyman",
           "Issues": [
@@ -7533,6 +7520,32 @@
           ]
         },
         {
+          "EventTitle": "DeVotchKa",
+          "EventDate": "2026-10-18T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/devotchka",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Zap Mama & K.ZIA",
+          "EventDate": "2026-10-29T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/zap-mama-kzia",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Joan As Police Woman",
           "EventDate": "2026-11-11T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/joan-as-police-woman",
@@ -7544,6 +7557,19 @@
               "ActualValue": "2026-11-11T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Ão",
+          "EventDate": "2026-11-19T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/ao",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-19T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -7551,7 +7577,7 @@
       "ScraperId": "slh",
       "ScraperName": "slhScraper",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
-      "TotalEvents": 18,
+      "TotalEvents": 17,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7775,19 +7801,6 @@
       "WarningCount": 50,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sin City Burning / Finn",
-          "EventDate": "2026-02-18T00:00:00",
-          "EventUrl": "https://decasino.be/concert/sin-city-burning-finn/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Ænima",
           "EventDate": "2026-02-19T00:00:00",
@@ -8335,6 +8348,19 @@
           ]
         },
         {
+          "EventTitle": "DeVotchKa",
+          "EventDate": "2026-10-14T00:00:00",
+          "EventUrl": "https://decasino.be/concert/devotchka-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Siglo XX + Neon Electronics",
           "EventDate": "2026-10-24T00:00:00",
           "EventUrl": "https://decasino.be/concert/siglo-xx-neon-electronics/",
@@ -8431,24 +8457,11 @@
       "ScraperId": "steenoven",
       "ScraperName": "steenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 14,
+      "TotalEvents": 13,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 13,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Anna De Graeve, Kes Bakker & Toon Acke | HOUSEWARMING",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/anna-de-graeve-kes-bakker-and-toon-acke--housewarming?th=4007",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "ROOM13 Orchestra | There Must Be an Angel",
           "EventDate": "2026-02-20T00:00:00.0000000",
@@ -8803,9 +8816,9 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 74,
+      "TotalEvents": 76,
       "ErrorCount": 0,
-      "WarningCount": 90,
+      "WarningCount": 92,
       "Issues": [],
       "EventDetails": [
         {
@@ -8995,7 +9008,7 @@
           ]
         },
         {
-          "EventTitle": "Ertebrekers - + HONEY",
+          "EventTitle": "Ertebrekers",
           "EventDate": "2026-03-10",
           "EventUrl": "https://www.democrazy.be/agenda/3114-ertebrekers/",
           "Issues": [
@@ -9189,7 +9202,7 @@
           ]
         },
         {
-          "EventTitle": "Big Next: leather.head",
+          "EventTitle": "Big Next: leather.head - + Rimov Rimov",
           "EventDate": "2026-03-31",
           "EventUrl": "https://www.democrazy.be/agenda/3145-big-next-leather.head/",
           "Issues": [
@@ -9391,6 +9404,19 @@
               "Description": "Location 'Vlasmarkt (Charlatan, Giraf, Trefpunt, Kinky Star)' could not be geocoded to a GPS location and is not in the known venues list.",
               "Severity": 1,
               "ActualValue": "Vlasmarkt (Charlatan, Giraf, Trefpunt, Kinky Star)"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mo' Juice x Curfew: Kamma & Masalo - + Forbidden Fruit (live) + Mo Disko & Nico Juice",
+          "EventDate": "2026-04-17",
+          "EventUrl": "https://www.democrazy.be/agenda/3164-mo-juice-x-curfew-kamma-masalo/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-17"
             }
           ]
         },
@@ -9679,6 +9705,19 @@
           ]
         },
         {
+          "EventTitle": "Big Next: Bleech 9:3",
+          "EventDate": "2026-05-27",
+          "EventUrl": "https://www.democrazy.be/agenda/3157-bleech-9-3/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-27"
+            }
+          ]
+        },
+        {
           "EventTitle": "BRUIT ≤ & Kiss the Anus of a Black Cat",
           "EventDate": "2026-05-27",
           "EventUrl": "https://www.democrazy.be/agenda/3118-bruit-kiss-the-anus-of-a-black-cat/",
@@ -9882,50 +9921,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 52,
+      "TotalEvents": 50,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 50,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Workshop Endangered Animals (5+)",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/workshop-endangered-animals-5-18-02-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MONKEYBIZ (5 tot 99+)",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/monkeybiz-5-tot-99-18-02-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MONKEYBIZ (5 tot 99+)",
-          "EventDate": "2026-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/monkeybiz-5-tot-99-18-02-26-1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Bries (3+)",
           "EventDate": "2026-02-19T00:00:00.0000000",
@@ -10538,6 +10538,19 @@
           ]
         },
         {
+          "EventTitle": "Zap Mama & K.ZIA",
+          "EventDate": "2026-10-24T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/zap-mama-en-k.zia-24-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ezhel",
           "EventDate": "2026-10-27T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/ezhel-27-10-26",
@@ -10848,24 +10861,11 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 137,
+      "TotalEvents": 135,
       "ErrorCount": 0,
-      "WarningCount": 66,
+      "WarningCount": 65,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-02-18T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'HNT/Koninklijke Schouwburg, Den Haag' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "HNT/Koninklijke Schouwburg, Den Haag"
-            }
-          ]
-        },
         {
           "EventTitle": "Voor het pensioen",
           "EventDate": "2026-02-19T20:00:00.0000000",
@@ -11923,9 +11923,9 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 38,
+      "TotalEvents": 41,
       "ErrorCount": 0,
-      "WarningCount": 38,
+      "WarningCount": 41,
       "Issues": [],
       "EventDetails": [
         {
@@ -12007,7 +12007,7 @@
           ]
         },
         {
-          "EventTitle": "Liesa Van der Aa - Caramel Album Release Show",
+          "EventTitle": "Liesa Van der Aa - support: ƔAZAL",
           "EventDate": "2026-03-04T19:30:00.0000000+01:00",
           "EventUrl": "https://www.viernulvier.gent/nl/agenda/liesa-van-der-aa-fy9w",
           "Issues": [
@@ -12059,6 +12059,19 @@
           ]
         },
         {
+          "EventTitle": "Plastic Fantastic - Refurbisch Your Memories",
+          "EventDate": "2026-03-12T18:00:00.0000000+01:00",
+          "EventUrl": "https://docs.google.com/forms/d/e/1FAIpQLScHsKK0By0FGBEDXAL-LBZPB2IbjyktwkrpNBBEOlznWRzkhg/viewform",
+          "Issues": [
+            {
+              "Field": "Location",
+              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
+              "Severity": 1,
+              "ActualValue": "Wintercircus - Club, Gent"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ramones Alive",
           "EventDate": "2026-03-13T19:30:00.0000000+01:00",
           "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=502328951328&l=nl#!/addtickets",
@@ -12081,6 +12094,19 @@
               "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
               "Severity": 1,
               "ActualValue": "Wintercircus - Club, Gent"
+            }
+          ]
+        },
+        {
+          "EventTitle": "XXL Playground – Afterwork",
+          "EventDate": "2026-03-20T16:00:00.0000000",
+          "EventUrl": "https://portal.wintercircus.be/event/xxl-playground-afterwork-558",
+          "Issues": [
+            {
+              "Field": "Location",
+              "Description": "Location 'Wintercircus, Gent' matches venue name but could not be geocoded to a GPS location.",
+              "Severity": 1,
+              "ActualValue": "Wintercircus, Gent"
             }
           ]
         },
@@ -12224,6 +12250,19 @@
               "Description": "Location 'Wintercircus - Arena, Gent' matches venue name but could not be geocoded to a GPS location.",
               "Severity": 1,
               "ActualValue": "Wintercircus - Arena, Gent"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mo' Juice X Curfew - KAMMA b2b MASALO (NL), Forbidden Fruit (live), Mo Disko b2b Nico Jui",
+          "EventDate": "2026-04-18T23:00:00.0000000+02:00",
+          "EventUrl": "https://www.viernulvier.gent/nl/agenda/mo-juice-x-curfew-th7r",
+          "Issues": [
+            {
+              "Field": "Location",
+              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
+              "Severity": 1,
+              "ActualValue": "Wintercircus - Club, Gent"
             }
           ]
         },
