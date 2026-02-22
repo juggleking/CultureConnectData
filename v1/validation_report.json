@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-02-21T06:00:03.0602818Z",
-  "ValidatedAt": "2026-02-21T06:00:03.060282Z",
+  "GeneratedAt": "2026-02-22T06:00:01.9718957Z",
+  "ValidatedAt": "2026-02-22T06:00:01.9718958Z",
   "TotalScrapers": 19,
-  "TotalEvents": 1053,
+  "TotalEvents": 1043,
   "TotalErrors": 0,
-  "TotalWarnings": 621,
+  "TotalWarnings": 616,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,24 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 191,
+      "TotalEvents": 190,
       "ErrorCount": 0,
-      "WarningCount": 191,
+      "WarningCount": 190,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kim Dracula + VIOLENT VIRA",
-          "EventDate": "2026-02-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kim-dracula/a10Qw000005e1VZIAY",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Amy Macdonald + Better Joy",
           "EventDate": "2026-02-22T00:00:00.0000000",
@@ -2514,7 +2501,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 167,
+      "TotalEvents": 165,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3561,24 +3548,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 48,
+      "TotalEvents": 47,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 47,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "International EBM Day 2026",
-          "EventDate": "2026-02-21T00:00:00",
-          "EventUrl": "https://decasino.be/concert/international-ebm-day-2026/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-21T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-21T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "The Haunted Youth (try-out) + Pyo",
           "EventDate": "2026-02-22T00:00:00",
@@ -4369,19 +4343,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Nate Mercereau x Vitja Pauwels",
-          "EventDate": "2026-02-21T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/225-nate-mercereau/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-21T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-21T00:00:00"
-            }
-          ]
-        },
-        {
           "EventTitle": "Belpop Bonanza XXX",
           "EventDate": "2026-02-27T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/239-belpop-bonanza-xxx/",
@@ -4533,6 +4494,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-04-18T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ertebrekers",
+          "EventDate": "2026-04-24T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/234-ertebrekers/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-24T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-24T00:00:00"
             }
           ]
         }
@@ -5666,37 +5640,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 46,
+      "TotalEvents": 44,
       "ErrorCount": 0,
-      "WarningCount": 46,
+      "WarningCount": 44,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Liegen (6 tot 12+)",
-          "EventDate": "2026-02-21T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/liegen-6-tot-12-21-02-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Liegen (6 tot 12+)",
-          "EventDate": "2026-02-21T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/liegen-6-tot-12-21-02-26-1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Yasmine Hamdan",
           "EventDate": "2026-02-24T00:00:00.0000000",
@@ -6275,7 +6223,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 78,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6285,24 +6233,11 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 19,
+      "TotalEvents": 18,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 14,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "20 JAAR NOTMB: MEMORIAM, RECTAL SMEGMA, SERIAL BUTCHER, TOXIC SHOCK, LOATHSOME, SPEARHEAD — 21-02-2026",
-          "EventDate": "2026-02-21T18:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5126-20-jaar-notmb-memoriam-rectal-smegma-serial-butcher-toxic-shock-loathsome-spearhead/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
         {
           "EventTitle": "STUDIO VS. LIVE — 25-02-2026",
           "EventDate": "2026-02-25T19:00:00+01:00",
@@ -6554,7 +6489,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 132,
+      "TotalEvents": 131,
       "ErrorCount": 0,
       "WarningCount": 64,
       "Issues": [],
@@ -7397,7 +7332,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 51,
+      "TotalEvents": 50,
       "ErrorCount": 0,
       "WarningCount": 15,
       "Issues": [],
