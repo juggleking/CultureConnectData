@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-02-22T06:00:01.9718957Z",
-  "ValidatedAt": "2026-02-22T06:00:01.9718958Z",
+  "GeneratedAt": "2026-02-23T06:00:05.1972115Z",
+  "ValidatedAt": "2026-02-23T06:00:05.1973064Z",
   "TotalScrapers": 19,
-  "TotalEvents": 1043,
+  "TotalEvents": 1034,
   "TotalErrors": 0,
-  "TotalWarnings": 616,
+  "TotalWarnings": 466,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 190,
+      "TotalEvents": 188,
       "ErrorCount": 0,
-      "WarningCount": 190,
+      "WarningCount": 188,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Amy Macdonald + Better Joy",
-          "EventDate": "2026-02-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/amy-macdonald/a10Qw000001sKArIAM",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sonic Sessions Residency - Edition II + IM'IN, Hussein Rassim, Hala El Moussawi, DJ Prncjdg",
-          "EventDate": "2026-02-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sonic-sessions-residency-edition-ii/a10Qw00000BrR0YIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Alter Bridge + Daughtry, Sevendust",
           "EventDate": "2026-02-23T00:00:00.0000000",
@@ -2501,7 +2475,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 165,
+      "TotalEvents": 163,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3328,7 +3302,7 @@
       "VenueName": "Compagnie Cecilia, Gent",
       "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
         {
@@ -3341,12 +3315,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-02-24T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-02-24T00:00:00.0000000"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Theater Kikker (Utrecht, NL)' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Theater Kikker (Utrecht, NL)"
             }
           ]
         },
@@ -3538,7 +3506,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 46,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3548,24 +3516,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 47,
+      "TotalEvents": 46,
       "ErrorCount": 0,
-      "WarningCount": 47,
+      "WarningCount": 46,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Haunted Youth (try-out) + Pyo",
-          "EventDate": "2026-02-22T00:00:00",
-          "EventUrl": "https://decasino.be/concert/the-haunted-youth-try-out/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-22T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-22T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "De Dolfijntjes + BVBA Vandamme",
           "EventDate": "2026-02-25T00:00:00",
@@ -4339,7 +4294,7 @@
       "VenueName": "De Zwerver",
       "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 12,
       "Issues": [],
       "EventDetails": [
         {
@@ -4365,12 +4320,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-05T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-03-05T00:00:00"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Café De Zwerver' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Café De Zwerver"
             }
           ]
         },
@@ -4436,12 +4385,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-03-14T00:00:00"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Foyer De Zwerver' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Foyer De Zwerver"
             }
           ]
         },
@@ -4516,9 +4459,9 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 77,
+      "TotalEvents": 78,
       "ErrorCount": 0,
-      "WarningCount": 94,
+      "WarningCount": 79,
       "Issues": [],
       "EventDetails": [
         {
@@ -4531,12 +4474,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-02-23'.",
               "Severity": 1,
               "ActualValue": "2026-02-23"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -4563,12 +4500,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-02-24'.",
               "Severity": 1,
               "ActualValue": "2026-02-24"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -4640,12 +4571,6 @@
               "Description": "Event has no start time — only a date was scraped: '1969-12-31'.",
               "Severity": 1,
               "ActualValue": "1969-12-31"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -4672,12 +4597,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-05'.",
               "Severity": 1,
               "ActualValue": "2026-03-05"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -4717,12 +4636,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-11'.",
               "Severity": 1,
               "ActualValue": "2026-03-11"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Aula Wintercircus' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Aula Wintercircus"
             }
           ]
         },
@@ -4762,12 +4675,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-14'.",
               "Severity": 1,
               "ActualValue": "2026-03-14"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Minard Schouwburg' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Minard Schouwburg"
             }
           ]
         },
@@ -4807,12 +4714,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-18'.",
               "Severity": 1,
               "ActualValue": "2026-03-18"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Theaterzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Theaterzaal"
             }
           ]
         },
@@ -4982,12 +4883,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-07'.",
               "Severity": 1,
               "ActualValue": "2026-04-07"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Theaterzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Theaterzaal"
             }
           ]
         },
@@ -5053,12 +4948,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-15'.",
               "Severity": 1,
               "ActualValue": "2026-04-15"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -5085,12 +4974,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-16'.",
               "Severity": 1,
               "ActualValue": "2026-04-16"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -5104,12 +4987,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-17'.",
               "Severity": 1,
               "ActualValue": "2026-04-17"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Vlasmarkt (Charlatan, Giraf, Trefpunt, Kinky Star)' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Vlasmarkt (Charlatan, Giraf, Trefpunt, Kinky Star)"
             }
           ]
         },
@@ -5149,12 +5026,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-21'.",
               "Severity": 1,
               "ActualValue": "2026-04-21"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'Minard Schouwburg' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Minard Schouwburg"
             }
           ]
         },
@@ -5259,12 +5130,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-07'.",
               "Severity": 1,
               "ActualValue": "2026-05-07"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -5291,12 +5156,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-11'.",
               "Severity": 1,
               "ActualValue": "2026-05-11"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Theaterzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Theaterzaal"
             }
           ]
         },
@@ -5401,12 +5260,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-26'.",
               "Severity": 1,
               "ActualValue": "2026-05-26"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -5576,12 +5429,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
               "Severity": 1,
               "ActualValue": "2026-10-21"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location 'De Vooruit Concertzaal' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Vooruit Concertzaal"
             }
           ]
         },
@@ -5623,6 +5470,19 @@
               "ActualValue": "2026-11-11"
             }
           ]
+        },
+        {
+          "EventTitle": "Joe Jackson - HOPE AND FURY TOUR 2026",
+          "EventDate": "2026-11-23",
+          "EventUrl": "https://www.democrazy.be/agenda/3108-joe-jackson/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-23'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-23"
+            }
+          ]
         }
       ]
     },
@@ -5630,7 +5490,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 27,
+      "TotalEvents": 26,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6235,192 +6095,9 @@
       "VenueName": "N9, Eeklo",
       "TotalEvents": 18,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "STUDIO VS. LIVE — 25-02-2026",
-          "EventDate": "2026-02-25T19:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5134-studio-vs.-live/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ÃO — 27-02-2026",
-          "EventDate": "2026-02-27T20:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5146-ao/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "WORKSHOP FUZZ FACE — 04-03-2026",
-          "EventDate": "2026-03-04T19:30:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5144-workshop-fuzz-face/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FLYING HORSEMAN + AÄRON KOCH — 06-03-2026",
-          "EventDate": "2026-03-06T20:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5142-flying-horseman/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "KID CONGO & THE PINK MONKEY BIRDS + LIZ LAMERE — 10-03-2026",
-          "EventDate": "2026-03-10T20:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5131-kid-congo-the-pink-monkey-birds/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CALI AGENTS — 18-03-2026",
-          "EventDate": "2026-03-18T20:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5148-cali-agents/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GA-20 — 27-03-2026",
-          "EventDate": "2026-03-27T20:00:00+01:00",
-          "EventUrl": "https://www.n9.be/agenda/5127-ga20/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "RAVE FOR THE INTROVERTED by Nele De Gussem + HEAD ON STONE — 03-04-2026",
-          "EventDate": "2026-04-03T20:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5152-rave-for-the-introverted-by-nele-de-gussem-head-on-stone/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BAHAMADIA with The RuffCats Band and DJ Eclipse — 08-04-2026",
-          "EventDate": "2026-04-08T20:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5150-bahamadia-with-the-ruffcats-band-and-dj-eclipse/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "THE BEVIS FROND — 01-05-2026",
-          "EventDate": "2026-05-01T20:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5130-the-bevis-frond/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DEN DER HALE + GOLDEN HOURS — 08-05-2026",
-          "EventDate": "2026-05-08T20:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5138-den-der-hale-golden-hours/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MATTIAS DE CRAENE & BLACK KOYO — 30-05-2026",
-          "EventDate": "2026-05-30T20:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5129-mattias-de-craene-black-koyo/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "SCHNTZL — 05-06-2026",
-          "EventDate": "2026-06-05T20:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5136-schntzl/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'muziekclub N9' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "muziekclub N9"
-            }
-          ]
-        },
-        {
-          "EventTitle": "HET ZESDE METAAL — 21-06-2026",
-          "EventDate": "2026-06-21T19:00:00+02:00",
-          "EventUrl": "https://www.n9.be/agenda/5151-het-zesde-metaal/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Huysmanhoeve' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Huysmanhoeve"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "rivierenhof",
@@ -6489,115 +6166,11 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 131,
+      "TotalEvents": 129,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 5,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-02-22T20:15:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Schouwburg Tilburg, Tilburg' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Schouwburg Tilburg, Tilburg"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-02-24T20:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Chassé Theater, Breda' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Chassé Theater, Breda"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-02-25T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'CCHA, Hasselt' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "CCHA, Hasselt"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Honderd",
-          "EventDate": "2026-02-28T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/honderd/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Theater Vooruit, Boechout' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Theater Vooruit, Boechout"
-            }
-          ]
-        },
-        {
-          "EventTitle": "a rite of spring",
-          "EventDate": "2026-03-04T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/a-rite-of-spring/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'NTGent/Schouwburg, Gent' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "NTGent/Schouwburg, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "a rite of spring",
-          "EventDate": "2026-03-05T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/a-rite-of-spring/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'NTGent/Schouwburg, Gent' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "NTGent/Schouwburg, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "a rite of spring",
-          "EventDate": "2026-03-06T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/a-rite-of-spring/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'NTGent/Schouwburg, Gent' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "NTGent/Schouwburg, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "a rite of spring",
-          "EventDate": "2026-03-07T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/a-rite-of-spring/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'NTGent/Schouwburg, Gent' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "NTGent/Schouwburg, Gent"
-            }
-          ]
-        },
         {
           "EventTitle": "ALL TOGETHER NOW!",
           "EventDate": "2026-03-26T00:00:00.0000000",
@@ -6625,279 +6198,6 @@
           ]
         },
         {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-03T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Parktheater, Eindhoven' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Parktheater, Eindhoven"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-05T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Theater aan de Parade, Den Bosch' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Theater aan de Parade, Den Bosch"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-07T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Cultuurhuis De Werf, Aalst' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Cultuurhuis De Werf, Aalst"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-09T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Stadsschouwburg Utrecht, Utrecht' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Stadsschouwburg Utrecht, Utrecht"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-29T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Grote zaal ITA, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Grote zaal ITA, Amsterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-30T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Grote zaal ITA, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Grote zaal ITA, Amsterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voor het pensioen",
-          "EventDate": "2026-03-31T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/voor-het-pensioen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Schouwburg, Amstelveen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Schouwburg, Amstelveen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Honderd",
-          "EventDate": "2026-03-06T13:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/honderd/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location '30CC/Schouwburg, Leuven' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "30CC/Schouwburg, Leuven"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GERMAN STAATSTHEATER",
-          "EventDate": "2026-03-05T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/german-staatstheater/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'SPOT Groningen, Groningen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "SPOT Groningen, Groningen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GERMAN STAATSTHEATER",
-          "EventDate": "2026-03-13T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/german-staatstheater/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location '30CC/Schouwburg, Leuven' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "30CC/Schouwburg, Leuven"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GERMAN STAATSTHEATER",
-          "EventDate": "2026-03-18T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/german-staatstheater/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Theater Rotterdam, Rotterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Theater Rotterdam, Rotterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GERMAN STAATSTHEATER",
-          "EventDate": "2026-03-19T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/german-staatstheater/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'HNT/Koninklijke Schouwburg, Den Haag' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "HNT/Koninklijke Schouwburg, Den Haag"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GERMAN STAATSTHEATER",
-          "EventDate": "2026-03-21T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/german-staatstheater/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Grote zaal ITA, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Grote zaal ITA, Amsterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Werken en dagen",
-          "EventDate": "2026-03-05T19:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/werken-en-dagen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Adelaide Festival, Adelaide' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Adelaide Festival, Adelaide"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Werken en dagen",
-          "EventDate": "2026-03-06T19:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/werken-en-dagen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Adelaide Festival, Adelaide' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Adelaide Festival, Adelaide"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Werken en dagen",
-          "EventDate": "2026-03-07T17:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/werken-en-dagen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Adelaide Festival, Adelaide' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Adelaide Festival, Adelaide"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Werken en dagen",
-          "EventDate": "2026-03-08T15:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/werken-en-dagen/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Adelaide Festival, Adelaide' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Adelaide Festival, Adelaide"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-04-11T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Theater Rotterdam, Rotterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Theater Rotterdam, Rotterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-04-12T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Theater Rotterdam, Rotterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Theater Rotterdam, Rotterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-04-29T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'De Brakke Grond/Grote zaal, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Brakke Grond/Grote zaal, Amsterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-04-30T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'De Brakke Grond/Grote zaal, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Brakke Grond/Grote zaal, Amsterdam"
-            }
-          ]
-        },
-        {
           "EventTitle": "Alleen Verbeelding",
           "EventDate": "2026-04-03T00:00:00.0000000",
           "EventUrl": "https://toneelhuis.be/nl/programma/alleen-verbeelding/",
@@ -6907,279 +6207,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-03T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-04-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Give up, Old Ghosts!",
-          "EventDate": "2026-04-30T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/give-up-old-ghosts/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'HNT/Koninklijke Schouwburg, Den Haag' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "HNT/Koninklijke Schouwburg, Den Haag"
-            }
-          ]
-        },
-        {
-          "EventTitle": "[meeuw]",
-          "EventDate": "2026-04-27T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/meeuw/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'La Comédie de Valence, Valence' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "La Comédie de Valence, Valence"
-            }
-          ]
-        },
-        {
-          "EventTitle": "[meeuw]",
-          "EventDate": "2026-04-28T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/meeuw/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'La Comédie de Valence, Valence' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "La Comédie de Valence, Valence"
-            }
-          ]
-        },
-        {
-          "EventTitle": "[meeuw]",
-          "EventDate": "2026-04-29T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/meeuw/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'La Comédie de Valence, Valence' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "La Comédie de Valence, Valence"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Sheep Song",
-          "EventDate": "2026-04-30T19:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/the-sheep-song/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Shanghai Modern Drama Valley Theatre Festival / Daning Theatre, Shanghai' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Shanghai Modern Drama Valley Theatre Festival / Daning Theatre, Shanghai"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-05-01T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'De Brakke Grond/Grote zaal, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Brakke Grond/Grote zaal, Amsterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-05-06T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'CCHA, Hasselt' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "CCHA, Hasselt"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ALL TOGETHER NOW!",
-          "EventDate": "2026-05-21T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/all-together-now/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'HNT/Theater aan het Spui, Den Haag' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "HNT/Theater aan het Spui, Den Haag"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Give up, Old Ghosts!",
-          "EventDate": "2026-05-13T19:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/give-up-old-ghosts/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'ITA/Rabozaal, Amsterdam' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "ITA/Rabozaal, Amsterdam"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Give up, Old Ghosts!",
-          "EventDate": "2026-05-23T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/give-up-old-ghosts/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'NTGent/Schouwburg, Gent' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "NTGent/Schouwburg, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Gilles!",
-          "EventDate": "2026-05-12T19:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/gilles/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'mine/Grote zaal, Genk' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "mine/Grote zaal, Genk"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Gilles!",
-          "EventDate": "2026-05-13T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/gilles/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Cultuurhuis De Werf, Aalst' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Cultuurhuis De Werf, Aalst"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Gilles!",
-          "EventDate": "2026-05-19T20:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/gilles/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Chassé Theater, Breda' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Chassé Theater, Breda"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Gilles!",
-          "EventDate": "2026-05-28T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/gilles/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'CC Brugge/Stadsschouwburg, Brugge' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "CC Brugge/Stadsschouwburg, Brugge"
-            }
-          ]
-        },
-        {
-          "EventTitle": "[meeuw]",
-          "EventDate": "2026-05-05T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/meeuw/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'CC De Spil, Roeselare' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "CC De Spil, Roeselare"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Sheep Song",
-          "EventDate": "2026-05-01T19:30:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/the-sheep-song/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Shanghai Modern Drama Valley Theatre Festival / Daning Theatre, Shanghai' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Shanghai Modern Drama Valley Theatre Festival / Daning Theatre, Shanghai"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Sheep Song",
-          "EventDate": "2026-05-02T14:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/the-sheep-song/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Shanghai Modern Drama Valley Theatre Festival / Daning Theatre, Shanghai' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Shanghai Modern Drama Valley Theatre Festival / Daning Theatre, Shanghai"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ne Mobliez Mie",
-          "EventDate": "2026-06-11T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/ne-mobliez-mie/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Warande/Schouwburg, Turnhout' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Warande/Schouwburg, Turnhout"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ne Mobliez Mie",
-          "EventDate": "2026-06-12T20:15:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/ne-mobliez-mie/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Warande/Schouwburg, Turnhout' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Warande/Schouwburg, Turnhout"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ne Mobliez Mie",
-          "EventDate": "2026-06-20T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/ne-mobliez-mie/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location '30CC/Schouwburg, Leuven' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "30CC/Schouwburg, Leuven"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ne Mobliez Mie",
-          "EventDate": "2026-06-21T15:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/ne-mobliez-mie/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location '30CC/Schouwburg, Leuven' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "30CC/Schouwburg, Leuven"
             }
           ]
         },
@@ -7208,123 +6235,6 @@
               "ActualValue": "2026-06-07T00:00:00.0000000"
             }
           ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-16T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-17T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-20T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-21T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-22T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-23T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-24T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-27T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guernica Guernica",
-          "EventDate": "2026-10-28T20:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/guernica-guernica/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Kambala, Kambalastraat 1, Antwerpen' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Kambala, Kambalastraat 1, Antwerpen"
-            }
-          ]
         }
       ]
     },
@@ -7332,207 +6242,11 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 50,
+      "TotalEvents": 49,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "WORKSHOPREEKS DIGITALE MUZIEKPRODUCTIE",
-          "EventDate": "2026-02-26T19:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/workshopreeks-digitale-muziekproductie",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Muziekcentrum Track' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Muziekcentrum Track"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BOOTCAMP ABLETON (GEVORDERDEN)",
-          "EventDate": "2026-02-28T10:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/bootcamp-ableton-gevorderden",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Muziekcentrum Track' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Muziekcentrum Track"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MUZIEKBARBAR",
-          "EventDate": "2026-03-23T19:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/muziekbarbar-11",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wilde Westen, Kortrijk' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wilde Westen, Kortrijk"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MATINEE: REGINALD MOBLEY",
-          "EventDate": "2026-03-01T11:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/matinee-reginald-mobley",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Trail up North: RAGAZZE QUARTET + ICTUS STRING TRIO",
-          "EventDate": "2026-03-06T20:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/trail-up-north-ragazze-quartet-ictus-string-trio",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MATINEE: I SOLISTI - 'Nothing Happens, Twice'",
-          "EventDate": "2026-03-08T11:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/matinee-i-solisti-nothing-happens-twice",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        },
-        {
-          "EventTitle": "SIEM REAP",
-          "EventDate": "2026-03-12T20:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/siem-reap",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'De Kreun Café' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Kreun Café"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Matinee: Liederzeit - Die schöne Müllerin",
-          "EventDate": "2026-03-15T11:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/matinee-liederzeit-die-schone-mullerin",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ZING!",
-          "EventDate": "2026-03-17T20:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/zing",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Muziekcentrum Track' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Muziekcentrum Track"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TUTU PUOANE",
-          "EventDate": "2026-03-19T19:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/tutu-puoane",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JAZZ CATS 2026",
-          "EventDate": "2026-03-28T17:00:00+0100",
-          "EventUrl": "https://www.wildewesten.be/nl/event/jazz-cats-2026",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Muziekcentrum Track &amp; De Kreun' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Muziekcentrum Track &amp; De Kreun"
-            }
-          ]
-        },
-        {
-          "EventTitle": "NENIA - REVUE BLANCHE",
-          "EventDate": "2026-04-03T20:00:00+0200",
-          "EventUrl": "https://www.wildewesten.be/nl/event/nenia-revue-blanche",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BRENNT VANNESTE",
-          "EventDate": "2026-05-07T19:00:00+0200",
-          "EventUrl": "https://www.wildewesten.be/nl/event/brennt-vanneste",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'De Kreun Café' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Kreun Café"
-            }
-          ]
-        },
-        {
-          "EventTitle": "SCOTT MCCLOUD",
-          "EventDate": "2026-05-08T19:00:00+0200",
-          "EventUrl": "https://www.wildewesten.be/nl/event/scott-mccloud",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'De Kreun Café' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "De Kreun Café"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MATINEE: VICE VERSA",
-          "EventDate": "2026-05-10T11:00:00+0200",
-          "EventUrl": "https://www.wildewesten.be/nl/event/matinee-vice-versa",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Concertstudio' could not be geocoded to a GPS location and is not in the known venues list.",
-              "Severity": 1,
-              "ActualValue": "Concertstudio"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "wintercircus",
@@ -7540,543 +6254,9 @@
       "VenueName": "Wintercircus, Gent",
       "TotalEvents": 41,
       "ErrorCount": 0,
-      "WarningCount": 41,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "1 Jaar Wintercircus",
-          "EventDate": "2025-09-03T11:00:00.0000000+02:00",
-          "EventUrl": "https://www.wintercircus.be/nl/events/1-year-wintercircus",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Arena, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Arena, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Museumnacht in Wintercircus Gent: Lost in diffusion",
-          "EventDate": "2025-12-04T19:00:00.0000000+01:00",
-          "EventUrl": "https://www.wintercircus.be/nl/events/museum-night-with-design-museum-ghent",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Arena, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Arena, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "PlaygroundLAB",
-          "EventDate": "2026-02-14T14:00:00.0000000+01:00",
-          "EventUrl": "https://kopergietery.be/nl/productie/playgroundlab",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Full Circle Ghent",
-          "EventDate": "2026-02-20T20:00:00.0000000+01:00",
-          "EventUrl": "https://full-circle.be/ghent",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Paint&Sip @ Bar Bougie",
-          "EventDate": "2026-02-27T20:00:00.0000000+01:00",
-          "EventUrl": "https://www.pigmentpaintandsip.be/product/pigment-x-bar-bougie-wintercircus-27-02/",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Bar, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Bar, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CLUB LAAT: dj g2g - + LOV b2b rostgoed + hennie imogen b2b Rotbrijn",
-          "EventDate": "2026-02-28T23:00:00.0000000+01:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/club-laat-dj-g2g-nyqs",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Liesa Van der Aa - support: YAZAL",
-          "EventDate": "2026-03-04T19:30:00.0000000+01:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/liesa-van-der-aa-fy9w",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stimular invites Gabber Eleganza - + Klakmatrak (New Live Show) & more",
-          "EventDate": "2026-03-06T23:00:00.0000000+01:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/stimular-invites-gabber-eleganza-5jfs",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ligconcert met Mattias Devriendt",
-          "EventDate": "2026-03-08T18:30:00.0000000",
-          "EventUrl": "https://portal.wintercircus.be/event/ligconcert-met-mattias-devriendt-487",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Plastic Fantastic - Refurbisch Your Memories",
-          "EventDate": "2026-03-12T18:00:00.0000000+01:00",
-          "EventUrl": "https://docs.google.com/forms/d/e/1FAIpQLScHsKK0By0FGBEDXAL-LBZPB2IbjyktwkrpNBBEOlznWRzkhg/viewform",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ramones Alive",
-          "EventDate": "2026-03-13T19:30:00.0000000+01:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=502328951328&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Keith Caputo",
-          "EventDate": "2026-03-17T19:30:00.0000000+01:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=614960828300&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "XXL Playground – Afterwork",
-          "EventDate": "2026-03-20T16:00:00.0000000",
-          "EventUrl": "https://portal.wintercircus.be/event/xxl-playground-afterwork-558",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "XXL Playground: Balls & Beats",
-          "EventDate": "2026-03-20T18:00:00.0000000+01:00",
-          "EventUrl": "https://www.wintercircus.be/nl/events/xxl-playground-balls-and-beats",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Arena, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Arena, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lippstick - it's a spring fling",
-          "EventDate": "2026-03-20T22:00:00.0000000+01:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/lippstick-flcg",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ghost Funk Orchestra + Amaea Rae",
-          "EventDate": "2026-03-22T19:30:00.0000000+01:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=608960334240&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "schntzl - Album Release Show",
-          "EventDate": "2026-03-26T19:30:00.0000000+01:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/schntzl-qln3",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CLUB LAAT: Blauwdruk & THIRDFLOOR - Line-up TBA",
-          "EventDate": "2026-03-28T23:00:00.0000000+01:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/club-laat-blauwdruk-and-thirdfloor-679w",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tramhaus + The Rats",
-          "EventDate": "2026-03-29T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=136363343892&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LUNA",
-          "EventDate": "2026-04-02T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=527165829624&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Perfect Tool",
-          "EventDate": "2026-04-09T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=299655917241&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "10 Years GANK - w/ Rødhåd, Beste Hira, KADANS",
-          "EventDate": "2026-04-10T23:00:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/10-years-gank-b89x",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Rival Consoles - Support: sasja",
-          "EventDate": "2026-04-16T19:30:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/rival-consoles-6rvh",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Quizfabriek @ Wintercircus",
-          "EventDate": "2026-04-17T22:00:00.0000000+02:00",
-          "EventUrl": "https://www.wintercircus.be/nl/events/quizfabriek-wintercircus",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Arena, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Arena, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mo' Juice X Curfew - Kamma b2b Masalo (NL), Forbidden Fruit (live), Mo Disko b2b Nico Jui",
-          "EventDate": "2026-04-18T23:00:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/mo-juice-x-curfew-th7r",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lila Iké x Wurl Sound - + Soul Shakers + Da Foxy Momaz",
-          "EventDate": "2026-04-24T21:00:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/lila-ike-x-wurl-sound-8p1f",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bongeziwe Mabandla",
-          "EventDate": "2026-04-26T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=755631159155&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nosedrip & Victor Verhelst - Gossamer - all-nighter A/V Show",
-          "EventDate": "2026-04-30T23:00:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/nosedrip-and-victor-verhelst-ymc7",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lie-down concert with Mattias Devriendt",
-          "EventDate": "2026-05-03T18:30:00.0000000",
-          "EventUrl": "https://portal.wintercircus.be/event/lie-down-concert-with-mattias-devriendt-542",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CESAR SUN ALBUM RELEASE + Wijf + JUNKYARDPOOL + Sad Boys Klub",
-          "EventDate": "2026-05-07T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=509289306492&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "SNOR",
-          "EventDate": "2026-05-11T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=366160989584&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lucrecia Dalt",
-          "EventDate": "2026-05-12T19:30:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/lucrecia-dalt-1zck",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "sor",
-          "EventDate": "2026-05-14T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=494166437093&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Meg Stuart and Doug Weiss - All the Way Around",
-          "EventDate": "2026-05-20T20:00:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/meg-stuart-and-doug-weiss-lx8x",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JOHN 5",
-          "EventDate": "2026-05-22T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=685411592335&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fokofpolisiekar + Die Heuwels Fantasties",
-          "EventDate": "2026-05-23T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=195314208702&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BRUIT≤ / Kiss The Anus Of The Black Cat",
-          "EventDate": "2026-05-28T19:30:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/bruit-kiss-the-anus-of-the-black-cat-nj98",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dijf Sanders & Segers",
-          "EventDate": "2026-05-29T19:30:00.0000000+02:00",
-          "EventUrl": "https://www.viernulvier.gent/nl/agenda/dijf-sanders-and-segers-qg1v",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Puggy",
-          "EventDate": "2026-05-30T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=956791814386&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nebula",
-          "EventDate": "2026-05-31T19:30:00.0000000+02:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=237855417288&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Iskander Moon",
-          "EventDate": "2026-11-05T19:30:00.0000000+01:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=659192255267&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Location",
-              "Description": "Location 'Wintercircus - Club, Gent' matches venue name but could not be geocoded to a GPS location.",
-              "Severity": 1,
-              "ActualValue": "Wintercircus - Club, Gent"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     }
   ]
 }
