@@ -99,51 +99,168 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:19.1498449Z",
-    "StartedAt": "2026-02-23T15:00:01.2608125Z",
-    "FinishedAt": "2026-02-23T15:00:19.1498414Z",
+    "RunTime": "2026-02-23T19:00:09.5299002Z",
+    "StartedAt": "2026-02-23T19:00:02.0821092Z",
+    "FinishedAt": "2026-02-23T19:00:09.5298965Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": [
-      {
-        "Title": "Nnelg",
-        "DateString": "2026-05-29T00:00:00.0000000",
-        "Url": "https://www.abconcerts.be/en/agenda/nnelg/a10Qw00000ELUEMIA5",
-        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000LXKALMA5_1240x720.jpg",
-        "Location": "AB Concerts, Brussels",
-        "Description": "Dutch-language rap with honest stories about family, roots and self-love",
-        "Room": "",
-        "Address": "Anspachlaan 110, 1000 Brussel",
-        "Latitude": "50.8473",
-        "Longitude": "4.3488"
-      },
-      {
-        "Title": "Guido Belcanto: Paviljoen Der Menselijke Driften - albumpremi\u00E8re \u002B The Bonnie Blues",
-        "DateString": "2026-10-10T00:00:00.0000000",
-        "Url": "https://www.abconcerts.be/en/agenda/guido-belcanto-paviljoen-der-menselijke-driften-albumpremiere/a10Qw00000GuP49IAF",
-        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000LUkFqMAL_1240x720.jpg",
-        "Location": "AB Concerts, Brussels",
-        "Description": "The Emperor of the Song of Life presents a brand new album with a sly tribute to the Singer Without a Name.",
-        "Room": "",
-        "Address": "Anspachlaan 110, 1000 Brussel",
-        "Latitude": "50.8473",
-        "Longitude": "4.3488"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 0,
-    "MonthlyFiles": [],
+    "TotalEventsFound": 164,
+    "MonthlyFiles": [
+      {
+        "Month": 2,
+        "Year": 2026,
+        "FileName": "botanique-02-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-02-2026.json",
+        "Hash": "349fa95cb058245c273543d70f8120d56ceb266f94503fa79c401eef937677ea",
+        "EventCount": 8,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 3,
+        "Year": 2026,
+        "FileName": "botanique-03-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-03-2026.json",
+        "Hash": "7a62d42f125b8fe08bd1862f63c57697749362162ee9c377baa6febc433819de",
+        "EventCount": 60,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 4,
+        "Year": 2026,
+        "FileName": "botanique-04-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-04-2026.json",
+        "Hash": "64906a3a30561f108d2737b739ce12629b4e8ddfa78b1d700574ea7335895494",
+        "EventCount": 58,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 5,
+        "Year": 2026,
+        "FileName": "botanique-05-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-05-2026.json",
+        "Hash": "9f9c32129ae415e32dacd8e5cff41f9234a99464dbd772a2ab359c6ea9faf21a",
+        "EventCount": 19,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 6,
+        "Year": 2026,
+        "FileName": "botanique-06-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-06-2026.json",
+        "Hash": "7cce286b2e89ec2cb5ed5346672b61a5985cebcfbb75e32681cb35ab26d1a8dd",
+        "EventCount": 5,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 9,
+        "Year": 2026,
+        "FileName": "botanique-09-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-09-2026.json",
+        "Hash": "3e2ce14a6d89a28d8870025f798de7fc1420bb4cf201870a792adcc063f62ac9",
+        "EventCount": 5,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 10,
+        "Year": 2026,
+        "FileName": "botanique-10-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-10-2026.json",
+        "Hash": "9f7a6bb11f30ae0658569f655974017793b0ee1822a90ae33653d29bc3cb3c04",
+        "EventCount": 4,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 11,
+        "Year": 2026,
+        "FileName": "botanique-11-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-11-2026.json",
+        "Hash": "ef1b4c6e15feb4527eb7f5a98066df2e128e57aade712217f967fc286f4de9f5",
+        "EventCount": 5,
+        "Status": "Success",
+        "ErrorMessage": null
+      }
+    ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:01:02.8440928Z",
-    "StartedAt": "2026-02-23T15:00:01.261818Z",
-    "FinishedAt": "2026-02-23T15:01:02.844089Z",
+    "RunTime": "2026-02-23T19:00:05.9934633Z",
+    "StartedAt": "2026-02-23T19:00:02.0828322Z",
+    "FinishedAt": "2026-02-23T19:00:05.9934608Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Tei Shi - Usi Es",
+        "DateString": "2026-02-24T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/tei-shi-usi-es-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-08/f0b74e82_copy_of_lead_press_image_1.jpeg?itok=UkBJQ6Vc",
+        "Location": "Botanique, Brussels",
+        "Description": "Mix van electro-pop, r\u0026b en ballades in het Engels en het Spaans | Gratis show voor Bota\u2019Carte houders!",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Sam Quealy - Azizam",
+        "DateString": "2026-02-25T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/sam-quealy-azizam-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-11/250713_SAMQUEALY_06_MV_0569%20%281%29.jpg?itok=x9g3kaix",
+        "Location": "Botanique, Brussels",
+        "Description": "Australisch popicoon dat in Parijs woont, combineert disco, electro en futuristische glamour in een concentraat van energie en stijl",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Cyra Gwynth - Loyk",
+        "DateString": "2026-02-27T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/cyra-gwynth-loyk-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-12/5191A3FB-8AB3-4252-9A47-08EA2982913A%20%281%29.jpg?itok=V02v5HLP",
+        "Location": "Botanique, Brussels",
+        "Description": "Release | Belgisch-Filipijnse-Nederlandse stem die moderne r\u0026b opnieuw uitvindt",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Ebony - Monicashflow (dj-set)",
+        "DateString": "2026-03-17T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/ebony-monicashflow-dj-set-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-12/ebony_wng0297-1.jpg?itok=92UkWuhl",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Gut Model",
+        "DateString": "2026-04-03T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/gut-model-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/GMpress2.jpg?itok=-rn9H457",
+        "Location": "Botanique, Brussels",
+        "Description": "Release |",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -245,9 +362,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:04.107363Z",
-    "StartedAt": "2026-02-23T15:00:01.262447Z",
-    "FinishedAt": "2026-02-23T15:00:04.1073588Z",
+    "RunTime": "2026-02-23T19:00:03.2714041Z",
+    "StartedAt": "2026-02-23T19:00:02.0830967Z",
+    "FinishedAt": "2026-02-23T19:00:03.2713999Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -311,9 +428,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:02:01.6474996Z",
-    "StartedAt": "2026-02-23T15:00:01.2626244Z",
-    "FinishedAt": "2026-02-23T15:02:01.6474946Z",
+    "RunTime": "2026-02-23T19:01:41.5104094Z",
+    "StartedAt": "2026-02-23T19:00:02.0832712Z",
+    "FinishedAt": "2026-02-23T19:01:41.5104058Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -407,24 +524,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:04.6267446Z",
-    "StartedAt": "2026-02-23T15:00:01.2639261Z",
-    "FinishedAt": "2026-02-23T15:00:04.626742Z",
+    "RunTime": "2026-02-23T19:00:03.2763411Z",
+    "StartedAt": "2026-02-23T19:00:02.0834875Z",
+    "FinishedAt": "2026-02-23T19:00:03.2763364Z",
     "FaviconUrl": "images/icons/decasino.svg",
-    "NewEvents": [
-      {
-        "Title": "Geoff Tate",
-        "DateString": "2026-11-27T00:00:00",
-        "Url": "https://decasino.be/concert/geoff-tate/",
-        "ImageUrl": "",
-        "Location": "De Casino",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.1692",
-        "Longitude": "4.1422"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeKluizeScraper",
@@ -476,9 +580,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:05.3169383Z",
-    "StartedAt": "2026-02-23T15:00:01.2644428Z",
-    "FinishedAt": "2026-02-23T15:00:05.3169327Z",
+    "RunTime": "2026-02-23T19:00:03.960844Z",
+    "StartedAt": "2026-02-23T19:00:02.0836622Z",
+    "FinishedAt": "2026-02-23T19:00:03.9608387Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -572,24 +676,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:03.7473287Z",
-    "StartedAt": "2026-02-23T15:00:01.2647001Z",
-    "FinishedAt": "2026-02-23T15:00:03.747323Z",
+    "RunTime": "2026-02-23T19:00:03.3333798Z",
+    "StartedAt": "2026-02-23T19:00:02.0838727Z",
+    "FinishedAt": "2026-02-23T19:00:03.3333741Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": [
-      {
-        "Title": "Oliver Symons (Bazart/Warhola)",
-        "DateString": "2026-05-26",
-        "Url": "https://www.democrazy.be/agenda/3162-oliver-symons/",
-        "ImageUrl": "https://www.democrazy.be/media/thumb/35360-oliver-symons-2026-_-credits-b0b-jeusette.jpg",
-        "Location": "Club Wintercircus",
-        "Description": "Melancholie botst op filmische productie en hedendaagse pop.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.048693",
-        "Longitude": "3.728346299999999"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeSteenovenScraper",
@@ -651,9 +742,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:03.400117Z",
-    "StartedAt": "2026-02-23T15:00:01.2653294Z",
-    "FinishedAt": "2026-02-23T15:00:03.4001149Z",
+    "RunTime": "2026-02-23T19:00:03.0626632Z",
+    "StartedAt": "2026-02-23T19:00:02.0841117Z",
+    "FinishedAt": "2026-02-23T19:00:03.0626612Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -697,9 +788,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:05.5755885Z",
-    "StartedAt": "2026-02-23T15:00:01.2658916Z",
-    "FinishedAt": "2026-02-23T15:00:05.5755828Z",
+    "RunTime": "2026-02-23T19:00:02.9516225Z",
+    "StartedAt": "2026-02-23T19:00:02.084346Z",
+    "FinishedAt": "2026-02-23T19:00:02.9516176Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -793,9 +884,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:04.5255958Z",
-    "StartedAt": "2026-02-23T15:00:01.2664591Z",
-    "FinishedAt": "2026-02-23T15:00:04.5255804Z",
+    "RunTime": "2026-02-23T19:00:03.8605877Z",
+    "StartedAt": "2026-02-23T19:00:02.0845119Z",
+    "FinishedAt": "2026-02-23T19:00:03.8605836Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -849,9 +940,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:03.8341349Z",
-    "StartedAt": "2026-02-23T15:00:01.2666545Z",
-    "FinishedAt": "2026-02-23T15:00:03.8341185Z",
+    "RunTime": "2026-02-23T19:00:03.208776Z",
+    "StartedAt": "2026-02-23T19:00:02.0847455Z",
+    "FinishedAt": "2026-02-23T19:00:03.2087707Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -925,9 +1016,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:13.5784268Z",
-    "StartedAt": "2026-02-23T15:00:01.267322Z",
-    "FinishedAt": "2026-02-23T15:00:13.5784231Z",
+    "RunTime": "2026-02-23T19:00:08.2276997Z",
+    "StartedAt": "2026-02-23T19:00:02.0849688Z",
+    "FinishedAt": "2026-02-23T19:00:08.2276953Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1021,9 +1112,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:01:00.470767Z",
-    "StartedAt": "2026-02-23T15:00:01.2674144Z",
-    "FinishedAt": "2026-02-23T15:01:00.4707631Z",
+    "RunTime": "2026-02-23T19:00:28.506606Z",
+    "StartedAt": "2026-02-23T19:00:02.0852417Z",
+    "FinishedAt": "2026-02-23T19:00:28.5066021Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1087,9 +1178,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:12.3052959Z",
-    "StartedAt": "2026-02-23T15:00:01.2691285Z",
-    "FinishedAt": "2026-02-23T15:00:12.3052903Z",
+    "RunTime": "2026-02-23T19:00:02.9741777Z",
+    "StartedAt": "2026-02-23T19:00:02.0854663Z",
+    "FinishedAt": "2026-02-23T19:00:02.9741728Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1123,9 +1214,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:10.5903054Z",
-    "StartedAt": "2026-02-23T15:00:01.2693351Z",
-    "FinishedAt": "2026-02-23T15:00:10.58982Z",
+    "RunTime": "2026-02-23T19:00:04.9583856Z",
+    "StartedAt": "2026-02-23T19:00:02.0856707Z",
+    "FinishedAt": "2026-02-23T19:00:04.9583797Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1161,7 +1252,7 @@
         "Year": 2026,
         "FileName": "slh-04-2026.json",
         "FilePath": "events/concerts/slh/slh-04-2026.json",
-        "Hash": "db14b0d9ebe4631313226e2648c1b5ed544219fdccf6d643a74878a348a9431d",
+        "Hash": "0eff4bf543ace57bd797c3af7245c3de9104d2be8ac4a32be4abbeeaca2a996c",
         "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
@@ -1179,9 +1270,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:05.9083701Z",
-    "StartedAt": "2026-02-23T15:00:01.269476Z",
-    "FinishedAt": "2026-02-23T15:00:05.9083645Z",
+    "RunTime": "2026-02-23T19:00:04.053122Z",
+    "StartedAt": "2026-02-23T19:00:02.0858419Z",
+    "FinishedAt": "2026-02-23T19:00:04.0531004Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1255,9 +1346,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:53.6395786Z",
-    "StartedAt": "2026-02-23T15:00:01.2703531Z",
-    "FinishedAt": "2026-02-23T15:00:53.639557Z",
+    "RunTime": "2026-02-23T19:00:22.0511388Z",
+    "StartedAt": "2026-02-23T19:00:02.0860785Z",
+    "FinishedAt": "2026-02-23T19:00:22.0511346Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1273,7 +1364,7 @@
         "Year": 2026,
         "FileName": "wildewesten-03-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-03-2026.json",
-        "Hash": "e54d418666e54ca23c116390b9f3904f1e95b5610516e81600dad834345e60e6",
+        "Hash": "b0ab4f55557ed7371268c28f819640ea4fb6de411045d683b445963c0668f8ee",
         "EventCount": 21,
         "Status": "Success",
         "ErrorMessage": null
@@ -1283,7 +1374,7 @@
         "Year": 2026,
         "FileName": "wildewesten-02-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-02-2026.json",
-        "Hash": "d3c625ae026f94de5849cae8e0ace94ac20f4e282db3cb87bdcaca5c357ccc28",
+        "Hash": "9ebb8c43429ad7fec979acd93a394e89fc79ba8f22dabc1ded2870fea41aae74",
         "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
@@ -1341,9 +1432,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:01:37.9045433Z",
-    "StartedAt": "2026-02-23T15:00:01.2711931Z",
-    "FinishedAt": "2026-02-23T15:01:37.903969Z",
+    "RunTime": "2026-02-23T19:01:25.9285933Z",
+    "StartedAt": "2026-02-23T19:00:02.086364Z",
+    "FinishedAt": "2026-02-23T19:01:25.928589Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1437,23 +1528,10 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-02-23T15:00:03.4103676Z",
-    "StartedAt": "2026-02-23T15:00:01.2713731Z",
-    "FinishedAt": "2026-02-23T15:00:03.4103647Z",
+    "RunTime": "2026-02-23T19:00:02.8240088Z",
+    "StartedAt": "2026-02-23T19:00:02.0866337Z",
+    "FinishedAt": "2026-02-23T19:00:02.8240049Z",
     "FaviconUrl": "images/icons/wintercircus.png",
-    "NewEvents": [
-      {
-        "Title": "Laibach",
-        "DateString": "2026-10-04T19:30:00.0000000\u002B02:00",
-        "Url": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=665014143294\u0026l=nl#!/addtickets",
-        "ImageUrl": "https://images.uitdatabank.be/043fd311-42df-464b-93dc-e7df57832c82.jpeg",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.048693",
-        "Longitude": "3.728346299999999"
-      }
-    ]
+    "NewEvents": []
   }
 ]
