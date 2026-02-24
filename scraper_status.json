@@ -4,14 +4,14 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 189,
+    "TotalEventsFound": 191,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "ab-02-2026.json",
         "FilePath": "events/concerts/ab/ab-02-2026.json",
-        "Hash": "a7fc0c4686fe9edea89aa57f2b38ac33278132d9809774cc8dee3f3c3473da17",
+        "Hash": "e6939443146123c7a9ae404e479fc1badfa10a1a2a08a1aed3ac175dbafe7674",
         "EventCount": 11,
         "Status": "Success",
         "ErrorMessage": null
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "26453e0c0d1cc39d30e5462a1c9c7615bd0173c5eb1dc55ed78582c8e87f1749",
+        "Hash": "306b76670d51588987c805bf5b20548fdc8a565edd940b804fc76c1ca452ed79",
         "EventCount": 63,
         "Status": "Success",
         "ErrorMessage": null
@@ -31,7 +31,7 @@
         "Year": 2026,
         "FileName": "ab-04-2026.json",
         "FilePath": "events/concerts/ab/ab-04-2026.json",
-        "Hash": "28828d05f362463d140b3112da266ae61b1f5dbf562ac3de8ba5f0729376985f",
+        "Hash": "ba27a4d00acccbeb02d7e31b5914fd60c8729db95738191f36c4c1b1b620dc4f",
         "EventCount": 42,
         "Status": "Success",
         "ErrorMessage": null
@@ -51,8 +51,8 @@
         "Year": 2026,
         "FileName": "ab-06-2026.json",
         "FilePath": "events/concerts/ab/ab-06-2026.json",
-        "Hash": "7f28ee08ab5921b70862de96e1ef7a9206da511b695176b0caf3d1f374191d1e",
-        "EventCount": 16,
+        "Hash": "78e60f107d2e6d8e281b02805947599afe5a317a1d8742c96c8d5c7c08339054",
+        "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -91,19 +91,44 @@
         "Year": 2026,
         "FileName": "ab-11-2026.json",
         "FilePath": "events/concerts/ab/ab-11-2026.json",
-        "Hash": "453c7f8bb472dcc400063a9f3c87c18517041c5e2bfb4e8df4a5270013413ea0",
-        "EventCount": 6,
+        "Hash": "336da7acf8a03ac9d50ec82b24f6fc52f65b1f89b7b268d49c27198dbfbba58b",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:10.897597Z",
-    "StartedAt": "2026-02-24T07:00:00.3357115Z",
-    "FinishedAt": "2026-02-24T07:00:10.8975891Z",
+    "RunTime": "2026-02-24T11:00:12.8826512Z",
+    "StartedAt": "2026-02-24T11:00:01.631161Z",
+    "FinishedAt": "2026-02-24T11:00:12.8826489Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "George Thorogood \u0026 the Destroyers",
+        "DateString": "2026-06-21T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/george-thorogood-the-destroyers/a10Qw00000FXyHhIAL",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000La53YMAR_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "The Baddest Show On Earth Tour",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      },
+      {
+        "Title": "Davina Michelle",
+        "DateString": "2026-11-03T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/davina-michelle/a10Qw00000GcHoEIAV",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000LbAltMAF_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Afterparty Tour",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
@@ -127,7 +152,7 @@
         "Year": 2026,
         "FileName": "botanique-03-2026.json",
         "FilePath": "events/concerts/botanique/botanique-03-2026.json",
-        "Hash": "7a62d42f125b8fe08bd1862f63c57697749362162ee9c377baa6febc433819de",
+        "Hash": "a1cb1e4fee938723fac3a208be4b10319d10f806d92b60e3b2373728109f6e57",
         "EventCount": 60,
         "Status": "Success",
         "ErrorMessage": null
@@ -147,7 +172,7 @@
         "Year": 2026,
         "FileName": "botanique-05-2026.json",
         "FilePath": "events/concerts/botanique/botanique-05-2026.json",
-        "Hash": "9f9c32129ae415e32dacd8e5cff41f9234a99464dbd772a2ab359c6ea9faf21a",
+        "Hash": "90c4b5fba9a55f9a975e560ce3b0d2e3577921b8257a5e8be4802dbd7f6c5b7f",
         "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
@@ -195,11 +220,48 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:06.9129339Z",
-    "StartedAt": "2026-02-24T07:00:00.3363627Z",
-    "FinishedAt": "2026-02-24T07:00:06.9129256Z",
+    "RunTime": "2026-02-24T11:00:38.6633033Z",
+    "StartedAt": "2026-02-24T11:00:01.8476802Z",
+    "FinishedAt": "2026-02-24T11:00:38.6633008Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Amanda Bergman - Dylan Cox",
+        "DateString": "2026-03-06T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/amanda-bergman-dylan-cox-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-11/Amanda%20Bergman%20photo_CREDIT%20Julia%20M%C3%A5rd_square.jpg?itok=nMkw8jYR",
+        "Location": "Botanique, Brussels",
+        "Description": "Lichtgevende en melancholische Scandinavische folk, tussen ineenstorting en wedergeboorte",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Dominique Fils-Aim\u00E9 - Amaea Rae",
+        "DateString": "2026-03-31T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/dominique-fils-aime-amaea-rae-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-12/DFA%20Press%20photo%2002_credit%20Vladim%20Vilain.jpg?itok=gDlg4gW3",
+        "Location": "Botanique, Brussels",
+        "Description": "Een krachtige en verfijnde stem voor elegante en levendige soul",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Public Image Ltd. - The Jacques",
+        "DateString": "2026-05-03T17:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/public-image-ltd-jacques-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-11/PIL%202025-2190.jpg?itok=NrmCUo7W",
+        "Location": "Botanique, Brussels",
+        "Description": "Onder leiding van John Lydon combineert PiL post-punk, dub en geluidsexperimenten in een avant-gardistische groove",
+        "Room": "Orangerie",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -243,7 +305,7 @@
         "Year": 2026,
         "FileName": "cactus-05-2026.json",
         "FilePath": "events/concerts/cactus/cactus-05-2026.json",
-        "Hash": "24c239cc97b778951cf7e22bea4d4dd393e6a77b15af542121ef25d02cedd7fe",
+        "Hash": "b685ed6730d2708f351dfa6788864dbda3be89c138730118eb35e60b600bcab6",
         "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
@@ -301,9 +363,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:02.0099211Z",
-    "StartedAt": "2026-02-24T07:00:00.3366608Z",
-    "FinishedAt": "2026-02-24T07:00:02.0099124Z",
+    "RunTime": "2026-02-24T11:00:04.1082027Z",
+    "StartedAt": "2026-02-24T11:00:01.8479979Z",
+    "FinishedAt": "2026-02-24T11:00:04.1078047Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -312,14 +374,14 @@
     "VenueId": "cecilia",
     "VenueName": "Compagnie Cecilia, Gent",
     "Category": "Theatre",
-    "TotalEventsFound": 15,
+    "TotalEventsFound": 17,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "cecilia-02-2026.json",
         "FilePath": "events/theatre/cecilia/cecilia-02-2026.json",
-        "Hash": "9e84f7e75b97fb4ee922d0630ad76d32328b5f4d5ac793325f4a172943a4aab8",
+        "Hash": "33d3dca9e0540757f8474033b1f9d1bf5c7befa0d7b1a53e129ae0c3cc044981",
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
@@ -349,8 +411,8 @@
         "Year": 2026,
         "FileName": "cecilia-05-2026.json",
         "FilePath": "events/theatre/cecilia/cecilia-05-2026.json",
-        "Hash": "91f9905c0dc10081b638d0a86a97f10bdb463ac98d6e0c345d0af239c5440945",
-        "EventCount": 2,
+        "Hash": "8a334892b97309c16839a0d426bfdfa7a946b23e784012e746aa652cf5881877",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -359,19 +421,44 @@
         "Year": 2026,
         "FileName": "cecilia-06-2026.json",
         "FilePath": "events/theatre/cecilia/cecilia-06-2026.json",
-        "Hash": "8675bb71e13eee003b508399dca9a54345e6310c6c2d760b8e6307805db0323b",
-        "EventCount": 2,
+        "Hash": "5f90d12847470cb7e7138363aba75ba440a481f4e22da33dff14f4cc3700267c",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:01:09.775467Z",
-    "StartedAt": "2026-02-24T07:00:00.3368908Z",
-    "FinishedAt": "2026-02-24T07:01:09.7754398Z",
+    "RunTime": "2026-02-24T11:01:26.0143681Z",
+    "StartedAt": "2026-02-24T11:00:01.8481188Z",
+    "FinishedAt": "2026-02-24T11:01:26.0143648Z",
     "FaviconUrl": "images/icons/cecilia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Liefde is van hout",
+        "DateString": "2026-05-13T00:00:00.0000000",
+        "Url": "https://compagnie-cecilia.be/nl/programma/liefde-is-van-hout",
+        "ImageUrl": "https://compagnie-cecilia-be.imgix.net/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_34236.jpg%3Fv%3D1771927250?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=116831141c9109dcb7d7f626397b5f54",
+        "Location": "De Expeditie (Gent)",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0656",
+        "Longitude": "3.7308"
+      },
+      {
+        "Title": "Troje",
+        "DateString": "2026-06-05T00:00:00.0000000",
+        "Url": "https://compagnie-cecilia.be/nl/programma/troje",
+        "ImageUrl": "https://compagnie-cecilia-be.imgix.net/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_34297.jpg%3Fv%3D1771927253?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=7e784b10400e508128d8b5f8da3809c8",
+        "Location": "De Expeditie (Gent)",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0656",
+        "Longitude": "3.7308"
+      }
+    ]
   },
   {
     "ScraperName": "DeCasinoScraper",
@@ -463,9 +550,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:01.9956916Z",
-    "StartedAt": "2026-02-24T07:00:00.3371889Z",
-    "FinishedAt": "2026-02-24T07:00:01.9956713Z",
+    "RunTime": "2026-02-24T11:00:04.2469861Z",
+    "StartedAt": "2026-02-24T11:00:01.8484963Z",
+    "FinishedAt": "2026-02-24T11:00:04.2469822Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -519,9 +606,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:03.2066492Z",
-    "StartedAt": "2026-02-24T07:00:00.3374674Z",
-    "FinishedAt": "2026-02-24T07:00:03.2066421Z",
+    "RunTime": "2026-02-24T11:00:04.4003383Z",
+    "StartedAt": "2026-02-24T11:00:01.848658Z",
+    "FinishedAt": "2026-02-24T11:00:04.4003346Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -530,7 +617,7 @@
     "VenueId": "democrazy",
     "VenueName": "Democrazy, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 79,
+    "TotalEventsFound": 81,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -597,8 +684,8 @@
         "Year": 2026,
         "FileName": "democrazy-10-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-10-2026.json",
-        "Hash": "97484f3d5e441c5b80374b03711ae316f8cf2889ff70da7af90476b372897bd1",
-        "EventCount": 4,
+        "Hash": "ddec8b262839c69a483a8d1bb86cf44fdf23dd37205e5ea47ce54d3bfeb4996e",
+        "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -615,18 +702,43 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:01.8252933Z",
-    "StartedAt": "2026-02-24T07:00:00.3377683Z",
-    "FinishedAt": "2026-02-24T07:00:01.8252658Z",
+    "RunTime": "2026-02-24T11:00:04.1540325Z",
+    "StartedAt": "2026-02-24T11:00:01.8487571Z",
+    "FinishedAt": "2026-02-24T11:00:04.1540302Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Stef Kamil Carlens \u0026 The Poem",
+        "DateString": "2026-10-21",
+        "Url": "https://www.democrazy.be/agenda/3167-stef-kamil-carlens-the-poem/",
+        "ImageUrl": "https://www.democrazy.be/media/thumb/35390-main-photo_-skc-the-poem-charlie-de-keersmaecker-132-lo-res.jpg",
+        "Location": "Ha Concerts",
+        "Description": "Tijdloze songs vol po\u00EBzie.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      },
+      {
+        "Title": "Danko Jones - \u002B Split Dogs",
+        "DateString": "2026-10-27",
+        "Url": "https://www.democrazy.be/agenda/3165-danko-jones/",
+        "ImageUrl": "https://www.democrazy.be/media/thumb/35370-danko-jones-0625_trd.12-photo-by-ole-martin-wold.jpg",
+        "Location": "Ha Concerts",
+        "Description": "Danko Jones komt terug met nieuw werk en een tour die groter gaat dan ooit!",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      }
+    ]
   },
   {
     "ScraperName": "DeRomaScraper",
     "VenueId": "deroma",
     "VenueName": "De Roma",
     "Category": "Concerts",
-    "TotalEventsFound": 108,
+    "TotalEventsFound": 110,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -673,8 +785,8 @@
         "Year": 2026,
         "FileName": "deroma-06-2026.json",
         "FilePath": "events/concerts/deroma/deroma-06-2026.json",
-        "Hash": "b8c5f1f6acc08e45f163be7b7388b7dcd3683baf0eed7339df18a5c62d5acbf2",
-        "EventCount": 18,
+        "Hash": "4e3f0a38a5d9729c12e2307d4118d9e4c3d8aa52f910f01c9a861cb95575f9a3",
+        "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -693,8 +805,8 @@
         "Year": 2026,
         "FileName": "deroma-09-2026.json",
         "FilePath": "events/concerts/deroma/deroma-09-2026.json",
-        "Hash": "db17bfb2dc460ef54512bfb9bce900d5cb3fd8d2d2b4260dac778a144da8d60f",
-        "EventCount": 5,
+        "Hash": "1e2c24539a7b082ad8e571b3c7db90bc47a8be622f40ab6326197ff31a771660",
+        "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -721,11 +833,36 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:03.6325999Z",
-    "StartedAt": "2026-02-24T07:00:00.3379849Z",
-    "FinishedAt": "2026-02-24T07:00:03.6325918Z",
+    "RunTime": "2026-02-24T11:00:05.2318602Z",
+    "StartedAt": "2026-02-24T11:00:01.8488681Z",
+    "FinishedAt": "2026-02-24T11:00:05.2318563Z",
     "FaviconUrl": "images/icons/deroma.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Joss Stone",
+        "DateString": "2026-06-15T20:00:00.0000000",
+        "Url": "https://www.deroma.be/en/event/joss-stone-2",
+        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/10ee/b1/cab2bdd0f16c91367e39978013b1143bdcdc0b69.png",
+        "Location": "De Roma",
+        "Description": "",
+        "Room": "",
+        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
+        "Latitude": "51.2133885",
+        "Longitude": "4.4400144"
+      },
+      {
+        "Title": "Six Blade Knife plays Dire Straits",
+        "DateString": "2026-09-05T20:00:00.0000000",
+        "Url": "https://www.deroma.be/en/event/six-blade-knife-plays-dire-straits-1",
+        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/3ad2/62/6df71258e0d030f60cf44f7591b383d2a41ca430.png",
+        "Location": "De Roma",
+        "Description": "A dazzling tribute to one of the greatest bands of all time: Dire Straits!",
+        "Room": "",
+        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
+        "Latitude": "51.2133885",
+        "Longitude": "4.4400144"
+      }
+    ]
   },
   {
     "ScraperName": "DeSteenovenScraper",
@@ -787,9 +924,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:01.7687225Z",
-    "StartedAt": "2026-02-24T07:00:00.3383544Z",
-    "FinishedAt": "2026-02-24T07:00:01.7687135Z",
+    "RunTime": "2026-02-24T11:00:03.8985875Z",
+    "StartedAt": "2026-02-24T11:00:01.849028Z",
+    "FinishedAt": "2026-02-24T11:00:03.8985626Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -833,9 +970,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:01.5962422Z",
-    "StartedAt": "2026-02-24T07:00:00.3386077Z",
-    "FinishedAt": "2026-02-24T07:00:01.596234Z",
+    "RunTime": "2026-02-24T11:00:03.8284189Z",
+    "StartedAt": "2026-02-24T11:00:01.8491405Z",
+    "FinishedAt": "2026-02-24T11:00:03.8284115Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -929,9 +1066,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:02.7649178Z",
-    "StartedAt": "2026-02-24T07:00:00.3388399Z",
-    "FinishedAt": "2026-02-24T07:00:02.7648648Z",
+    "RunTime": "2026-02-24T11:00:05.2398134Z",
+    "StartedAt": "2026-02-24T11:00:01.8492278Z",
+    "FinishedAt": "2026-02-24T11:00:05.2398087Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -940,7 +1077,7 @@
     "VenueId": "4ad",
     "VenueName": "4AD, Diksmuide",
     "Category": "Concerts",
-    "TotalEventsFound": 11,
+    "TotalEventsFound": 12,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -967,8 +1104,8 @@
         "Year": 2026,
         "FileName": "4ad-05-2026.json",
         "FilePath": "events/concerts/4ad/4ad-05-2026.json",
-        "Hash": "32614976515949641a25ca5c5d4e38a9a340b2025567c43df2bfa472c04c14ad",
-        "EventCount": 2,
+        "Hash": "2b94fa4644e3bd82f76e947312e13a95230744dff1dee49a56ac2dd79ec0cb93",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -985,18 +1122,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:02.7896107Z",
-    "StartedAt": "2026-02-24T07:00:00.3390602Z",
-    "FinishedAt": "2026-02-24T07:00:02.7895894Z",
+    "RunTime": "2026-02-24T11:00:05.5285423Z",
+    "StartedAt": "2026-02-24T11:00:01.8493366Z",
+    "FinishedAt": "2026-02-24T11:00:05.5285389Z",
     "FaviconUrl": "images/icons/4ad.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Kii\u014Dt\u014D",
+        "DateString": "2026-05-27T18:30:00.0000000",
+        "Url": "https://www.4ad.be/event/kiioto/",
+        "ImageUrl": "https://www.4ad.be/wp-content/uploads/2026/02/kiioto.jpg",
+        "Location": "Muziekclub 4AD",
+        "Description": "Kii\u014Dt\u014D (vk) Project van Lou Rhodes (Lamb) en Rohan Heath (The Urban Cookie Collective). Kii\u014Dt\u014D is \u00E9\u00E9n van de betere lockdownbaby\u2019s die de COVID-pandemie ons heeft gebracht. Singer-songwriter Lou Rhodes , voormalig leadzangeres en medeoprichter van Lamb , kwam in contact met de bekroonde songwriter en pianist Rohan Heath en begon aan een gloednieuw project, nadat beiden hun muzikale rugzak eigenlijk al aan de kapstok hadden gehangen. Hun debuutalbum \u2018As Dust We Rise\u2019 kreeg een vliegende start tijdens een roadtrip door Louisiana, werd voltooid in het Verenigd Koninkrijk en verscheen in 2024 met lovende kritieken. Ze brengen een rijke, jazzachtige energie met emotionele diepgang: intu\u00EFtieve, onbegrensde muziek die zich niet laat leiden door genre, maar door inspiratie. In mei komen ze hun gloednieuwe album \u2018Black Salt\u2019 (april 2026) voorstellen in onze club. Op deze plaat blijven de arrangementen sober en gedurfd, met invloeden uit jazz, broken beat en soul, en verwijzingen die uiteenlopen van Carole King en Khruangbin tot Alice Coltrane. Het resultaat is opnieuw een album dat zich onmogelijk in \u00E9\u00E9n genre laat vatten, maar wordt samengebracht door het unieke samenspel tussen Heath\u2019s melodische gevoeligheid en Rhodes\u2019 onnavolgbare stem. Facebook | Instagram",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0343",
+        "Longitude": "2.86"
+      }
+    ]
   },
   {
     "ScraperName": "HaConcertsScraper",
     "VenueId": "ha",
     "VenueName": "Ha Concerts, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 44,
+    "TotalEventsFound": 46,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1023,7 +1173,7 @@
         "Year": 2026,
         "FileName": "ha-04-2026.json",
         "FilePath": "events/concerts/ha/ha-04-2026.json",
-        "Hash": "95703df70e57b938b369e83e50665f8aa4e466b0067b48a186bb772eac8eef7d",
+        "Hash": "2c3f07f089aec9a9be4edbb1658b6793a8146b7ab5f84ca5a313a5b9587bfc24",
         "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
@@ -1043,8 +1193,8 @@
         "Year": 2026,
         "FileName": "ha-10-2026.json",
         "FilePath": "events/concerts/ha/ha-10-2026.json",
-        "Hash": "bf16492cc075c2ef688ba2f39adbe3c53a4b1941c1d17dc65a4f756956a3b9cb",
-        "EventCount": 2,
+        "Hash": "35541ee8ed19356c0c99d02302de73eecc3915e0fb5f0205e3dd07a5c22df29f",
+        "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1061,18 +1211,43 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:07.7777334Z",
-    "StartedAt": "2026-02-24T07:00:00.3393358Z",
-    "FinishedAt": "2026-02-24T07:00:07.7777248Z",
+    "RunTime": "2026-02-24T11:00:10.5469469Z",
+    "StartedAt": "2026-02-24T11:00:01.8494328Z",
+    "FinishedAt": "2026-02-24T11:00:10.546942Z",
     "FaviconUrl": "images/icons/haconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Stef Kamil Carlens \u0026 The Poem",
+        "DateString": "2026-10-22T00:00:00.0000000",
+        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/stef-kamil-carlens-en-the-poem-22-10-26",
+        "ImageUrl": "",
+        "Location": "Ha Concerts",
+        "Description": "Tijdloze songs vol po\u00EBzie",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      },
+      {
+        "Title": "Danko Jones",
+        "DateString": "2026-10-28T00:00:00.0000000",
+        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/danko-jones-28-10-26",
+        "ImageUrl": "",
+        "Location": "Ha Concerts",
+        "Description": "No-nonsense rock \u2019n\u2019 roll",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      }
+    ]
   },
   {
     "ScraperName": "HetDepotScraper",
     "VenueId": "hetdepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 75,
+    "TotalEventsFound": 76,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1119,8 +1294,8 @@
         "Year": 2026,
         "FileName": "hetdepot-06-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-06-2026.json",
-        "Hash": "6754c75f5b9f2a8ff924d8f13292aa6fa1869b9eb4f1adccac4947ce537064e0",
-        "EventCount": 6,
+        "Hash": "d3c973ce2ca9173314c32c85cd4d9746f2a9e81c2008bf7594403c4a33e3a84e",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1157,11 +1332,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:27.0657704Z",
-    "StartedAt": "2026-02-24T07:00:00.3395943Z",
-    "FinishedAt": "2026-02-24T07:00:27.0653908Z",
+    "RunTime": "2026-02-24T11:00:37.440642Z",
+    "StartedAt": "2026-02-24T11:00:01.8495219Z",
+    "FinishedAt": "2026-02-24T11:00:37.4406387Z",
     "FaviconUrl": "images/icons/hetdepot.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "COOL presents An Evening With Theo Katzman",
+        "DateString": "2026-06-09T18:00:00.0000000Z",
+        "Url": "https://www.hetdepot.be/concert/2026/cool-presents-an-evening-with-theo-katzman",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF00000xyj0KYAQ_1800.jpg?h=f7fe8f31\u0026amp;itok=hZbNNkvM",
+        "Location": "Het Depot, Leuven",
+        "Description": "Vulfpeck-lid keert terug naar zijn singer-songwriterrroots.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.7138"
+      }
+    ]
   },
   {
     "ScraperName": "N9Scraper",
@@ -1223,9 +1411,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:01.7698206Z",
-    "StartedAt": "2026-02-24T07:00:00.3398098Z",
-    "FinishedAt": "2026-02-24T07:00:01.769779Z",
+    "RunTime": "2026-02-24T11:00:03.8262376Z",
+    "StartedAt": "2026-02-24T11:00:01.8496266Z",
+    "FinishedAt": "2026-02-24T11:00:03.8262065Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1259,9 +1447,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:03.9655569Z",
-    "StartedAt": "2026-02-24T07:00:00.3399772Z",
-    "FinishedAt": "2026-02-24T07:00:03.9655478Z",
+    "RunTime": "2026-02-24T11:00:06.4946957Z",
+    "StartedAt": "2026-02-24T11:00:01.8497159Z",
+    "FinishedAt": "2026-02-24T11:00:06.4946898Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1315,9 +1503,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:02.6357032Z",
-    "StartedAt": "2026-02-24T07:00:00.3401922Z",
-    "FinishedAt": "2026-02-24T07:00:02.635236Z",
+    "RunTime": "2026-02-24T11:00:05.0116995Z",
+    "StartedAt": "2026-02-24T11:00:01.8497974Z",
+    "FinishedAt": "2026-02-24T11:00:05.0116942Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1391,9 +1579,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:20.9392274Z",
-    "StartedAt": "2026-02-24T07:00:00.3404081Z",
-    "FinishedAt": "2026-02-24T07:00:20.9389285Z",
+    "RunTime": "2026-02-24T11:00:24.4473412Z",
+    "StartedAt": "2026-02-24T11:00:01.8498861Z",
+    "FinishedAt": "2026-02-24T11:00:24.4473197Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1402,7 +1590,7 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 102,
+    "TotalEventsFound": 104,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1419,8 +1607,8 @@
         "Year": 2026,
         "FileName": "trix-03-2026.json",
         "FilePath": "events/concerts/trix/trix-03-2026.json",
-        "Hash": "42901283aac0ce8d1436ee8bcee365195c4efcefd9064d9cef842e5afd4c4de6",
-        "EventCount": 29,
+        "Hash": "7b4d65c6f615ada16325bd7fcf3b03a51cc73ee3b949223e368be8cffbdbbedd",
+        "EventCount": 30,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1479,19 +1667,44 @@
         "Year": 2026,
         "FileName": "trix-11-2026.json",
         "FilePath": "events/concerts/trix/trix-11-2026.json",
-        "Hash": "3e579594da9c6e98cf110fac9d4e6598ed3f642fe08bce420a3c45c18d439062",
-        "EventCount": 5,
+        "Hash": "24fe871642d0ca4b72d2f265f67f7bc64ce0c65e47487374814c26aea63e24b9",
+        "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:09.5659685Z",
-    "StartedAt": "2026-02-24T07:00:00.340697Z",
-    "FinishedAt": "2026-02-24T07:00:09.565567Z",
+    "RunTime": "2026-02-24T11:00:12.5965643Z",
+    "StartedAt": "2026-02-24T11:00:01.8501047Z",
+    "FinishedAt": "2026-02-24T11:00:12.5965622Z",
     "FaviconUrl": "images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Goldfox",
+        "DateString": "2026-03-20T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/goldfox/4100/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/260320-goldfoxwebsite.png",
+        "Location": "Trix",
+        "Description": "Goldfox beweegt moeiteloos tussen house, techno en rave, met intu\u00EFtieve, verhaalgedreven sets vol old en new wave, electroclash en 808-gedreven beats.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.225503",
+        "Longitude": "4.443686"
+      },
+      {
+        "Title": "Davina Michelle",
+        "DateString": "2026-11-04T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/davina-michelle/4107/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/davinamichelle-2026tourbackground-1240x720.jpg",
+        "Location": "Trix",
+        "Description": "De internationaal geprezen popartiest Davina Michelle brengt haar Afterparty Tour 2026 naar Antwerpen!",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.225503",
+        "Longitude": "4.443686"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -1573,9 +1786,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:01:22.3528493Z",
-    "StartedAt": "2026-02-24T07:00:00.3408951Z",
-    "FinishedAt": "2026-02-24T07:01:22.3527946Z",
+    "RunTime": "2026-02-24T11:01:23.7978629Z",
+    "StartedAt": "2026-02-24T11:00:01.8502274Z",
+    "FinishedAt": "2026-02-24T11:01:23.7977341Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1669,9 +1882,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T07:00:01.6330025Z",
-    "StartedAt": "2026-02-24T07:00:00.3411346Z",
-    "FinishedAt": "2026-02-24T07:00:01.6329947Z",
+    "RunTime": "2026-02-24T11:00:03.7287647Z",
+    "StartedAt": "2026-02-24T11:00:01.8503248Z",
+    "FinishedAt": "2026-02-24T11:00:03.7287581Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
