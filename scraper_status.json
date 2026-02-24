@@ -11,7 +11,7 @@
         "Year": 2026,
         "FileName": "ab-02-2026.json",
         "FilePath": "events/concerts/ab/ab-02-2026.json",
-        "Hash": "e6939443146123c7a9ae404e479fc1badfa10a1a2a08a1aed3ac175dbafe7674",
+        "Hash": "a7fc0c4686fe9edea89aa57f2b38ac33278132d9809774cc8dee3f3c3473da17",
         "EventCount": 11,
         "Status": "Success",
         "ErrorMessage": null
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "902413752040589ea87de19c343debc2f11e55e401a29bc06356fd5e2fc1a11e",
+        "Hash": "394182c282d0eddcc295d19a62847730154b5f26811f02ab5681099c26c843f6",
         "EventCount": 63,
         "Status": "Success",
         "ErrorMessage": null
@@ -99,9 +99,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:08.9959891Z",
-    "StartedAt": "2026-02-24T15:00:00.4313728Z",
-    "FinishedAt": "2026-02-24T15:00:08.9959846Z",
+    "RunTime": "2026-02-24T19:00:11.8025686Z",
+    "StartedAt": "2026-02-24T19:00:01.7244457Z",
+    "FinishedAt": "2026-02-24T19:00:11.8025644Z",
     "FaviconUrl": "images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -110,7 +110,7 @@
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 164,
+    "TotalEventsFound": 165,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -157,8 +157,8 @@
         "Year": 2026,
         "FileName": "botanique-06-2026.json",
         "FilePath": "events/concerts/botanique/botanique-06-2026.json",
-        "Hash": "7cce286b2e89ec2cb5ed5346672b61a5985cebcfbb75e32681cb35ab26d1a8dd",
-        "EventCount": 5,
+        "Hash": "f864c81701b0479961016472a2cd4d13fcfd6ad678d964dd490faf2a826a7c2f",
+        "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -195,11 +195,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:22.7012554Z",
-    "StartedAt": "2026-02-24T15:00:00.4319346Z",
-    "FinishedAt": "2026-02-24T15:00:22.7012403Z",
+    "RunTime": "2026-02-24T19:00:19.5607443Z",
+    "StartedAt": "2026-02-24T19:00:01.7254126Z",
+    "FinishedAt": "2026-02-24T19:00:19.5607412Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "femtanyl",
+        "DateString": "2026-06-18T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/femtanyl-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/OQ7UFPxR.png?itok=vgUUVGSq",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -233,7 +246,7 @@
         "Year": 2026,
         "FileName": "cactus-04-2026.json",
         "FilePath": "events/concerts/cactus/cactus-04-2026.json",
-        "Hash": "603ada0c337b33edb54417a9b1b85aee5e1c3df7ece6a7662690bfa3519e021a",
+        "Hash": "58f81adba1e549507f7142f2305e2604cf12ffa45647540ee8f7e5892d2f6f9e",
         "EventCount": 13,
         "Status": "Success",
         "ErrorMessage": null
@@ -301,11 +314,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.6310462Z",
-    "StartedAt": "2026-02-24T15:00:00.43332Z",
-    "FinishedAt": "2026-02-24T15:00:01.631042Z",
+    "RunTime": "2026-02-24T19:00:03.5086356Z",
+    "StartedAt": "2026-02-24T19:00:01.7262673Z",
+    "FinishedAt": "2026-02-24T19:00:03.5086336Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "The Tool Experience (fka The Perfect Tool) - USA Tool Tribute",
+        "DateString": "2026-04-12T00:00:00.0000000",
+        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-tool-experience",
+        "ImageUrl": "",
+        "Location": "Cactus Club",
+        "Description": "\u0027s Werelds strafste TOOL - tribute (USA)",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1966",
+        "Longitude": "3.2257"
+      }
+    ]
   },
   {
     "ScraperName": "CeciliaScraper",
@@ -367,9 +393,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:01:35.2745695Z",
-    "StartedAt": "2026-02-24T15:00:00.4335915Z",
-    "FinishedAt": "2026-02-24T15:01:35.2745652Z",
+    "RunTime": "2026-02-24T19:01:08.5897122Z",
+    "StartedAt": "2026-02-24T19:00:01.7269279Z",
+    "FinishedAt": "2026-02-24T19:01:08.589708Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -463,9 +489,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.7737207Z",
-    "StartedAt": "2026-02-24T15:00:00.434666Z",
-    "FinishedAt": "2026-02-24T15:00:01.7737167Z",
+    "RunTime": "2026-02-24T19:00:03.4294817Z",
+    "StartedAt": "2026-02-24T19:00:01.727691Z",
+    "FinishedAt": "2026-02-24T19:00:03.4294777Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -519,9 +545,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:02.7215881Z",
-    "StartedAt": "2026-02-24T15:00:00.4349018Z",
-    "FinishedAt": "2026-02-24T15:00:02.7215843Z",
+    "RunTime": "2026-02-24T19:00:03.9809009Z",
+    "StartedAt": "2026-02-24T19:00:01.7282653Z",
+    "FinishedAt": "2026-02-24T19:00:03.9808989Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -615,9 +641,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.7077911Z",
-    "StartedAt": "2026-02-24T15:00:00.4351913Z",
-    "FinishedAt": "2026-02-24T15:00:01.7077867Z",
+    "RunTime": "2026-02-24T19:00:03.5387738Z",
+    "StartedAt": "2026-02-24T19:00:01.7286449Z",
+    "FinishedAt": "2026-02-24T19:00:03.5384562Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -643,7 +669,7 @@
         "Year": 2026,
         "FileName": "deroma-03-2026.json",
         "FilePath": "events/concerts/deroma/deroma-03-2026.json",
-        "Hash": "8ce7a4dcda6fad8cc9a1cfda2544222fad5aa3c3104d656c6b526dc1a073edd6",
+        "Hash": "98b08df3a7ee27eac72f77a2ce27ebcacc7d5e94eb55076b3c8fdea425f9e584",
         "EventCount": 26,
         "Status": "Success",
         "ErrorMessage": null
@@ -721,9 +747,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:05.337663Z",
-    "StartedAt": "2026-02-24T15:00:00.4356259Z",
-    "FinishedAt": "2026-02-24T15:00:05.3376597Z",
+    "RunTime": "2026-02-24T19:00:04.5673419Z",
+    "StartedAt": "2026-02-24T19:00:01.7289825Z",
+    "FinishedAt": "2026-02-24T19:00:04.5673388Z",
     "FaviconUrl": "images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -787,9 +813,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.3004701Z",
-    "StartedAt": "2026-02-24T15:00:00.4359516Z",
-    "FinishedAt": "2026-02-24T15:00:01.300464Z",
+    "RunTime": "2026-02-24T19:00:03.2675463Z",
+    "StartedAt": "2026-02-24T19:00:01.7293301Z",
+    "FinishedAt": "2026-02-24T19:00:03.2675236Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -833,9 +859,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.2605578Z",
-    "StartedAt": "2026-02-24T15:00:00.5213356Z",
-    "FinishedAt": "2026-02-24T15:00:01.2605519Z",
+    "RunTime": "2026-02-24T19:00:03.1235691Z",
+    "StartedAt": "2026-02-24T19:00:01.7302869Z",
+    "FinishedAt": "2026-02-24T19:00:03.1235642Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -929,9 +955,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:02.4454755Z",
-    "StartedAt": "2026-02-24T15:00:00.5218616Z",
-    "FinishedAt": "2026-02-24T15:00:02.4454707Z",
+    "RunTime": "2026-02-24T19:00:03.9902339Z",
+    "StartedAt": "2026-02-24T19:00:01.7305477Z",
+    "FinishedAt": "2026-02-24T19:00:03.9902296Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -985,9 +1011,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:02.0479912Z",
-    "StartedAt": "2026-02-24T15:00:00.52241Z",
-    "FinishedAt": "2026-02-24T15:00:02.0479864Z",
+    "RunTime": "2026-02-24T19:00:03.350977Z",
+    "StartedAt": "2026-02-24T19:00:01.7308635Z",
+    "FinishedAt": "2026-02-24T19:00:03.3509726Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -1061,9 +1087,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:07.2576356Z",
-    "StartedAt": "2026-02-24T15:00:00.5229571Z",
-    "FinishedAt": "2026-02-24T15:00:07.2576308Z",
+    "RunTime": "2026-02-24T19:00:08.2770259Z",
+    "StartedAt": "2026-02-24T19:00:01.7311574Z",
+    "FinishedAt": "2026-02-24T19:00:08.277012Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1072,7 +1098,7 @@
     "VenueId": "hetdepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 76,
+    "TotalEventsFound": 77,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1099,8 +1125,8 @@
         "Year": 2026,
         "FileName": "hetdepot-04-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-04-2026.json",
-        "Hash": "691eb497a70f92b5ef7e56e899ce0af795f07a32487eeaaaac38c2195130d51f",
-        "EventCount": 18,
+        "Hash": "249e3c208174bf115fb5170561070743c2cb36bc6fedc3c0a160d69f5762d64c",
+        "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1157,11 +1183,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:26.86954Z",
-    "StartedAt": "2026-02-24T15:00:00.523531Z",
-    "FinishedAt": "2026-02-24T15:00:26.8694969Z",
+    "RunTime": "2026-02-24T19:00:36.919748Z",
+    "StartedAt": "2026-02-24T19:00:01.7314678Z",
+    "FinishedAt": "2026-02-24T19:00:36.9197449Z",
     "FaviconUrl": "images/icons/hetdepot.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Utopia presents Dave Clarke (3 hour set) \u002B AROH b3b OKIMA b3b GOLDFOX \u002B FAIRYPRINCESSWITHMAGICPOWERS",
+        "DateString": "2026-04-30T20:00:00.0000000Z",
+        "Url": "https://www.hetdepot.be/utopia",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF00000xyksTYAQ_1800.jpg?h=3d7e6699\u0026amp;itok=0u_SxdfO",
+        "Location": "Het Depot, Leuven",
+        "Description": "Club concept Utopia brings a high-energy blend of techno and electro, with a nostalgic flavor.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.7138"
+      }
+    ]
   },
   {
     "ScraperName": "N9Scraper",
@@ -1223,9 +1262,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.3258881Z",
-    "StartedAt": "2026-02-24T15:00:00.5240987Z",
-    "FinishedAt": "2026-02-24T15:00:01.325883Z",
+    "RunTime": "2026-02-24T19:00:03.2162392Z",
+    "StartedAt": "2026-02-24T19:00:01.7355898Z",
+    "FinishedAt": "2026-02-24T19:00:03.2162349Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1259,9 +1298,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:05.2918504Z",
-    "StartedAt": "2026-02-24T15:00:00.5246428Z",
-    "FinishedAt": "2026-02-24T15:00:05.2918444Z",
+    "RunTime": "2026-02-24T19:00:05.0082193Z",
+    "StartedAt": "2026-02-24T19:00:01.7361496Z",
+    "FinishedAt": "2026-02-24T19:00:05.0082021Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1315,9 +1354,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:02.0473111Z",
-    "StartedAt": "2026-02-24T15:00:00.5259924Z",
-    "FinishedAt": "2026-02-24T15:00:02.0473054Z",
+    "RunTime": "2026-02-24T19:00:03.9024066Z",
+    "StartedAt": "2026-02-24T19:00:01.7366541Z",
+    "FinishedAt": "2026-02-24T19:00:03.9024026Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1326,7 +1365,7 @@
     "VenueId": "toneelhuis",
     "VenueName": "Toneelhuis, Antwerpen",
     "Category": "Theatre",
-    "TotalEventsFound": 129,
+    "TotalEventsFound": 130,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1363,8 +1402,8 @@
         "Year": 2026,
         "FileName": "toneelhuis-05-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-05-2026.json",
-        "Hash": "225764c74b6be052bcc05cef2c10fab04c877e54bb03da4f4d10652a4d76689e",
-        "EventCount": 36,
+        "Hash": "e47d5af6a65d00baae919456aff1b92f8913b6ac4df397282082892a0c3b68c6",
+        "EventCount": 37,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1391,18 +1430,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:21.3136665Z",
-    "StartedAt": "2026-02-24T15:00:00.526621Z",
-    "FinishedAt": "2026-02-24T15:00:21.3136628Z",
+    "RunTime": "2026-02-24T19:00:26.9170422Z",
+    "StartedAt": "2026-02-24T19:00:01.7373446Z",
+    "FinishedAt": "2026-02-24T19:00:26.9137631Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Chapters of Celebration",
+        "DateString": "2026-05-31T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/chapters-of-celebration/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000QDahwIAD_730x410.jpg",
+        "Location": "Kunstfestspiele Herrenhausen, Hannover",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.503887",
+        "Longitude": "4.469936"
+      }
+    ]
   },
   {
     "ScraperName": "TrixScraper",
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 106,
+    "TotalEventsFound": 107,
     "MonthlyFiles": [
       {
         "Month": 2,
@@ -1419,7 +1471,7 @@
         "Year": 2026,
         "FileName": "trix-03-2026.json",
         "FilePath": "events/concerts/trix/trix-03-2026.json",
-        "Hash": "f61f8e3f5a9e559fb43e3c300662e5af5dd1cce8b10ceecded11160c1ac294b1",
+        "Hash": "8a4da4cac1480cfa9598278fa1a397b6f310e7fabb93abb05b5bfb346ee5ab0f",
         "EventCount": 31,
         "Status": "Success",
         "ErrorMessage": null
@@ -1439,8 +1491,8 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "3eb1256bdf1b85dc1005fa60a7e6cfcf09345d3a5e06937b7c5b772b238f6433",
-        "EventCount": 24,
+        "Hash": "e2d857547b222630392fcf067da98a1cfb3220f5895bce7b435b75e26f9fb82f",
+        "EventCount": 25,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1487,30 +1539,18 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:09.3554643Z",
-    "StartedAt": "2026-02-24T15:00:00.5272531Z",
-    "FinishedAt": "2026-02-24T15:00:09.3554617Z",
+    "RunTime": "2026-02-24T19:00:11.031304Z",
+    "StartedAt": "2026-02-24T19:00:01.7380845Z",
+    "FinishedAt": "2026-02-24T19:00:11.031301Z",
     "FaviconUrl": "images/icons/trix.svg",
     "NewEvents": [
       {
-        "Title": "Lamsak",
-        "DateString": "2026-03-05T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/lamsak/4108/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/260305-lamsakwebsite.png",
+        "Title": "JMSN",
+        "DateString": "2026-05-30T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/jmsn/4102/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/jmsnwebsite.png",
         "Location": "Trix",
-        "Description": "Lamsak is h\u00E9t driekoppig monster uit de Kempen. Vuile riffs, agressieve drums en energieke moshpits zetten schrijnend de toon.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.225503",
-        "Longitude": "4.443686"
-      },
-      {
-        "Title": "The Veils",
-        "DateString": "2026-11-11T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/the-veils/4104/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/261111-the-veilswebsite.png",
-        "Location": "Trix",
-        "Description": "The Veils combineren rauwe intensiteit, filmische geluiden en onbevreesd songschrijven, nu samengebald in hun nieuwste album Fragile World",
+        "Description": "JMSN uit Detroit is een geprezen zanger, producer en live-artiest die soul, dream-pop en DIY-creativiteit samenbrengt.",
         "Room": "",
         "Address": "Noordersingel 28-30, 2140 Antwerpen",
         "Latitude": "51.225503",
@@ -1570,7 +1610,7 @@
         "Year": 2026,
         "FileName": "wildewesten-06-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-06-2026.json",
-        "Hash": "f939b88f5fa63100eaa1eea4abe1a92f38c05a3fe4db5db656b647d22d9bc8a7",
+        "Hash": "dc2133494b19db41f3157612480d21e1778c975df66c99605ed30e35adf89fe7",
         "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
@@ -1598,24 +1638,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:01:22.3774051Z",
-    "StartedAt": "2026-02-24T15:00:00.5278087Z",
-    "FinishedAt": "2026-02-24T15:01:22.3774017Z",
+    "RunTime": "2026-02-24T19:01:28.4103581Z",
+    "StartedAt": "2026-02-24T19:00:01.7386313Z",
+    "FinishedAt": "2026-02-24T19:01:28.4103539Z",
     "FaviconUrl": "images/icons/wildewesten.png",
-    "NewEvents": [
-      {
-        "Title": "STEF KAMIL CARLENS \u0026 THE POEM \u002B FLYING HORSEMAN",
-        "DateString": "2026-06-21T20:00:00\u002B0200",
-        "Url": "https://www.wildewesten.be/nl/event/stef-kamil-carlens-the-poem-flying-horseman",
-        "ImageUrl": "https://www.wildewesten.be/media/cache/resolve/default_uitdatabank/upload/media/default/9761/c0/2ff73c8c07581b2e46904de8f9d575f1e548b57c.jpg",
-        "Location": "Bolwerk",
-        "Description": "tickets on sale vanaf 26/02, 12udouble billStef Kamil Carlens \u0026amp; The PoemMet The Poem brengt Stef Kamil Carlens samen met Nel Ponsaers en Rahmat Emonds een unieke muzikale ervaring naar de podia. In dit concert herwerken ze eigen nummers en parels uit de rijke singer-songwritertraditie, waar po\u00EBzie, literatuur en muziek naadloos in elkaar overlopen. Samenzang staat centraal, met Stef Kamil Carlens\u2019 herkenbare hese tenor, Nel Ponsaers\u2019 fluweelzachte alt en Rahmat Emonds\u2019 soulvolle sopraan. \u0026nbsp;De muziek van THE POEM is minimalistisch, puur en gevoelig, maar vol avontuur. Elk van de drie muzikanten komt ook solo naar voren, wat elk nummer vanuit een eigen perspectief tot leven brengt. Met een brede selectie bijzondere instrumenten - van gitaren en bassen tot analoge synths en zelfs een geautomatiseerde snaredrum - cre\u00EBren ze een meeslepende, intieme sfeer.\u0026nbsp;Na zijn succesvolle tour met de energieke band THE SWOON in 2024, waarin hij indruk maakte met funky grooves en kleurrijke live-shows, is SKC in 2025 weer klaar om de grenzen van het singer-songwritergenre op te zoeken. In september 2025 verscheen het nieuwe studioalbum bij Starman Records.\u0026nbsp;\u0026nbsp;Flying HorsemanNa vijf jaar radiostilte (en in een nieuwe bezetting) is Flying Horseman klaar om weer hoofdtelefoon-junkies \u00E9n concertgangers te betoveren met Anaesthesia, hun zevende album. Het is een urgent en bevlogen werk vol intelligente rock \u2019n roll, mistige psychedelica en kosmische folk. Deze nieuwe muziek klinkt vaak donker en kwaad, maar is tegelijkertijd kleur- en fantasierijk, en verfijnd. Het is een fascinerend, knetterend, energiek brouwsel.De kern van Flying Horseman is nog steeds Bert Dockx, met zijn intense, hoogst persoonlijke songs, zang en gitaarspel. Maar de line-up van de groep is veranderd, met vandaag Louis Evrard (Pruillip, Ottla, Grid Ravage) en Maximilian Dobbertin (Calicos, Frankie Fame) in de rangen. Verder is Flying Horseman ook het passieproject van Loesje en Martha Maieu, die er al bijna net zo lang deel van uitmaken als de frontman. Zoals steeds leveren ook zij essenti\u00EBle ingredi\u00EBnten aan om de unieke smaak van Flying Horseman te cre\u00EBren. Hun spookachtige vocals en atmosferische synth-klanken contrasteren bloedmooi met de meer aardse zang van Dockx en zijn rusteloze, vurige gitaarspel.Deze voorstelling zit in het CUBO-aanbod van Schouwburg Kortrijk. Word CUBO-lid en krijg onbeperkt toegang tot podium- en filmaanbod in Kortrijk voor slechts \u20AC20 per maand. CUBO tickets worden gecontroleerd aan de ingang. Deze voorstelling maakt deel uit van Blender 2026.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.6133",
-        "Longitude": "3.3827"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "WintercircusScraper",
@@ -1707,9 +1734,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-02-24T15:00:01.2987602Z",
-    "StartedAt": "2026-02-24T15:00:00.5283749Z",
-    "FinishedAt": "2026-02-24T15:00:01.2987563Z",
+    "RunTime": "2026-02-24T19:00:03.125815Z",
+    "StartedAt": "2026-02-24T19:00:01.7392532Z",
+    "FinishedAt": "2026-02-24T19:00:03.1258106Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
