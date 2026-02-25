@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-02-24T06:00:06.243549Z",
-  "ValidatedAt": "2026-02-24T06:00:06.243647Z",
+  "GeneratedAt": "2026-02-25T06:00:01.1890934Z",
+  "ValidatedAt": "2026-02-25T06:00:01.1890936Z",
   "TotalScrapers": 21,
-  "TotalEvents": 1245,
+  "TotalEvents": 1261,
   "TotalErrors": 0,
-  "TotalWarnings": 468,
+  "TotalWarnings": 474,
   "Results": [
     {
       "ScraperId": "4ad",
       "ScraperName": "4adScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 11,
+      "TotalEvents": 12,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,24 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 189,
+      "TotalEvents": 191,
       "ErrorCount": 0,
-      "WarningCount": 189,
+      "WarningCount": 191,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Babylon Circus",
-          "EventDate": "2026-02-24T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/babylon-circus/a10Qw000009qqTZIAY",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-24T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Lute + K.Z",
           "EventDate": "2026-02-25T00:00:00.0000000",
@@ -169,7 +156,7 @@
           ]
         },
         {
-          "EventTitle": "BHM x AB: Opening Night + Fred Gata, Adam La Nuit, Innocnt, RAPHA",
+          "EventTitle": "BHM x AB: Opening Night + Fred Gata, Adam La Nuit, Innocnt, RAPHA, Goldenynice, Iyanuoluwa",
           "EventDate": "2026-03-01T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/bhm-x-ab-opening-night/a10Qw000001IkAHIA0",
           "Issues": [
@@ -208,9 +195,9 @@
           ]
         },
         {
-          "EventTitle": "Mint Field & Avishag Cohen Rodrigues",
+          "EventTitle": "Of Monsters and Men + RAKEL",
           "EventDate": "2026-03-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/mint-field-avishag-cohen-rodrigues/a10Qw00000EDvOcIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/of-monsters-and-men/a10Qw000009Hx4wIAC",
           "Issues": [
             {
               "Field": "DateString",
@@ -221,9 +208,9 @@
           ]
         },
         {
-          "EventTitle": "Of Monsters and Men + RAKEL",
+          "EventTitle": "Mint Field & Avishag Cohen Rodrigues",
           "EventDate": "2026-03-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/of-monsters-and-men/a10Qw000009Hx4wIAC",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/mint-field-avishag-cohen-rodrigues/a10Qw00000EDvOcIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -611,9 +598,9 @@
           ]
         },
         {
-          "EventTitle": "Cardinals + Little Grandad",
+          "EventTitle": "Sammy Virji",
           "EventDate": "2026-03-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cardinals/a10Qw00000DzeibIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sammy-virji/a10Qw000009LPcYIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -624,9 +611,9 @@
           ]
         },
         {
-          "EventTitle": "Sammy Virji",
+          "EventTitle": "Cardinals + Little Grandad",
           "EventDate": "2026-03-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sammy-virji/a10Qw000009LPcYIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cardinals/a10Qw00000DzeibIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1456,9 +1443,9 @@
           ]
         },
         {
-          "EventTitle": "La Jungle",
+          "EventTitle": "Femke x Lander Gyselinck: Figures of Speech",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-x-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
           "Issues": [
             {
               "Field": "DateString",
@@ -1469,9 +1456,9 @@
           ]
         },
         {
-          "EventTitle": "Femke x Lander Gyselinck: Figures of Speech",
+          "EventTitle": "La Jungle",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-x-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -2132,6 +2119,19 @@
           ]
         },
         {
+          "EventTitle": "George Thorogood & the Destroyers",
+          "EventDate": "2026-06-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/george-thorogood-the-destroyers/a10Qw00000FXyHhIAL",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Streets",
           "EventDate": "2026-06-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-streets/a10Qw00000Ey7D3IAJ",
@@ -2405,6 +2405,19 @@
           ]
         },
         {
+          "EventTitle": "Davina Michelle",
+          "EventDate": "2026-11-03T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/davina-michelle/a10Qw00000GcHoEIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Peet",
           "EventDate": "2026-11-06T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
@@ -2479,6 +2492,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-24T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "José González",
+          "EventDate": "2026-11-25T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jose-gonzalez/a10Qw00000BmC8cIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-25T00:00:00.0000000"
             }
           ]
         }
@@ -2817,9 +2843,9 @@
           ]
         },
         {
-          "EventTitle": "The Perfect Tool (USA Tool Tribute)",
+          "EventTitle": "The Tool Experience (fka The Perfect Tool) - USA Tool Tribute",
           "EventDate": "2026-04-12T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-perfect-tool",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-tool-experience",
           "Issues": [
             {
               "Field": "DateString",
@@ -2921,9 +2947,9 @@
           ]
         },
         {
-          "EventTitle": "Das Pop",
+          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
           "Issues": [
             {
               "Field": "DateString",
@@ -2934,9 +2960,9 @@
           ]
         },
         {
-          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
+          "EventTitle": "Das Pop",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
           "Issues": [
             {
               "Field": "DateString",
@@ -3313,21 +3339,21 @@
       "ScraperId": "cecilia",
       "ScraperName": "ceciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 15,
+      "TotalEvents": 17,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
         {
           "EventTitle": "Pot Nat",
-          "EventDate": "2026-02-24T00:00:00.0000000",
+          "EventDate": "2026-02-25T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/pot-nat",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-24T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-02-25T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-02-24T00:00:00.0000000"
+              "ActualValue": "2026-02-25T00:00:00.0000000"
             }
           ]
         },
@@ -3475,6 +3501,19 @@
           ]
         },
         {
+          "EventTitle": "Liefde is van hout",
+          "EventDate": "2026-05-13T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/liefde-is-van-hout",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Bowling Buffalo",
           "EventDate": "2026-05-27T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/bowling-buffalo",
@@ -3497,6 +3536,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Troje",
+          "EventDate": "2026-06-05T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/troje",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-05T00:00:00.0000000"
             }
           ]
         },
@@ -4151,7 +4203,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 108,
+      "TotalEvents": 110,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4495,24 +4547,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 79,
+      "TotalEvents": 80,
       "ErrorCount": 0,
-      "WarningCount": 80,
+      "WarningCount": 81,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Eefje de Visser *2e EXTRA SHOW* - Vlijmscherp Tour 2026",
-          "EventDate": "2026-02-23",
-          "EventUrl": "https://www.democrazy.be/agenda/3094-eefje-de-visser/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-23'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-23"
-            }
-          ]
-        },
         {
           "EventTitle": "Big Next: HotWax - + SEXTC",
           "EventDate": "2026-02-24",
@@ -5482,6 +5521,19 @@
           ]
         },
         {
+          "EventTitle": "Stef Kamil Carlens & The Poem",
+          "EventDate": "2026-10-21",
+          "EventUrl": "https://www.democrazy.be/agenda/3167-stef-kamil-carlens-the-poem/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-21"
+            }
+          ]
+        },
+        {
           "EventTitle": "EZHEL",
           "EventDate": "2026-10-26",
           "EventUrl": "https://www.democrazy.be/agenda/3143-ezhel/",
@@ -5491,6 +5543,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-26'.",
               "Severity": 1,
               "ActualValue": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Danko Jones - + Split Dogs",
+          "EventDate": "2026-10-27",
+          "EventUrl": "https://www.democrazy.be/agenda/3165-danko-jones/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-27"
             }
           ]
         },
@@ -5549,24 +5614,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 44,
+      "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 44,
+      "WarningCount": 45,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Yasmine Hamdan",
-          "EventDate": "2026-02-24T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/yasmine-hamdan-24-02-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-24T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Allez, Chantez! * februari",
           "EventDate": "2026-02-26T00:00:00.0000000",
@@ -6088,6 +6140,19 @@
           ]
         },
         {
+          "EventTitle": "Stef Kamil Carlens & The Poem",
+          "EventDate": "2026-10-22T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/stef-kamil-carlens-en-the-poem-22-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Zap Mama & K.ZIA",
           "EventDate": "2026-10-24T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/zap-mama-en-k.zia-24-10-26",
@@ -6114,6 +6179,19 @@
           ]
         },
         {
+          "EventTitle": "Danko Jones",
+          "EventDate": "2026-10-28T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/danko-jones-28-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ão (albumrelease)",
           "EventDate": "2026-11-12T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/Ao-albumrelease-12-11-26",
@@ -6132,7 +6210,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 75,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6202,7 +6280,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 129,
+      "TotalEvents": 128,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -6278,7 +6356,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 102,
+      "TotalEvents": 107,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6288,7 +6366,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 49,
+      "TotalEvents": 50,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
