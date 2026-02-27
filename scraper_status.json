@@ -4,15 +4,15 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 192,
+    "TotalEventsFound": 190,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "ab-02-2026.json",
         "FilePath": "events/concerts/ab/ab-02-2026.json",
-        "Hash": "627c1ca102c0f9070f6ec8a537b971e151a82b156845ddea000ceb4802b30ef8",
-        "EventCount": 6,
+        "Hash": "ed80e19d6c80539830aca8bb9a50b4829cf6af962183254b1b84d4d2d7ceb7d1",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "c60ef0bb22be4282034b767ad390b891c6472e29dd6e609ea5029b0100397eeb",
+        "Hash": "67c0dcd5a7753eb81ca20b1edfbc7f9346007dd9625cce3f76a35c09ff47242d",
         "EventCount": 63,
         "Status": "Success",
         "ErrorMessage": null
@@ -91,34 +91,47 @@
         "Year": 2026,
         "FileName": "ab-11-2026.json",
         "FilePath": "events/concerts/ab/ab-11-2026.json",
-        "Hash": "daa399a332e23379d6478ca76c6191427f5d8ffa546d11d4192b46f62b1e6f2d",
-        "EventCount": 9,
+        "Hash": "06f9fe4124600f1289fa45818b5d045ad03fddcf3535f610cd7adda7373768e8",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:05.9018176Z",
-    "StartedAt": "2026-02-27T19:00:00.8463956Z",
-    "FinishedAt": "2026-02-27T19:00:05.9018136Z",
+    "RunTime": "2026-02-27T23:00:13.264208Z",
+    "StartedAt": "2026-02-27T23:00:00.5514322Z",
+    "FinishedAt": "2026-02-27T23:00:13.2642053Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Arkane",
+        "DateString": "2026-11-28T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/arkane/a10Qw000005YSlOIAW",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000DjN5pMAF_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Arkane: the emotion of rock, the power of choir - a cry of hope carried by 200 voices",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 170,
+    "TotalEventsFound": 168,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "botanique-02-2026.json",
         "FilePath": "events/concerts/botanique/botanique-02-2026.json",
-        "Hash": "87eb53c900a1aab6823e77941b5e5e66d634feac19ab778904d817a470522e26",
-        "EventCount": 5,
+        "Hash": "a70ab62bea3477fffb9e84e8593f2dce876eb251913b3b4674236dd526d99a1a",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -195,36 +208,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:22.015259Z",
-    "StartedAt": "2026-02-27T19:00:00.8470339Z",
-    "FinishedAt": "2026-02-27T19:00:22.0152486Z",
+    "RunTime": "2026-02-27T23:00:21.3492686Z",
+    "StartedAt": "2026-02-27T23:00:00.5518455Z",
+    "FinishedAt": "2026-02-27T23:00:21.3492641Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": [
-      {
-        "Title": "Ben Vince - Tandreh",
-        "DateString": "2026-03-04T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/ben-vince-tandreh-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-01/bv_3_2000x1500.jpg?itok=Gcsd4q58",
-        "Location": "Botanique, Brussels",
-        "Description": "Experimentele saxofoon en introspectieve elektronica, tussen vrije jazz, drone en een hypnotiserende sfeer | Gratis show voor Bota\u2019Carte houders!",
-        "Room": "Witloof Bar",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      },
-      {
-        "Title": "K\u014CMA",
-        "DateString": "2026-04-08T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/koma-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/koma.jpeg?itok=CJmuYjlO",
-        "Location": "Botanique, Brussels",
-        "Description": "",
-        "Room": "Rotonde",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -326,9 +314,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:01.8170353Z",
-    "StartedAt": "2026-02-27T19:00:00.8489505Z",
-    "FinishedAt": "2026-02-27T19:00:01.8170212Z",
+    "RunTime": "2026-02-27T23:00:01.8238046Z",
+    "StartedAt": "2026-02-27T23:00:00.552176Z",
+    "FinishedAt": "2026-02-27T23:00:01.8238007Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -344,7 +332,7 @@
         "Year": 2026,
         "FileName": "cecilia-02-2026.json",
         "FilePath": "events/theatre/cecilia/cecilia-02-2026.json",
-        "Hash": "222f3db405a5a2468d2ad5b42a703a7f3a8d69269ab5b77992d7b8240b77d357",
+        "Hash": "dacc707099d4bc946e43b7f4a4d4f2f365763aadbb7af8bc2e395a1f8b59a857",
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
@@ -392,9 +380,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:01:24.0131316Z",
-    "StartedAt": "2026-02-27T19:00:00.849326Z",
-    "FinishedAt": "2026-02-27T19:01:24.0131272Z",
+    "RunTime": "2026-02-27T23:01:00.7867892Z",
+    "StartedAt": "2026-02-27T23:00:00.5527756Z",
+    "FinishedAt": "2026-02-27T23:01:00.7867854Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -488,9 +476,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:02.1643978Z",
-    "StartedAt": "2026-02-27T19:00:00.8497937Z",
-    "FinishedAt": "2026-02-27T19:00:02.1643935Z",
+    "RunTime": "2026-02-27T23:00:01.6973284Z",
+    "StartedAt": "2026-02-27T23:00:00.554208Z",
+    "FinishedAt": "2026-02-27T23:00:01.6973243Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -516,7 +504,7 @@
         "Year": 2026,
         "FileName": "dekluize-03-2026.json",
         "FilePath": "events/concerts/dekluize/dekluize-03-2026.json",
-        "Hash": "c2aa866219ae18f35c597c49218d9d943684f2eb491e96a048bb0e6d7cbc1301",
+        "Hash": "f9bbe5854342d512be0af50e64584858353dfd69f31ee9457515e0407bc956b2",
         "EventCount": 18,
         "Status": "Success",
         "ErrorMessage": null
@@ -544,11 +532,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:02.93168Z",
-    "StartedAt": "2026-02-27T19:00:00.8501168Z",
-    "FinishedAt": "2026-02-27T19:00:02.9316775Z",
+    "RunTime": "2026-02-27T23:00:04.7138933Z",
+    "StartedAt": "2026-02-27T23:00:00.5546547Z",
+    "FinishedAt": "2026-02-27T23:00:04.7138903Z",
     "FaviconUrl": "images/icons/dekluize.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Welkom Ongemak",
+        "DateString": "2026-03-03T20:00:00.0000000",
+        "Url": "https://gcdekluize.be/voorstelling/welkom-ongemak",
+        "ImageUrl": "",
+        "Location": "GC De Kluize",
+        "Description": "Wim Helsen Humor Try-out",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9414",
+        "Longitude": "3.7938"
+      }
+    ]
   },
   {
     "ScraperName": "DemocrazyScraper",
@@ -640,9 +641,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:02.1286421Z",
-    "StartedAt": "2026-02-27T19:00:00.8505604Z",
-    "FinishedAt": "2026-02-27T19:00:02.1286376Z",
+    "RunTime": "2026-02-27T23:00:01.8312403Z",
+    "StartedAt": "2026-02-27T23:00:00.555187Z",
+    "FinishedAt": "2026-02-27T23:00:01.8312353Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -651,15 +652,15 @@
     "VenueId": "deroma",
     "VenueName": "De Roma",
     "Category": "Concerts",
-    "TotalEventsFound": 113,
+    "TotalEventsFound": 112,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "deroma-02-2026.json",
         "FilePath": "events/concerts/deroma/deroma-02-2026.json",
-        "Hash": "580e959f097932167f93c190c0af6bb1472b535be211a525a0b639c4698381cb",
-        "EventCount": 2,
+        "Hash": "754c59026bdb67bccf872e4e42a4b4708f6f6e65d067d5cf7fa3212604b019c3",
+        "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -678,7 +679,7 @@
         "Year": 2026,
         "FileName": "deroma-04-2026.json",
         "FilePath": "events/concerts/deroma/deroma-04-2026.json",
-        "Hash": "b79af17b71e574a902f48d84765b593aad104a603f5a4ea18704af3a02e64ca6",
+        "Hash": "a1217289c65ec28a066a3ab0cc3055c7d51278ebc7cf1afc5d52b2ffaa738abf",
         "EventCount": 25,
         "Status": "Success",
         "ErrorMessage": null
@@ -746,42 +747,19 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:02.6867002Z",
-    "StartedAt": "2026-02-27T19:00:00.8509512Z",
-    "FinishedAt": "2026-02-27T19:00:02.6866971Z",
+    "RunTime": "2026-02-27T23:00:08.5525759Z",
+    "StartedAt": "2026-02-27T23:00:00.5556242Z",
+    "FinishedAt": "2026-02-27T23:00:08.5525725Z",
     "FaviconUrl": "images/icons/deroma.svg",
-    "NewEvents": [
-      {
-        "Title": "Ben Folds",
-        "DateString": "2026-11-27T20:00:00.0000000",
-        "Url": "https://www.deroma.be/en/event/ben-folds-5",
-        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/3cd4/24/315413e6d394cd97c98f8566e4cf42f66eaf08ae.png",
-        "Location": "De Roma",
-        "Description": "Paper Airplane Request Tour The American master pianist gives the choice to the public.",
-        "Room": "",
-        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
-        "Latitude": "51.2133885",
-        "Longitude": "4.4400144"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeSteenovenScraper",
     "VenueId": "steenoven",
     "VenueName": "De Steenoven, Herzele",
     "Category": "Concerts",
-    "TotalEventsFound": 12,
+    "TotalEventsFound": 11,
     "MonthlyFiles": [
-      {
-        "Month": 2,
-        "Year": 2026,
-        "FileName": "steenoven-02-2026.json",
-        "FilePath": "events/concerts/steenoven/steenoven-02-2026.json",
-        "Hash": "95164a44a742170df5db4ad143d64ab1e80c65283537ffa7ab8e7e99cb091fa9",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 3,
         "Year": 2026,
@@ -825,9 +803,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:01.4152965Z",
-    "StartedAt": "2026-02-27T19:00:00.8514154Z",
-    "FinishedAt": "2026-02-27T19:00:01.4152923Z",
+    "RunTime": "2026-02-27T23:00:01.0741997Z",
+    "StartedAt": "2026-02-27T23:00:00.5561202Z",
+    "FinishedAt": "2026-02-27T23:00:01.0741788Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -838,16 +816,6 @@
     "Category": "Concerts",
     "TotalEventsFound": 12,
     "MonthlyFiles": [
-      {
-        "Month": 2,
-        "Year": 2026,
-        "FileName": "dezwerver-02-2026.json",
-        "FilePath": "events/concerts/dezwerver/dezwerver-02-2026.json",
-        "Hash": "1de2c8ca115eee772a96fd97a44afd240bc27fc148a65f17124637e96848164e",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 3,
         "Year": 2026,
@@ -863,34 +831,47 @@
         "Year": 2026,
         "FileName": "dezwerver-04-2026.json",
         "FilePath": "events/concerts/dezwerver/dezwerver-04-2026.json",
-        "Hash": "2ee9d006597f25e7c74261db6674a2142d1f8ce9a8d8fb743f43044af2335751",
-        "EventCount": 4,
+        "Hash": "68a8f533e37071df6678959841df8ce9df664abd36888ce68ebd00eac412ae3f",
+        "EventCount": 5,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:01.414761Z",
-    "StartedAt": "2026-02-27T19:00:00.8518401Z",
-    "FinishedAt": "2026-02-27T19:00:01.4147563Z",
+    "RunTime": "2026-02-27T23:00:01.0482967Z",
+    "StartedAt": "2026-02-27T23:00:00.5566015Z",
+    "FinishedAt": "2026-02-27T23:00:01.0482929Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Cat Clyde",
+        "DateString": "2026-04-27T00:00:00",
+        "Url": "https://www.dezwerver.be/agenda/236-cat-clyde/",
+        "ImageUrl": "https://www.dezwerver.be/media/thumbnail-large/3017-catclyde_site.png",
+        "Location": "Caf\u00E9 De Zwerver",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.5039",
+        "Longitude": "4.4699"
+      }
+    ]
   },
   {
     "ScraperName": "EmotiaScraper",
     "VenueId": "emotia",
     "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
     "Category": "Concerts",
-    "TotalEventsFound": 44,
+    "TotalEventsFound": 43,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "emotia-02-2026.json",
         "FilePath": "events/concerts/emotia/emotia-02-2026.json",
-        "Hash": "41d89bd8b63849efea7bfe97ce20b498d454c36ab9d90b4ae06f8d686aab8b89",
-        "EventCount": 2,
+        "Hash": "5718de9de12a17931d00baacfc5519fc483fc7c7100adfc8af7ea412f1006f3f",
+        "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -967,9 +948,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:02.3575868Z",
-    "StartedAt": "2026-02-27T19:00:00.8522399Z",
-    "FinishedAt": "2026-02-27T19:00:02.3575817Z",
+    "RunTime": "2026-02-27T23:00:01.9808044Z",
+    "StartedAt": "2026-02-27T23:00:00.5570002Z",
+    "FinishedAt": "2026-02-27T23:00:01.9808001Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1023,9 +1004,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:01.7107205Z",
-    "StartedAt": "2026-02-27T19:00:00.8526701Z",
-    "FinishedAt": "2026-02-27T19:00:01.7107156Z",
+    "RunTime": "2026-02-27T23:00:03.0278815Z",
+    "StartedAt": "2026-02-27T23:00:00.5578205Z",
+    "FinishedAt": "2026-02-27T23:00:03.0278774Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -1034,15 +1015,15 @@
     "VenueId": "ha",
     "VenueName": "Ha Concerts, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 46,
+    "TotalEventsFound": 45,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "ha-02-2026.json",
         "FilePath": "events/concerts/ha/ha-02-2026.json",
-        "Hash": "6279d3d1b268752fb0d6a467deb5906a8a25a962ff54c6740618cd17af0f66da",
-        "EventCount": 2,
+        "Hash": "22e9cb83c34e4cac2b5818f1c376b4baf93f3453a0d496d3a7d22268d0e0c4e0",
+        "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1109,9 +1090,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:07.6285338Z",
-    "StartedAt": "2026-02-27T19:00:00.8531403Z",
-    "FinishedAt": "2026-02-27T19:00:07.6285303Z",
+    "RunTime": "2026-02-27T23:00:08.5632524Z",
+    "StartedAt": "2026-02-27T23:00:00.5581559Z",
+    "FinishedAt": "2026-02-27T23:00:08.5632479Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1195,9 +1176,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:38.3470835Z",
-    "StartedAt": "2026-02-27T19:00:00.853659Z",
-    "FinishedAt": "2026-02-27T19:00:38.3470594Z",
+    "RunTime": "2026-02-27T23:00:44.2371821Z",
+    "StartedAt": "2026-02-27T23:00:00.5583536Z",
+    "FinishedAt": "2026-02-27T23:00:44.2371787Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1206,18 +1187,8 @@
     "VenueId": "n9",
     "VenueName": "N9, Eeklo",
     "Category": "Concerts",
-    "TotalEventsFound": 19,
+    "TotalEventsFound": 18,
     "MonthlyFiles": [
-      {
-        "Month": 2,
-        "Year": 2026,
-        "FileName": "n9-02-2026.json",
-        "FilePath": "events/concerts/n9/n9-02-2026.json",
-        "Hash": "08bf11dc8932d403101f1dd34578bd0aa8d717ad8f7a82bb8b41957f4f8fda1a",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 3,
         "Year": 2026,
@@ -1271,9 +1242,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:01.5036974Z",
-    "StartedAt": "2026-02-27T19:00:00.8541582Z",
-    "FinishedAt": "2026-02-27T19:00:01.5036933Z",
+    "RunTime": "2026-02-27T23:00:01.304448Z",
+    "StartedAt": "2026-02-27T23:00:00.5585639Z",
+    "FinishedAt": "2026-02-27T23:00:01.3044435Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1307,9 +1278,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:03.6266086Z",
-    "StartedAt": "2026-02-27T19:00:00.8545287Z",
-    "FinishedAt": "2026-02-27T19:00:03.6262286Z",
+    "RunTime": "2026-02-27T23:00:08.5356817Z",
+    "StartedAt": "2026-02-27T23:00:00.5587899Z",
+    "FinishedAt": "2026-02-27T23:00:08.5356772Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1351,11 +1322,11 @@
         "ErrorMessage": null
       }
     ],
-    "Status": "Success (1 invalid)",
+    "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:02.3498744Z",
-    "StartedAt": "2026-02-27T19:00:00.8549203Z",
-    "FinishedAt": "2026-02-27T19:00:02.3498585Z",
+    "RunTime": "2026-02-27T23:00:01.833684Z",
+    "StartedAt": "2026-02-27T23:00:00.5590108Z",
+    "FinishedAt": "2026-02-27T23:00:01.8336787Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1364,14 +1335,14 @@
     "VenueId": "toneelhuis",
     "VenueName": "Toneelhuis, Antwerpen",
     "Category": "Theatre",
-    "TotalEventsFound": 125,
+    "TotalEventsFound": 124,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "toneelhuis-03-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-03-2026.json",
-        "Hash": "a58fbff148155752b73542f316e6ab01b575249a237d5042fab14d1faed1e202",
+        "Hash": "ea0644f74e83d6108f36ac028b5758490eaa94b02870862acfd006af680082d5",
         "EventCount": 45,
         "Status": "Success",
         "ErrorMessage": null
@@ -1421,17 +1392,17 @@
         "Year": 2026,
         "FileName": "toneelhuis-02-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-02-2026.json",
-        "Hash": "ca49564c2b1cc95a889c99bd76e99378e3a13216dbea1e056238353b6283fc7d",
-        "EventCount": 3,
+        "Hash": "cf8b4c9c4793bb91eb09c3f5411a5ae7ac9bca7dd369f522aaccbda1d4e1d9c6",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:21.3644487Z",
-    "StartedAt": "2026-02-27T19:00:00.8552276Z",
-    "FinishedAt": "2026-02-27T19:00:21.364359Z",
+    "RunTime": "2026-02-27T23:00:24.530411Z",
+    "StartedAt": "2026-02-27T23:00:00.5593251Z",
+    "FinishedAt": "2026-02-27T23:00:24.5304065Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1525,9 +1496,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:09.2780084Z",
-    "StartedAt": "2026-02-27T19:00:00.8556732Z",
-    "FinishedAt": "2026-02-27T19:00:09.278005Z",
+    "RunTime": "2026-02-27T23:00:09.7759257Z",
+    "StartedAt": "2026-02-27T23:00:00.559657Z",
+    "FinishedAt": "2026-02-27T23:00:09.7759228Z",
     "FaviconUrl": "images/icons/trix.svg",
     "NewEvents": []
   },
@@ -1536,15 +1507,15 @@
     "VenueId": "wildewesten",
     "VenueName": "Wilde Westen, Kortrijk",
     "Category": "Concerts",
-    "TotalEventsFound": 51,
+    "TotalEventsFound": 49,
     "MonthlyFiles": [
       {
         "Month": 2,
         "Year": 2026,
         "FileName": "wildewesten-02-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-02-2026.json",
-        "Hash": "4f4043096df56a44b7a9629813ba482466529b3feb389468310c9b8d1a8b98c3",
-        "EventCount": 3,
+        "Hash": "3ccd33f019e7b1a71f98cc4a115c728a918a4fbadc9e13dec9b39d801d258d24",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1553,8 +1524,8 @@
         "Year": 2026,
         "FileName": "wildewesten-03-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-03-2026.json",
-        "Hash": "9bb726d5c975c7b2b6f9ee980502c6dad0143f06eef2b43bd874ff0594de9635",
-        "EventCount": 22,
+        "Hash": "f59b1db297ac48ca1ad82d57cb2aa0400030269ecbf27967fae99c43fe34cebd",
+        "EventCount": 21,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1611,9 +1582,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:01:27.2474902Z",
-    "StartedAt": "2026-02-27T19:00:00.8561545Z",
-    "FinishedAt": "2026-02-27T19:01:27.2474857Z",
+    "RunTime": "2026-02-27T23:01:24.816187Z",
+    "StartedAt": "2026-02-27T23:00:00.559924Z",
+    "FinishedAt": "2026-02-27T23:01:24.8161827Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1707,9 +1678,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-02-27T19:00:01.4834954Z",
-    "StartedAt": "2026-02-27T19:00:00.8565821Z",
-    "FinishedAt": "2026-02-27T19:00:01.4834908Z",
+    "RunTime": "2026-02-27T23:00:01.0446288Z",
+    "StartedAt": "2026-02-27T23:00:00.5602232Z",
+    "FinishedAt": "2026-02-27T23:00:01.0446239Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
