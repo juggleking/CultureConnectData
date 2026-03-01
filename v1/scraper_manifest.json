@@ -1,15 +1,15 @@
 {
-  "GeneratedAt": "2026-02-28T19:01:26.0536806Z",
-  "StartedAt": "2026-02-28T19:00:00.9699927Z",
-  "FinishedAt": "2026-02-28T19:01:24.9629221Z",
-  "LastUploadAt": "2026-02-28T19:01:26.0640519Z",
+  "GeneratedAt": "2026-03-01T11:01:34.29545Z",
+  "StartedAt": "2026-03-01T11:00:00.5727854Z",
+  "FinishedAt": "2026-03-01T11:01:31.447495Z",
+  "LastUploadAt": "2026-03-01T11:01:34.322317Z",
   "Venues": [
     {
       "VenueId": "4ad",
       "VenueName": "4AD, Diksmuide",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9729929Z",
-      "FinishedAt": "2026-02-28T19:00:01.9020559Z",
+      "StartedAt": "2026-03-01T11:00:01.1226997Z",
+      "FinishedAt": "2026-03-01T11:00:06.7175325Z",
       "FaviconUrl": "images/icons/4ad.png",
       "Files": [
         {
@@ -51,6 +51,16 @@
           "EventCount": 2,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "4ad-08-2026.json",
+          "FilePath": "events/concerts/4ad/4ad-08-2026.json",
+          "Hash": "72779113e1eca03796f6104a84bc820d10897727cc36d66b1e6c39385d925b24",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -58,20 +68,10 @@
       "VenueId": "ab",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9699927Z",
-      "FinishedAt": "2026-02-28T19:00:09.9919946Z",
+      "StartedAt": "2026-03-01T11:00:00.5727854Z",
+      "FinishedAt": "2026-03-01T11:00:13.7765657Z",
       "FaviconUrl": "images/icons/abconcerts.png",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "ab-02-2026.json",
-          "FilePath": "events/concerts/ab/ab-02-2026.json",
-          "Hash": "53cffe3567f707b3119167559bc245bc8148ffe4bbec4e6c006aac00507ad5b3",
-          "EventCount": 2,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
@@ -147,98 +147,38 @@
           "Year": 2026,
           "FileName": "ab-11-2026.json",
           "FilePath": "events/concerts/ab/ab-11-2026.json",
-          "Hash": "06f9fe4124600f1289fa45818b5d045ad03fddcf3535f610cd7adda7373768e8",
-          "EventCount": 10,
+          "Hash": "8a3b752ce78400f774684fe430a7bec49f6beaa5961a5873722393485cac0a60",
+          "EventCount": 11,
           "Status": "Unknown",
           "ErrorMessage": null
-        }
-      ]
-    },
-    {
-      "VenueId": "botanique",
-      "VenueName": "Botanique, Brussels",
-      "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9706442Z",
-      "FinishedAt": "2026-02-28T19:00:23.2579258Z",
-      "FaviconUrl": "images/icons/botanique.png",
-      "Files": [
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "ab-12-2026.json",
+          "FilePath": "events/concerts/ab/ab-12-2026.json",
+          "Hash": "32c90b8a356db9bbaa4022fbb30938958a13b980e6d0217d0e836025707edc7a",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "ab-01-2027.json",
+          "FilePath": "events/concerts/ab/ab-01-2027.json",
+          "Hash": "32dcd476e4c74b878130bb5063a8cbf072bf4b74988741507ddb13790e1b9ad3",
+          "EventCount": 4,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
         {
           "Month": 2,
-          "Year": 2026,
-          "FileName": "botanique-02-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-02-2026.json",
-          "Hash": "a70ab62bea3477fffb9e84e8593f2dce876eb251913b3b4674236dd526d99a1a",
-          "EventCount": 3,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 3,
-          "Year": 2026,
-          "FileName": "botanique-03-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-03-2026.json",
-          "Hash": "92210c622c6a11d55141278d53fb38ae86419efddc9e779904ab6737fe44acf1",
-          "EventCount": 60,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 4,
-          "Year": 2026,
-          "FileName": "botanique-04-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-          "Hash": "993a6c46fd07ca0545c2c851118fe82584255c5fa812f7ccf5e5e3e992308c08",
-          "EventCount": 59,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 5,
-          "Year": 2026,
-          "FileName": "botanique-05-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-05-2026.json",
-          "Hash": "31ceb588099a456b70970a9291f093fced97aef541631a1f135f0bed5f0fd812",
-          "EventCount": 19,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 6,
-          "Year": 2026,
-          "FileName": "botanique-06-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-06-2026.json",
-          "Hash": "9c4d6dabb3982bd8ffcfac74aa4b3f5dc784850ff377479ee136f1135127e031",
-          "EventCount": 8,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 9,
-          "Year": 2026,
-          "FileName": "botanique-09-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-09-2026.json",
-          "Hash": "ca43239127f87fd39fda12f2b8e6abf8f7565cb34b7312aa21be94e6fc65f81a",
-          "EventCount": 7,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 10,
-          "Year": 2026,
-          "FileName": "botanique-10-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-10-2026.json",
-          "Hash": "9552aa3fa37bd3574b8aa63ad23679cca7c637bafb95506fbe18579c69b5a6c3",
-          "EventCount": 6,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
-        {
-          "Month": 11,
-          "Year": 2026,
-          "FileName": "botanique-11-2026.json",
-          "FilePath": "events/concerts/botanique/botanique-11-2026.json",
-          "Hash": "a15be66a8bd1a3d332086fb4dd74d075c4266b765e4c2e9ee629daf4e1dc4c0a",
-          "EventCount": 6,
+          "Year": 2027,
+          "FileName": "ab-02-2027.json",
+          "FilePath": "events/concerts/ab/ab-02-2027.json",
+          "Hash": "da097c148fcd397ed2584e5d23160130eb29a92de31f27cc6b106741a5067806",
+          "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -248,26 +188,16 @@
       "VenueId": "cactus",
       "VenueName": "Cactus Muziekcentrum, Brugge",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9707629Z",
-      "FinishedAt": "2026-02-28T19:00:02.0200608Z",
+      "StartedAt": "2026-03-01T11:00:00.7875606Z",
+      "FinishedAt": "2026-03-01T11:00:06.2063862Z",
       "FaviconUrl": "images/icons/cactusmusic.png",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "cactus-02-2026.json",
-          "FilePath": "events/concerts/cactus/cactus-02-2026.json",
-          "Hash": "40647bf23fda53deb8e43b45496534819d3b9cc2a979a8556fd8cdb53cc12a15",
-          "EventCount": 1,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
           "FileName": "cactus-03-2026.json",
           "FilePath": "events/concerts/cactus/cactus-03-2026.json",
-          "Hash": "e24f835c80a04f972f6d6cdd4a63e779a6db4fc97a8d28e18a785c1723839b11",
+          "Hash": "3a356acde510e621ad0cdd7881c00e22a1e530c80565cab3242fd4a8e1be1ddd",
           "EventCount": 16,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -341,6 +271,16 @@
           "EventCount": 3,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "cactus-12-2026.json",
+          "FilePath": "events/concerts/cactus/cactus-12-2026.json",
+          "Hash": "dc3a42e042278c13836aee2a8990b5ede2221ffa43692b6f6cf2a98292a283ac",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -348,8 +288,8 @@
       "VenueId": "slh",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9733902Z",
-      "FinishedAt": "2026-02-28T19:00:03.175689Z",
+      "StartedAt": "2026-03-01T11:00:01.1601359Z",
+      "FinishedAt": "2026-03-01T11:00:06.6446109Z",
       "FaviconUrl": "images/icons/slh.png",
       "Files": [
         {
@@ -388,27 +328,17 @@
       "VenueId": "cecilia",
       "VenueName": "Compagnie Cecilia, Gent",
       "Category": "Theatre",
-      "StartedAt": "2026-02-28T19:00:00.9724022Z",
-      "FinishedAt": "2026-02-28T19:01:17.3872573Z",
+      "StartedAt": "2026-03-01T11:00:00.8029707Z",
+      "FinishedAt": "2026-03-01T11:01:25.1542123Z",
       "FaviconUrl": "images/icons/cecilia.png",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "cecilia-02-2026.json",
-          "FilePath": "events/theatre/cecilia/cecilia-02-2026.json",
-          "Hash": "791b5b94feb981e0a71cac4730069cf86b79a132c9dfa262f1842041ac5792fa",
-          "EventCount": 2,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
           "FileName": "cecilia-03-2026.json",
           "FilePath": "events/theatre/cecilia/cecilia-03-2026.json",
-          "Hash": "1893fc856431a756b5b82cbdfa835063709ab6c2a5e29e1486264acc2e9cd450",
-          "EventCount": 4,
+          "Hash": "738930ee272f0cdc7839aed8791f1393caba478c36f1985b12b5bf09692e18ed",
+          "EventCount": 6,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -417,7 +347,7 @@
           "Year": 2026,
           "FileName": "cecilia-04-2026.json",
           "FilePath": "events/theatre/cecilia/cecilia-04-2026.json",
-          "Hash": "ad2dd3dc2b0ae7fad4e8a86699c04661254c1fd4c81a352e90c3adbb4cd190c1",
+          "Hash": "a769b0fde69faa145314617d7c00d291f29b3211e23bb83ea35822529ce19492",
           "EventCount": 5,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -427,7 +357,7 @@
           "Year": 2026,
           "FileName": "cecilia-05-2026.json",
           "FilePath": "events/theatre/cecilia/cecilia-05-2026.json",
-          "Hash": "0b30758f284436e03bf3713e464360bb98fac4bfe78a153f3ea05ccc19c75497",
+          "Hash": "4bb0527d6134672f9859d4af1a844ba75a7cdfda94134021d31cc5958952af95",
           "EventCount": 3,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -437,7 +367,7 @@
           "Year": 2026,
           "FileName": "cecilia-06-2026.json",
           "FilePath": "events/theatre/cecilia/cecilia-06-2026.json",
-          "Hash": "cfcc27b31fc8f7a2d8e47f9951e1490653b8f06807dc0653071f425588b6c565",
+          "Hash": "2c19861f17b23f7c65c5e0570038f1146f50766f9af3d1ebc510bea0e9b31ca3",
           "EventCount": 3,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -448,8 +378,8 @@
       "VenueId": "emotia",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9729254Z",
-      "FinishedAt": "2026-02-28T19:00:02.475896Z",
+      "StartedAt": "2026-03-01T11:00:01.1145983Z",
+      "FinishedAt": "2026-03-01T11:00:07.0004399Z",
       "FaviconUrl": "images/icons/emotia.png",
       "Files": [
         {
@@ -528,20 +458,10 @@
       "VenueId": "decasino",
       "VenueName": "De Casino",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9725096Z",
-      "FinishedAt": "2026-02-28T19:00:02.3625626Z",
+      "StartedAt": "2026-03-01T11:00:00.8357637Z",
+      "FinishedAt": "2026-03-01T11:00:05.9013162Z",
       "FaviconUrl": "images/icons/decasino.svg",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "decasino-02-2026.json",
-          "FilePath": "events/concerts/decasino/decasino-02-2026.json",
-          "Hash": "7efd2319047fd083ad8d096ec5b802107f66c533e6a9c09ac53cd26b8baa9495",
-          "EventCount": 1,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
@@ -618,26 +538,16 @@
       "VenueId": "deroma",
       "VenueName": "De Roma",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9727202Z",
-      "FinishedAt": "2026-02-28T19:00:03.3543186Z",
+      "StartedAt": "2026-03-01T11:00:01.090533Z",
+      "FinishedAt": "2026-03-01T11:00:07.9017419Z",
       "FaviconUrl": "images/icons/deroma.svg",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "deroma-02-2026.json",
-          "FilePath": "events/concerts/deroma/deroma-02-2026.json",
-          "Hash": "754c59026bdb67bccf872e4e42a4b4708f6f6e65d067d5cf7fa3212604b019c3",
-          "EventCount": 1,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
           "FileName": "deroma-03-2026.json",
           "FilePath": "events/concerts/deroma/deroma-03-2026.json",
-          "Hash": "8ce7a4dcda6fad8cc9a1cfda2544222fad5aa3c3104d656c6b526dc1a073edd6",
+          "Hash": "f3465460cdd172423717745ed5b5ca0650a3d4ffbec8751b0d0fbecb6e30d6a2",
           "EventCount": 26,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -647,7 +557,7 @@
           "Year": 2026,
           "FileName": "deroma-04-2026.json",
           "FilePath": "events/concerts/deroma/deroma-04-2026.json",
-          "Hash": "b79af17b71e574a902f48d84765b593aad104a603f5a4ea18704af3a02e64ca6",
+          "Hash": "2764e75a6944c8ac1d4c1a6aec0914b69d3cde29556b728fe1bdfc45768e592c",
           "EventCount": 25,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -657,7 +567,7 @@
           "Year": 2026,
           "FileName": "deroma-05-2026.json",
           "FilePath": "events/concerts/deroma/deroma-05-2026.json",
-          "Hash": "475a1226302aa8f4ad7b53690a1e8a07efb8d75645e46be71dd904c9e41e6f9a",
+          "Hash": "b1d8191c0f19df429e7b0d63910c8a4f2bd3dcfcc7e89ae4694a74d329c0b130",
           "EventCount": 19,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -667,7 +577,7 @@
           "Year": 2026,
           "FileName": "deroma-06-2026.json",
           "FilePath": "events/concerts/deroma/deroma-06-2026.json",
-          "Hash": "85cf0f5688d7938d0d105ce11e09c77a0ec525954f9a1e3f9ad28177ac186aae",
+          "Hash": "2a69a8bda06b567f0fbba8b952cceaf3b09d602dd28b0617c1c10913ce3e16cf",
           "EventCount": 19,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -677,7 +587,7 @@
           "Year": 2026,
           "FileName": "deroma-08-2026.json",
           "FilePath": "events/concerts/deroma/deroma-08-2026.json",
-          "Hash": "515d9d640eca4ac5df90ff83aa795b21145aa17a5310ee2efa9681ae5e2b7bb4",
+          "Hash": "6847c14a834299ca33ff4a9602e30b328f740a410cb029efcba414cbe2dffd34",
           "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -687,7 +597,7 @@
           "Year": 2026,
           "FileName": "deroma-09-2026.json",
           "FilePath": "events/concerts/deroma/deroma-09-2026.json",
-          "Hash": "1a68a179af52270fdf3b538aa3caa70560540069c4fb18eb278bfd4607763841",
+          "Hash": "a6508fa76dab65ca7f4a122ecaa7ab003b8e6aa66d5d2dd09e2a28184d76a4a3",
           "EventCount": 5,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -697,7 +607,7 @@
           "Year": 2026,
           "FileName": "deroma-10-2026.json",
           "FilePath": "events/concerts/deroma/deroma-10-2026.json",
-          "Hash": "8caefae3de47d2948362b629b35567a2b43110d488dfa1c455125248911c808c",
+          "Hash": "f8d66c693da44b121c6e7f7e2ab5cd63a78902c5e36cca4927990b5d29359f46",
           "EventCount": 9,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -707,8 +617,38 @@
           "Year": 2026,
           "FileName": "deroma-11-2026.json",
           "FilePath": "events/concerts/deroma/deroma-11-2026.json",
-          "Hash": "8f7f6e0ac35352a427616d354da7bd4344351e4420bce34a47e2ad9c1c3b5708",
+          "Hash": "3414f2385df2ff22ddf437325f6dd65f1ba03537b2cb3bab4ea3eec01adfeaed",
           "EventCount": 7,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "deroma-12-2026.json",
+          "FilePath": "events/concerts/deroma/deroma-12-2026.json",
+          "Hash": "1ca11a549e51c1a2d1f81bdf08c7c7ed0a6c701cf4bd2f9214d3c0b964b4bdfb",
+          "EventCount": 3,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "deroma-01-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-01-2027.json",
+          "Hash": "b9415e393f6c090010304d46b51be587b97ec49bbe096548e58704c5d72ae747",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "deroma-02-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-02-2027.json",
+          "Hash": "11caca272aad6eaef20b9cac6860b7cda6b924e5e150dc9e6a138f220751e9a3",
+          "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -718,8 +658,8 @@
       "VenueId": "steenoven",
       "VenueName": "De Steenoven, Herzele",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9727926Z",
-      "FinishedAt": "2026-02-28T19:00:01.9217248Z",
+      "StartedAt": "2026-03-01T11:00:01.0991901Z",
+      "FinishedAt": "2026-03-01T11:00:06.1412164Z",
       "FaviconUrl": "images/icons/steenoven.png",
       "Files": [
         {
@@ -768,8 +708,8 @@
       "VenueId": "dezwerver",
       "VenueName": "De Zwerver",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9728617Z",
-      "FinishedAt": "2026-02-28T19:00:01.8360207Z",
+      "StartedAt": "2026-03-01T11:00:01.1069385Z",
+      "FinishedAt": "2026-03-01T11:00:05.9989547Z",
       "FaviconUrl": "images/icons/dezwerver.svg",
       "Files": [
         {
@@ -798,8 +738,8 @@
       "VenueId": "democrazy",
       "VenueName": "Democrazy, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9726542Z",
-      "FinishedAt": "2026-02-28T19:00:02.27781Z",
+      "StartedAt": "2026-03-01T11:00:01.0812828Z",
+      "FinishedAt": "2026-03-01T11:00:06.6055529Z",
       "FaviconUrl": "https://www.democrazy.be/favicon.ico",
       "Files": [
         {
@@ -807,8 +747,8 @@
           "Year": 2026,
           "FileName": "democrazy-02-2026.json",
           "FilePath": "events/concerts/democrazy/democrazy-02-2026.json",
-          "Hash": "533e259d3af8b389ebed5b033e329a9675f52cc3079f6bd72845c5c4f0fccc6c",
-          "EventCount": 3,
+          "Hash": "c2c70f8d72cfeb2a15e7521423add2b6854d020d55e4b076b6423fc46805993c",
+          "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -881,6 +821,16 @@
           "EventCount": 3,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "democrazy-01-2027.json",
+          "FilePath": "events/concerts/democrazy/democrazy-01-2027.json",
+          "Hash": "87a5aa0aa7aaa7467ee0f92c837537fb51692cfdad96346eef877820ee5b49e7",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -888,20 +838,10 @@
       "VenueId": "dekluize",
       "VenueName": "GC De Kluize, Oosterzele",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9725817Z",
-      "FinishedAt": "2026-02-28T19:00:03.3199255Z",
+      "StartedAt": "2026-03-01T11:00:01.0712245Z",
+      "FinishedAt": "2026-03-01T11:00:06.9686657Z",
       "FaviconUrl": "images/icons/dekluize.png",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "dekluize-02-2026.json",
-          "FilePath": "events/concerts/dekluize/dekluize-02-2026.json",
-          "Hash": "0b6725753e825f0e0c115de84d86ca5930d06fee210260d0dc46bfc348d2c66f",
-          "EventCount": 1,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
@@ -923,6 +863,16 @@
           "ErrorMessage": null
         },
         {
+          "Month": 5,
+          "Year": 2026,
+          "FileName": "dekluize-05-2026.json",
+          "FilePath": "events/concerts/dekluize/dekluize-05-2026.json",
+          "Hash": "2d5de6cdcc69f39255de463e218c0239e6bf4396b0885cb9286494fc2c937281",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
           "Month": 6,
           "Year": 2026,
           "FileName": "dekluize-06-2026.json",
@@ -938,20 +888,10 @@
       "VenueId": "ha",
       "VenueName": "Ha Concerts, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9731054Z",
-      "FinishedAt": "2026-02-28T19:00:06.5814813Z",
+      "StartedAt": "2026-03-01T11:00:01.1300324Z",
+      "FinishedAt": "2026-03-01T11:00:11.7579307Z",
       "FaviconUrl": "images/icons/haconcerts.png",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "ha-02-2026.json",
-          "FilePath": "events/concerts/ha/ha-02-2026.json",
-          "Hash": "22e9cb83c34e4cac2b5818f1c376b4baf93f3453a0d496d3a7d22268d0e0c4e0",
-          "EventCount": 1,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
@@ -1011,6 +951,16 @@
           "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "ha-01-2027.json",
+          "FilePath": "events/concerts/ha/ha-01-2027.json",
+          "Hash": "6587bfbda402cb7a877b003bb40a78b9c4f8d74ba3e2aa44d0f8fa90aee9f7d5",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -1018,8 +968,8 @@
       "VenueId": "hetdepot",
       "VenueName": "Het Depot, Leuven",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9731814Z",
-      "FinishedAt": "2026-02-28T19:00:27.199162Z",
+      "StartedAt": "2026-03-01T11:00:01.1375881Z",
+      "FinishedAt": "2026-03-01T11:00:34.3938212Z",
       "FaviconUrl": "images/icons/hetdepot.png",
       "Files": [
         {
@@ -1091,6 +1041,36 @@
           "EventCount": 5,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "hetdepot-12-2026.json",
+          "FilePath": "events/concerts/hetdepot/hetdepot-12-2026.json",
+          "Hash": "fdf633e59e0a44778f3ca289b3e6e75d8c629cbe71168d7b7ddb1545736cc656",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "hetdepot-01-2027.json",
+          "FilePath": "events/concerts/hetdepot/hetdepot-01-2027.json",
+          "Hash": "d5133c3529c784dfe4a10b1981db9d113d8f2043208450e4ee16574cf70d8849",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "hetdepot-02-2027.json",
+          "FilePath": "events/concerts/hetdepot/hetdepot-02-2027.json",
+          "Hash": "fcbeb9885ac578537a22afef0b1c50b855cecca2f07c14dccb130556fb9442fb",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -1098,8 +1078,8 @@
       "VenueId": "n9",
       "VenueName": "N9, Eeklo",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9732599Z",
-      "FinishedAt": "2026-02-28T19:00:01.9068148Z",
+      "StartedAt": "2026-03-01T11:00:01.1460353Z",
+      "FinishedAt": "2026-03-01T11:00:06.0143976Z",
       "FaviconUrl": "images/icons/n9.png",
       "Files": [
         {
@@ -1151,6 +1131,16 @@
           "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "n9-12-2026.json",
+          "FilePath": "events/concerts/n9/n9-12-2026.json",
+          "Hash": "fb551a9404d701da6fa6626a9d78b0b1c771ec206c30a6d99c2aac57187038bc",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -1158,8 +1148,8 @@
       "VenueId": "rivierenhof",
       "VenueName": "OLT Rivierenhof",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9733259Z",
-      "FinishedAt": "2026-02-28T19:00:03.8845934Z",
+      "StartedAt": "2026-03-01T11:00:01.153268Z",
+      "FinishedAt": "2026-03-01T11:00:08.2775541Z",
       "FaviconUrl": "images/icons/rivierenhof.png",
       "Files": [
         {
@@ -1188,8 +1178,8 @@
       "VenueId": "toneelhuis",
       "VenueName": "Toneelhuis, Antwerpen",
       "Category": "Theatre",
-      "StartedAt": "2026-02-28T19:00:00.9734633Z",
-      "FinishedAt": "2026-02-28T19:00:21.4885941Z",
+      "StartedAt": "2026-03-01T11:00:01.1679466Z",
+      "FinishedAt": "2026-03-01T11:00:26.0680411Z",
       "FaviconUrl": "images/icons/toneelhuis.png",
       "Files": [
         {
@@ -1197,7 +1187,7 @@
           "Year": 2026,
           "FileName": "toneelhuis-03-2026.json",
           "FilePath": "events/theatre/toneelhuis/toneelhuis-03-2026.json",
-          "Hash": "ea0644f74e83d6108f36ac028b5758490eaa94b02870862acfd006af680082d5",
+          "Hash": "135e41744644bbc49d2416679368f1dd8c288808fcbe598a4c87470b9fdee2d7",
           "EventCount": 45,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1217,7 +1207,7 @@
           "Year": 2026,
           "FileName": "toneelhuis-05-2026.json",
           "FilePath": "events/theatre/toneelhuis/toneelhuis-05-2026.json",
-          "Hash": "e47d5af6a65d00baae919456aff1b92f8913b6ac4df397282082892a0c3b68c6",
+          "Hash": "334ef549c5d20622e541cfa38e9c9cd6988b77147c2492aa1f496eb390c99da7",
           "EventCount": 37,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1241,16 +1231,6 @@
           "EventCount": 9,
           "Status": "Unknown",
           "ErrorMessage": null
-        },
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "toneelhuis-02-2026.json",
-          "FilePath": "events/theatre/toneelhuis/toneelhuis-02-2026.json",
-          "Hash": "cf8b4c9c4793bb91eb09c3f5411a5ae7ac9bca7dd369f522aaccbda1d4e1d9c6",
-          "EventCount": 2,
-          "Status": "Unknown",
-          "ErrorMessage": null
         }
       ]
     },
@@ -1258,26 +1238,16 @@
       "VenueId": "trix",
       "VenueName": "Trix",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9735475Z",
-      "FinishedAt": "2026-02-28T19:00:09.9013704Z",
+      "StartedAt": "2026-03-01T11:00:01.1844768Z",
+      "FinishedAt": "2026-03-01T11:00:14.5306757Z",
       "FaviconUrl": "images/icons/trix.svg",
       "Files": [
-        {
-          "Month": 2,
-          "Year": 2026,
-          "FileName": "trix-02-2026.json",
-          "FilePath": "events/concerts/trix/trix-02-2026.json",
-          "Hash": "3416e54b10dcc487b2a83315286086944b9c490b8bba67a237c7cb459d52d024",
-          "EventCount": 3,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 3,
           "Year": 2026,
           "FileName": "trix-03-2026.json",
           "FilePath": "events/concerts/trix/trix-03-2026.json",
-          "Hash": "76cc6a6452bdbe7cc3e905ccd529dd23e6299e66a0660893af4524b692f9bc18",
+          "Hash": "18fe360f06682d217f1da8e53d8991248c2985657d8b7252c91e14dc4074ed2c",
           "EventCount": 31,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1287,7 +1257,7 @@
           "Year": 2026,
           "FileName": "trix-04-2026.json",
           "FilePath": "events/concerts/trix/trix-04-2026.json",
-          "Hash": "dd2b55f2524b5f4ae8b9d8aaf1250c249cbb41cc189965eadc18be0e28755c95",
+          "Hash": "185d22186b4e22d78cc900ce10722a2ecb7041a1d10834d2f11b2bac3d942628",
           "EventCount": 26,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1297,7 +1267,7 @@
           "Year": 2026,
           "FileName": "trix-05-2026.json",
           "FilePath": "events/concerts/trix/trix-05-2026.json",
-          "Hash": "5ed216c90326415b9c51f345e1f79d4e0afb4fc08bad4b529b39e2092b3ab741",
+          "Hash": "f35db3b9ebd11e1b2aba5e76c8dfd26d52f94a438537008c75b767b28de9ce85",
           "EventCount": 25,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1307,7 +1277,7 @@
           "Year": 2026,
           "FileName": "trix-06-2026.json",
           "FilePath": "events/concerts/trix/trix-06-2026.json",
-          "Hash": "4b8f66233cd1877e052b2101d0a38c2b886ade88d07277ce4f3689615152ba87",
+          "Hash": "34933b53af023ec481639f9dfbedfa50bde903a369d9486a458b6ac9d6c8ad4f",
           "EventCount": 6,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1317,7 +1287,7 @@
           "Year": 2026,
           "FileName": "trix-09-2026.json",
           "FilePath": "events/concerts/trix/trix-09-2026.json",
-          "Hash": "8b9a276c4255da10c6c63236da170d0386eefbd259f3845178b8ae121b50113e",
+          "Hash": "a625cb96b758fe1a7e1707173f6f13c0c2a2bce758d222ad2af8b255a048f9ca",
           "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1327,7 +1297,7 @@
           "Year": 2026,
           "FileName": "trix-10-2026.json",
           "FilePath": "events/concerts/trix/trix-10-2026.json",
-          "Hash": "2b8e7d9ce4d5a1385f5022308977440d49377a66ef81297f69410f981e2829c6",
+          "Hash": "a957e80e7702f5eec0427f01ffc1942b8a8f3c2cc43b42f4a8bc11fe8fb604c1",
           "EventCount": 7,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1337,7 +1307,7 @@
           "Year": 2026,
           "FileName": "trix-11-2026.json",
           "FilePath": "events/concerts/trix/trix-11-2026.json",
-          "Hash": "be5e14214dcf1da80cee9b7a10a655bef83d4ea0eea78bca8d054c09cc01aad9",
+          "Hash": "4df703c5e3174be120fa3d6b36172479e904393044ff77f1102377fb29738412",
           "EventCount": 10,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1348,8 +1318,8 @@
       "VenueId": "wildewesten",
       "VenueName": "Wilde Westen, Kortrijk",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9736228Z",
-      "FinishedAt": "2026-02-28T19:01:24.9629221Z",
+      "StartedAt": "2026-03-01T11:00:01.1985067Z",
+      "FinishedAt": "2026-03-01T11:01:31.447495Z",
       "FaviconUrl": "images/icons/wildewesten.png",
       "Files": [
         {
@@ -1357,8 +1327,8 @@
           "Year": 2026,
           "FileName": "wildewesten-02-2026.json",
           "FilePath": "events/concerts/wildewesten/wildewesten-02-2026.json",
-          "Hash": "3ccd33f019e7b1a71f98cc4a115c728a918a4fbadc9e13dec9b39d801d258d24",
-          "EventCount": 2,
+          "Hash": "6fad31cdb04c07f68de80be81a02612b6cadd9412be235e267830845e542ffa6",
+          "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -1421,6 +1391,16 @@
           "EventCount": 2,
           "Status": "Unknown",
           "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "wildewesten-02-2027.json",
+          "FilePath": "events/concerts/wildewesten/wildewesten-02-2027.json",
+          "Hash": "343726ee580f9826c309ec6dce13aeb496de01e42e9872759455c4af5ddc4f49",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
         }
       ]
     },
@@ -1428,8 +1408,8 @@
       "VenueId": "wintercircus",
       "VenueName": "Wintercircus, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-02-28T19:00:00.9737005Z",
-      "FinishedAt": "2026-02-28T19:00:02.4454275Z",
+      "StartedAt": "2026-03-01T11:00:01.2143651Z",
+      "FinishedAt": "2026-03-01T11:00:05.8802902Z",
       "FaviconUrl": "images/icons/wintercircus.png",
       "Files": [
         {
