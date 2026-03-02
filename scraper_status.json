@@ -4,14 +4,14 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 197,
+    "TotalEventsFound": 198,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "6aef26f8222364f79d583b02e0c8b22210114c59f9da49a462a855743c6f2131",
+        "Hash": "5d1c3df219edac37d5929739fe7db3747aea761c8971d1e9c47e129d3d424064",
         "EventCount": 62,
         "Status": "Success",
         "ErrorMessage": null
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-04-2026.json",
         "FilePath": "events/concerts/ab/ab-04-2026.json",
-        "Hash": "540aba3666b8a456f74c6b099c492575b726d0d3a1956ae18c5d27487332d3fe",
+        "Hash": "b7e866e864ada688deb7a43370e0ef492353af604c2afae39f537cc1a0cfb280",
         "EventCount": 42,
         "Status": "Success",
         "ErrorMessage": null
@@ -31,7 +31,7 @@
         "Year": 2026,
         "FileName": "ab-05-2026.json",
         "FilePath": "events/concerts/ab/ab-05-2026.json",
-        "Hash": "2e1bba6676b5890354f00dabd145400a38e893eee19444fe19dc2be5d72e4b5d",
+        "Hash": "8cc205a99da06353775c7365d34a90ab4a033b4c2de6e4de4466576ca8516818",
         "EventCount": 34,
         "Status": "Success",
         "ErrorMessage": null
@@ -41,7 +41,7 @@
         "Year": 2026,
         "FileName": "ab-06-2026.json",
         "FilePath": "events/concerts/ab/ab-06-2026.json",
-        "Hash": "78e60f107d2e6d8e281b02805947599afe5a317a1d8742c96c8d5c7c08339054",
+        "Hash": "eb022c6b1affb9d68f712ed9f92b021e202afb26e4f0491339b0136e0bc4819e",
         "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
@@ -71,8 +71,8 @@
         "Year": 2026,
         "FileName": "ab-10-2026.json",
         "FilePath": "events/concerts/ab/ab-10-2026.json",
-        "Hash": "6889683c802ed0147000e271abceb8997fee2f447d53983560a0ef6ecb0d5be8",
-        "EventCount": 14,
+        "Hash": "87e6f9149be89cfd53ec0a9fba244a4e40629f40e00e850537f03c436326df1b",
+        "EventCount": 15,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -119,11 +119,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:11.5017718Z",
-    "StartedAt": "2026-03-02T07:00:00.7829262Z",
-    "FinishedAt": "2026-03-02T07:00:11.5017664Z",
+    "RunTime": "2026-03-02T11:00:08.1077595Z",
+    "StartedAt": "2026-03-02T11:00:00.5029155Z",
+    "FinishedAt": "2026-03-02T11:00:08.1077569Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "The HU \u002B SK\u00C1LD",
+        "DateString": "2026-10-14T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/the-hu/a10Qw00000GNhnpIAD",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000LjPe6MAF_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Unique blend of metal and traditional Mongolian throat singing",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
@@ -147,7 +160,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "993a6c46fd07ca0545c2c851118fe82584255c5fa812f7ccf5e5e3e992308c08",
+        "Hash": "5fc10fa93589ddb622ef5d12e7e952427dccdf21dcb796631cdd51bd6781db26",
         "EventCount": 59,
         "Status": "Success",
         "ErrorMessage": null
@@ -157,7 +170,7 @@
         "Year": 2026,
         "FileName": "botanique-05-2026.json",
         "FilePath": "events/concerts/botanique/botanique-05-2026.json",
-        "Hash": "31ceb588099a456b70970a9291f093fced97aef541631a1f135f0bed5f0fd812",
+        "Hash": "3d889f6b4fbb459b95cf4b788acf5427d93fe2f7fa3be6fd3b028facbcba2fdd",
         "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
@@ -215,11 +228,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:22.5046715Z",
-    "StartedAt": "2026-03-02T07:00:00.7836402Z",
-    "FinishedAt": "2026-03-02T07:00:22.5046698Z",
+    "RunTime": "2026-03-02T11:00:23.6649437Z",
+    "StartedAt": "2026-03-02T11:00:00.5043469Z",
+    "FinishedAt": "2026-03-02T11:00:23.6649423Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Shearling - Paradoxant",
+        "DateString": "2026-04-28T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/shearling-paradoxant-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-01/1774c620-d1bd-44c6-a947-c5d651c7cb92.jpeg?itok=UkYHY8uY",
+        "Location": "Botanique, Brussels",
+        "Description": "Een unieke post-everything noise-tornado die je op je knie\u00EBn zal laten vallen",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -321,9 +347,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:03.01219Z",
-    "StartedAt": "2026-03-02T07:00:00.784026Z",
-    "FinishedAt": "2026-03-02T07:00:03.012186Z",
+    "RunTime": "2026-03-02T11:00:01.4498563Z",
+    "StartedAt": "2026-03-02T11:00:00.5047171Z",
+    "FinishedAt": "2026-03-02T11:00:01.4498523Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -377,9 +403,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:01:16.5567483Z",
-    "StartedAt": "2026-03-02T07:00:00.7844888Z",
-    "FinishedAt": "2026-03-02T07:01:16.5564117Z",
+    "RunTime": "2026-03-02T11:01:43.8504742Z",
+    "StartedAt": "2026-03-02T11:00:00.5048732Z",
+    "FinishedAt": "2026-03-02T11:01:43.8504707Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -388,7 +414,7 @@
     "VenueId": "decasino",
     "VenueName": "De Casino",
     "Category": "Concerts",
-    "TotalEventsFound": 45,
+    "TotalEventsFound": 46,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -455,19 +481,32 @@
         "Year": 2026,
         "FileName": "decasino-12-2026.json",
         "FilePath": "events/concerts/decasino/decasino-12-2026.json",
-        "Hash": "39250d1e645c76e001c1d4cb424405634a180c67dc813371a366bb2e8b3d4cb8",
-        "EventCount": 1,
+        "Hash": "db72ef5bb58b5b73c7546f85f0d4d2bfa5c99c75ee42b13c8d7dcaaf0ecabb2d",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:03.0223625Z",
-    "StartedAt": "2026-03-02T07:00:00.7850553Z",
-    "FinishedAt": "2026-03-02T07:00:03.0223583Z",
+    "RunTime": "2026-03-02T11:00:01.5011932Z",
+    "StartedAt": "2026-03-02T11:00:00.5051327Z",
+    "FinishedAt": "2026-03-02T11:00:01.5011906Z",
     "FaviconUrl": "images/icons/decasino.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Dominum",
+        "DateString": "2026-12-06T00:00:00",
+        "Url": "https://decasino.be/concert/dominum/",
+        "ImageUrl": "",
+        "Location": "De Casino",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1692",
+        "Longitude": "4.1422"
+      }
+    ]
   },
   {
     "ScraperName": "DeKluizeScraper",
@@ -519,9 +558,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:03.6368023Z",
-    "StartedAt": "2026-03-02T07:00:00.7855736Z",
-    "FinishedAt": "2026-03-02T07:00:03.6367964Z",
+    "RunTime": "2026-03-02T11:00:02.6362365Z",
+    "StartedAt": "2026-03-02T11:00:00.5052937Z",
+    "FinishedAt": "2026-03-02T11:00:02.6362199Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -615,9 +654,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:02.8084728Z",
-    "StartedAt": "2026-03-02T07:00:00.7860609Z",
-    "FinishedAt": "2026-03-02T07:00:02.8084688Z",
+    "RunTime": "2026-03-02T11:00:01.1639175Z",
+    "StartedAt": "2026-03-02T11:00:00.5054779Z",
+    "FinishedAt": "2026-03-02T11:00:01.1638872Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -643,7 +682,7 @@
         "Year": 2026,
         "FileName": "deroma-04-2026.json",
         "FilePath": "events/concerts/deroma/deroma-04-2026.json",
-        "Hash": "2764e75a6944c8ac1d4c1a6aec0914b69d3cde29556b728fe1bdfc45768e592c",
+        "Hash": "029b2c3655af67effd2c1c7f5042833385d4e03050a1e4e62f6dae8a88d245fb",
         "EventCount": 25,
         "Status": "Success",
         "ErrorMessage": null
@@ -741,9 +780,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:03.8392196Z",
-    "StartedAt": "2026-03-02T07:00:00.7866457Z",
-    "FinishedAt": "2026-03-02T07:00:03.839217Z",
+    "RunTime": "2026-03-02T11:00:03.0037296Z",
+    "StartedAt": "2026-03-02T11:00:00.5056252Z",
+    "FinishedAt": "2026-03-02T11:00:03.0037267Z",
     "FaviconUrl": "images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -797,9 +836,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:02.674089Z",
-    "StartedAt": "2026-03-02T07:00:00.7872215Z",
-    "FinishedAt": "2026-03-02T07:00:02.6738029Z",
+    "RunTime": "2026-03-02T11:00:01.2393033Z",
+    "StartedAt": "2026-03-02T11:00:00.5058578Z",
+    "FinishedAt": "2026-03-02T11:00:01.239299Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -833,9 +872,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:02.5631494Z",
-    "StartedAt": "2026-03-02T07:00:00.7879731Z",
-    "FinishedAt": "2026-03-02T07:00:02.5631428Z",
+    "RunTime": "2026-03-02T11:00:00.9911569Z",
+    "StartedAt": "2026-03-02T11:00:00.5061054Z",
+    "FinishedAt": "2026-03-02T11:00:00.9911509Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -919,9 +958,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:03.8482697Z",
-    "StartedAt": "2026-03-02T07:00:00.7885435Z",
-    "FinishedAt": "2026-03-02T07:00:03.8481244Z",
+    "RunTime": "2026-03-02T11:00:01.940089Z",
+    "StartedAt": "2026-03-02T11:00:00.5062904Z",
+    "FinishedAt": "2026-03-02T11:00:01.9400854Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -985,9 +1024,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:02.6898446Z",
-    "StartedAt": "2026-03-02T07:00:00.7891325Z",
-    "FinishedAt": "2026-03-02T07:00:02.6898403Z",
+    "RunTime": "2026-03-02T11:00:01.72599Z",
+    "StartedAt": "2026-03-02T11:00:00.5065072Z",
+    "FinishedAt": "2026-03-02T11:00:01.7259859Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -1003,7 +1042,7 @@
         "Year": 2026,
         "FileName": "ha-03-2026.json",
         "FilePath": "events/concerts/ha/ha-03-2026.json",
-        "Hash": "3a8f590c4373848cc1bc58a1be1f568d4d03b7fdc837a6498d2f13b428d19f77",
+        "Hash": "f35663ef965f31aff2d210eb5ecd09289c1432eae3b85ebc66b82621eaf3c7da",
         "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
@@ -1071,9 +1110,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:09.2877668Z",
-    "StartedAt": "2026-03-02T07:00:00.7896524Z",
-    "FinishedAt": "2026-03-02T07:00:09.2871704Z",
+    "RunTime": "2026-03-02T11:00:09.3218141Z",
+    "StartedAt": "2026-03-02T11:00:00.5067044Z",
+    "FinishedAt": "2026-03-02T11:00:09.3218094Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1187,9 +1226,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:33.6856558Z",
-    "StartedAt": "2026-03-02T07:00:00.7902566Z",
-    "FinishedAt": "2026-03-02T07:00:33.6856276Z",
+    "RunTime": "2026-03-02T11:00:35.901404Z",
+    "StartedAt": "2026-03-02T11:00:00.5073918Z",
+    "FinishedAt": "2026-03-02T11:00:35.9013997Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1263,9 +1302,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:02.4793562Z",
-    "StartedAt": "2026-03-02T07:00:00.7909332Z",
-    "FinishedAt": "2026-03-02T07:00:02.4793513Z",
+    "RunTime": "2026-03-02T11:00:01.2004717Z",
+    "StartedAt": "2026-03-02T11:00:00.5077164Z",
+    "FinishedAt": "2026-03-02T11:00:01.2004548Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1299,9 +1338,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:05.8883454Z",
-    "StartedAt": "2026-03-02T07:00:00.7914701Z",
-    "FinishedAt": "2026-03-02T07:00:05.8883392Z",
+    "RunTime": "2026-03-02T11:00:05.4067738Z",
+    "StartedAt": "2026-03-02T11:00:00.5078791Z",
+    "FinishedAt": "2026-03-02T11:00:05.4067679Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1345,9 +1384,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:03.5125752Z",
-    "StartedAt": "2026-03-02T07:00:00.7919122Z",
-    "FinishedAt": "2026-03-02T07:00:03.5125692Z",
+    "RunTime": "2026-03-02T11:00:01.9816593Z",
+    "StartedAt": "2026-03-02T11:00:00.508061Z",
+    "FinishedAt": "2026-03-02T11:00:01.981655Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1411,9 +1450,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:23.2679725Z",
-    "StartedAt": "2026-03-02T07:00:00.79254Z",
-    "FinishedAt": "2026-03-02T07:00:23.2679687Z",
+    "RunTime": "2026-03-02T11:00:22.8056772Z",
+    "StartedAt": "2026-03-02T11:00:00.5083626Z",
+    "FinishedAt": "2026-03-02T11:00:22.8056725Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1422,7 +1461,7 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 106,
+    "TotalEventsFound": 107,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -1449,8 +1488,8 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "f35db3b9ebd11e1b2aba5e76c8dfd26d52f94a438537008c75b767b28de9ce85",
-        "EventCount": 25,
+        "Hash": "ddf9e5c92a28781c734925b4b0260702a72782da2aa70f0504258bce9a5f7a3c",
+        "EventCount": 26,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1497,11 +1536,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:11.9329384Z",
-    "StartedAt": "2026-03-02T07:00:00.7931631Z",
-    "FinishedAt": "2026-03-02T07:00:11.9329353Z",
+    "RunTime": "2026-03-02T11:00:09.3889267Z",
+    "StartedAt": "2026-03-02T11:00:00.5086028Z",
+    "FinishedAt": "2026-03-02T11:00:09.3889244Z",
     "FaviconUrl": "images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Nightstalker",
+        "DateString": "2026-05-09T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/nightstalker/4094/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/nightstalkerwebsite.png",
+        "Location": "Trix",
+        "Description": "Sinds 1989 mixt het Griekse Nightstalker heavy rock en psychedelische grooves tot een rauwe, compromisloze sound.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -1515,7 +1567,7 @@
         "Year": 2026,
         "FileName": "wildewesten-03-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-03-2026.json",
-        "Hash": "78d543c9de8841c190292fd1060834cb9065fecc85b987ff9a271ea9c237f7eb",
+        "Hash": "3288a623e52087e51ff42d9bbf5a984a6905ef9ded836f8b4076963a5432fe24",
         "EventCount": 20,
         "Status": "Success",
         "ErrorMessage": null
@@ -1583,9 +1635,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:01:18.3144643Z",
-    "StartedAt": "2026-03-02T07:00:00.7936909Z",
-    "FinishedAt": "2026-03-02T07:01:18.3144603Z",
+    "RunTime": "2026-03-02T11:01:18.011367Z",
+    "StartedAt": "2026-03-02T11:00:00.5863479Z",
+    "FinishedAt": "2026-03-02T11:01:18.0113625Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1594,18 +1646,8 @@
     "VenueId": "wintercircus",
     "VenueName": "Wintercircus, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 43,
+    "TotalEventsFound": 46,
     "MonthlyFiles": [
-      {
-        "Month": 9,
-        "Year": 2025,
-        "FileName": "wintercircus-09-2025.json",
-        "FilePath": "events/concerts/wintercircus/wintercircus-09-2025.json",
-        "Hash": "8252a2e4f8fe4606c6f5e485086b49c7723eeb1c615aa7bd83f4c26f4c19ec75",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 12,
         "Year": 2025,
@@ -1621,8 +1663,8 @@
         "Year": 2026,
         "FileName": "wintercircus-02-2026.json",
         "FilePath": "events/concerts/wintercircus/wintercircus-02-2026.json",
-        "Hash": "df193f48817316d1c254dab32442746306ec545d32fad49634def076cd1f18dc",
-        "EventCount": 4,
+        "Hash": "0cb9f8982def2e497ac6a2be91ff141856250fe17ddf65fbe61cb1413a3aeb2e",
+        "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1631,8 +1673,8 @@
         "Year": 2026,
         "FileName": "wintercircus-03-2026.json",
         "FilePath": "events/concerts/wintercircus/wintercircus-03-2026.json",
-        "Hash": "a3cc062b09804b1be8a54c9e2a3c0be75eb10c9e7509944006ddbc165779df8a",
-        "EventCount": 14,
+        "Hash": "43b16fe89778dc62bd88b249195eaf486fa5bfec4095c74f5453629f911e7a5e",
+        "EventCount": 16,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1641,8 +1683,8 @@
         "Year": 2026,
         "FileName": "wintercircus-04-2026.json",
         "FilePath": "events/concerts/wintercircus/wintercircus-04-2026.json",
-        "Hash": "60a4aeddfffc32a69b3f51596f7c2d7cccb7c577166b1484cb2da763753c85b6",
-        "EventCount": 9,
+        "Hash": "d2f1572329c0a882a9fb466aed971d2c38c511393241e4ec181ed2fdaba61724",
+        "EventCount": 13,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1651,8 +1693,8 @@
         "Year": 2026,
         "FileName": "wintercircus-05-2026.json",
         "FilePath": "events/concerts/wintercircus/wintercircus-05-2026.json",
-        "Hash": "7c70bf4a0dda4f948215e435524e02816d74e36cc2d42afe941828b46ba7d566",
-        "EventCount": 12,
+        "Hash": "93eb63fd4064cb4595cf7915127afe81aad17d08d6dc545f8ab673ca34aaa9db",
+        "EventCount": 13,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1679,10 +1721,107 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-03-02T07:00:02.6058491Z",
-    "StartedAt": "2026-03-02T07:00:00.7942843Z",
-    "FinishedAt": "2026-03-02T07:00:02.6058335Z",
+    "RunTime": "2026-03-02T11:00:06.2981794Z",
+    "StartedAt": "2026-03-02T11:00:00.5866212Z",
+    "FinishedAt": "2026-03-02T11:00:06.2981764Z",
     "FaviconUrl": "images/icons/wintercircus.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "The Piano Bar #2",
+        "DateString": "2026-03-06T20:00:00.0000000\u002B01:00",
+        "Url": "https://www.quatremainspianos.be/evenementen-overzicht/the-piano-bar-2",
+        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/4orXOvRH7qQBs5Tgr6NZ0j/36ea2d11485676e542cae14bb189c8d3/The_Piano_Bar_6_3.webp",
+        "Location": "Wintercircus, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0481",
+        "Longitude": "3.728"
+      },
+      {
+        "Title": "The Piano Bar #3",
+        "DateString": "2026-03-07T20:00:00.0000000\u002B01:00",
+        "Url": "https://www.quatremainspianos.be/evenementen-overzicht/the-piano-bar-3",
+        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/2ly6ORq4GQhDyVtJqIzU0J/72309db2829f07478a9df96d15001d3a/The_Piano_Bar_7_3.webp",
+        "Location": "Wintercircus, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0481",
+        "Longitude": "3.728"
+      },
+      {
+        "Title": "schntzl: Album Release Show - \u002B Sinaas \u002B Lindy Versyck",
+        "DateString": "2026-03-26T19:30:00.0000000\u002B01:00",
+        "Url": "https://www.viernulvier.gent/nl/agenda/schntzl-album-release-show-qln3",
+        "ImageUrl": "https://images.uitdatabank.be/23016365-d430-4d96-adc7-277e4ac4557c.jpeg",
+        "Location": "Wintercircus - Club, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0487",
+        "Longitude": "3.7283"
+      },
+      {
+        "Title": "CLUB LAAT: THE SPACE BETWEEN - Curated by UNOS",
+        "DateString": "2026-04-04T23:00:00.0000000\u002B02:00",
+        "Url": "https://www.viernulvier.gent/nl/agenda/club-laat-the-space-between-z9pf",
+        "ImageUrl": "https://images.uitdatabank.be/b7de59fc-806d-4233-b215-df08d8646f9c.png",
+        "Location": "Wintercircus - Club, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0487",
+        "Longitude": "3.7283"
+      },
+      {
+        "Title": "The Piano Bar #4",
+        "DateString": "2026-04-10T21:00:00.0000000\u002B02:00",
+        "Url": "https://www.quatremainspianos.be/evenementen-overzicht/the-piano-bar-4",
+        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/1sRxHUQY74DRyEqy86fPFS/2d284daf884d8e83306807fb5ec2dc8b/The_Piano_Bar_10_4.webp",
+        "Location": "Wintercircus, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0481",
+        "Longitude": "3.728"
+      },
+      {
+        "Title": "The Piano Bar #5",
+        "DateString": "2026-04-11T21:00:00.0000000\u002B02:00",
+        "Url": "https://www.quatremainspianos.be/evenementen-overzicht/the-piano-bar-5",
+        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/56WDBn5Ewl989ngpLYFtS0/adef833f4f23e8c46454330e42df0cc9/The_Piano_Bar_11_4.webp",
+        "Location": "Wintercircus, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0481",
+        "Longitude": "3.728"
+      },
+      {
+        "Title": "CLUB LAAT - Viciosa",
+        "DateString": "2026-04-25T23:00:00.0000000\u002B02:00",
+        "Url": "https://www.viernulvier.gent/nl/agenda/club-laat-nycj",
+        "ImageUrl": "https://images.uitdatabank.be/f77763ae-8379-4cad-9b58-791a322250fc.jpeg",
+        "Location": "Wintercircus - Club, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0487",
+        "Longitude": "3.7283"
+      },
+      {
+        "Title": "DUB CIRCUS - w/ SINAI SOUND SYSTEM, ALPHA STEPPA, Pala10",
+        "DateString": "2026-05-09T22:00:00.0000000\u002B02:00",
+        "Url": "https://www.viernulvier.gent/nl/agenda/dub-circus-l6zf",
+        "ImageUrl": "https://images.uitdatabank.be/aea5ceda-88aa-4d90-a39a-3b95ffea40f5.jpeg",
+        "Location": "Wintercircus - Club, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0487",
+        "Longitude": "3.7283"
+      }
+    ]
   }
 ]
