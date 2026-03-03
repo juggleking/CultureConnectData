@@ -4,14 +4,14 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 198,
+    "TotalEventsFound": 199,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "0bff2238bf61e4da51e47e808641520419ad7bb1e1cfbe490534304523f9cc35",
+        "Hash": "95a317963b48254bb73f1d778a372c3312a14882e2868ad1a0b95c9d9328dd66",
         "EventCount": 61,
         "Status": "Success",
         "ErrorMessage": null
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-04-2026.json",
         "FilePath": "events/concerts/ab/ab-04-2026.json",
-        "Hash": "29873707fb4e1097b1b0b0e6928c965d7a9152badb2249f2db2bc90f226d79f1",
+        "Hash": "cdbc2981e9137a61a2e2da97dd95bb6be7633c4fc13ae4664964546bd75a2a2d",
         "EventCount": 43,
         "Status": "Success",
         "ErrorMessage": null
@@ -71,8 +71,8 @@
         "Year": 2026,
         "FileName": "ab-10-2026.json",
         "FilePath": "events/concerts/ab/ab-10-2026.json",
-        "Hash": "87e6f9149be89cfd53ec0a9fba244a4e40629f40e00e850537f03c436326df1b",
-        "EventCount": 15,
+        "Hash": "a5b81f4c3a6606d9f67129199836b49a3cedcda40cc9a03f689d7f3b6bd1aab7",
+        "EventCount": 16,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -119,25 +119,38 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:10.1559222Z",
-    "StartedAt": "2026-03-03T07:00:00.6730209Z",
-    "FinishedAt": "2026-03-03T07:00:10.1554409Z",
+    "RunTime": "2026-03-03T11:00:10.8977903Z",
+    "StartedAt": "2026-03-03T11:00:01.2679887Z",
+    "FinishedAt": "2026-03-03T11:00:10.897788Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Jalen Ngonda",
+        "DateString": "2026-10-06T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000LnXzeMAF_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 163,
+    "TotalEventsFound": 165,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "botanique-03-2026.json",
         "FilePath": "events/concerts/botanique/botanique-03-2026.json",
-        "Hash": "bde0fb58662a84c0b7ff658ffd61460523304bd72207458655dd04e909b8216b",
+        "Hash": "a48d76feaba38ae22200f9b6a9ad337187e9329b210fbf4a88639d0d7c19976e",
         "EventCount": 57,
         "Status": "Success",
         "ErrorMessage": null
@@ -147,7 +160,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "5fc10fa93589ddb622ef5d12e7e952427dccdf21dcb796631cdd51bd6781db26",
+        "Hash": "6e61018095c93b459c8bb8af23e29c681573128d54e3d8ba0befba3ce8814758",
         "EventCount": 59,
         "Status": "Success",
         "ErrorMessage": null
@@ -167,8 +180,8 @@
         "Year": 2026,
         "FileName": "botanique-06-2026.json",
         "FilePath": "events/concerts/botanique/botanique-06-2026.json",
-        "Hash": "9c4d6dabb3982bd8ffcfac74aa4b3f5dc784850ff377479ee136f1135127e031",
-        "EventCount": 8,
+        "Hash": "e113592eaee2e87843af2561d919feccaa1b446a0989b91cfd496ac1d0c7d3a3",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -177,8 +190,8 @@
         "Year": 2026,
         "FileName": "botanique-09-2026.json",
         "FilePath": "events/concerts/botanique/botanique-09-2026.json",
-        "Hash": "ca43239127f87fd39fda12f2b8e6abf8f7565cb34b7312aa21be94e6fc65f81a",
-        "EventCount": 7,
+        "Hash": "3b93e66ac2f96e3e722cd4e3af463134045fda208df9f26aaaaef300f6c858d1",
+        "EventCount": 8,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -215,11 +228,60 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:18.6222105Z",
-    "StartedAt": "2026-03-03T07:00:00.674392Z",
-    "FinishedAt": "2026-03-03T07:00:18.6222086Z",
+    "RunTime": "2026-03-03T11:00:24.0021439Z",
+    "StartedAt": "2026-03-03T11:00:01.2690311Z",
+    "FinishedAt": "2026-03-03T11:00:24.0021418Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "L\u00E9zard - maya dhondt",
+        "DateString": "2026-03-15T17:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/lezard-maya-dhondt-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-07/lezard_2024_horizontal_final-1.jpg?itok=Y6P4k3sh",
+        "Location": "Botanique, Brussels",
+        "Description": "Belgische postpunkdisco: hoekig, nerveus, stijlvol en een tikje gek",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "The Sophs - Armel",
+        "DateString": "2026-04-25T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/sophs-armel-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-10/65590007-WIDER.jpg?itok=ucrelbQq",
+        "Location": "Botanique, Brussels",
+        "Description": "De Californische band die labels weigert en het podium in vuur en vlam zet",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Whoman - Blumi",
+        "DateString": "2026-06-10T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/whoman-blumi-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-03/WHOMAN.jpg?itok=3B3RFZze",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Ty Segall",
+        "DateString": "2026-09-12T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/ty-segall-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/TY%20SEGALL.jpg?itok=wicl0n7E",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Museum",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -321,9 +383,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.0758556Z",
-    "StartedAt": "2026-03-03T07:00:00.676155Z",
-    "FinishedAt": "2026-03-03T07:00:03.0758516Z",
+    "RunTime": "2026-03-03T11:00:03.729949Z",
+    "StartedAt": "2026-03-03T11:00:01.2692252Z",
+    "FinishedAt": "2026-03-03T11:00:03.7299446Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -377,9 +439,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:52.5121715Z",
-    "StartedAt": "2026-03-03T07:00:00.6770036Z",
-    "FinishedAt": "2026-03-03T07:00:52.5121666Z",
+    "RunTime": "2026-03-03T11:01:31.8149927Z",
+    "StartedAt": "2026-03-03T11:00:01.2699299Z",
+    "FinishedAt": "2026-03-03T11:01:31.8149881Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -463,9 +525,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.1140318Z",
-    "StartedAt": "2026-03-03T07:00:00.6778143Z",
-    "FinishedAt": "2026-03-03T07:00:03.1140274Z",
+    "RunTime": "2026-03-03T11:00:03.9129542Z",
+    "StartedAt": "2026-03-03T11:00:01.2701239Z",
+    "FinishedAt": "2026-03-03T11:00:03.9125808Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -474,15 +536,15 @@
     "VenueId": "dekluize",
     "VenueName": "GC De Kluize, Oosterzele",
     "Category": "Concerts",
-    "TotalEventsFound": 27,
+    "TotalEventsFound": 26,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "dekluize-03-2026.json",
         "FilePath": "events/concerts/dekluize/dekluize-03-2026.json",
-        "Hash": "f9bbe5854342d512be0af50e64584858353dfd69f31ee9457515e0407bc956b2",
-        "EventCount": 18,
+        "Hash": "aad7ce783d33fe771007a4d8b06074707a3ff8a4d7e456a7633a8c9560e023ae",
+        "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -519,9 +581,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.9649739Z",
-    "StartedAt": "2026-03-03T07:00:00.6785955Z",
-    "FinishedAt": "2026-03-03T07:00:03.9649703Z",
+    "RunTime": "2026-03-03T11:00:04.2594637Z",
+    "StartedAt": "2026-03-03T11:00:01.2707309Z",
+    "FinishedAt": "2026-03-03T11:00:04.2594595Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -547,7 +609,7 @@
         "Year": 2026,
         "FileName": "democrazy-04-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-04-2026.json",
-        "Hash": "e340a8f5e2d95fc85c7e26a751cb37a8e2025454aa7552988b2b5d6c69d776e7",
+        "Hash": "a88b9df7131508a1f46d476057259f0d8c0ab132be6083f486ddd0ae3efb0f09",
         "EventCount": 22,
         "Status": "Success",
         "ErrorMessage": null
@@ -615,9 +677,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.1501046Z",
-    "StartedAt": "2026-03-03T07:00:00.6795455Z",
-    "FinishedAt": "2026-03-03T07:00:03.1500598Z",
+    "RunTime": "2026-03-03T11:00:03.9259359Z",
+    "StartedAt": "2026-03-03T11:00:01.2708768Z",
+    "FinishedAt": "2026-03-03T11:00:03.9259317Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -633,7 +695,7 @@
         "Year": 2026,
         "FileName": "deroma-03-2026.json",
         "FilePath": "events/concerts/deroma/deroma-03-2026.json",
-        "Hash": "9e00914b792810f7670dabb7116c0a24759e522762954a6f554aed9dfc85fc97",
+        "Hash": "ac0e2467d7a5560987decf30e3daad9f53659dacd83113d35b268aad8c13fb2a",
         "EventCount": 24,
         "Status": "Success",
         "ErrorMessage": null
@@ -741,9 +803,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:05.1984698Z",
-    "StartedAt": "2026-03-03T07:00:00.6803201Z",
-    "FinishedAt": "2026-03-03T07:00:05.198466Z",
+    "RunTime": "2026-03-03T11:00:04.7730555Z",
+    "StartedAt": "2026-03-03T11:00:01.2709503Z",
+    "FinishedAt": "2026-03-03T11:00:04.7730304Z",
     "FaviconUrl": "images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -797,9 +859,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:02.9405078Z",
-    "StartedAt": "2026-03-03T07:00:00.6809435Z",
-    "FinishedAt": "2026-03-03T07:00:02.9405035Z",
+    "RunTime": "2026-03-03T11:00:03.2423297Z",
+    "StartedAt": "2026-03-03T11:00:01.2943639Z",
+    "FinishedAt": "2026-03-03T11:00:03.2423255Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -833,9 +895,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:02.9292821Z",
-    "StartedAt": "2026-03-03T07:00:00.6817595Z",
-    "FinishedAt": "2026-03-03T07:00:02.9288572Z",
+    "RunTime": "2026-03-03T11:00:03.2136958Z",
+    "StartedAt": "2026-03-03T11:00:01.2945754Z",
+    "FinishedAt": "2026-03-03T11:00:03.2136918Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -919,9 +981,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:04.2767834Z",
-    "StartedAt": "2026-03-03T07:00:00.6824048Z",
-    "FinishedAt": "2026-03-03T07:00:04.2767791Z",
+    "RunTime": "2026-03-03T11:00:04.9806874Z",
+    "StartedAt": "2026-03-03T11:00:01.2955608Z",
+    "FinishedAt": "2026-03-03T11:00:04.9806834Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -985,9 +1047,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.0822776Z",
-    "StartedAt": "2026-03-03T07:00:00.6831549Z",
-    "FinishedAt": "2026-03-03T07:00:03.0822738Z",
+    "RunTime": "2026-03-03T11:00:03.8713292Z",
+    "StartedAt": "2026-03-03T11:00:01.2957611Z",
+    "FinishedAt": "2026-03-03T11:00:03.8713244Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -996,7 +1058,7 @@
     "VenueId": "ha",
     "VenueName": "Ha Concerts, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 44,
+    "TotalEventsFound": 45,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -1023,8 +1085,8 @@
         "Year": 2026,
         "FileName": "ha-05-2026.json",
         "FilePath": "events/concerts/ha/ha-05-2026.json",
-        "Hash": "8735618211d0912c67bd1310f6412b805d2053a57f0c9c0f36895bb816782f1f",
-        "EventCount": 11,
+        "Hash": "33830e47c1034ee8b1899232405915c8e6e6eca6cd887b545ebb4a5fc0b94b80",
+        "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1071,11 +1133,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:09.4364145Z",
-    "StartedAt": "2026-03-03T07:00:00.6838775Z",
-    "FinishedAt": "2026-03-03T07:00:09.4364096Z",
+    "RunTime": "2026-03-03T11:00:11.8512805Z",
+    "StartedAt": "2026-03-03T11:00:01.2958898Z",
+    "FinishedAt": "2026-03-03T11:00:11.8512776Z",
     "FaviconUrl": "images/icons/haconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Sander De Keere / Bram De Looze Trio",
+        "DateString": "2026-05-07T00:00:00.0000000",
+        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/sander-de-keere-bram-de-looze-trio-07-05-26",
+        "ImageUrl": "",
+        "Location": "Ha Concerts",
+        "Description": "Minimal reinvented \u002B Intu\u00EFtieve virtuozen",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      }
+    ]
   },
   {
     "ScraperName": "HetDepotScraper",
@@ -1187,9 +1262,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:28.5809216Z",
-    "StartedAt": "2026-03-03T07:00:00.6846408Z",
-    "FinishedAt": "2026-03-03T07:00:28.5809178Z",
+    "RunTime": "2026-03-03T11:00:35.7108344Z",
+    "StartedAt": "2026-03-03T11:00:01.2959974Z",
+    "FinishedAt": "2026-03-03T11:00:35.7108301Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1263,9 +1338,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.02073Z",
-    "StartedAt": "2026-03-03T07:00:00.6855166Z",
-    "FinishedAt": "2026-03-03T07:00:03.0207255Z",
+    "RunTime": "2026-03-03T11:00:03.3018458Z",
+    "StartedAt": "2026-03-03T11:00:01.2961566Z",
+    "FinishedAt": "2026-03-03T11:00:03.3018419Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1299,9 +1374,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:05.1045365Z",
-    "StartedAt": "2026-03-03T07:00:00.6861553Z",
-    "FinishedAt": "2026-03-03T07:00:05.1045327Z",
+    "RunTime": "2026-03-03T11:00:05.5009093Z",
+    "StartedAt": "2026-03-03T11:00:01.2962864Z",
+    "FinishedAt": "2026-03-03T11:00:05.5009049Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1345,9 +1420,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:03.7711733Z",
-    "StartedAt": "2026-03-03T07:00:00.6867596Z",
-    "FinishedAt": "2026-03-03T07:00:03.7711686Z",
+    "RunTime": "2026-03-03T11:00:04.2575085Z",
+    "StartedAt": "2026-03-03T11:00:01.2964249Z",
+    "FinishedAt": "2026-03-03T11:00:04.2575041Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1431,9 +1506,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:23.7969431Z",
-    "StartedAt": "2026-03-03T07:00:00.6874024Z",
-    "FinishedAt": "2026-03-03T07:00:23.7969386Z",
+    "RunTime": "2026-03-03T11:00:25.7470594Z",
+    "StartedAt": "2026-03-03T11:00:01.2966001Z",
+    "FinishedAt": "2026-03-03T11:00:25.7470553Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1442,7 +1517,7 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 107,
+    "TotalEventsFound": 108,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -1459,7 +1534,7 @@
         "Year": 2026,
         "FileName": "trix-04-2026.json",
         "FilePath": "events/concerts/trix/trix-04-2026.json",
-        "Hash": "185d22186b4e22d78cc900ce10722a2ecb7041a1d10834d2f11b2bac3d942628",
+        "Hash": "dc1031578b2fc8dff3f125526e7da3515b6086a02fa27b3a13d48dd0971d3448",
         "EventCount": 26,
         "Status": "Success",
         "ErrorMessage": null
@@ -1479,8 +1554,8 @@
         "Year": 2026,
         "FileName": "trix-06-2026.json",
         "FilePath": "events/concerts/trix/trix-06-2026.json",
-        "Hash": "34933b53af023ec481639f9dfbedfa50bde903a369d9486a458b6ac9d6c8ad4f",
-        "EventCount": 6,
+        "Hash": "bd20e698dd1c8db75295ec6cba2cda54c2a8ebd48ce5ff4379ff9058a02242f6",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1517,11 +1592,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:10.7303976Z",
-    "StartedAt": "2026-03-03T07:00:00.6880308Z",
-    "FinishedAt": "2026-03-03T07:00:10.7303947Z",
+    "RunTime": "2026-03-03T11:00:11.7077129Z",
+    "StartedAt": "2026-03-03T11:00:01.2967996Z",
+    "FinishedAt": "2026-03-03T11:00:11.7077109Z",
     "FaviconUrl": "images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Kanekoayano",
+        "DateString": "2026-06-06T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/kanekoayano/4113/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/260606-kanekoayanowebsite.png",
+        "Location": "Trix",
+        "Description": "Kaneko Ayano cre\u00EBert met haar unieke mix van emotie en geluid een eigen universum op elk podium, van intieme solo-optredens tot uitverkochte arena\u2019s.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -1603,9 +1691,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:01:20.4156525Z",
-    "StartedAt": "2026-03-03T07:00:00.6889225Z",
-    "FinishedAt": "2026-03-03T07:01:20.4155011Z",
+    "RunTime": "2026-03-03T11:01:20.2739062Z",
+    "StartedAt": "2026-03-03T11:00:01.2969617Z",
+    "FinishedAt": "2026-03-03T11:01:20.2739006Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1689,9 +1777,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-03-03T07:00:02.9433344Z",
-    "StartedAt": "2026-03-03T07:00:00.6923373Z",
-    "FinishedAt": "2026-03-03T07:00:02.9433298Z",
+    "RunTime": "2026-03-03T11:00:03.2312996Z",
+    "StartedAt": "2026-03-03T11:00:01.2971604Z",
+    "FinishedAt": "2026-03-03T11:00:03.2312952Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
