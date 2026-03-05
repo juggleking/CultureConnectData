@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-04T06:00:00.5761328Z",
-  "ValidatedAt": "2026-03-04T06:00:00.5761329Z",
-  "TotalScrapers": 21,
-  "TotalEvents": 1401,
+  "GeneratedAt": "2026-03-05T06:00:06.6981765Z",
+  "ValidatedAt": "2026-03-05T06:00:06.6983059Z",
+  "TotalScrapers": 23,
+  "TotalEvents": 1563,
   "TotalErrors": 0,
-  "TotalWarnings": 479,
+  "TotalWarnings": 579,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 196,
+      "TotalEvents": 195,
       "ErrorCount": 0,
-      "WarningCount": 196,
+      "WarningCount": 195,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Judith",
-          "EventDate": "2026-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/judith/a10Qw00000GpIzNIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Coeur De Pirate + Billie Du Page",
-          "EventDate": "2026-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/coeur-de-pirate/a10Qw000003npFnIAI",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Heaven Shall Burn + The Black Dahlia Murder, The Halo Effect, Frozen Soul",
           "EventDate": "2026-03-05T00:00:00.0000000",
@@ -104,9 +78,9 @@
           ]
         },
         {
-          "EventTitle": "Artist in Residence: showcase Open Choir Practice",
+          "EventTitle": "sombr + Charlotte Lawrence",
           "EventDate": "2026-03-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-in-residence-showcase-open-choir-practice/a10Qw00000E8jxZIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sombr/a10Qw00000A4kRVIAZ",
           "Issues": [
             {
               "Field": "DateString",
@@ -117,9 +91,9 @@
           ]
         },
         {
-          "EventTitle": "sombr + Charlotte Lawrence",
+          "EventTitle": "Artist in Residence: showcase Open Choir Practice",
           "EventDate": "2026-03-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sombr/a10Qw00000A4kRVIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-in-residence-showcase-open-choir-practice/a10Qw00000E8jxZIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -273,9 +247,9 @@
           ]
         },
         {
-          "EventTitle": "Borokov Borokov + Marie Klock",
+          "EventTitle": "AB x RITCS-café: FOꓘKOP.EЯA",
           "EventDate": "2026-03-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/borokov-borokov/a10Qw00000AukVUIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ab-x-ritcs-cafe-fokopea/a10Qw00000GMc2DIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -286,9 +260,9 @@
           ]
         },
         {
-          "EventTitle": "AB x RITCS-café: FOꓘKOP.EЯA",
+          "EventTitle": "Borokov Borokov + Marie Klock",
           "EventDate": "2026-03-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ab-x-ritcs-cafe-fokopea/a10Qw00000GMc2DIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/borokov-borokov/a10Qw00000AukVUIAZ",
           "Issues": [
             {
               "Field": "DateString",
@@ -377,7 +351,7 @@
           ]
         },
         {
-          "EventTitle": "MARO",
+          "EventTitle": "MARO + carbeau, Manuel Rocha, Pedro Altério",
           "EventDate": "2026-03-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/maro/a10Qw000007AhNvIAK",
           "Issues": [
@@ -494,9 +468,9 @@
           ]
         },
         {
-          "EventTitle": "Cavetown + Dreamer Isioma",
+          "EventTitle": "Double Bill: AySay & Melina",
           "EventDate": "2026-03-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cavetown/a10Qw000006GuyuIAC",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-aysay-melina/a10Qw00000DF7EdIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -507,9 +481,9 @@
           ]
         },
         {
-          "EventTitle": "Double Bill: AySay & Melina",
+          "EventTitle": "Cavetown + Dreamer Isioma",
           "EventDate": "2026-03-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-aysay-melina/a10Qw00000DF7EdIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cavetown/a10Qw000006GuyuIAC",
           "Issues": [
             {
               "Field": "DateString",
@@ -845,9 +819,9 @@
           ]
         },
         {
-          "EventTitle": "Roufaida + Nina Sampermans",
+          "EventTitle": "DEADLETTER + Bleech 9:3",
           "EventDate": "2026-04-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/roufaida/a10Qw00000EyzzpIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/deadletter/a10Qw00000AVT82IAH",
           "Issues": [
             {
               "Field": "DateString",
@@ -858,9 +832,9 @@
           ]
         },
         {
-          "EventTitle": "DEADLETTER + Bleech 9:3",
+          "EventTitle": "Roufaida + Nina Sampermans",
           "EventDate": "2026-04-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/deadletter/a10Qw00000AVT82IAH",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/roufaida/a10Qw00000EyzzpIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2457,6 +2431,19 @@
           ]
         },
         {
+          "EventTitle": "Kids With Buns",
+          "EventDate": "2026-12-09T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kids-with-buns/a10Qw00000EDqn7IAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Channel Zero",
           "EventDate": "2026-12-10T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiLIAU",
@@ -2616,26 +2603,13 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 60,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Courtney Marie Andrews + Aäron Koch",
-          "EventDate": "2026-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/courtney-marie-andrews",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stereolab",
+          "EventTitle": "Stereolab + beerkat",
           "EventDate": "2026-03-06T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/stereolab",
           "Issues": [
@@ -3116,7 +3090,7 @@
           ]
         },
         {
-          "EventTitle": "Brennt Vanneste",
+          "EventTitle": "Brennt Vanneste + Pieter-Paul Devos",
           "EventDate": "2026-05-26T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brennt-vanneste",
           "Issues": [
@@ -3423,22 +3397,22 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Testament",
-          "EventDate": "2026-03-04T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
+          "EventTitle": "Pot Nat",
+          "EventDate": "2026-03-05T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/pot-nat",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-05T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00.0000000"
+              "ActualValue": "2026-03-05T00:00:00.0000000"
             }
           ]
         },
         {
-          "EventTitle": "Pot Nat",
+          "EventTitle": "Testament",
           "EventDate": "2026-03-05T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/pot-nat",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
           "Issues": [
             {
               "Field": "DateString",
@@ -3659,24 +3633,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 46,
+      "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 46,
+      "WarningCount": 45,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tijd voor 90 / Bettie Serveert + Lip Service",
-          "EventDate": "2026-03-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bettie-serveert/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Tijd voor 90 / Ozric Tentacles + Quantum Fantay",
           "EventDate": "2026-03-05T00:00:00",
@@ -3730,7 +3691,7 @@
           ]
         },
         {
-          "EventTitle": "DC Underground Sessions / Michiel De Malsche invites",
+          "EventTitle": "Carte Blanche",
           "EventDate": "2026-03-12T00:00:00",
           "EventUrl": "https://decasino.be/concert/dc-underground-sessions-michiel-de-malsche-invites/",
           "Issues": [
@@ -4599,9 +4560,9 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 79,
+      "TotalEvents": 82,
       "ErrorCount": 0,
-      "WarningCount": 79,
+      "WarningCount": 82,
       "Issues": [],
       "EventDetails": [
         {
@@ -5437,6 +5398,19 @@
           ]
         },
         {
+          "EventTitle": "Curtis Harding",
+          "EventDate": "2026-06-07",
+          "EventUrl": "https://www.democrazy.be/agenda/3173-curtis-harding/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-07'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-07"
+            }
+          ]
+        },
+        {
           "EventTitle": "Palmarium: Blickwinkel presents: Suzan Peeters & L. Jacobs",
           "EventDate": "2026-06-10",
           "EventUrl": "https://www.democrazy.be/agenda/3159-palmarium-blickwinkel-presents-suzan-peeters-l.-jacobs/",
@@ -5593,6 +5567,19 @@
           ]
         },
         {
+          "EventTitle": "Ão (extra show)",
+          "EventDate": "2026-11-10",
+          "EventUrl": "https://www.democrazy.be/agenda/3172-ao/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-10"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ão",
           "EventDate": "2026-11-11",
           "EventUrl": "https://www.democrazy.be/agenda/3136-ao/",
@@ -5619,6 +5606,19 @@
           ]
         },
         {
+          "EventTitle": "The Selecter",
+          "EventDate": "2026-12-17",
+          "EventUrl": "https://www.democrazy.be/agenda/3174-the-selecter/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-17"
+            }
+          ]
+        },
+        {
           "EventTitle": "Madou",
           "EventDate": "2027-01-28",
           "EventUrl": "https://www.democrazy.be/agenda/3153-madou/",
@@ -5637,7 +5637,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 26,
+      "TotalEvents": 25,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5647,24 +5647,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 48,
+      "TotalEvents": 49,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 49,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Spirit of Talk Talk",
-          "EventDate": "2026-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/the-spirit-of-talk-talk-04-03-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Melting Pot / Alex Koo Trio",
           "EventDate": "2026-03-05T00:00:00.0000000",
@@ -6252,6 +6239,19 @@
         },
         {
           "EventTitle": "Ão (albumrelease)",
+          "EventDate": "2026-11-11T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/Ao-albumrelease-11-11-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ão (albumrelease)",
           "EventDate": "2026-11-12T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/Ao-albumrelease-12-11-26",
           "Issues": [
@@ -6260,6 +6260,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-12T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Selecter",
+          "EventDate": "2026-12-18T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/the-selecter-18-12-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-18T00:00:00.0000000"
             }
           ]
         },
@@ -6292,7 +6305,7 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 19,
+      "TotalEvents": 18,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6349,10 +6362,1318 @@
       ]
     },
     {
+      "ScraperId": "pukkelpop",
+      "ScraperName": "pukkelpopScraper",
+      "VenueName": "Pukkelpop",
+      "TotalEvents": 64,
+      "ErrorCount": 0,
+      "WarningCount": 0,
+      "Issues": [],
+      "EventDetails": []
+    },
+    {
+      "ScraperId": "werchter",
+      "ScraperName": "werchterScraper",
+      "VenueName": "Rock Werchter",
+      "TotalEvents": 99,
+      "ErrorCount": 0,
+      "WarningCount": 99,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Mumford & Sons",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/mumford-sons",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The War on Drugs",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-war-on-drugs",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Lumineers",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-lumineers",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kasabian",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/kasabian",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Elvis Costello & The Imposters with Charlie Sexton",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/elvis-costello-the-imposters-with-charlie-sexton",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Zwangere Guy",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/zwangere-guy",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Yong Yello",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/yong-yello",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Prodigy",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-prodigy",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "JADE",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/jade",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Loyle Carner",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/loyle-carner",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Vaccines",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-vaccines",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "All Them Witches",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/all-them-witches",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Balu Brigada",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/balu-brigada",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Blood Incantation",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/blood-incantation",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tom Smith",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/tom-smith",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dylan Gossett",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/dylan-gossett",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Yard Act",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/yard-act",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bente",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/bente",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Monza",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/monza",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Midnight Generation",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/midnight-generation",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "PUP",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/pup",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Karen Dió",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/karen-dio",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "LA LOM",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/la-lom",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Basht.",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/basht",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ben Ellis",
+          "EventDate": "2026-07-02",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/ben-ellis",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The xx",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-xx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lewis Capaldi",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/lewis-capaldi",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Teddy Swims",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/teddy-swims",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Royel Otis",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/royel-otis",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Last Dinner Party",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-last-dinner-party",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Wolf Alice",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/wolf-alice",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kingfishr",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/kingfishr",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Charlotte de Witte",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/charlotte-de-witte",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "FKA twigs",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/fka-twigs",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Franz Ferdinand",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/franz-ferdinand",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Viagra Boys",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/viagra-boys",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Social Distortion",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/social-distortion",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Good Neighbours",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/good-neighbours",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lauren Spencer Smith",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/lauren-spencer-smith",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Agnes Obel",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/agnes-obel",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kae Tempest",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/kae-tempest",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Paris Paloma",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/paris-paloma",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "High Hi",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/high-hi",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ISE",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/ise",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Warning",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-warning",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Radio Free Alice",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/radio-free-alice",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Scene Queen",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/scene-queen",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Keo",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/keo",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cardinals",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/cardinals",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "overpass",
+          "EventDate": "2026-07-03",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/overpass",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gorillaz",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/gorillaz",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Twenty One Pilots",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/twenty-one-pilots",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Halsey",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/halsey",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Reneé Rapp",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/renee-rapp",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kneecap",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/kneecap",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Palaye Royale",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/palaye-royale",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Landmvrks",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/landmvrks",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pixies",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/pixies",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Matt Berninger",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/matt-berninger",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beirut",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/beirut",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Haunted Youth",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-haunted-youth",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dogstar",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/dogstar",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Harry Mack",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/harry-mack",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "CMAT",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/cmat",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kokoroko",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/kokoroko",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Don West",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/don-west",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Adrian Quesada's Trio Asesino",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/adrian-quesada-s-trio-asesino",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Linka Moja",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/linka-moja",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Reytons",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-reytons",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "VOILÀ",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/voila",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ecca Vandal",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/ecca-vandal",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Florence Road",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/florence-road",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Man/Woman/Chainsaw",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/man-woman-chainsaw",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The New Eves",
+          "EventDate": "2026-07-04",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-new-eves",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Cure",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-cure",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Moby",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/moby",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "A Perfect Circle",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/a-perfect-circle",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rise Against",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/rise-against",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SONS",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/sons",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bad Nerves",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/bad-nerves",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kaat Van Stralen",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/kaat-van-stralen",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Paul Kalkbrenner",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/paul-kalkbrenner",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "David Byrne",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/david-byrne",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mogwai",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/mogwai",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cory Wong",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/cory-wong",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sierra Ferrell",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/sierra-ferrell",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Darren Kiely",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/darren-kiely",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "HAEVN",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/haevn",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ethel Cain",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/ethel-cain",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Joy Crookes",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/joy-crookes",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jessie Murph",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/jessie-murph",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dressed Like Boys",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/dressed-like-boys",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tsar B",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/tsar-b",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Psychonaut",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/psychonaut",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "House Of Protection",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/house-of-protection",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Last Train",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/last-train",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "NewDad",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/newdad",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Westside Cowboy",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/westside-cowboy",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Chezile",
+          "EventDate": "2026-07-05",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/chezile",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 248,
+      "TotalEvents": 247,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -6428,7 +7749,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 108,
+      "TotalEvents": 109,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
