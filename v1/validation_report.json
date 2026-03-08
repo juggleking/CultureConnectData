@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-03-07T06:00:00.3154635Z",
-  "ValidatedAt": "2026-03-07T06:00:00.3154637Z",
+  "GeneratedAt": "2026-03-08T06:00:00.5951555Z",
+  "ValidatedAt": "2026-03-08T06:00:00.5951561Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1536,
+  "TotalEvents": 1517,
   "TotalErrors": 0,
-  "TotalWarnings": 571,
+  "TotalWarnings": 566,
   "Results": [
     {
       "ScraperId": "4ad",
       "ScraperName": "4adScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 14,
+      "TotalEvents": 13,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 195,
+      "TotalEvents": 193,
       "ErrorCount": 0,
-      "WarningCount": 195,
+      "WarningCount": 193,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "WIES + Lena Hessels",
-          "EventDate": "2026-03-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/wies/a10Qw00000AQyh8IAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Miasmah 20 years: Svarte Greiner + Olga Anna Markowska + Kreng",
-          "EventDate": "2026-03-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/miasmah-20-years-svarte-greiner-olga-anna-markowska/a10Qw00000FbQULIA3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "KETCLUB Punk50: Maria Iskariot & Stakattak",
           "EventDate": "2026-03-08T00:00:00.0000000",
@@ -2566,7 +2540,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 161,
+      "TotalEvents": 159,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2603,24 +2577,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "DJ Hell + CJ Bolland + Fred Nasen",
-          "EventDate": "2026-03-07T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/dj-hell-cj-bolland",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Maria Iskariot + Galaxy Rockers",
           "EventDate": "2026-03-11T00:00:00.0000000",
@@ -3398,14 +3359,14 @@
       "EventDetails": [
         {
           "EventTitle": "Testament",
-          "EventDate": "2026-03-07T00:00:00.0000000",
+          "EventDate": "2026-03-12T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-12T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00.0000000"
+              "ActualValue": "2026-03-12T00:00:00.0000000"
             }
           ]
         },
@@ -3610,7 +3571,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 41,
+      "TotalEvents": 40,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3620,24 +3581,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 43,
+      "TotalEvents": 42,
       "ErrorCount": 0,
-      "WarningCount": 43,
+      "WarningCount": 42,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tijd voor 90 / Prong + Harmful",
-          "EventDate": "2026-03-07T00:00:00",
-          "EventUrl": "https://decasino.be/concert/prong/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Sin City Burning / Daniel Hard",
           "EventDate": "2026-03-11T00:00:00",
@@ -4190,7 +4138,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 114,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4347,19 +4295,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "De Dolfijntjes + bvba Vandamme",
-          "EventDate": "2026-03-07T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/233-de-dolfijntjes/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00"
-            }
-          ]
-        },
-        {
           "EventTitle": "dEUS",
           "EventDate": "2026-03-10T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/247-deus/",
@@ -4499,6 +4434,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-27T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-05-27T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Surf Trash",
+          "EventDate": "2026-05-29T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/249-surf-trash/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29T00:00:00"
             }
           ]
         }
@@ -5546,7 +5494,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5556,24 +5504,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 48,
+      "TotalEvents": 47,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 47,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kin Gajo",
-          "EventDate": "2026-03-07T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/kin-gajo-07-03-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tiny Tunes: De Dolfijntjes",
           "EventDate": "2026-03-10T00:00:00.0000000",
@@ -6191,7 +6126,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 87,
+      "TotalEvents": 86,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7569,7 +7504,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 238,
+      "TotalEvents": 234,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -7645,7 +7580,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 106,
+      "TotalEvents": 104,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7655,7 +7590,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 49,
+      "TotalEvents": 48,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
