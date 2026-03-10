@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-09T06:00:01.8723781Z",
-  "ValidatedAt": "2026-03-09T06:00:01.8723781Z",
+  "GeneratedAt": "2026-03-10T06:00:02.1668635Z",
+  "ValidatedAt": "2026-03-10T06:00:02.1669559Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1497,
+  "TotalEvents": 1500,
   "TotalErrors": 0,
-  "TotalWarnings": 561,
+  "TotalWarnings": 564,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -25,32 +25,6 @@
       "WarningCount": 189,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Santrofi + Mambele",
-          "EventDate": "2026-03-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/santrofi/a10Qw00000EcWmnIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sigrid + Nell Mescal",
-          "EventDate": "2026-03-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sigrid/a10Qw00000AWzfKIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-09T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tyler Childers + Molly Tuttle",
           "EventDate": "2026-03-10T00:00:00.0000000",
@@ -74,19 +48,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-03-11T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-03-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Suede",
-          "EventDate": "2026-03-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/suede/a10Qw000008Sz3yIAC",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-12T00:00:00.0000000"
             }
           ]
         },
@@ -117,9 +78,22 @@
           ]
         },
         {
-          "EventTitle": "CARPENTER BRUT + ULTRASUNN, Danger",
+          "EventTitle": "Suede",
+          "EventDate": "2026-03-12T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/suede/a10Qw000008Sz3yIAC",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "LeBlanc + Bug",
           "EventDate": "2026-03-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/carpenter-brut/a10Qw000001jJp7IAE",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/leblanc/a10Qw00000Bh7PiIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -130,9 +104,9 @@
           ]
         },
         {
-          "EventTitle": "LeBlanc + Bug",
+          "EventTitle": "CARPENTER BRUT + ULTRASUNN, Danger",
           "EventDate": "2026-03-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/leblanc/a10Qw00000Bh7PiIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/carpenter-brut/a10Qw000001jJp7IAE",
           "Issues": [
             {
               "Field": "DateString",
@@ -182,7 +156,7 @@
           ]
         },
         {
-          "EventTitle": "YUSTON XIII",
+          "EventTitle": "YUSTON XIII + taunz",
           "EventDate": "2026-03-15T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/yuston-xiii/a10Qw000005MnorIAC",
           "Issues": [
@@ -195,7 +169,7 @@
           ]
         },
         {
-          "EventTitle": "CMAT + Fancy Hagood",
+          "EventTitle": "CMAT + Katy J Pearson",
           "EventDate": "2026-03-16T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/cmat/a10Qw0000061u7yIAA",
           "Issues": [
@@ -442,19 +416,6 @@
           ]
         },
         {
-          "EventTitle": "Gotti Maras",
-          "EventDate": "2026-03-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gotti-maras/a10Qw00000EDxNCIA1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Mister Cover",
           "EventDate": "2026-03-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/mister-cover/a10Qw000004mrpNIAQ",
@@ -471,6 +432,19 @@
           "EventTitle": "Flora + Garance Midi @SuperFourchette + Garance Midi",
           "EventDate": "2026-03-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/flora-garance-midi-superfourchette/a10Qw00000HCBxBIAX",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gotti Maras",
+          "EventDate": "2026-03-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gotti-maras/a10Qw00000EDxNCIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -546,9 +520,9 @@
           ]
         },
         {
-          "EventTitle": "Poppy + Ocean Grove, Fox Lake",
+          "EventTitle": "Coke Studio Session: ELES",
           "EventDate": "2026-03-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/poppy/a10Qw00000Am0mNIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/coke-studio-session-eles/a10Qw00000FbekDIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -559,9 +533,9 @@
           ]
         },
         {
-          "EventTitle": "Coke Studio Session: ELES",
+          "EventTitle": "Poppy + Ocean Grove, Fox Lake",
           "EventDate": "2026-03-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/coke-studio-session-eles/a10Qw00000FbekDIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/poppy/a10Qw00000Am0mNIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -1118,19 +1092,6 @@
           ]
         },
         {
-          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
-          "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "La Jungle",
           "EventDate": "2026-04-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
@@ -1147,6 +1108,19 @@
           "EventTitle": "EarthBall",
           "EventDate": "2026-04-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
+          "EventDate": "2026-04-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
           "Issues": [
             {
               "Field": "DateString",
@@ -1963,6 +1937,19 @@
           ]
         },
         {
+          "EventTitle": "Alison Moyet",
+          "EventDate": "2026-09-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/alison-moyet/a10Qw00000GT8vSIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: Doowy",
           "EventDate": "2026-09-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-doowy/a10Qw0000047IabIAE",
@@ -2167,6 +2154,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-27T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "47ter",
+          "EventDate": "2026-10-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/47ter/a10Qw00000C36d4IAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28T00:00:00.0000000"
             }
           ]
         },
@@ -2544,7 +2544,7 @@
           ]
         },
         {
-          "EventTitle": "Yong Yello",
+          "EventTitle": "Yong Yello + C-RHYMS",
           "EventDate": "2026-03-12T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/yong-yello",
           "Issues": [
@@ -2596,7 +2596,7 @@
           ]
         },
         {
-          "EventTitle": "Dub Revolution - Forward Fever + more tba",
+          "EventTitle": "Dub Revolution - DUB4EVA + Creativ Dubs + Forward Fever",
           "EventDate": "2026-03-20T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-take-over-dub",
           "Issues": [
@@ -3529,13 +3529,13 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 42,
+      "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 42,
+      "WarningCount": 45,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Sin City Burning / Daniel Hard",
+          "EventTitle": "Sin City Burning / Daniel Hard + Para",
           "EventDate": "2026-03-11T00:00:00",
           "EventUrl": "https://decasino.be/concert/sin-city-burning-daniel-hard/",
           "Issues": [
@@ -3925,6 +3925,32 @@
           ]
         },
         {
+          "EventTitle": "Great Gigs in the Park / Lloyd Cole",
+          "EventDate": "2026-06-20T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-lloyd-cole/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-20T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Great Gigs in the Park / Raymond van het Groenewoud",
+          "EventDate": "2026-06-24T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-raymond-van-het-groenewoud-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-24T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-24T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Great Gigs in the Park / Turbonegro",
           "EventDate": "2026-06-26T00:00:00",
           "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-turbonegro/",
@@ -3934,6 +3960,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-26T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-06-26T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Great Gigs in the Park / Danny Vera",
+          "EventDate": "2026-07-03T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-danny-vera/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03T00:00:00"
             }
           ]
         },
@@ -4086,7 +4125,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 112,
+      "TotalEvents": 114,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4982,7 +5021,7 @@
           ]
         },
         {
-          "EventTitle": "Lucrecia Dalt",
+          "EventTitle": "Lucrecia Dalt + Dialect",
           "EventDate": "2026-05-11",
           "EventUrl": "https://www.democrazy.be/agenda/3125-lucrecia-dalt/",
           "Issues": [
@@ -6061,7 +6100,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 86,
+      "TotalEvents": 85,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7439,7 +7478,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 230,
+      "TotalEvents": 229,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -7515,7 +7554,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 102,
+      "TotalEvents": 103,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7535,7 +7574,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 45,
+      "TotalEvents": 44,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
