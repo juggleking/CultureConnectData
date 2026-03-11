@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-10T06:00:02.1668635Z",
-  "ValidatedAt": "2026-03-10T06:00:02.1669559Z",
+  "GeneratedAt": "2026-03-11T06:00:00.5964251Z",
+  "ValidatedAt": "2026-03-11T06:00:00.5964254Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1500,
+  "TotalEvents": 1501,
   "TotalErrors": 0,
-  "TotalWarnings": 564,
+  "TotalWarnings": 568,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -25,19 +25,6 @@
       "WarningCount": 189,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tyler Childers + Molly Tuttle",
-          "EventDate": "2026-03-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tyler-childers/a10Qw000002i8yRIAQ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Sleaford Mods + SNAYX",
           "EventDate": "2026-03-11T00:00:00.0000000",
@@ -104,7 +91,7 @@
           ]
         },
         {
-          "EventTitle": "CARPENTER BRUT + ULTRASUNN, Danger",
+          "EventTitle": "CARPENTER BRUT + ULTRASUNN",
           "EventDate": "2026-03-13T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/carpenter-brut/a10Qw000001jJp7IAE",
           "Issues": [
@@ -793,7 +780,7 @@
           ]
         },
         {
-          "EventTitle": "Dry Cleaning",
+          "EventTitle": "Dry Cleaning + The Tubs",
           "EventDate": "2026-04-13T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/dry-cleaning/a10Qw000009xDqXIAU",
           "Issues": [
@@ -1092,6 +1079,19 @@
           ]
         },
         {
+          "EventTitle": "Nina Vanhoenacker presents 'An Unbalanced Piece Of Wood'",
+          "EventDate": "2026-04-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nina-vanhoenacker-presents-an-unbalanced-piece-of-wood/a10Qw00000HIh1VIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "La Jungle",
           "EventDate": "2026-04-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
@@ -1157,9 +1157,9 @@
           ]
         },
         {
-          "EventTitle": "Admiral Freebee",
+          "EventTitle": "Michelle David & The True Tones",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1170,9 +1170,9 @@
           ]
         },
         {
-          "EventTitle": "Michelle David & The True Tones",
+          "EventTitle": "Admiral Freebee",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
           "Issues": [
             {
               "Field": "DateString",
@@ -2488,7 +2488,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 156,
+      "TotalEvents": 157,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2525,9 +2525,9 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 61,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
         {
@@ -2908,6 +2908,32 @@
           ]
         },
         {
+          "EventTitle": "BRUSK FEST",
+          "EventDate": "2026-05-08T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "BRUSK FEST",
+          "EventDate": "2026-05-09T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Svalbard",
           "EventDate": "2026-05-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
@@ -2921,9 +2947,22 @@
           ]
         },
         {
-          "EventTitle": "Great Lake Swimmers",
+          "EventTitle": "BRUSK FEST",
+          "EventDate": "2026-05-10T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Arsenal - Try-out",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
           "Issues": [
             {
               "Field": "DateString",
@@ -2934,9 +2973,9 @@
           ]
         },
         {
-          "EventTitle": "Arsenal - Try-out",
+          "EventTitle": "Great Lake Swimmers",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
           "Issues": [
             {
               "Field": "DateString",
@@ -3519,7 +3558,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 39,
+      "TotalEvents": 38,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3529,9 +3568,9 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 45,
+      "TotalEvents": 46,
       "ErrorCount": 0,
-      "WarningCount": 45,
+      "WarningCount": 46,
       "Issues": [],
       "EventDetails": [
         {
@@ -4068,6 +4107,19 @@
           ]
         },
         {
+          "EventTitle": "The Scene x Syb van der Ploeg",
+          "EventDate": "2026-11-21T00:00:00",
+          "EventUrl": "https://decasino.be/concert/the-scene-x-syb-van-der-ploeg/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-21T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-21T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "She Past Away",
           "EventDate": "2026-11-26T00:00:00",
           "EventUrl": "https://decasino.be/concert/she-past-away/",
@@ -4125,7 +4177,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 114,
+      "TotalEvents": 115,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4270,19 +4322,6 @@
       "EventDetails": [
         {
           "EventTitle": "dEUS",
-          "EventDate": "2026-03-10T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/247-deus/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-10T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-10T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "dEUS",
           "EventDate": "2026-03-11T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/248-deus/",
           "Issues": [
@@ -4423,6 +4462,19 @@
               "ActualValue": "2026-05-29T00:00:00"
             }
           ]
+        },
+        {
+          "EventTitle": "Marbled Eye",
+          "EventDate": "2026-06-18T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/251-marbled-eye/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-18T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-18T00:00:00"
+            }
+          ]
         }
       ]
     },
@@ -4430,9 +4482,9 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 79,
+      "TotalEvents": 80,
       "ErrorCount": 0,
-      "WarningCount": 79,
+      "WarningCount": 80,
       "Issues": [],
       "EventDetails": [
         {
@@ -5424,6 +5476,19 @@
           ]
         },
         {
+          "EventTitle": "The Scene x Syb van der Ploeg",
+          "EventDate": "2026-11-19",
+          "EventUrl": "https://www.democrazy.be/agenda/3175-the-scene-x-syb-van-der-ploeg/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-19"
+            }
+          ]
+        },
+        {
           "EventTitle": "Joe Jackson - HOPE AND FURY TOUR 2026",
           "EventDate": "2026-11-23",
           "EventUrl": "https://www.democrazy.be/agenda/3108-joe-jackson/",
@@ -5468,7 +5533,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 22,
+      "TotalEvents": 17,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5478,37 +5543,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 47,
+      "TotalEvents": 46,
       "ErrorCount": 0,
-      "WarningCount": 47,
+      "WarningCount": 46,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tiny Tunes: De Dolfijntjes",
-          "EventDate": "2026-03-10T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/tiny-tunes-de-dolfijntjes-10-03-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Dolfijntjes",
-          "EventDate": "2026-03-10T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/de-dolfijntjes-10-03-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Broken Silence + Strings of Breath",
           "EventDate": "2026-03-12T00:00:00.0000000",
@@ -5991,6 +6030,19 @@
           ]
         },
         {
+          "EventTitle": "The Bones of J.R. Jones",
+          "EventDate": "2026-10-12T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/the-bones-of-j.r.-jones-12-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Stef Kamil Carlens & The Poem",
           "EventDate": "2026-10-22T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/stef-kamil-carlens-en-the-poem-22-10-26",
@@ -6100,7 +6152,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 85,
+      "TotalEvents": 86,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6110,7 +6162,7 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7478,7 +7530,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 229,
+      "TotalEvents": 228,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -7554,7 +7606,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 103,
+      "TotalEvents": 105,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7564,7 +7616,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 45,
+      "TotalEvents": 46,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7574,7 +7626,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 44,
+      "TotalEvents": 43,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
