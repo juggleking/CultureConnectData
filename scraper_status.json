@@ -119,38 +119,25 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:10.8187792Z",
-    "StartedAt": "2026-03-12T11:00:01.323562Z",
-    "FinishedAt": "2026-03-12T11:00:10.8187758Z",
+    "RunTime": "2026-03-12T15:00:08.7122514Z",
+    "StartedAt": "2026-03-12T15:00:00.9105223Z",
+    "FinishedAt": "2026-03-12T15:00:08.7122477Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": [
-      {
-        "Title": "Zornik",
-        "DateString": "2027-02-20T00:00:00.0000000",
-        "Url": "https://www.abconcerts.be/en/agenda/zornik/a10Qw00000DZDMKIA5",
-        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000M2UWrMAN_1240x720.jpg",
-        "Location": "AB Concerts, Brussels",
-        "Description": "The Ultimate Birthday Collection",
-        "Room": "",
-        "Address": "Anspachlaan 110, 1000 Brussel",
-        "Latitude": "50.8473",
-        "Longitude": "4.3488"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 157,
+    "TotalEventsFound": 159,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "botanique-03-2026.json",
         "FilePath": "events/concerts/botanique/botanique-03-2026.json",
-        "Hash": "0d4d414bf737002735f862506326f62fb6823b5798ec4eac7eaed507e3eebbda",
+        "Hash": "eccaec08a8599c875f2cbf9cf5b7c952763a0db81498301d56462b9ff3156008",
         "EventCount": 36,
         "Status": "Success",
         "ErrorMessage": null
@@ -170,7 +157,7 @@
         "Year": 2026,
         "FileName": "botanique-05-2026.json",
         "FilePath": "events/concerts/botanique/botanique-05-2026.json",
-        "Hash": "bd5a9021198ede8e8f50af42b57a9318c9805608585740dfd2fe1b075f028cad",
+        "Hash": "37be99714513d7bedff09860e788c489dedaf5fa521226180e083390680a1126",
         "EventCount": 20,
         "Status": "Success",
         "ErrorMessage": null
@@ -186,11 +173,21 @@
         "ErrorMessage": null
       },
       {
+        "Month": 7,
+        "Year": 2026,
+        "FileName": "botanique-07-2026.json",
+        "FilePath": "events/concerts/botanique/botanique-07-2026.json",
+        "Hash": "57d0504a58185d232dc2c9076f0b468fc3e2be50a7d1947948d413964c8e8970",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
         "Month": 9,
         "Year": 2026,
         "FileName": "botanique-09-2026.json",
         "FilePath": "events/concerts/botanique/botanique-09-2026.json",
-        "Hash": "3b96e2560dc41e852ec9982c38aa8ddcde1345015dc11bc2f85815f771f57e7f",
+        "Hash": "f3bdfcf1dc810fac734b243d47b67dcab72bd9860670e21ff5edc874d3715e50",
         "EventCount": 13,
         "Status": "Success",
         "ErrorMessage": null
@@ -200,8 +197,8 @@
         "Year": 2026,
         "FileName": "botanique-10-2026.json",
         "FilePath": "events/concerts/botanique/botanique-10-2026.json",
-        "Hash": "219764553795b93f1b7857fb80b2e87d9cf044170bcad36bba13ea5f2f405c75",
-        "EventCount": 9,
+        "Hash": "2081bd4199f747ee58061dc3bea1d5fe4f20378d6dba33770b24c24d4ed5e36a",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -238,19 +235,67 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:16.515941Z",
-    "StartedAt": "2026-03-12T11:00:01.3255916Z",
-    "FinishedAt": "2026-03-12T11:00:16.5159386Z",
+    "RunTime": "2026-03-12T15:00:27.1447969Z",
+    "StartedAt": "2026-03-12T15:00:00.9112881Z",
+    "FinishedAt": "2026-03-12T15:00:27.1447948Z",
     "FaviconUrl": "images/icons/botanique.png",
     "NewEvents": [
       {
-        "Title": "Gut Model - Rachitic Dada - The Chatty Network",
-        "DateString": "2026-04-03T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/gut-model-rachitic-dada-chatty-network-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/GMpress2.jpg?itok=-rn9H457",
+        "Title": "Armand Hammer - Gabe Nandez",
+        "DateString": "2026-03-21T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/armand-hammer-gabe-nandez-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-11/1b368ca2_ArmandHammer_AlexanderRichter_MERCY_Press_4%20%281%29.jpg?itok=8QRGLmft",
         "Location": "Botanique, Brussels",
-        "Description": "Release | Nerveuze artrock, verdeeld tussen zware postpunkriffs en een ontwrichte groove van een oude synthesizer",
-        "Room": "Witloof Bar",
+        "Description": "Het duo keert terug naar de Botanique met hun avant-gardistische, intense en scherpe rap",
+        "Room": "Orangerie",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Sam Sauvage - Twin Toes",
+        "DateString": "2026-03-25T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/sam-sauvage-twin-toes-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-10/3%20.%20%28c%29%20Hugo%20Lardenet.jpg?itok=x6E57KBu",
+        "Location": "Botanique, Brussels",
+        "Description": "Een diepe stem, die zowel magnetisch als vertrouwd overkomt",
+        "Room": "Orangerie",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "June Freedom | geannuleerd",
+        "DateString": "2026-03-29T17:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/june-freedom-geannuleerd-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-01/June%20Freedom%20Primary%20Image.jpg?itok=M-FJfzJX",
+        "Location": "Botanique, Brussels",
+        "Description": "Een mix van afro, r\u0026b en alternatieve pop, gedragen door Kaapverdische ritmes en zonnige energie",
+        "Room": "Orangerie",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "fakemink",
+        "DateString": "2026-07-01T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/fakemink-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/fakemink%20-%20Spotify.jpg?itok=XNX9hp-I",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Orangerie",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Valeria Castro",
+        "DateString": "2026-10-24T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/valeria-castro-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/valeria%20castro%20horizontal_0.jpg?itok=pzdLqIm2",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Museum",
         "Address": "Botanique, Brussels",
         "Latitude": "50.8531",
         "Longitude": "4.3662"
@@ -357,9 +402,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:03.9924322Z",
-    "StartedAt": "2026-03-12T11:00:01.3265725Z",
-    "FinishedAt": "2026-03-12T11:00:03.9924281Z",
+    "RunTime": "2026-03-12T15:00:02.6788681Z",
+    "StartedAt": "2026-03-12T15:00:00.9118712Z",
+    "FinishedAt": "2026-03-12T15:00:02.6788642Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -413,9 +458,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:01:10.8745818Z",
-    "StartedAt": "2026-03-12T11:00:01.3271774Z",
-    "FinishedAt": "2026-03-12T11:01:10.8745772Z",
+    "RunTime": "2026-03-12T15:01:22.8511515Z",
+    "StartedAt": "2026-03-12T15:00:00.9120382Z",
+    "FinishedAt": "2026-03-12T15:01:22.8510595Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -509,9 +554,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:03.2794529Z",
-    "StartedAt": "2026-03-12T11:00:01.3993386Z",
-    "FinishedAt": "2026-03-12T11:00:03.2794493Z",
+    "RunTime": "2026-03-12T15:00:02.8443918Z",
+    "StartedAt": "2026-03-12T15:00:00.9121666Z",
+    "FinishedAt": "2026-03-12T15:00:02.8443702Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -555,9 +600,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:04.0592849Z",
-    "StartedAt": "2026-03-12T11:00:01.3999971Z",
-    "FinishedAt": "2026-03-12T11:00:04.0592796Z",
+    "RunTime": "2026-03-12T15:00:03.7685392Z",
+    "StartedAt": "2026-03-12T15:00:00.913206Z",
+    "FinishedAt": "2026-03-12T15:00:03.7685343Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -583,7 +628,7 @@
         "Year": 2026,
         "FileName": "democrazy-04-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-04-2026.json",
-        "Hash": "c0cc0dc3081fc4e9aeac8d411d1f2a415c31c3b938ff6f7e35435560bd8c3935",
+        "Hash": "cc589312ad5d6496601285c4e4ece8c41059458188000c97ba6bff2cc9f92b40",
         "EventCount": 24,
         "Status": "Success",
         "ErrorMessage": null
@@ -661,9 +706,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:03.888027Z",
-    "StartedAt": "2026-03-12T11:00:01.4008331Z",
-    "FinishedAt": "2026-03-12T11:00:03.8880229Z",
+    "RunTime": "2026-03-12T15:00:02.6147819Z",
+    "StartedAt": "2026-03-12T15:00:00.9133717Z",
+    "FinishedAt": "2026-03-12T15:00:02.6147775Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -787,9 +832,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:06.0255342Z",
-    "StartedAt": "2026-03-12T11:00:01.4017013Z",
-    "FinishedAt": "2026-03-12T11:00:06.0255315Z",
+    "RunTime": "2026-03-12T15:00:04.5209931Z",
+    "StartedAt": "2026-03-12T15:00:00.9134547Z",
+    "FinishedAt": "2026-03-12T15:00:04.5209894Z",
     "FaviconUrl": "images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -843,9 +888,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:02.8526296Z",
-    "StartedAt": "2026-03-12T11:00:01.4028614Z",
-    "FinishedAt": "2026-03-12T11:00:02.8522572Z",
+    "RunTime": "2026-03-12T15:00:02.5048986Z",
+    "StartedAt": "2026-03-12T15:00:00.9135586Z",
+    "FinishedAt": "2026-03-12T15:00:02.5048949Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -909,9 +954,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:02.8065223Z",
-    "StartedAt": "2026-03-12T11:00:01.4059225Z",
-    "FinishedAt": "2026-03-12T11:00:02.8065182Z",
+    "RunTime": "2026-03-12T15:00:02.2415697Z",
+    "StartedAt": "2026-03-12T15:00:00.9145101Z",
+    "FinishedAt": "2026-03-12T15:00:02.2415655Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -920,7 +965,7 @@
     "VenueId": "emotia",
     "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
     "Category": "Concerts",
-    "TotalEventsFound": 37,
+    "TotalEventsFound": 38,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -993,6 +1038,16 @@
         "ErrorMessage": null
       },
       {
+        "Month": 12,
+        "Year": 2026,
+        "FileName": "emotia-12-2026.json",
+        "FilePath": "events/concerts/emotia/emotia-12-2026.json",
+        "Hash": "0c5054b45f9878a6f2282b9c2e6baae87f9c9f57081f1bcf9153b8af85ccf4fe",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
         "Month": 1,
         "Year": 2026,
         "FileName": "emotia-01-2026.json",
@@ -1005,11 +1060,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:04.3056175Z",
-    "StartedAt": "2026-03-12T11:00:01.4066555Z",
-    "FinishedAt": "2026-03-12T11:00:04.3056133Z",
+    "RunTime": "2026-03-12T15:00:03.3614619Z",
+    "StartedAt": "2026-03-12T15:00:00.9147044Z",
+    "FinishedAt": "2026-03-12T15:00:03.361459Z",
     "FaviconUrl": "images/icons/emotia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Prethuis: Qaughebeurs 2",
+        "DateString": "2026-12-10T20:00:00.0000000",
+        "Url": "https://www.emotia.be/prethuisqaughebeurs2",
+        "ImageUrl": "",
+        "Location": "Cultuurhuis EMotia",
+        "Description": "D\u2019erfenisse",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9226",
+        "Longitude": "3.9453"
+      }
+    ]
   },
   {
     "ScraperName": "FourAdScraper",
@@ -1071,24 +1139,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:03.5568889Z",
-    "StartedAt": "2026-03-12T11:00:01.407622Z",
-    "FinishedAt": "2026-03-12T11:00:03.5468544Z",
+    "RunTime": "2026-03-12T15:00:03.3871185Z",
+    "StartedAt": "2026-03-12T15:00:00.9152123Z",
+    "FinishedAt": "2026-03-12T15:00:03.3780843Z",
     "FaviconUrl": "images/icons/4ad.png",
-    "NewEvents": [
-      {
-        "Title": "Andries Beckers",
-        "DateString": "2026-05-16T20:30:00",
-        "Url": "https://www.4ad.be/event/andries-beckers/",
-        "ImageUrl": "https://www.4ad.be/wp-content/uploads/2026/03/andries-beckers.png",
-        "Location": "Muziekclub 4AD",
-        "Description": "Andries Beckers is radiopresentator ( Studio Brussel ) en podcaster ( Welcome To The AA ), maar speelde het grootste deel van zijn leven in punk- en metalbands. Muziekgroepen die hem een groot stuk van de wereld lieten zien en hem van de kleinste zaaltjes tot de grootste podia brachten. Een levensverhaal dat in 1996 begon met een kleine leugen en nu, dertig jaar later, eindelijk verteld wordt. Maak je klaar voor grappige verhalen, maar ook ontroerende inzichten die veel universeler zijn dan het muziekgenre doet vermoeden. Deze theaterspecial is zittend en voor iedereen vanaf 16 jaar. Instagram | Facebook | Website",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0343",
-        "Longitude": "2.86"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "HaConcertsScraper",
@@ -1180,9 +1235,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:11.5297356Z",
-    "StartedAt": "2026-03-12T11:00:01.4088516Z",
-    "FinishedAt": "2026-03-12T11:00:11.5297315Z",
+    "RunTime": "2026-03-12T15:00:09.7471974Z",
+    "StartedAt": "2026-03-12T15:00:00.9157459Z",
+    "FinishedAt": "2026-03-12T15:00:09.7457798Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1296,9 +1351,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:36.1391354Z",
-    "StartedAt": "2026-03-12T11:00:01.4099842Z",
-    "FinishedAt": "2026-03-12T11:00:36.1391307Z",
+    "RunTime": "2026-03-12T15:00:29.2973295Z",
+    "StartedAt": "2026-03-12T15:00:00.9162416Z",
+    "FinishedAt": "2026-03-12T15:00:29.2973254Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1372,24 +1427,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:03.1292058Z",
-    "StartedAt": "2026-03-12T11:00:01.4111667Z",
-    "FinishedAt": "2026-03-12T11:00:03.1291906Z",
+    "RunTime": "2026-03-12T15:00:02.5011553Z",
+    "StartedAt": "2026-03-12T15:00:00.9167188Z",
+    "FinishedAt": "2026-03-12T15:00:02.5011517Z",
     "FaviconUrl": "images/icons/n9.png",
-    "NewEvents": [
-      {
-        "Title": "WORKSHOP LICHTTECHNIEK \u2014 04-05-2026",
-        "DateString": "2026-05-04T19:30:00\u002B02:00",
-        "Url": "https://www.n9.be/agenda/5156-workshop-lichttechniek/",
-        "ImageUrl": "https://www.n9.be/media/event-large/2914-111631759workshoplichttechniek.jpg",
-        "Location": "muziekclub N9",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.1877",
-        "Longitude": "3.57"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "PukkelpopScraper",
@@ -1411,9 +1453,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:07.2579604Z",
-    "StartedAt": "2026-03-12T11:00:01.412004Z",
-    "FinishedAt": "2026-03-12T11:00:07.257861Z",
+    "RunTime": "2026-03-12T15:00:02.9048118Z",
+    "StartedAt": "2026-03-12T15:00:00.9170841Z",
+    "FinishedAt": "2026-03-12T15:00:02.9048024Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1447,9 +1489,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:06.0388601Z",
-    "StartedAt": "2026-03-12T11:00:01.4129857Z",
-    "FinishedAt": "2026-03-12T11:00:06.0388542Z",
+    "RunTime": "2026-03-12T15:00:05.9748749Z",
+    "StartedAt": "2026-03-12T15:00:00.9172868Z",
+    "FinishedAt": "2026-03-12T15:00:05.9748692Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1473,9 +1515,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:02.7847566Z",
-    "StartedAt": "2026-03-12T11:00:01.4136813Z",
-    "FinishedAt": "2026-03-12T11:00:02.7847387Z",
+    "RunTime": "2026-03-12T15:00:02.3369171Z",
+    "StartedAt": "2026-03-12T15:00:00.9178445Z",
+    "FinishedAt": "2026-03-12T15:00:02.3369103Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1519,9 +1561,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:03.7380115Z",
-    "StartedAt": "2026-03-12T11:00:01.4146568Z",
-    "FinishedAt": "2026-03-12T11:00:03.7380061Z",
+    "RunTime": "2026-03-12T15:00:03.1841914Z",
+    "StartedAt": "2026-03-12T15:00:00.9183106Z",
+    "FinishedAt": "2026-03-12T15:00:03.1841872Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1605,9 +1647,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:21.6691207Z",
-    "StartedAt": "2026-03-12T11:00:01.4158692Z",
-    "FinishedAt": "2026-03-12T11:00:21.6691165Z",
+    "RunTime": "2026-03-12T15:00:20.6939465Z",
+    "StartedAt": "2026-03-12T15:00:00.9184788Z",
+    "FinishedAt": "2026-03-12T15:00:20.6939426Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1616,7 +1658,7 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 109,
+    "TotalEventsFound": 110,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -1693,8 +1735,8 @@
         "Year": 2026,
         "FileName": "trix-10-2026.json",
         "FilePath": "events/concerts/trix/trix-10-2026.json",
-        "Hash": "3f3484d68c7e6d924420f98b1642af0e5eae9211d0a533d8bd20243c0ec3a2ea",
-        "EventCount": 8,
+        "Hash": "9c804df29cd39be07c5374939cee09ea317b49891bba4804ee0852f1b236ee81",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1721,42 +1763,18 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:12.0522151Z",
-    "StartedAt": "2026-03-12T11:00:01.4169674Z",
-    "FinishedAt": "2026-03-12T11:00:12.0522133Z",
+    "RunTime": "2026-03-12T15:00:10.1845682Z",
+    "StartedAt": "2026-03-12T15:00:00.919119Z",
+    "FinishedAt": "2026-03-12T15:00:10.1845652Z",
     "FaviconUrl": "images/icons/trix.svg",
     "NewEvents": [
       {
-        "Title": "Track East: Open Mic Venster",
-        "DateString": "2026-07-04T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/track-east-open-mic/4122/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/trackwebsite.png",
+        "Title": "Dave East",
+        "DateString": "2026-10-21T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/dave-east/4125/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/261021-dave-eastwebsite.png",
         "Location": "Trix",
-        "Description": "Track EAST is een talentontwikkelingstraject voor jongeren. Kom naar hun open mic!",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Track East: Open Mic",
-        "DateString": "2026-08-08T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/track-east-open-mic/4123/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/trackwebsite-1.png",
-        "Location": "Trix",
-        "Description": "Track EAST is een talentontwikkelingstraject voor jongeren. Kom naar hun open mic!",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Track East: Slotshow Venster",
-        "DateString": "2026-11-15T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/track-east-slotshow/4124/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/eastwebsite.png",
-        "Location": "Trix",
-        "Description": "Track EAST is een talentontwikkelingstraject voor jongeren. Kom naar hun slotshow in Venster!",
+        "Description": "Dave East brengt zijn authentieke East Coast-hiphop en messcherpe storytelling naar het podium.",
         "Room": "",
         "Address": "Noordersingel 28-30, 2140 Antwerpen",
         "Latitude": "51.2255",
@@ -1844,9 +1862,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:01:19.3777254Z",
-    "StartedAt": "2026-03-12T11:00:01.4178146Z",
-    "FinishedAt": "2026-03-12T11:01:19.3777089Z",
+    "RunTime": "2026-03-12T15:01:20.5797819Z",
+    "StartedAt": "2026-03-12T15:00:00.9193703Z",
+    "FinishedAt": "2026-03-12T15:01:20.5797775Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1930,35 +1948,10 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-03-12T11:00:06.6156405Z",
-    "StartedAt": "2026-03-12T11:00:01.4185931Z",
-    "FinishedAt": "2026-03-12T11:00:06.6105196Z",
+    "RunTime": "2026-03-12T15:00:02.2183857Z",
+    "StartedAt": "2026-03-12T15:00:00.9198644Z",
+    "FinishedAt": "2026-03-12T15:00:02.2183821Z",
     "FaviconUrl": "images/icons/wintercircus.png",
-    "NewEvents": [
-      {
-        "Title": "Paint\u0026Sip in de Arena",
-        "DateString": "2026-04-08T16:00:00",
-        "Url": "https://www.pigmentpaintandsip.be/open-events/",
-        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/6g5Es94bvD73wAQoEsMXDo/bb765f9d91e579f84279fc863bfd9b8f/Odoo_Event_Cover_Horizontal.png",
-        "Location": "Wintercircus - Arena, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0481",
-        "Longitude": "3.728"
-      },
-      {
-        "Title": "Expo Liefste dagboek - Katrien Vanderlinden",
-        "DateString": "2026-05-15T11:00:00",
-        "Url": "https://www.katrienvanderlinden.be/expo",
-        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/11OdFzMjTaIBHvGEzKaJvL/62cf3f72b067342e29d9397eb111a51f/basis_affiche.avif",
-        "Location": "Wintercircus - Expo, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0481099",
-        "Longitude": "3.7280032"
-      }
-    ]
+    "NewEvents": []
   }
 ]
