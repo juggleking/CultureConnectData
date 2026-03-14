@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-13T06:00:01.9976796Z",
-  "ValidatedAt": "2026-03-13T06:00:01.9976797Z",
+  "GeneratedAt": "2026-03-14T06:00:01.6074144Z",
+  "ValidatedAt": "2026-03-14T06:00:01.6074145Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1530,
+  "TotalEvents": 1525,
   "TotalErrors": 0,
-  "TotalWarnings": 570,
+  "TotalWarnings": 569,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 187,
+      "TotalEvents": 186,
       "ErrorCount": 0,
-      "WarningCount": 187,
+      "WarningCount": 186,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "CARPENTER BRUT + ULTRASUNN",
-          "EventDate": "2026-03-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/carpenter-brut/a10Qw000001jJp7IAE",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LeBlanc + Bug",
-          "EventDate": "2026-03-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/leblanc/a10Qw00000Bh7PiIAJ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "50 years The Kids - minifest + sunpower, Hetze, Kotskat, Colère",
           "EventDate": "2026-03-14T00:00:00.0000000",
@@ -325,9 +299,9 @@
           ]
         },
         {
-          "EventTitle": "Iskander Moon + Itay Blau",
+          "EventTitle": "Ão + Monagi",
           "EventDate": "2026-03-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/iskander-moon/a10Qw00000A4DfGIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ao/a10Qw000006YLrPIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -338,9 +312,9 @@
           ]
         },
         {
-          "EventTitle": "Ão + Monagi",
+          "EventTitle": "Iskander Moon + Itay Blau",
           "EventDate": "2026-03-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ao/a10Qw000006YLrPIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/iskander-moon/a10Qw00000A4DfGIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -819,6 +793,19 @@
           ]
         },
         {
+          "EventTitle": "KULTURA + Tanaflow, Ekany, gxldenboy, Femifè, Tsunamy",
+          "EventDate": "2026-04-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kultura/a10Qw000009V6NJIA0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Mosimann",
           "EventDate": "2026-04-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/mosimann/a10Qw00000790uSIAQ",
@@ -988,9 +975,9 @@
           ]
         },
         {
-          "EventTitle": "TJE",
+          "EventTitle": "Dekker",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
           "Issues": [
             {
               "Field": "DateString",
@@ -1001,9 +988,9 @@
           ]
         },
         {
-          "EventTitle": "Dekker",
+          "EventTitle": "TJE",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1053,9 +1040,9 @@
           ]
         },
         {
-          "EventTitle": "La Jungle",
+          "EventTitle": "EarthBall",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -1066,9 +1053,9 @@
           ]
         },
         {
-          "EventTitle": "EarthBall",
+          "EventTitle": "La Jungle",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -1729,7 +1716,7 @@
           ]
         },
         {
-          "EventTitle": "Red Leather",
+          "EventTitle": "Red Leather + Jady",
           "EventDate": "2026-06-13T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/red-leather/a10Qw00000FdwTJIAZ",
           "Issues": [
@@ -2462,7 +2449,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 157,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -3333,14 +3320,14 @@
       "EventDetails": [
         {
           "EventTitle": "Testament",
-          "EventDate": "2026-03-13T00:00:00.0000000",
+          "EventDate": "2026-03-14T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-13T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-13T00:00:00.0000000"
+              "ActualValue": "2026-03-14T00:00:00.0000000"
             }
           ]
         },
@@ -3555,24 +3542,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 51,
+      "TotalEvents": 50,
       "ErrorCount": 0,
-      "WarningCount": 51,
+      "WarningCount": 50,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Club 112",
-          "EventDate": "2026-03-13T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-112/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-13T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-13T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Club G ft. Gibon & Nand De Klerck",
           "EventDate": "2026-03-14T00:00:00",
@@ -4229,7 +4203,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 113,
+      "TotalEvents": 112,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4526,19 +4500,6 @@
       "WarningCount": 80,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ramones Alive - + Flora Skuller",
-          "EventDate": "2026-03-13",
-          "EventUrl": "https://www.democrazy.be/agenda/3099-ramones-alive/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-13'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-13"
-            }
-          ]
-        },
         {
           "EventTitle": "Few Bits - + Wave A Way",
           "EventDate": "2026-03-15",
@@ -5385,6 +5346,19 @@
           ]
         },
         {
+          "EventTitle": "Club Laat: dj g2g - + LOV b2b rostgoed + Rotbrijn b2b waltur",
+          "EventDate": "2026-10-02",
+          "EventUrl": "https://www.democrazy.be/agenda/3134-club-laat-dj-g2g/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-02"
+            }
+          ]
+        },
+        {
           "EventTitle": "Laibach",
           "EventDate": "2026-10-04",
           "EventUrl": "https://www.democrazy.be/agenda/3154-laibach/",
@@ -5582,9 +5556,9 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 45,
+      "TotalEvents": 46,
       "ErrorCount": 0,
-      "WarningCount": 45,
+      "WarningCount": 46,
       "Issues": [],
       "EventDetails": [
         {
@@ -6069,6 +6043,19 @@
           ]
         },
         {
+          "EventTitle": "Myles Sanko (albumrelease)",
+          "EventDate": "2026-10-17T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/myles-sanko-albumrelease-17-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Stef Kamil Carlens & The Poem",
           "EventDate": "2026-10-22T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/stef-kamil-carlens-en-the-poem-22-10-26",
@@ -6178,7 +6165,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 85,
+      "TotalEvents": 84,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7556,7 +7543,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 222,
+      "TotalEvents": 225,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -7632,7 +7619,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 108,
+      "TotalEvents": 107,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7642,7 +7629,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 46,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
