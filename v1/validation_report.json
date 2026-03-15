@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-14T06:00:01.6074144Z",
-  "ValidatedAt": "2026-03-14T06:00:01.6074145Z",
+  "GeneratedAt": "2026-03-15T06:00:00.5105066Z",
+  "ValidatedAt": "2026-03-15T06:00:00.5105067Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1525,
+  "TotalEvents": 1505,
   "TotalErrors": 0,
-  "TotalWarnings": 569,
+  "TotalWarnings": 565,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,24 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 186,
+      "TotalEvents": 185,
       "ErrorCount": 0,
-      "WarningCount": 186,
+      "WarningCount": 185,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "50 years The Kids - minifest + sunpower, Hetze, Kotskat, Colère",
-          "EventDate": "2026-03-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/50-years-the-kids-minifest/a10Qw000004AM09IAG",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-14T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Group Atelier w/Julie Rens",
           "EventDate": "2026-03-15T00:00:00.0000000",
@@ -728,9 +715,9 @@
           ]
         },
         {
-          "EventTitle": "Kim Gordon - PLAY ME TOUR",
+          "EventTitle": "MICHA",
           "EventDate": "2026-04-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kim-gordon-play-me-tour/a10Qw00000FddQfIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000E8tYjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -741,9 +728,9 @@
           ]
         },
         {
-          "EventTitle": "MICHA",
+          "EventTitle": "Kim Gordon - PLAY ME TOUR",
           "EventDate": "2026-04-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000E8tYjIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kim-gordon-play-me-tour/a10Qw00000FddQfIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2449,7 +2436,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 154,
+      "TotalEvents": 150,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -2512,24 +2499,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 60,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "ICOON 'Bootylicious'",
-          "EventDate": "2026-03-14T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/icoon",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-14T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Afro Anatolian Tales",
           "EventDate": "2026-03-15T00:00:00.0000000",
@@ -3303,7 +3277,7 @@
       "ScraperId": "slh",
       "ScraperName": "slhScraper",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3320,14 +3294,14 @@
       "EventDetails": [
         {
           "EventTitle": "Testament",
-          "EventDate": "2026-03-14T00:00:00.0000000",
+          "EventDate": "2026-03-15T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-14T00:00:00.0000000"
+              "ActualValue": "2026-03-15T00:00:00.0000000"
             }
           ]
         },
@@ -3532,7 +3506,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 37,
+      "TotalEvents": 36,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3542,24 +3516,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 50,
+      "TotalEvents": 49,
       "ErrorCount": 0,
-      "WarningCount": 50,
+      "WarningCount": 49,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Club G ft. Gibon & Nand De Klerck",
-          "EventDate": "2026-03-14T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-g-ft-gibon-nand-de-klerck/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-14T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Welcome to the Jazzclub / Marjan Van Rompay Group",
           "EventDate": "2026-03-15T00:00:00",
@@ -4203,7 +4164,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 112,
+      "TotalEvents": 110,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4328,24 +4289,11 @@
       "ScraperId": "dezwerver",
       "ScraperName": "dezwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kaat Van Stralen + Frans Kalf",
-          "EventDate": "2026-03-14T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/228-kaat-van-stralen/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-14T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-14T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "The Kids + Vaag + The Covids",
           "EventDate": "2026-03-28T00:00:00",
@@ -6165,7 +6113,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 84,
+      "TotalEvents": 83,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7543,7 +7491,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 225,
+      "TotalEvents": 221,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -7619,7 +7567,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 107,
+      "TotalEvents": 106,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7629,7 +7577,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 45,
+      "TotalEvents": 43,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
