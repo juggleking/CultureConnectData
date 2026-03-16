@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-15T06:00:00.5105066Z",
-  "ValidatedAt": "2026-03-15T06:00:00.5105067Z",
+  "GeneratedAt": "2026-03-16T06:00:01.5716664Z",
+  "ValidatedAt": "2026-03-16T06:00:01.5716665Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1505,
+  "TotalEvents": 1491,
   "TotalErrors": 0,
-  "TotalWarnings": 565,
+  "TotalWarnings": 558,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,50 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 185,
+      "TotalEvents": 182,
       "ErrorCount": 0,
-      "WarningCount": 185,
+      "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Group Atelier w/Julie Rens",
-          "EventDate": "2026-03-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wjulie-rens/a10Qw00000GudaCIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Antlers + Clara Mann",
-          "EventDate": "2026-03-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-antlers/a10Qw00000AGO3sIAH",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "YUSTON XIII + taunz",
-          "EventDate": "2026-03-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/yuston-xiii/a10Qw000005MnorIAC",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "CMAT + Katy J Pearson",
           "EventDate": "2026-03-16T00:00:00.0000000",
@@ -2436,7 +2397,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 150,
+      "TotalEvents": 148,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -2499,24 +2460,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Afro Anatolian Tales",
-          "EventDate": "2026-03-15T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/afro-anatolian-tales",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "De Dolfijntjes + bvba Vandamme",
           "EventDate": "2026-03-20T00:00:00.0000000",
@@ -3294,14 +3242,14 @@
       "EventDetails": [
         {
           "EventTitle": "Testament",
-          "EventDate": "2026-03-15T00:00:00.0000000",
+          "EventDate": "2026-03-19T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-19T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00.0000000"
+              "ActualValue": "2026-03-19T00:00:00.0000000"
             }
           ]
         },
@@ -3516,24 +3464,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 49,
+      "TotalEvents": 48,
       "ErrorCount": 0,
-      "WarningCount": 49,
+      "WarningCount": 48,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Welcome to the Jazzclub / Marjan Van Rompay Group",
-          "EventDate": "2026-03-15T00:00:00",
-          "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-marjan-van-rompay-group/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "The Mystery Lights + Straight Shooter",
           "EventDate": "2026-03-18T00:00:00",
@@ -4164,7 +4099,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 110,
+      "TotalEvents": 109,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4443,24 +4378,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 80,
+      "TotalEvents": 79,
       "ErrorCount": 0,
-      "WarningCount": 80,
+      "WarningCount": 79,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Few Bits - + Wave A Way",
-          "EventDate": "2026-03-15",
-          "EventUrl": "https://www.democrazy.be/agenda/3075-few-bits/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15"
-            }
-          ]
-        },
         {
           "EventTitle": "Keith Caputo - Died Laughing tour + Serpents",
           "EventDate": "2026-03-17",
@@ -5504,24 +5426,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 46,
+      "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 46,
+      "WarningCount": 45,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Magic Strings & Wild Winds (6+)",
-          "EventDate": "2026-03-15T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/magic-strings-en-wild-winds-6-15-03-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "bodies / Ben Wendel's BaRcoDe",
           "EventDate": "2026-03-18T00:00:00.0000000",
@@ -7491,7 +7400,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 221,
+      "TotalEvents": 218,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -7577,7 +7486,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 43,
+      "TotalEvents": 42,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
