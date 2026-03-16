@@ -4,14 +4,14 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 182,
+    "TotalEventsFound": 184,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "cc80983723bf0cabdce600faacfc108e049cdfbae78ddfa1e4a3a756b8f8a7c6",
+        "Hash": "18eb5d33f882cb625e546798ed48ecbe32424474a3dc49bd6940c01d4f342ce0",
         "EventCount": 32,
         "Status": "Success",
         "ErrorMessage": null
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-04-2026.json",
         "FilePath": "events/concerts/ab/ab-04-2026.json",
-        "Hash": "468aea1116fd253c3fc25019f4952a2d6578180e68484a26b8d80d90fc26209b",
+        "Hash": "cb76653f07c48237e161c90f092c1b8a6dea042171edd217038c740011b6f9c0",
         "EventCount": 49,
         "Status": "Success",
         "ErrorMessage": null
@@ -91,8 +91,8 @@
         "Year": 2026,
         "FileName": "ab-12-2026.json",
         "FilePath": "events/concerts/ab/ab-12-2026.json",
-        "Hash": "46d9989b690dae1ab50e44a6508ba12deed47e75dd82523b64b0bb6c85c57c0d",
-        "EventCount": 6,
+        "Hash": "e3da8e35898ac895d9327462e0acbc280d4b459c9b48731401b1f90264b689b6",
+        "EventCount": 8,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -119,18 +119,43 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:09.466681Z",
-    "StartedAt": "2026-03-16T07:00:00.2638383Z",
-    "FinishedAt": "2026-03-16T07:00:09.4654762Z",
+    "RunTime": "2026-03-16T11:00:09.7037194Z",
+    "StartedAt": "2026-03-16T11:00:00.4741114Z",
+    "FinishedAt": "2026-03-16T11:00:09.7037166Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Kaat Van Stralen",
+        "DateString": "2026-12-03T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000M5PM6MAN_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Feminism packaged in punk tracks so that even your dad will get it",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      },
+      {
+        "Title": "UB40 feat Ali Campbell",
+        "DateString": "2026-12-14T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/ub40-feat-ali-campbell/a10Qw00000AeW3SIAV",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000LhzgsMAB_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Big Love Tour",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 148,
+    "TotalEventsFound": 149,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -197,8 +222,8 @@
         "Year": 2026,
         "FileName": "botanique-11-2026.json",
         "FilePath": "events/concerts/botanique/botanique-11-2026.json",
-        "Hash": "a15be66a8bd1a3d332086fb4dd74d075c4266b765e4c2e9ee629daf4e1dc4c0a",
-        "EventCount": 6,
+        "Hash": "3cc3a82db3e6f14a59c4694a01eaa4e7542608d108f142048f40bc1b37d22e32",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -225,11 +250,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:17.2579373Z",
-    "StartedAt": "2026-03-16T07:00:00.2642868Z",
-    "FinishedAt": "2026-03-16T07:00:17.2579329Z",
+    "RunTime": "2026-03-16T11:00:18.2910797Z",
+    "StartedAt": "2026-03-16T11:00:00.4756013Z",
+    "FinishedAt": "2026-03-16T11:00:18.2910773Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Digitalism",
+        "DateString": "2026-11-07T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/digitalism-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-03/digitalism.JPG?itok=Bvo6pWAN",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Museum",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -331,9 +369,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:01.9564023Z",
-    "StartedAt": "2026-03-16T07:00:00.2644997Z",
-    "FinishedAt": "2026-03-16T07:00:01.9563987Z",
+    "RunTime": "2026-03-16T11:00:02.3306467Z",
+    "StartedAt": "2026-03-16T11:00:00.4760029Z",
+    "FinishedAt": "2026-03-16T11:00:02.3306428Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -387,9 +425,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:01:03.383049Z",
-    "StartedAt": "2026-03-16T07:00:00.2646604Z",
-    "FinishedAt": "2026-03-16T07:01:03.3830445Z",
+    "RunTime": "2026-03-16T11:01:48.5674438Z",
+    "StartedAt": "2026-03-16T11:00:00.4763082Z",
+    "FinishedAt": "2026-03-16T11:01:48.5674396Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -398,7 +436,7 @@
     "VenueId": "decasino",
     "VenueName": "De Casino",
     "Category": "Concerts",
-    "TotalEventsFound": 48,
+    "TotalEventsFound": 51,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -435,8 +473,8 @@
         "Year": 2026,
         "FileName": "decasino-06-2026.json",
         "FilePath": "events/concerts/decasino/decasino-06-2026.json",
-        "Hash": "39994e41f0215b37991220fe56c4abbbdebdbd18f11f900f5b5c6e9b4bb07547",
-        "EventCount": 6,
+        "Hash": "bec7d807b69ab6fb8b27562d95f05458d5f88caca4c9bfa1f774a6eb3d0bb93a",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -483,11 +521,48 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.2878109Z",
-    "StartedAt": "2026-03-16T07:00:00.2648412Z",
-    "FinishedAt": "2026-03-16T07:00:02.2878065Z",
+    "RunTime": "2026-03-16T11:00:02.4829075Z",
+    "StartedAt": "2026-03-16T11:00:00.4767924Z",
+    "FinishedAt": "2026-03-16T11:00:02.4824405Z",
     "FaviconUrl": "images/icons/decasino.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Great Gigs in the Park / Psychonaut",
+        "DateString": "2026-06-12T00:00:00",
+        "Url": "https://decasino.be/concert/great-gigs-in-the-park-psychonaut/",
+        "ImageUrl": "",
+        "Location": "De Casino",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1692",
+        "Longitude": "4.1422"
+      },
+      {
+        "Title": "Great Gigs in the Park / Tropical Fuck Storm \u002B Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+        "DateString": "2026-06-23T00:00:00",
+        "Url": "https://decasino.be/concert/great-gigs-in-the-park-tropical-fuck-storm-pigs-pigs-pigs-pigs-pigs-pigs-pigs/",
+        "ImageUrl": "",
+        "Location": "De Casino",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1692",
+        "Longitude": "4.1422"
+      },
+      {
+        "Title": "Great Gigs in the Park / The Paranoiacs (try-out)",
+        "DateString": "2026-06-27T00:00:00",
+        "Url": "https://decasino.be/concert/great-gigs-in-the-park-the-paranoiacs-try-out/",
+        "ImageUrl": "",
+        "Location": "De Casino",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1692",
+        "Longitude": "4.1422"
+      }
+    ]
   },
   {
     "ScraperName": "DeKluizeScraper",
@@ -529,9 +604,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:03.5062182Z",
-    "StartedAt": "2026-03-16T07:00:00.2649872Z",
-    "FinishedAt": "2026-03-16T07:00:03.5062142Z",
+    "RunTime": "2026-03-16T11:00:03.4615547Z",
+    "StartedAt": "2026-03-16T11:00:00.4772987Z",
+    "FinishedAt": "2026-03-16T11:00:03.4615302Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -567,7 +642,7 @@
         "Year": 2026,
         "FileName": "democrazy-05-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-05-2026.json",
-        "Hash": "73566bab06c6b47cf74af1d85233853a888c8f827a511999eefa5b46f49010ad",
+        "Hash": "ebf6a73bc5de9431ee5fef762256177b5db08f826ad155c9d4fb3f8f7a40cf32",
         "EventCount": 22,
         "Status": "Success",
         "ErrorMessage": null
@@ -597,7 +672,7 @@
         "Year": 2026,
         "FileName": "democrazy-10-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-10-2026.json",
-        "Hash": "0c3cfd6d2d495db179672ba44c82409dacfaee7686f7b1412c3c7bcf492c6d6d",
+        "Hash": "fb15707600a096f350e0fb2b2f8e27a22528249f566d9ecaaf3b448d93f4f5d7",
         "EventCount": 8,
         "Status": "Success",
         "ErrorMessage": null
@@ -635,9 +710,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.1885017Z",
-    "StartedAt": "2026-03-16T07:00:00.2652375Z",
-    "FinishedAt": "2026-03-16T07:00:02.1884535Z",
+    "RunTime": "2026-03-16T11:00:02.2763783Z",
+    "StartedAt": "2026-03-16T11:00:00.477815Z",
+    "FinishedAt": "2026-03-16T11:00:02.2763747Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -761,9 +836,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:04.0064989Z",
-    "StartedAt": "2026-03-16T07:00:00.2653905Z",
-    "FinishedAt": "2026-03-16T07:00:04.006496Z",
+    "RunTime": "2026-03-16T11:00:03.8159182Z",
+    "StartedAt": "2026-03-16T11:00:00.4782904Z",
+    "FinishedAt": "2026-03-16T11:00:03.8159148Z",
     "FaviconUrl": "images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -817,9 +892,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.2737996Z",
-    "StartedAt": "2026-03-16T07:00:00.2655826Z",
-    "FinishedAt": "2026-03-16T07:00:02.2737957Z",
+    "RunTime": "2026-03-16T11:00:02.0464536Z",
+    "StartedAt": "2026-03-16T11:00:00.4805912Z",
+    "FinishedAt": "2026-03-16T11:00:02.04645Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -883,9 +958,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.0117035Z",
-    "StartedAt": "2026-03-16T07:00:00.2657537Z",
-    "FinishedAt": "2026-03-16T07:00:02.0113121Z",
+    "RunTime": "2026-03-16T11:00:01.9738277Z",
+    "StartedAt": "2026-03-16T11:00:00.4809831Z",
+    "FinishedAt": "2026-03-16T11:00:01.9738036Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -989,9 +1064,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.6627809Z",
-    "StartedAt": "2026-03-16T07:00:00.2658977Z",
-    "FinishedAt": "2026-03-16T07:00:02.6627769Z",
+    "RunTime": "2026-03-16T11:00:02.5889344Z",
+    "StartedAt": "2026-03-16T11:00:00.481469Z",
+    "FinishedAt": "2026-03-16T11:00:02.5883828Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1055,9 +1130,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.2058255Z",
-    "StartedAt": "2026-03-16T07:00:00.2661016Z",
-    "FinishedAt": "2026-03-16T07:00:02.2058213Z",
+    "RunTime": "2026-03-16T11:00:02.3819514Z",
+    "StartedAt": "2026-03-16T11:00:00.4819848Z",
+    "FinishedAt": "2026-03-16T11:00:02.3813331Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -1151,9 +1226,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:08.9758141Z",
-    "StartedAt": "2026-03-16T07:00:00.2662933Z",
-    "FinishedAt": "2026-03-16T07:00:08.9758104Z",
+    "RunTime": "2026-03-16T11:00:10.8977698Z",
+    "StartedAt": "2026-03-16T11:00:00.482558Z",
+    "FinishedAt": "2026-03-16T11:00:10.8974832Z",
     "FaviconUrl": "images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1169,7 +1244,7 @@
         "Year": 2026,
         "FileName": "hetdepot-03-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-03-2026.json",
-        "Hash": "165464c62f9774d94d6c804a71d312a98e237f5f2fb93ceb09f0c6d3a6ddd9bd",
+        "Hash": "4caa8c767dbf466e901df4681222b702b77fd21a78710e19307cb56ce8ea1975",
         "EventCount": 16,
         "Status": "Success",
         "ErrorMessage": null
@@ -1189,7 +1264,7 @@
         "Year": 2026,
         "FileName": "hetdepot-05-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-05-2026.json",
-        "Hash": "7c6d9c8cd08839f1afef34d317ee32a04244a9a226c4aeeaee0ef246ec93255e",
+        "Hash": "0bcc3f33457c63dd5a4b987d2dd519646c558c5e16d2c01cc9d7fe7e2f596b5c",
         "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
@@ -1229,7 +1304,7 @@
         "Year": 2026,
         "FileName": "hetdepot-11-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-11-2026.json",
-        "Hash": "811b0a9d49e3221418a3de34bee437be85d81c12f3e4653df109a134ca4e8d6b",
+        "Hash": "59d1585e6613c9a1e3166fb9ceba750187cffa3ae62e9a870a3b1a52070d27db",
         "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
@@ -1267,9 +1342,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:24.8406275Z",
-    "StartedAt": "2026-03-16T07:00:00.2664707Z",
-    "FinishedAt": "2026-03-16T07:00:24.8406226Z",
+    "RunTime": "2026-03-16T11:00:35.1660226Z",
+    "StartedAt": "2026-03-16T11:00:00.4830615Z",
+    "FinishedAt": "2026-03-16T11:00:35.1660185Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1343,9 +1418,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:01.9864759Z",
-    "StartedAt": "2026-03-16T07:00:00.266648Z",
-    "FinishedAt": "2026-03-16T07:00:01.9864513Z",
+    "RunTime": "2026-03-16T11:00:02.0489548Z",
+    "StartedAt": "2026-03-16T11:00:00.4836172Z",
+    "FinishedAt": "2026-03-16T11:00:02.0485721Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1369,9 +1444,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.1152443Z",
-    "StartedAt": "2026-03-16T07:00:00.2667863Z",
-    "FinishedAt": "2026-03-16T07:00:02.1152426Z",
+    "RunTime": "2026-03-16T11:00:02.1161838Z",
+    "StartedAt": "2026-03-16T11:00:00.4841316Z",
+    "FinishedAt": "2026-03-16T11:00:02.1161821Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1405,9 +1480,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:04.3750183Z",
-    "StartedAt": "2026-03-16T07:00:00.2669566Z",
-    "FinishedAt": "2026-03-16T07:00:04.3750139Z",
+    "RunTime": "2026-03-16T11:00:04.0880327Z",
+    "StartedAt": "2026-03-16T11:00:00.4846267Z",
+    "FinishedAt": "2026-03-16T11:00:04.0880281Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1431,9 +1506,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.0721893Z",
-    "StartedAt": "2026-03-16T07:00:00.2671622Z",
-    "FinishedAt": "2026-03-16T07:00:02.0720579Z",
+    "RunTime": "2026-03-16T11:00:02.0228612Z",
+    "StartedAt": "2026-03-16T11:00:00.4851068Z",
+    "FinishedAt": "2026-03-16T11:00:02.0228565Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1477,9 +1552,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:02.7985458Z",
-    "StartedAt": "2026-03-16T07:00:00.2673909Z",
-    "FinishedAt": "2026-03-16T07:00:02.7985414Z",
+    "RunTime": "2026-03-16T11:00:02.9167667Z",
+    "StartedAt": "2026-03-16T11:00:00.4856049Z",
+    "FinishedAt": "2026-03-16T11:00:02.9167628Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1563,9 +1638,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:19.0198299Z",
-    "StartedAt": "2026-03-16T07:00:00.2676126Z",
-    "FinishedAt": "2026-03-16T07:00:19.0198254Z",
+    "RunTime": "2026-03-16T11:00:20.1644052Z",
+    "StartedAt": "2026-03-16T11:00:00.4861519Z",
+    "FinishedAt": "2026-03-16T11:00:20.1641738Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1574,14 +1649,14 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 106,
+    "TotalEventsFound": 107,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "trix-03-2026.json",
         "FilePath": "events/concerts/trix/trix-03-2026.json",
-        "Hash": "6ba1109e20dd9d5df2083cba1868bbfc886c9ebb9567b652fbb03285e003ad26",
+        "Hash": "0bf9ec07a318afae3ea31d437793489d1bcebcf61f57d8db0e69138b973dce1d",
         "EventCount": 16,
         "Status": "Success",
         "ErrorMessage": null
@@ -1601,8 +1676,8 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "77482323b4e9e8084753deb58a0b15695a5802d75077c8f5ba4fdb75c0868142",
-        "EventCount": 28,
+        "Hash": "6e1a8f42e6cfe79982e7f467f1d01a4f38ab611a0d93faba2bfe930d5afbe894",
+        "EventCount": 29,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1679,11 +1754,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:10.0804814Z",
-    "StartedAt": "2026-03-16T07:00:00.267862Z",
-    "FinishedAt": "2026-03-16T07:00:10.0804787Z",
+    "RunTime": "2026-03-16T11:00:09.7737398Z",
+    "StartedAt": "2026-03-16T11:00:00.4867533Z",
+    "FinishedAt": "2026-03-16T11:00:09.7737377Z",
     "FaviconUrl": "images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Arc Sessions VOL.1 / SOLARSIS / Recoduct / BO JANE / ROEST",
+        "DateString": "2026-05-02T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/arc-sessions-vol1/4129/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/12oo-x-580-trix-1.png",
+        "Location": "Trix",
+        "Description": "ARC SESSIONS VOL.1 markeert het begin van ARC, een nieuw initiatief dat met workshops, live elektronica en DJ-sets de underground elektronische scene centraal zet.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -1765,9 +1853,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:01:13.2887955Z",
-    "StartedAt": "2026-03-16T07:00:00.2680957Z",
-    "FinishedAt": "2026-03-16T07:01:13.2887917Z",
+    "RunTime": "2026-03-16T11:01:09.3467764Z",
+    "StartedAt": "2026-03-16T11:00:00.487375Z",
+    "FinishedAt": "2026-03-16T11:01:09.3467722Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1851,9 +1939,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-03-16T07:00:01.7899808Z",
-    "StartedAt": "2026-03-16T07:00:00.2689365Z",
-    "FinishedAt": "2026-03-16T07:00:01.7899709Z",
+    "RunTime": "2026-03-16T11:00:01.8739403Z",
+    "StartedAt": "2026-03-16T11:00:00.4879565Z",
+    "FinishedAt": "2026-03-16T11:00:01.8739361Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
