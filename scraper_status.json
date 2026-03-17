@@ -4,14 +4,14 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 183,
+    "TotalEventsFound": 184,
     "MonthlyFiles": [
       {
         "Month": 3,
         "Year": 2026,
         "FileName": "ab-03-2026.json",
         "FilePath": "events/concerts/ab/ab-03-2026.json",
-        "Hash": "61518a3d77180afb459730c14e6bd87862284a05e728c868f3d4a1979b1d3a54",
+        "Hash": "36bbeb980ba8e9192ca4614f51144ade37328e75d67e109d6b6041b8bc236200",
         "EventCount": 31,
         "Status": "Success",
         "ErrorMessage": null
@@ -71,8 +71,8 @@
         "Year": 2026,
         "FileName": "ab-10-2026.json",
         "FilePath": "events/concerts/ab/ab-10-2026.json",
-        "Hash": "82caffd939e3413beaf3d9871ef728dc2fe6fdee1f30f2ac7eba4451ad41539d",
-        "EventCount": 17,
+        "Hash": "ace497b3f0e815786eadccc8da7b7951ecdb26bd060f1619435778a63609e1fe",
+        "EventCount": 18,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -119,18 +119,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:09.5490317Z",
-    "StartedAt": "2026-03-17T07:00:00.2551859Z",
-    "FinishedAt": "2026-03-17T07:00:09.5490273Z",
+    "RunTime": "2026-03-17T11:00:08.6977638Z",
+    "StartedAt": "2026-03-17T11:00:00.6895761Z",
+    "FinishedAt": "2026-03-17T11:00:08.6977608Z",
     "FaviconUrl": "images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Finojet",
+        "DateString": "2026-10-11T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/finojet/a10Qw00000FdspVIAR",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000MAlfMMAT_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Warm Australian indie-folk",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 148,
+    "TotalEventsFound": 149,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -147,7 +160,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "a594f37b68fd34e8a11a50f75b6657a0eb8eae1f010f76c9d18b70b8cb394e48",
+        "Hash": "a03b675dcb76f54f066308f82669aaaf631556653d3ca4d9256b89a8a06c5617",
         "EventCount": 59,
         "Status": "Success",
         "ErrorMessage": null
@@ -187,8 +200,8 @@
         "Year": 2026,
         "FileName": "botanique-10-2026.json",
         "FilePath": "events/concerts/botanique/botanique-10-2026.json",
-        "Hash": "644a60582e6a6690e0d36ae9a10ccf5650f5c44ad753bcee6c202721d929377c",
-        "EventCount": 11,
+        "Hash": "e6c547a53d5d11a733e5fd65eb3680e0822cd8c731f52a59a78a50fc925b1eb0",
+        "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -225,11 +238,36 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:05.0556565Z",
-    "StartedAt": "2026-03-17T07:00:00.2558971Z",
-    "FinishedAt": "2026-03-17T07:00:05.0556519Z",
+    "RunTime": "2026-03-17T11:00:19.2714457Z",
+    "StartedAt": "2026-03-17T11:00:00.6899384Z",
+    "FinishedAt": "2026-03-17T11:00:19.2714436Z",
     "FaviconUrl": "images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Deathcrash - Ohio Mark",
+        "DateString": "2026-04-09T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/deathcrash-ohio-mark-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-10/Triumph%20-%20Press%20Shot%20-%20Credit_%20Matthew%20Weinberger.JPG?itok=zz-TVfrz",
+        "Location": "Botanique, Brussels",
+        "Description": "Slowcore van een zeldzame intensiteit, zwevend tussen gefluister en een potenti\u00EBle storm",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Prohibition - Ciseaux",
+        "DateString": "2026-10-02T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/prohibition-ciseaux-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-03/Prohibition2025-NB_5122.jpg?itok=dK8vpbU9",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -331,9 +369,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.5114688Z",
-    "StartedAt": "2026-03-17T07:00:00.2562389Z",
-    "FinishedAt": "2026-03-17T07:00:02.5114652Z",
+    "RunTime": "2026-03-17T11:00:02.5335345Z",
+    "StartedAt": "2026-03-17T11:00:00.6900613Z",
+    "FinishedAt": "2026-03-17T11:00:02.5335309Z",
     "FaviconUrl": "images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -387,9 +425,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:01:06.7427271Z",
-    "StartedAt": "2026-03-17T07:00:00.2566044Z",
-    "FinishedAt": "2026-03-17T07:01:06.7427231Z",
+    "RunTime": "2026-03-17T11:01:21.4211514Z",
+    "StartedAt": "2026-03-17T11:00:00.6902172Z",
+    "FinishedAt": "2026-03-17T11:01:21.4211473Z",
     "FaviconUrl": "images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -483,9 +521,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.4317297Z",
-    "StartedAt": "2026-03-17T07:00:00.2571841Z",
-    "FinishedAt": "2026-03-17T07:00:02.4317106Z",
+    "RunTime": "2026-03-17T11:00:02.4670447Z",
+    "StartedAt": "2026-03-17T11:00:00.6903097Z",
+    "FinishedAt": "2026-03-17T11:00:02.4670402Z",
     "FaviconUrl": "images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -529,9 +567,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:03.3802916Z",
-    "StartedAt": "2026-03-17T07:00:00.2574587Z",
-    "FinishedAt": "2026-03-17T07:00:03.3802765Z",
+    "RunTime": "2026-03-17T11:00:03.3176758Z",
+    "StartedAt": "2026-03-17T11:00:00.6903941Z",
+    "FinishedAt": "2026-03-17T11:00:03.3176719Z",
     "FaviconUrl": "images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -540,7 +578,7 @@
     "VenueId": "democrazy",
     "VenueName": "Democrazy, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 79,
+    "TotalEventsFound": 80,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -557,7 +595,7 @@
         "Year": 2026,
         "FileName": "democrazy-04-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-04-2026.json",
-        "Hash": "cc589312ad5d6496601285c4e4ece8c41059458188000c97ba6bff2cc9f92b40",
+        "Hash": "ab992d13ff51d46e33299c55e9b5b968e299719692993c5da8a759d5e1dc1d29",
         "EventCount": 24,
         "Status": "Success",
         "ErrorMessage": null
@@ -567,8 +605,8 @@
         "Year": 2026,
         "FileName": "democrazy-05-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-05-2026.json",
-        "Hash": "ebf6a73bc5de9431ee5fef762256177b5db08f826ad155c9d4fb3f8f7a40cf32",
-        "EventCount": 22,
+        "Hash": "4002ed86378ba1eb865c6a1fbca67623e882434fc94ec1bef79f59f4c07d5074",
+        "EventCount": 23,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -635,11 +673,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.7821954Z",
-    "StartedAt": "2026-03-17T07:00:00.2577254Z",
-    "FinishedAt": "2026-03-17T07:00:02.7821914Z",
+    "RunTime": "2026-03-17T11:00:02.4821965Z",
+    "StartedAt": "2026-03-17T11:00:00.6905486Z",
+    "FinishedAt": "2026-03-17T11:00:02.4821924Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Eye On Palestine - w/ Kamilya Jubran en Wajdi Riahi",
+        "DateString": "2026-05-29",
+        "Url": "https://www.democrazy.be/agenda/3180-eye-on-palestine/",
+        "ImageUrl": "https://www.democrazy.be/media/thumb/35451-schermen-seizoen-2526-7.jpg",
+        "Location": "Ha Concerts",
+        "Description": "Oog op Palestina.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      }
+    ]
   },
   {
     "ScraperName": "DeRomaScraper",
@@ -761,9 +812,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:04.2877803Z",
-    "StartedAt": "2026-03-17T07:00:00.2579935Z",
-    "FinishedAt": "2026-03-17T07:00:04.287754Z",
+    "RunTime": "2026-03-17T11:00:04.4032412Z",
+    "StartedAt": "2026-03-17T11:00:00.6906367Z",
+    "FinishedAt": "2026-03-17T11:00:04.4032382Z",
     "FaviconUrl": "images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -817,9 +868,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.290407Z",
-    "StartedAt": "2026-03-17T07:00:00.2611893Z",
-    "FinishedAt": "2026-03-17T07:00:02.290403Z",
+    "RunTime": "2026-03-17T11:00:01.7816489Z",
+    "StartedAt": "2026-03-17T11:00:00.6907259Z",
+    "FinishedAt": "2026-03-17T11:00:01.7816447Z",
     "FaviconUrl": "images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -883,9 +934,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.089944Z",
-    "StartedAt": "2026-03-17T07:00:00.2615048Z",
-    "FinishedAt": "2026-03-17T07:00:02.08994Z",
+    "RunTime": "2026-03-17T11:00:01.8233452Z",
+    "StartedAt": "2026-03-17T11:00:00.6908262Z",
+    "FinishedAt": "2026-03-17T11:00:01.8233411Z",
     "FaviconUrl": "images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -989,9 +1040,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.6481964Z",
-    "StartedAt": "2026-03-17T07:00:00.2617273Z",
-    "FinishedAt": "2026-03-17T07:00:02.6481605Z",
+    "RunTime": "2026-03-17T11:00:02.5362553Z",
+    "StartedAt": "2026-03-17T11:00:00.690914Z",
+    "FinishedAt": "2026-03-17T11:00:02.5362509Z",
     "FaviconUrl": "images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1055,9 +1106,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:03.4749431Z",
-    "StartedAt": "2026-03-17T07:00:00.2620095Z",
-    "FinishedAt": "2026-03-17T07:00:03.474939Z",
+    "RunTime": "2026-03-17T11:00:02.4615852Z",
+    "StartedAt": "2026-03-17T11:00:00.6910005Z",
+    "FinishedAt": "2026-03-17T11:00:02.4615808Z",
     "FaviconUrl": "images/icons/4ad.png",
     "NewEvents": []
   },
@@ -1066,7 +1117,7 @@
     "VenueId": "ha",
     "VenueName": "Ha Concerts, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 45,
+    "TotalEventsFound": 46,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -1093,8 +1144,8 @@
         "Year": 2026,
         "FileName": "ha-05-2026.json",
         "FilePath": "events/concerts/ha/ha-05-2026.json",
-        "Hash": "ed3935ea302fff4bd57c72352d002536009e06f5f881b9423f9bdd4f61cfeaa1",
-        "EventCount": 13,
+        "Hash": "80d35bb1e83de6334dec2c1ef481190687bf944daf6eb8449c561b331df9bafe",
+        "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1151,11 +1202,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:09.392334Z",
-    "StartedAt": "2026-03-17T07:00:00.2623295Z",
-    "FinishedAt": "2026-03-17T07:00:09.3923297Z",
+    "RunTime": "2026-03-17T11:00:09.4868917Z",
+    "StartedAt": "2026-03-17T11:00:00.6911212Z",
+    "FinishedAt": "2026-03-17T11:00:09.4868891Z",
     "FaviconUrl": "images/icons/haconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Eye On Palestine",
+        "DateString": "2026-05-29T00:00:00.0000000",
+        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/eye-on-palestine-29-05-26",
+        "ImageUrl": "",
+        "Location": "Ha Concerts",
+        "Description": "met Kamilya Jubran en Wajdi Riahi",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      }
+    ]
   },
   {
     "ScraperName": "HetDepotScraper",
@@ -1267,9 +1331,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:24.8361491Z",
-    "StartedAt": "2026-03-17T07:00:00.2625931Z",
-    "FinishedAt": "2026-03-17T07:00:24.8361458Z",
+    "RunTime": "2026-03-17T11:00:25.1383581Z",
+    "StartedAt": "2026-03-17T11:00:00.691229Z",
+    "FinishedAt": "2026-03-17T11:00:25.1383539Z",
     "FaviconUrl": "images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1343,9 +1407,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.2992677Z",
-    "StartedAt": "2026-03-17T07:00:00.2629067Z",
-    "FinishedAt": "2026-03-17T07:00:02.2992638Z",
+    "RunTime": "2026-03-17T11:00:02.2795148Z",
+    "StartedAt": "2026-03-17T11:00:00.6913096Z",
+    "FinishedAt": "2026-03-17T11:00:02.2795102Z",
     "FaviconUrl": "images/icons/n9.png",
     "NewEvents": []
   },
@@ -1369,9 +1433,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.2755524Z",
-    "StartedAt": "2026-03-17T07:00:00.2631588Z",
-    "FinishedAt": "2026-03-17T07:00:02.2755508Z",
+    "RunTime": "2026-03-17T11:00:02.1373902Z",
+    "StartedAt": "2026-03-17T11:00:00.6913785Z",
+    "FinishedAt": "2026-03-17T11:00:02.1373877Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1380,7 +1444,7 @@
     "VenueId": "rivierenhof",
     "VenueName": "OLT Rivierenhof",
     "Category": "Concerts",
-    "TotalEventsFound": 3,
+    "TotalEventsFound": 4,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1401,15 +1465,38 @@
         "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 7,
+        "Year": 2026,
+        "FileName": "rivierenhof-07-2026.json",
+        "FilePath": "events/concerts/rivierenhof/rivierenhof-07-2026.json",
+        "Hash": "07dbe4da1921235a46d341c7be9b2712c2fd50f52454d498411a7f9a118bdce0",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:04.2539163Z",
-    "StartedAt": "2026-03-17T07:00:00.2634286Z",
-    "FinishedAt": "2026-03-17T07:00:04.2538879Z",
+    "RunTime": "2026-03-17T11:00:05.8232029Z",
+    "StartedAt": "2026-03-17T11:00:00.6914474Z",
+    "FinishedAt": "2026-03-17T11:00:05.8232001Z",
     "FaviconUrl": "images/icons/rivierenhof.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Contrair Open Air - Closing Concert - Sunday",
+        "DateString": "2026-07-19",
+        "Url": "https://www.oltrivierenhof.be/nl/programma/contrair-open-air-closing-concert-sunday/a0NP500000NtrHsMAJ",
+        "ImageUrl": "https://lab.digital-asset.app/mZfS7XELEB",
+        "Location": "OLT Rivierenhof",
+        "Description": "Contrair Open Air is terug! Dit keer viert het festival z\u0026#39;n vijfde verjaardag zoals het hoort: groter, euforischer en met nog meer plek om te dansen. Op 18 \u0026amp; 19 juli 2026...",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.2151",
+        "Longitude": "4.4707"
+      }
+    ]
   },
   {
     "ScraperName": "RockWerchterScraper",
@@ -1431,9 +1518,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.1806217Z",
-    "StartedAt": "2026-03-17T07:00:00.2668731Z",
-    "FinishedAt": "2026-03-17T07:00:02.1806175Z",
+    "RunTime": "2026-03-17T11:00:01.7768178Z",
+    "StartedAt": "2026-03-17T11:00:00.6915112Z",
+    "FinishedAt": "2026-03-17T11:00:01.7768131Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1477,9 +1564,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:03.0537651Z",
-    "StartedAt": "2026-03-17T07:00:00.267392Z",
-    "FinishedAt": "2026-03-17T07:00:03.0537614Z",
+    "RunTime": "2026-03-17T11:00:05.2286588Z",
+    "StartedAt": "2026-03-17T11:00:00.6915798Z",
+    "FinishedAt": "2026-03-17T11:00:05.2286547Z",
     "FaviconUrl": "images/icons/slh.png",
     "NewEvents": []
   },
@@ -1563,9 +1650,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:19.6830526Z",
-    "StartedAt": "2026-03-17T07:00:00.2677128Z",
-    "FinishedAt": "2026-03-17T07:00:19.6830476Z",
+    "RunTime": "2026-03-17T11:00:20.2619867Z",
+    "StartedAt": "2026-03-17T11:00:00.6916476Z",
+    "FinishedAt": "2026-03-17T11:00:20.2619829Z",
     "FaviconUrl": "images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -1574,7 +1661,7 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 107,
+    "TotalEventsFound": 109,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -1601,8 +1688,8 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "6e1a8f42e6cfe79982e7f467f1d01a4f38ab611a0d93faba2bfe930d5afbe894",
-        "EventCount": 29,
+        "Hash": "c076e97ae4a6f2bfd71b6f7241d55255c7fc8e58fd6a16196e00254bf4243a9f",
+        "EventCount": 31,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1661,7 +1748,7 @@
         "Year": 2026,
         "FileName": "trix-11-2026.json",
         "FilePath": "events/concerts/trix/trix-11-2026.json",
-        "Hash": "0846b779334f0ae9da657c0b43c8d1068d5275957c05910b94e7d81546335f61",
+        "Hash": "d7ed354e3fb4ccdc15d55e7e35b021f355cb3643f0067dfc08f98ca69e504f05",
         "EventCount": 13,
         "Status": "Success",
         "ErrorMessage": null
@@ -1679,11 +1766,36 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:10.525941Z",
-    "StartedAt": "2026-03-17T07:00:00.2680491Z",
-    "FinishedAt": "2026-03-17T07:00:10.5259384Z",
+    "RunTime": "2026-03-17T11:00:10.0239071Z",
+    "StartedAt": "2026-03-17T11:00:00.6917966Z",
+    "FinishedAt": "2026-03-17T11:00:10.0239049Z",
     "FaviconUrl": "images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Thank You For Your Attention!",
+        "DateString": "2026-05-17T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/thank-you-for-your-attention/4127/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/trixb.jpg",
+        "Location": "Trix",
+        "Description": "We trappen de expo van Rik Chaubet af met exclusieve concerten van de meest eigenzinnige Belgische artiesten.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      },
+      {
+        "Title": "Sportweekend",
+        "DateString": "2026-05-23T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/sportweekend/4126/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/sportweekendwebsite.png",
+        "Location": "Trix",
+        "Description": "",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -1765,9 +1877,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:01:10.2265604Z",
-    "StartedAt": "2026-03-17T07:00:00.2683367Z",
-    "FinishedAt": "2026-03-17T07:01:10.2265561Z",
+    "RunTime": "2026-03-17T11:01:09.6462178Z",
+    "StartedAt": "2026-03-17T11:00:00.6918992Z",
+    "FinishedAt": "2026-03-17T11:01:09.6462132Z",
     "FaviconUrl": "images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1851,9 +1963,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-03-17T07:00:02.0943628Z",
-    "StartedAt": "2026-03-17T07:00:00.2686085Z",
-    "FinishedAt": "2026-03-17T07:00:02.0943596Z",
+    "RunTime": "2026-03-17T11:00:01.7853445Z",
+    "StartedAt": "2026-03-17T11:00:00.6919909Z",
+    "FinishedAt": "2026-03-17T11:00:01.785341Z",
     "FaviconUrl": "images/icons/wintercircus.png",
     "NewEvents": []
   }
