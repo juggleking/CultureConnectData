@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-16T06:00:01.5716664Z",
-  "ValidatedAt": "2026-03-16T06:00:01.5716665Z",
+  "GeneratedAt": "2026-03-17T06:00:00.528882Z",
+  "ValidatedAt": "2026-03-17T06:00:00.5288821Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1491,
+  "TotalEvents": 1499,
   "TotalErrors": 0,
-  "TotalWarnings": 558,
+  "TotalWarnings": 564,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,24 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 182,
+      "TotalEvents": 183,
       "ErrorCount": 0,
-      "WarningCount": 182,
+      "WarningCount": 183,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "CMAT + Katy J Pearson",
-          "EventDate": "2026-03-16T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cmat/a10Qw0000061u7yIAA",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-16T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "MARO + carbeau, Manuel Rocha, Pedro Altério",
           "EventDate": "2026-03-17T00:00:00.0000000",
@@ -65,7 +52,7 @@
           ]
         },
         {
-          "EventTitle": "Sammy Virji",
+          "EventTitle": "Sammy Virji + DC Noises b2b shoplifter",
           "EventDate": "2026-03-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/sammy-virji/a10Qw000009LPcYIAW",
           "Issues": [
@@ -273,19 +260,6 @@
           ]
         },
         {
-          "EventTitle": "Mister Cover",
-          "EventDate": "2026-03-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/mister-cover/a10Qw000004mrpNIAQ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Flora + Garance Midi @SuperFourchette + Garance Midi",
           "EventDate": "2026-03-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/flora-garance-midi-superfourchette/a10Qw00000HCBxBIAX",
@@ -302,6 +276,19 @@
           "EventTitle": "Gotti Maras",
           "EventDate": "2026-03-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/gotti-maras/a10Qw00000EDxNCIA1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mister Cover",
+          "EventDate": "2026-03-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/mister-cover/a10Qw000004mrpNIAQ",
           "Issues": [
             {
               "Field": "DateString",
@@ -351,19 +338,6 @@
           ]
         },
         {
-          "EventTitle": "Airbourne + Asomvel",
-          "EventDate": "2026-03-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/airbourne/a10Qw000009ZWkeIAG",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "The Father, the Son and the Holy Simon",
           "EventDate": "2026-03-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-father-the-son-and-the-holy-simon/a10Qw00000DfXJvIAN",
@@ -377,9 +351,22 @@
           ]
         },
         {
-          "EventTitle": "Coke Studio Session: ELES",
+          "EventTitle": "Airbourne + Asomvel",
+          "EventDate": "2026-03-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/airbourne/a10Qw000009ZWkeIAG",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Poppy + Ocean Grove, Fox Lake",
           "EventDate": "2026-03-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/coke-studio-session-eles/a10Qw00000FbekDIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/poppy/a10Qw00000Am0mNIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -390,9 +377,9 @@
           ]
         },
         {
-          "EventTitle": "Poppy + Ocean Grove, Fox Lake",
+          "EventTitle": "Coke Studio Session: ELES",
           "EventDate": "2026-03-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/poppy/a10Qw00000Am0mNIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/coke-studio-session-eles/a10Qw00000FbekDIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -754,9 +741,9 @@
           ]
         },
         {
-          "EventTitle": "Mosimann",
+          "EventTitle": "Hiqpy + zo Lief",
           "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/mosimann/a10Qw00000790uSIAQ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/hiqpy/a10Qw00000BC5QcIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -767,9 +754,9 @@
           ]
         },
         {
-          "EventTitle": "Hiqpy + zo Lief",
+          "EventTitle": "Mosimann",
           "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/hiqpy/a10Qw00000BC5QcIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/mosimann/a10Qw00000790uSIAQ",
           "Issues": [
             {
               "Field": "DateString",
@@ -949,9 +936,9 @@
           ]
         },
         {
-          "EventTitle": "Skillet",
+          "EventTitle": "2L",
           "EventDate": "2026-04-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/skillet/a10Qw000009ZgNPIA0",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/2l/a10Qw00000Fw7jdIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -962,9 +949,9 @@
           ]
         },
         {
-          "EventTitle": "2L",
+          "EventTitle": "Skillet",
           "EventDate": "2026-04-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/2l/a10Qw00000Fw7jdIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/skillet/a10Qw000009ZgNPIA0",
           "Issues": [
             {
               "Field": "DateString",
@@ -1027,19 +1014,6 @@
           ]
         },
         {
-          "EventTitle": "Triggerfinger",
-          "EventDate": "2026-04-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/triggerfinger/a10Qw000009UZkjIAG",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Seefeel",
           "EventDate": "2026-04-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/seefeel/a10Qw00000ELgCIIA1",
@@ -1053,9 +1027,22 @@
           ]
         },
         {
-          "EventTitle": "Michelle David & The True Tones",
+          "EventTitle": "Triggerfinger",
+          "EventDate": "2026-04-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/triggerfinger/a10Qw000009UZkjIAG",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Admiral Freebee",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
           "Issues": [
             {
               "Field": "DateString",
@@ -1066,9 +1053,9 @@
           ]
         },
         {
-          "EventTitle": "Admiral Freebee",
+          "EventTitle": "Michelle David & The True Tones",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -2249,6 +2236,19 @@
           ]
         },
         {
+          "EventTitle": "Kaat Van Stralen",
+          "EventDate": "2026-12-03T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Kids With Buns",
           "EventDate": "2026-12-09T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/kids-with-buns/a10Qw00000EDqn7IAD",
@@ -2310,6 +2310,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-12-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "UB40 feat Ali Campbell",
+          "EventDate": "2026-12-14T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ub40-feat-ali-campbell/a10Qw00000AeW3SIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-14T00:00:00.0000000"
             }
           ]
         },
@@ -3454,7 +3467,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 36,
+      "TotalEvents": 37,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3464,9 +3477,9 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 48,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
         {
@@ -3821,6 +3834,19 @@
           ]
         },
         {
+          "EventTitle": "DC Rocks! / Nashville Pussy + Speedözer + Acid Talk",
+          "EventDate": "2026-05-15T00:00:00",
+          "EventUrl": "https://decasino.be/concert/dc-rocks-nashville-pussy-speedozer-acid-talk/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-15T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Welcome to the Jazzclub / Green Mean Machine",
           "EventDate": "2026-05-17T00:00:00",
           "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-green-mean-machine/",
@@ -3856,6 +3882,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-06-03T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Great Gigs in the Park / Psychonaut",
+          "EventDate": "2026-06-12T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-psychonaut/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-12T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-12T00:00:00"
             }
           ]
         },
@@ -3899,6 +3938,19 @@
           ]
         },
         {
+          "EventTitle": "Great Gigs in the Park / Tropical Fuck Storm + Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "EventDate": "2026-06-23T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-tropical-fuck-storm-pigs-pigs-pigs-pigs-pigs-pigs-pigs/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-23T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-23T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Great Gigs in the Park / Raymond van het Groenewoud",
           "EventDate": "2026-06-24T00:00:00",
           "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-raymond-van-het-groenewoud-2/",
@@ -3921,6 +3973,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-26T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-06-26T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Great Gigs in the Park / The Paranoiacs (try-out)",
+          "EventDate": "2026-06-27T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-the-paranoiacs-try-out/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-27T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-27T00:00:00"
             }
           ]
         },
@@ -4029,6 +4094,19 @@
           ]
         },
         {
+          "EventTitle": "The Kids",
+          "EventDate": "2026-11-20T00:00:00",
+          "EventUrl": "https://decasino.be/concert/the-kids/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-20T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-20T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Scene x Syb van der Ploeg",
           "EventDate": "2026-11-21T00:00:00",
           "EventUrl": "https://decasino.be/concert/the-scene-x-syb-van-der-ploeg/",
@@ -4099,7 +4177,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 109,
+      "TotalEvents": 110,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6022,7 +6100,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 83,
+      "TotalEvents": 82,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7476,7 +7554,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 106,
+      "TotalEvents": 107,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
