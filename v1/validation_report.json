@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-17T06:00:00.528882Z",
-  "ValidatedAt": "2026-03-17T06:00:00.5288821Z",
+  "GeneratedAt": "2026-03-18T06:00:00.5517328Z",
+  "ValidatedAt": "2026-03-18T06:00:00.5517329Z",
   "TotalScrapers": 23,
-  "TotalEvents": 1499,
+  "TotalEvents": 1502,
   "TotalErrors": 0,
-  "TotalWarnings": 564,
+  "TotalWarnings": 567,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -26,22 +26,9 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "MARO + carbeau, Manuel Rocha, Pedro Altério",
-          "EventDate": "2026-03-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/maro/a10Qw000007AhNvIAK",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Cardinals + Little Grandad",
+          "EventTitle": "Sammy Virji + DC Noises b2b shoplifter",
           "EventDate": "2026-03-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cardinals/a10Qw00000DzeibIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sammy-virji/a10Qw000009LPcYIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -52,9 +39,9 @@
           ]
         },
         {
-          "EventTitle": "Sammy Virji + DC Noises b2b shoplifter",
+          "EventTitle": "Cardinals + Little Grandad",
           "EventDate": "2026-03-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sammy-virji/a10Qw000009LPcYIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cardinals/a10Qw00000DzeibIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -442,9 +429,9 @@
           ]
         },
         {
-          "EventTitle": "Klaas",
+          "EventTitle": "Kofi Stone",
           "EventDate": "2026-04-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/klaas/a10Qw00000En98XIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kofi-stone/a10Qw00000E23ucIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -455,9 +442,9 @@
           ]
         },
         {
-          "EventTitle": "Kofi Stone",
+          "EventTitle": "Klaas + Camilo Donoso",
           "EventDate": "2026-04-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kofi-stone/a10Qw00000E23ucIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/klaas/a10Qw00000En98XIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -1963,6 +1950,19 @@
           ]
         },
         {
+          "EventTitle": "Finojet",
+          "EventDate": "2026-10-11T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/finojet/a10Qw00000FdspVIAR",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Sisters Of Mercy",
           "EventDate": "2026-10-12T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjCIAX",
@@ -2410,7 +2410,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 148,
+      "TotalEvents": 147,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -2473,9 +2473,9 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
         {
@@ -2648,7 +2648,7 @@
           ]
         },
         {
-          "EventTitle": "The Tool Experience (fka The Perfect Tool) - USA Tool Tribute",
+          "EventTitle": "The Tool Experience (fka The Perfect Tool) - USA Tool Tribute + CARNEIA",
           "EventDate": "2026-04-12T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-tool-experience",
           "Issues": [
@@ -2804,7 +2804,7 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST",
+          "EventTitle": "BRUSK FEST - Bibi Seck, AliA, Sanne De Muynck en meer",
           "EventDate": "2026-05-08T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest",
           "Issues": [
@@ -2817,7 +2817,7 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST",
+          "EventTitle": "BRUSK FEST - Acid Arab, Lander & Adriaan, James Holden & Waclaw Zimpel, Susobrino en meer",
           "EventDate": "2026-05-09T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-2",
           "Issues": [
@@ -2843,7 +2843,7 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST",
+          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
           "EventDate": "2026-05-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
           "Issues": [
@@ -2878,6 +2878,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-11T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-05-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nah Mean Party - Tribal Kush + Team DAMP + Sako Glitch",
+          "EventDate": "2026-05-13T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/nah-mean",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-13T00:00:00.0000000"
             }
           ]
         },
@@ -4462,19 +4475,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Keith Caputo - Died Laughing tour + Serpents",
-          "EventDate": "2026-03-17",
-          "EventUrl": "https://www.democrazy.be/agenda/3111-keith-caputo/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-17'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-17"
-            }
-          ]
-        },
-        {
           "EventTitle": "Pomrad - + Cissy",
           "EventDate": "2026-03-18",
           "EventUrl": "https://www.democrazy.be/agenda/3085-pomrad/",
@@ -4774,7 +4774,7 @@
           ]
         },
         {
-          "EventTitle": "Badlands VI - Honk, RIPSHIP, The Boojums, Sick Thoughts, Head on Stone, Geitenvel, Burger Service, Alice George Perez, L.A.Sagne, Acid Talk, Klutter",
+          "EventTitle": "Badlands VI - badtime, RIPSHIP, The Boojums, Sick Thoughts, Head on Stone, Geitenvel, Burger Service, Alice George Perez, L.A.Sagne, Acid Talk, Klutter",
           "EventDate": "2026-04-18",
           "EventUrl": "https://www.democrazy.be/agenda/3130-badlands-vi/",
           "Issues": [
@@ -5164,6 +5164,19 @@
           ]
         },
         {
+          "EventTitle": "Eye On Palestine - w/ Kamilya Jubran en Wajdi Riahi",
+          "EventDate": "2026-05-29",
+          "EventUrl": "https://www.democrazy.be/agenda/3180-eye-on-palestine/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29"
+            }
+          ]
+        },
+        {
           "EventTitle": "Puggy",
           "EventDate": "2026-05-30",
           "EventUrl": "https://www.democrazy.be/agenda/3121-puggy/",
@@ -5504,9 +5517,9 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 45,
+      "TotalEvents": 46,
       "ErrorCount": 0,
-      "WarningCount": 45,
+      "WarningCount": 46,
       "Issues": [],
       "EventDetails": [
         {
@@ -5926,6 +5939,19 @@
           ]
         },
         {
+          "EventTitle": "Eye On Palestine",
+          "EventDate": "2026-05-29T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/eye-on-palestine-29-05-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Pandax (6 tot 106+)",
           "EventDate": "2026-05-30T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/pandax-6-tot-106-30-05-26",
@@ -6100,7 +6126,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 82,
+      "TotalEvents": 81,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6120,9 +6146,9 @@
       "ScraperId": "rivierenhof",
       "ScraperName": "rivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 3,
+      "TotalEvents": 4,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 4,
       "Issues": [],
       "EventDetails": [
         {
@@ -6161,6 +6187,19 @@
               "Description": "Event has no start time — only a date was scraped: '2025-05-30'.",
               "Severity": 1,
               "ActualValue": "2025-05-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Contrair Open Air - Closing Concert - Sunday",
+          "EventDate": "2026-07-19",
+          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/contrair-open-air-closing-concert-sunday/a0NP500000NtrHsMAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-19"
             }
           ]
         }
@@ -7554,7 +7593,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 107,
+      "TotalEvents": 108,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7574,7 +7613,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 44,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
