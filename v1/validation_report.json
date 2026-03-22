@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-21T06:00:00.7342084Z",
-  "ValidatedAt": "2026-03-21T06:00:00.7342087Z",
+  "GeneratedAt": "2026-03-22T06:00:00.4358404Z",
+  "ValidatedAt": "2026-03-22T06:00:00.4358407Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1511,
+  "TotalEvents": 1496,
   "TotalErrors": 0,
-  "TotalWarnings": 670,
+  "TotalWarnings": 662,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,63 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 188,
+      "TotalEvents": 184,
       "ErrorCount": 0,
-      "WarningCount": 188,
+      "WarningCount": 184,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Brikabrak + Hagan, Yooth Yooth, Nala Brown, Filaipe, Amina808, T.Modell, She The DJ",
-          "EventDate": "2026-03-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/brikabrak/a10Qw000009V6ITIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Frankie Fame",
-          "EventDate": "2026-03-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/frankie-fame/a10Qw00000AgSzpIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dub Inc + Lidiop",
-          "EventDate": "2026-03-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dub-inc/a10Qw000004TUN3IAO",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Double Bill: Francesco Cavaliere & Marja Ahti",
-          "EventDate": "2026-03-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-francesco-cavaliere-marja-ahti/a10Qw00000GR269IAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Cavetown + Dreamer Isioma",
           "EventDate": "2026-03-22T00:00:00.0000000",
@@ -2475,7 +2423,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 144,
+      "TotalEvents": 142,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -2538,24 +2486,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Admiral Freebee + Dj Willie",
-          "EventDate": "2026-03-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/admiral-freebee",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "The Growlers",
           "EventDate": "2026-03-23T00:00:00.0000000",
@@ -3300,24 +3235,11 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 23,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Karl Jenkins - The Peacemakers",
-          "EventDate": "2026-03-21",
-          "EventUrl": "https://www.cczoetegem.be/programma/karl-jenkins-the-peacemakers.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciné Local: Nuremberg",
           "EventDate": "2026-03-24",
@@ -3783,19 +3705,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Testament",
-          "EventDate": "2026-03-21T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "De Hyenalaan",
           "EventDate": "2026-03-25T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/de-hyenalaan",
@@ -3989,6 +3898,19 @@
               "ActualValue": "2026-06-10T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Testament",
+          "EventDate": "2026-09-09T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-09T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -3996,9 +3918,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 48,
+      "TotalEvents": 47,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 47,
       "Issues": [],
       "EventDetails": [
         {
@@ -4011,19 +3933,6 @@
               "Description": "Event has no start time — only a date was scraped: '2025-09-20'.",
               "Severity": 1,
               "ActualValue": "2025-09-20"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Brihang",
-          "EventDate": "2026-03-21",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/brihang/9358/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21"
             }
           ]
         },
@@ -4457,19 +4366,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
-            }
-          ]
-        },
-        {
           "EventTitle": "Toneelhuis / Jan Decleir",
           "EventDate": "2026-05-13",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/toneelhuis-jan-decleir/9371/",
@@ -4479,6 +4375,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-13'.",
               "Severity": 1,
               "ActualValue": "2026-05-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Peter Lievens",
+          "EventDate": "2026-05-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08"
             }
           ]
         },
@@ -4631,7 +4540,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 38,
+      "TotalEvents": 37,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4665,24 +4574,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 51,
+      "TotalEvents": 50,
       "ErrorCount": 0,
-      "WarningCount": 51,
+      "WarningCount": 50,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Freezer & Friends: 70's, 80's & 90's Party",
-          "EventDate": "2026-03-21T00:00:00",
-          "EventUrl": "https://decasino.be/concert/freezer-friends-70s-80s-90s-party/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-21T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-21T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Yong Yello + Mat",
           "EventDate": "2026-03-24T00:00:00",
@@ -5339,7 +5235,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 111,
+      "TotalEvents": 110,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7184,7 +7080,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 78,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8575,7 +8471,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 211,
+      "TotalEvents": 207,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -8651,7 +8547,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 32,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8666,19 +8562,6 @@
       "WarningCount": 25,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sebene Night (Black History Month Belgium)",
-          "EventDate": "2026-03-20T23:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/sebene-night-black-history-month-belgium",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-20T23:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-20T23:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "USEA - EP Release Show",
           "EventDate": "2026-03-26T23:00:00Z",
@@ -8982,6 +8865,19 @@
           "EventTitle": "Festival Estelles V",
           "EventDate": "2026-09-25T22:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/festival-estelles-v-1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-25T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-25T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Festival Estelles V",
+          "EventDate": "2026-09-25T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/festival-estelles-v-2",
           "Issues": [
             {
               "Field": "DateString",
