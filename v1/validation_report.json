@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-03-22T06:00:00.4358404Z",
-  "ValidatedAt": "2026-03-22T06:00:00.4358407Z",
+  "GeneratedAt": "2026-03-23T06:00:00.4296713Z",
+  "ValidatedAt": "2026-03-23T06:00:00.4296719Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1496,
+  "TotalEvents": 1486,
   "TotalErrors": 0,
-  "TotalWarnings": 662,
+  "TotalWarnings": 657,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 184,
+      "TotalEvents": 183,
       "ErrorCount": 0,
-      "WarningCount": 184,
+      "WarningCount": 183,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Cavetown + Dreamer Isioma",
-          "EventDate": "2026-03-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cavetown/a10Qw000006GuyuIAC",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Double Bill: AySay & Melina",
-          "EventDate": "2026-03-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-aysay-melina/a10Qw00000DF7EdIAL",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Thundercat + Femifè",
           "EventDate": "2026-03-23T00:00:00.0000000",
@@ -2416,6 +2390,19 @@
               "ActualValue": "2027-02-20T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "New date: Hatik",
+          "EventDate": "2027-03-23T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-hatik/a10Qw00000620DQIAY",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-23T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-23T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -3918,9 +3905,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 47,
+      "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 47,
+      "WarningCount": 45,
       "Issues": [],
       "EventDetails": [
         {
@@ -3933,32 +3920,6 @@
               "Description": "Event has no start time — only a date was scraped: '2025-09-20'.",
               "Severity": 1,
               "ActualValue": "2025-09-20"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Klankennest",
-          "EventDate": "2026-03-22",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/klankennest/9359/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-22'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-22"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BachPlus",
-          "EventDate": "2026-03-22",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/bachplus/9428/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-22'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-22"
             }
           ]
         },
@@ -4379,19 +4340,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
-            }
-          ]
-        },
-        {
           "EventTitle": "Koninklijke Symfonische Kring Aalst ‘Door Eendracht Groot’",
           "EventDate": "2026-05-18",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koninklijke-symfonische-kring-aalst-door-eendracht-groot/9422/",
@@ -4414,6 +4362,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-20'.",
               "Severity": 1,
               "ActualValue": "2026-05-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Peter Lievens",
+          "EventDate": "2026-05-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08"
             }
           ]
         },
@@ -5235,7 +5196,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 110,
+      "TotalEvents": 109,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5514,24 +5475,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 74,
+      "TotalEvents": 73,
       "ErrorCount": 0,
-      "WarningCount": 74,
+      "WarningCount": 73,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ghost Funk Orchestra + Amaea Rae",
-          "EventDate": "2026-03-22",
-          "EventUrl": "https://www.democrazy.be/agenda/3083-ghost-funk-orchestra/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-22'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-22"
-            }
-          ]
-        },
         {
           "EventTitle": "Club Laat: BLAUWDRUK x THIRDFLOOR - NVST, Azu Tiwaline, Client_03, SP1N x Pala10",
           "EventDate": "2026-03-28",
@@ -6497,24 +6445,11 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 44,
+      "TotalEvents": 43,
       "ErrorCount": 0,
-      "WarningCount": 44,
+      "WarningCount": 43,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Cabana Belgicana",
-          "EventDate": "2026-03-22T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/cabana-belgicana-22-03-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-03-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Steve Coleman & Five Elements",
           "EventDate": "2026-03-25T00:00:00.0000000",
@@ -7080,7 +7015,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 77,
+      "TotalEvents": 76,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8471,7 +8406,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 207,
+      "TotalEvents": 206,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -8547,7 +8482,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 32,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
