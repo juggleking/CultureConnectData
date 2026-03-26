@@ -31,7 +31,7 @@
         "Year": 2026,
         "FileName": "ab-05-2026.json",
         "FilePath": "events/concerts/ab/ab-05-2026.json",
-        "Hash": "a8f54a88a0e120b8a0f8d3ddfc1e30557a34ff8133ebdb627f7f9d79130af59a",
+        "Hash": "f991ab001313e87623aafcee9bf1f765193c96a31e63dc335fa581ac7701e030",
         "EventCount": 38,
         "Status": "Success",
         "ErrorMessage": null
@@ -41,7 +41,7 @@
         "Year": 2026,
         "FileName": "ab-06-2026.json",
         "FilePath": "events/concerts/ab/ab-06-2026.json",
-        "Hash": "7da97971ef06cc51dedbec13d631fe8b7964f371526385c4384d58e2e2b0026d",
+        "Hash": "41d12a29da5c814faca4894b8b8dfa391631ca7acd85cbca0fb98b3246958c3f",
         "EventCount": 18,
         "Status": "Success",
         "ErrorMessage": null
@@ -139,9 +139,9 @@
     ],
     "Status": "Success (3 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:11.5822781Z",
-    "StartedAt": "2026-03-26T11:00:00.4108813Z",
-    "FinishedAt": "2026-03-26T11:00:11.5822746Z",
+    "RunTime": "2026-03-26T15:00:09.6299775Z",
+    "StartedAt": "2026-03-26T15:00:00.4069909Z",
+    "FinishedAt": "2026-03-26T15:00:09.6299746Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -150,7 +150,7 @@
     "VenueId": "aff",
     "VenueName": "Club AFF / Absolutely Free Festival",
     "Category": "Concerts",
-    "TotalEventsFound": 12,
+    "TotalEventsFound": 11,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -183,16 +183,6 @@
         "ErrorMessage": null
       },
       {
-        "Month": 8,
-        "Year": 2026,
-        "FileName": "aff-08-2026.json",
-        "FilePath": "events/concerts/aff/aff-08-2026.json",
-        "Hash": "7c0e2333a23ee4c0b12d4bd37ed66280def83cc40cd723243977871b945f58d1",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
         "Month": 11,
         "Year": 2026,
         "FileName": "aff-11-2026.json",
@@ -205,24 +195,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:08.7473777Z",
-    "StartedAt": "2026-03-26T11:00:00.4112193Z",
-    "FinishedAt": "2026-03-26T11:00:08.7473754Z",
+    "RunTime": "2026-03-26T15:00:05.4256609Z",
+    "StartedAt": "2026-03-26T15:00:00.4075334Z",
+    "FinishedAt": "2026-03-26T15:00:05.4256571Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
-    "NewEvents": [
-      {
-        "Title": "AFF \u002726",
-        "DateString": "2026-08-07",
-        "Url": "https://aff.be/events/aff26/",
-        "ImageUrl": "https://aff.be/media/2026/03/AFF26festival_webimage-1-scaled.jpg",
-        "Location": "Genk",
-        "Description": "Genk wordt op 7 en 8 augustus 2026 opnieuw h\u00E9t epicentrum van muzikale ontdekkingen. AFF blijft vernieuwen, maar ons herkenbare [\u2026]",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9655",
-        "Longitude": "5.5001"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "BotaniqueScraper",
@@ -246,7 +223,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "c11a0a421887b0776cc31deabbb026bc7c1ff71283a98ca736a30b260d4acd4d",
+        "Hash": "133f14bf114315f92e467907ce24c55c9b4abe0f2ccfd46c47a67abe08753709",
         "EventCount": 60,
         "Status": "Success",
         "ErrorMessage": null
@@ -334,36 +311,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:20.1285272Z",
-    "StartedAt": "2026-03-26T11:00:00.4113579Z",
-    "FinishedAt": "2026-03-26T11:00:20.1285249Z",
+    "RunTime": "2026-03-26T15:00:22.0584096Z",
+    "StartedAt": "2026-03-26T15:00:00.4081478Z",
+    "FinishedAt": "2026-03-26T15:00:22.0584057Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": [
-      {
-        "Title": "Unprocessed - Of Virtue \u002B Daedric",
-        "DateString": "2026-09-29T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/unprocessed-virtue-daedric-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/H85A0144_PROMO.jpg?itok=9Wl4z1wi",
-        "Location": "Botanique, Brussels",
-        "Description": "Krachtige en futuristische progressieve metal, waarin techniek, melodie en intensiteit samenkomen",
-        "Room": "Museum",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      },
-      {
-        "Title": "Little Barrie",
-        "DateString": "2026-09-29T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/little-barrie-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-03/DSCF3858%201.jpg?itok=r-_jvfVQ",
-        "Location": "Botanique, Brussels",
-        "Description": "",
-        "Room": "Rotonde",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -465,9 +417,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.1925122Z",
-    "StartedAt": "2026-03-26T11:00:00.4114888Z",
-    "FinishedAt": "2026-03-26T11:00:04.1925085Z",
+    "RunTime": "2026-03-26T15:00:03.3145672Z",
+    "StartedAt": "2026-03-26T15:00:00.4084316Z",
+    "FinishedAt": "2026-03-26T15:00:03.3145625Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -571,9 +523,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.1119141Z",
-    "StartedAt": "2026-03-26T11:00:00.4115953Z",
-    "FinishedAt": "2026-03-26T11:00:04.1119105Z",
+    "RunTime": "2026-03-26T15:00:02.8547104Z",
+    "StartedAt": "2026-03-26T15:00:00.4085874Z",
+    "FinishedAt": "2026-03-26T15:00:02.8547063Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -687,24 +639,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.1122122Z",
-    "StartedAt": "2026-03-26T11:00:00.4117109Z",
-    "FinishedAt": "2026-03-26T11:00:04.11221Z",
+    "RunTime": "2026-03-26T15:00:02.9381616Z",
+    "StartedAt": "2026-03-26T15:00:00.4087347Z",
+    "FinishedAt": "2026-03-26T15:00:02.9381538Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": [
-      {
-        "Title": "Boomtown: Amenra",
-        "DateString": "2026-07-21",
-        "Url": "https://www.democrazy.be/agenda/3184-boomtown-amenra/",
-        "ImageUrl": "https://www.democrazy.be/media/thumb/35471-web2a_amenra.jpg",
-        "Location": "Ha Concerts",
-        "Description": "Het Kortrijkse post-metalband spektakel Amenra keert terug naar Boomtown met een show die meer is dan een concert alleen.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0499",
-        "Longitude": "3.7233"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeRomaScraper",
@@ -728,7 +667,7 @@
         "Year": 2026,
         "FileName": "deroma-04-2026.json",
         "FilePath": "events/concerts/deroma/deroma-04-2026.json",
-        "Hash": "2764e75a6944c8ac1d4c1a6aec0914b69d3cde29556b728fe1bdfc45768e592c",
+        "Hash": "3a8030bbacf4af2ab974c2c0c7a89870030a5b68bea8f5344e7a0a28ca998696",
         "EventCount": 25,
         "Status": "Success",
         "ErrorMessage": null
@@ -738,7 +677,7 @@
         "Year": 2026,
         "FileName": "deroma-05-2026.json",
         "FilePath": "events/concerts/deroma/deroma-05-2026.json",
-        "Hash": "eae6393510a01d25f36ec143d3ad19d2521a1c8903dd27f7c6acb986e45092bc",
+        "Hash": "a5ea24eb68cf59ad0e21ccd2294a10b26548d6c628cb321c596dd027e98256f2",
         "EventCount": 24,
         "Status": "Success",
         "ErrorMessage": null
@@ -778,7 +717,7 @@
         "Year": 2026,
         "FileName": "deroma-10-2026.json",
         "FilePath": "events/concerts/deroma/deroma-10-2026.json",
-        "Hash": "d9e4297ad4f8d5433b5f8a580773a17b617bdc090a60c5212b9678e5a9037d80",
+        "Hash": "f646d57b18ddc3efb29d271245baf925a6ec018ba05198c63549eb227e66a477",
         "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
@@ -788,7 +727,7 @@
         "Year": 2026,
         "FileName": "deroma-11-2026.json",
         "FilePath": "events/concerts/deroma/deroma-11-2026.json",
-        "Hash": "ae7d5347f841982e7113351dd75f02764bd40e01561afae787fcae20c7236a40",
+        "Hash": "0e868341443b8ea0c15ca10fd54681678be3caac62279f4a48597baefe3005c0",
         "EventCount": 8,
         "Status": "Success",
         "ErrorMessage": null
@@ -826,9 +765,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:05.7304354Z",
-    "StartedAt": "2026-03-26T11:00:00.411828Z",
-    "FinishedAt": "2026-03-26T11:00:05.7304326Z",
+    "RunTime": "2026-03-26T15:00:05.9471719Z",
+    "StartedAt": "2026-03-26T15:00:00.4089105Z",
+    "FinishedAt": "2026-03-26T15:00:05.947169Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -882,9 +821,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:01.6662751Z",
-    "StartedAt": "2026-03-26T11:00:00.4119467Z",
-    "FinishedAt": "2026-03-26T11:00:01.6662709Z",
+    "RunTime": "2026-03-26T15:00:02.0273105Z",
+    "StartedAt": "2026-03-26T15:00:00.4091684Z",
+    "FinishedAt": "2026-03-26T15:00:02.0273055Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -948,9 +887,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:01.5866036Z",
-    "StartedAt": "2026-03-26T11:00:00.4127166Z",
-    "FinishedAt": "2026-03-26T11:00:01.5865997Z",
+    "RunTime": "2026-03-26T15:00:02.0392582Z",
+    "StartedAt": "2026-03-26T15:00:00.409394Z",
+    "FinishedAt": "2026-03-26T15:00:02.0392539Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -1054,9 +993,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.3567189Z",
-    "StartedAt": "2026-03-26T11:00:00.4130515Z",
-    "FinishedAt": "2026-03-26T11:00:04.3567147Z",
+    "RunTime": "2026-03-26T15:00:03.3682327Z",
+    "StartedAt": "2026-03-26T15:00:00.4095594Z",
+    "FinishedAt": "2026-03-26T15:00:03.3682282Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1110,9 +1049,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:03.9087483Z",
-    "StartedAt": "2026-03-26T11:00:00.4133387Z",
-    "FinishedAt": "2026-03-26T11:00:03.9087435Z",
+    "RunTime": "2026-03-26T15:00:03.7966567Z",
+    "StartedAt": "2026-03-26T15:00:00.4097674Z",
+    "FinishedAt": "2026-03-26T15:00:03.7966524Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -1216,36 +1155,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:10.6951503Z",
-    "StartedAt": "2026-03-26T11:00:00.4135716Z",
-    "FinishedAt": "2026-03-26T11:00:10.6951483Z",
+    "RunTime": "2026-03-26T15:00:10.6168163Z",
+    "StartedAt": "2026-03-26T15:00:00.4099735Z",
+    "FinishedAt": "2026-03-26T15:00:10.6164679Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
-    "NewEvents": [
-      {
-        "Title": "De Kortste Nacht met Elisabeth Klinck",
-        "DateString": "2026-06-20T00:00:00.0000000",
-        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/de-kortste-nacht-met-elisabeth-klinck-20-06-26",
-        "ImageUrl": "",
-        "Location": "Ha Concerts",
-        "Description": "Muziek tot aan het ochtendgloren \u002B een heerlijk groepsontbijt",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0499",
-        "Longitude": "3.7233"
-      },
-      {
-        "Title": "Boomtown: Amenra",
-        "DateString": "2026-07-21T00:00:00.0000000",
-        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/boomtown-amenra-21-07-26",
-        "ImageUrl": "",
-        "Location": "Ha Concerts",
-        "Description": "Bezwerende post-metal",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0499",
-        "Longitude": "3.7233"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "HetDepotScraper",
@@ -1357,24 +1271,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:39.0053877Z",
-    "StartedAt": "2026-03-26T11:00:00.4140148Z",
-    "FinishedAt": "2026-03-26T11:00:39.0053776Z",
+    "RunTime": "2026-03-26T15:00:32.1699306Z",
+    "StartedAt": "2026-03-26T15:00:00.4102049Z",
+    "FinishedAt": "2026-03-26T15:00:32.1699272Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
-    "NewEvents": [
-      {
-        "Title": "Live Nation presents Merol (extra concert)",
-        "DateString": "2026-11-29T20:00:00",
-        "Url": "https://www.hetdepot.be/concert/2026/live-nation-presents-merol-0",
-        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF00000w5SALYA2_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=m-ahL1s1",
-        "Location": "Het Depot, Leuven",
-        "Description": "Het is 2026 en MEROL is terug: vuriger, kwetsbaarder en ruiger dan ooit m\u00E9t een nieuwe plaat op zak.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8815",
-        "Longitude": "4.7138"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "N9Scraper",
@@ -1446,9 +1347,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:01.6614022Z",
-    "StartedAt": "2026-03-26T11:00:00.4143125Z",
-    "FinishedAt": "2026-03-26T11:00:01.6613986Z",
+    "RunTime": "2026-03-26T15:00:02.0274705Z",
+    "StartedAt": "2026-03-26T15:00:00.4104291Z",
+    "FinishedAt": "2026-03-26T15:00:02.027466Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -1492,9 +1393,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:05.6476655Z",
-    "StartedAt": "2026-03-26T11:00:00.4144946Z",
-    "FinishedAt": "2026-03-26T11:00:05.6476613Z",
+    "RunTime": "2026-03-26T15:00:04.8115806Z",
+    "StartedAt": "2026-03-26T15:00:00.4106033Z",
+    "FinishedAt": "2026-03-26T15:00:04.8115764Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1520,7 +1421,7 @@
         "Year": 2026,
         "FileName": "trix-04-2026.json",
         "FilePath": "events/concerts/trix/trix-04-2026.json",
-        "Hash": "ad65bbf9efac61350621a68f4a3cdb145326ecdf5b384160b713994e6a0e4083",
+        "Hash": "21c4fd04534bcdd54c5de08fa8b354dd638ffc1afecc529f2a73fdad1b668535",
         "EventCount": 25,
         "Status": "Success",
         "ErrorMessage": null
@@ -1528,9 +1429,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:05.0657619Z",
-    "StartedAt": "2026-03-26T11:00:00.4146821Z",
-    "FinishedAt": "2026-03-26T11:00:05.0657408Z",
+    "RunTime": "2026-03-26T15:00:03.6798098Z",
+    "StartedAt": "2026-03-26T15:00:00.4107787Z",
+    "FinishedAt": "2026-03-26T15:00:03.6798068Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
     "NewEvents": []
   },
@@ -1594,9 +1495,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.8483285Z",
-    "StartedAt": "2026-03-26T11:00:00.4149284Z",
-    "FinishedAt": "2026-03-26T11:00:04.8483243Z",
+    "RunTime": "2026-03-26T15:00:05.4342027Z",
+    "StartedAt": "2026-03-26T15:00:00.410999Z",
+    "FinishedAt": "2026-03-26T15:00:05.4341987Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -1672,7 +1573,7 @@
         "Year": 2026,
         "FileName": "wildewesten-12-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-12-2026.json",
-        "Hash": "d5992d4901c1abde4677f881abb11f658945a15e48d75913d0932aed1b2915a5",
+        "Hash": "59c6c7c7e1e482683d7cb870099dc27a57fc26ef5f991487d193e55f8eb26b44",
         "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
@@ -1690,31 +1591,18 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:01:11.8124978Z",
-    "StartedAt": "2026-03-26T11:00:00.4151804Z",
-    "FinishedAt": "2026-03-26T11:01:11.8124951Z",
+    "RunTime": "2026-03-26T15:01:03.7602582Z",
+    "StartedAt": "2026-03-26T15:00:00.411235Z",
+    "FinishedAt": "2026-03-26T15:01:03.7602535Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
-    "NewEvents": [
-      {
-        "Title": "LA JUNGLE",
-        "DateString": "2026-12-04T20:00:00\u002B0100",
-        "Url": "https://www.wildewesten.be/nl/event/la-jungle-2",
-        "ImageUrl": "https://www.wildewesten.be/media/cache/resolve/default_uitdatabank/upload/media/default/22e7/a4/dbab9e6220eff653f337916932a6c87d99a2e1f3.jpg",
-        "Location": "De Kreun",
-        "Description": "La Jungle gooit het over een nieuwe boeg en kiest resoluut voor een snelle two-drumkitformule. Met hun zevende studioalbum An Order Of Things groeit het duo uit tot een trio. De negen nummers werden samen geschreven in Mons, aan de oevers van La Trouille \u2014 de onheilspellende rivier \u2014 en opgenomen in de bossen van Normandi\u00EB.In 2026 stellen Roxie, Jim en hun vriend Da, na 750 duo-optredens, een nieuwe orde van dingen voor. Double kick, double snare, triple trance. En altijd dansbaar. An Order Of Things verschijnt op 17 april 2026 via Hyperjungle Recordings, het label dat de band zelf oprichtte.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8244",
-        "Longitude": "3.2616"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "WintercircusScraper",
     "VenueId": "wintercircus",
     "VenueName": "Wintercircus, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 44,
+    "TotalEventsFound": 45,
     "MonthlyFiles": [
       {
         "Month": 12,
@@ -1751,8 +1639,8 @@
         "Year": 2026,
         "FileName": "wintercircus-05-2026.json",
         "FilePath": "events/concerts/wintercircus/wintercircus-05-2026.json",
-        "Hash": "969050e15fa5e621e2de1635ee83738d0c6a9c1c23f6b315c33f73b88aec4eb7",
-        "EventCount": 13,
+        "Hash": "f218d8a95c1c21f98b9932140f9cc49308d2bfdf0681fe4b475deeb447402eb5",
+        "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1789,40 +1677,16 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:01.661838Z",
-    "StartedAt": "2026-03-26T11:00:00.4154136Z",
-    "FinishedAt": "2026-03-26T11:00:01.6618355Z",
+    "RunTime": "2026-03-26T15:00:01.9801669Z",
+    "StartedAt": "2026-03-26T15:00:00.4114576Z",
+    "FinishedAt": "2026-03-26T15:00:01.9801627Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": [
       {
-        "Title": "Digital Art Expo",
-        "DateString": "2026-04-29T11:00:00",
-        "Url": "https://www.wintercircus.be/nl/events/digital-art-expo",
-        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/2Rs9rpaG4tEU2X2PW4v6av/2b55484b1826a6fb12372b8c769e3a27/Digital_Art_Expo_-_banner.png",
-        "Location": "Wintercircus - Arena, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0481",
-        "Longitude": "3.728"
-      },
-      {
-        "Title": "Mo\u2019Kalamity \u0026 The Wizards",
-        "DateString": "2026-10-17T21:00:00",
-        "Url": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=109241672323\u0026l=nl#!/addtickets",
-        "ImageUrl": "https://images.uitdatabank.be/250d0805-d5f3-435a-b132-fff981e7b683.jpeg",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0487",
-        "Longitude": "3.7283"
-      },
-      {
-        "Title": "The Scene x Syb van der Ploeg",
-        "DateString": "2026-11-20T19:30:00",
-        "Url": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=741324137317\u0026l=nl#!/addtickets",
-        "ImageUrl": "https://images.uitdatabank.be/9793289b-1a7a-4a7b-8175-4968d1827a6c.jpeg",
+        "Title": "Systematic_showcase: Marc Romboy, Robert Babicz, Maxim Lany, Dimitri Andreas",
+        "DateString": "2026-05-08T23:00:00",
+        "Url": "https://apps.ticketmatic.com/widgets/vooruit/flow/clubwintercircus?event=309781585813\u0026l=en#!/addtickets",
+        "ImageUrl": "https://images.uitdatabank.be/cc623b88-b1da-4c48-9ec8-34e8b493cdf2.png",
         "Location": "Wintercircus - Club, Gent",
         "Description": "",
         "Room": "",
@@ -1872,9 +1736,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.1237403Z",
-    "StartedAt": "2026-03-26T11:00:00.4156345Z",
-    "FinishedAt": "2026-03-26T11:00:04.1237357Z",
+    "RunTime": "2026-03-26T15:00:03.3143546Z",
+    "StartedAt": "2026-03-26T15:00:00.4116737Z",
+    "FinishedAt": "2026-03-26T15:00:03.3143506Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -1898,9 +1762,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:06.9913886Z",
-    "StartedAt": "2026-03-26T11:00:00.41581Z",
-    "FinishedAt": "2026-03-26T11:00:06.9913842Z",
+    "RunTime": "2026-03-26T15:00:06.5368558Z",
+    "StartedAt": "2026-03-26T15:00:00.4118824Z",
+    "FinishedAt": "2026-03-26T15:00:06.536852Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -1944,9 +1808,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.2385127Z",
-    "StartedAt": "2026-03-26T11:00:00.4160082Z",
-    "FinishedAt": "2026-03-26T11:00:04.2385093Z",
+    "RunTime": "2026-03-26T15:00:03.493615Z",
+    "StartedAt": "2026-03-26T15:00:00.4124026Z",
+    "FinishedAt": "2026-03-26T15:00:03.4936101Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -2050,9 +1914,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:06.7269264Z",
-    "StartedAt": "2026-03-26T11:00:00.4163549Z",
-    "FinishedAt": "2026-03-26T11:00:06.726923Z",
+    "RunTime": "2026-03-26T15:00:05.7336564Z",
+    "StartedAt": "2026-03-26T15:00:00.4126913Z",
+    "FinishedAt": "2026-03-26T15:00:05.7336523Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -2096,9 +1960,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.1202817Z",
-    "StartedAt": "2026-03-26T11:00:00.4166582Z",
-    "FinishedAt": "2026-03-26T11:00:04.1202778Z",
+    "RunTime": "2026-03-26T15:00:03.2517361Z",
+    "StartedAt": "2026-03-26T15:00:00.4129201Z",
+    "FinishedAt": "2026-03-26T15:00:03.2517322Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -2122,9 +1986,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:04.1123029Z",
-    "StartedAt": "2026-03-26T11:00:00.4173316Z",
-    "FinishedAt": "2026-03-26T11:00:04.1123025Z",
+    "RunTime": "2026-03-26T15:00:03.3035224Z",
+    "StartedAt": "2026-03-26T15:00:00.4131401Z",
+    "FinishedAt": "2026-03-26T15:00:03.3035203Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -2148,9 +2012,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:02.8514033Z",
-    "StartedAt": "2026-03-26T11:00:00.4176814Z",
-    "FinishedAt": "2026-03-26T11:00:02.8513987Z",
+    "RunTime": "2026-03-26T15:00:02.0952218Z",
+    "StartedAt": "2026-03-26T15:00:00.413534Z",
+    "FinishedAt": "2026-03-26T15:00:02.0952172Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -2214,9 +2078,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:12.635179Z",
-    "StartedAt": "2026-03-26T11:00:00.4179304Z",
-    "FinishedAt": "2026-03-26T11:00:12.6351458Z",
+    "RunTime": "2026-03-26T15:00:11.3149124Z",
+    "StartedAt": "2026-03-26T15:00:00.4137766Z",
+    "FinishedAt": "2026-03-26T15:00:11.3149087Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -2242,7 +2106,7 @@
         "Year": 2026,
         "FileName": "toneelhuis-04-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-04-2026.json",
-        "Hash": "3527eeb8c21221adb294939df5c6b2b123a0f762bf0d64d07fc630b5b61f3dd6",
+        "Hash": "3c4a57e79fddd6596a74372c1a3472feaab9e1358fc237581736df55fcfb2020",
         "EventCount": 41,
         "Status": "Success",
         "ErrorMessage": null
@@ -2252,7 +2116,7 @@
         "Year": 2026,
         "FileName": "toneelhuis-05-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-05-2026.json",
-        "Hash": "c18b0effeec045860e96094f6061d9a871cee3b411d7dcaf981dddd2f088604c",
+        "Hash": "d57891f6443719fdd766165e0ed44f5bb3c978d5081a00927fd6d71bbcb4863c",
         "EventCount": 61,
         "Status": "Success",
         "ErrorMessage": null
@@ -2320,9 +2184,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-03-26T11:00:21.832006Z",
-    "StartedAt": "2026-03-26T11:00:00.4216458Z",
-    "FinishedAt": "2026-03-26T11:00:21.8320022Z",
+    "RunTime": "2026-03-26T15:00:21.8191518Z",
+    "StartedAt": "2026-03-26T15:00:00.4139995Z",
+    "FinishedAt": "2026-03-26T15:00:21.8191474Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   }
