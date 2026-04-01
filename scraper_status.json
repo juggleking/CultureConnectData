@@ -4,14 +4,14 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 174,
+    "TotalEventsFound": 176,
     "MonthlyFiles": [
       {
         "Month": 4,
         "Year": 2026,
         "FileName": "ab-04-2026.json",
         "FilePath": "events/concerts/ab/ab-04-2026.json",
-        "Hash": "1c0ef25f6e58e2588011b24225b129325329e8969225808d5c22b3e9ce379059",
+        "Hash": "373af3e710014d905a1cb785f25d5dd34c431041c3cb78f8e4322f9f528331ab",
         "EventCount": 52,
         "Status": "Success",
         "ErrorMessage": null
@@ -31,8 +31,8 @@
         "Year": 2026,
         "FileName": "ab-06-2026.json",
         "FilePath": "events/concerts/ab/ab-06-2026.json",
-        "Hash": "b89d249d6ae82af553db7a8787e3dd12e091308bd5b3cbd6b703a9fb8bf4d05b",
-        "EventCount": 21,
+        "Hash": "62c569a3192294d221f979db2d74570f6f2513473394f7c16c0912579aa16f43",
+        "EventCount": 22,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -101,8 +101,8 @@
         "Year": 2027,
         "FileName": "ab-01-2027.json",
         "FilePath": "events/concerts/ab/ab-01-2027.json",
-        "Hash": "c0c0445e448467f835844196ea9ba182d27ecc48721c7c89d0384892e031e626",
-        "EventCount": 3,
+        "Hash": "f396a5630848c029c64e1edbc03b04c4253c0ea83d122ec9a77a66e401285bf1",
+        "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -129,18 +129,30 @@
     ],
     "Status": "Success (2 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:12.5995281Z",
-    "StartedAt": "2026-04-01T10:00:00.8374444Z",
-    "FinishedAt": "2026-04-01T10:00:12.5995269Z",
+    "RunTime": "2026-04-01T14:00:11.2279591Z",
+    "StartedAt": "2026-04-01T14:00:00.8351888Z",
+    "FinishedAt": "2026-04-01T14:00:11.2279573Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": [
       {
-        "Title": "Punk 50 screening: Gummo (1997)",
-        "DateString": "2026-04-24T00:00:00.0000000",
-        "Url": "https://www.abconcerts.be/en/agenda/punk-50-screening-gummo-1997/a10Qw00000HHAE5IAP",
-        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000Mau3pMAB_1240x720.jpg",
+        "Title": "Clubnight by Liaison x Kunty Kompany: DICTATOR\u2019S FUNERAL \u002B AMI, Henry Keller, Prncjdg, Lucrezia, Anano, DJ ANTWAN, DJ HOLINESS",
+        "DateString": "2026-06-05T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/clubnight-by-liaison-x-kunty-kompany-dictators-funeral/a10Qw000009V4LXIA0",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000MaYxlMAF_1240x720.jpg",
         "Location": "AB Concerts, Brussels",
-        "Description": "Lonely residents of a village devastated by a tornado wander through a desolate landscape, searching for meaning in their nihilistic lives.",
+        "Description": "",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      },
+      {
+        "Title": "The Music Of Hans Zimmer \u0026 Others",
+        "DateString": "2027-01-16T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/the-music-of-hans-zimmer-others/a10Qw00000Fj0mPIAR",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000JVFsgMAH_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Cancelled",
         "Room": "",
         "Address": "Anspachlaan 110, 1000 Brussel",
         "Latitude": "50.8473",
@@ -198,9 +210,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:07.2092247Z",
-    "StartedAt": "2026-04-01T10:00:00.8378826Z",
-    "FinishedAt": "2026-04-01T10:00:07.2092224Z",
+    "RunTime": "2026-04-01T14:00:07.2474605Z",
+    "StartedAt": "2026-04-01T14:00:00.8356322Z",
+    "FinishedAt": "2026-04-01T14:00:07.247458Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -216,7 +228,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "bced94adeccd388ae8c6a4069723de1dd97968bd5190f35f5ebbc79637cb24a8",
+        "Hash": "8ffa21081ac6d3c48a9c5957ad1c50b6344ae4145dedfd588c3694f4fd7dabd5",
         "EventCount": 60,
         "Status": "Success",
         "ErrorMessage": null
@@ -264,18 +276,43 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:01:22.5970569Z",
-    "StartedAt": "2026-04-01T10:00:00.8384751Z",
-    "FinishedAt": "2026-04-01T10:01:22.597054Z",
+    "RunTime": "2026-04-01T14:00:15.9217403Z",
+    "StartedAt": "2026-04-01T14:00:00.83591Z",
+    "FinishedAt": "2026-04-01T14:00:15.9217381Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Oliver Symons - Usea",
+        "DateString": "2026-04-04T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/oliver-symons-usea-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-02/Oliver%20Symons_0.PNG?itok=LO08QKYa",
+        "Location": "Botanique, Brussels",
+        "Description": "Bazart-lid ontwikkelt solo een filmische elektronische popmuziek vol melancholie en elegantie",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "ar\u00F8ne - Mahila",
+        "DateString": "2026-04-11T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/arone-mahila-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-11/PRESS_1_WEB.jpg?itok=woBeCb0E",
+        "Location": "Botanique, Brussels",
+        "Description": "Onbezorgdheid en kwetsbaarheid gecombineerd in intieme popmuziek, die is gemaakt om het onuitsprekelijke op zachte wijze te verwoorden",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
     "VenueId": "cactus",
     "VenueName": "Cactus Muziekcentrum, Brugge",
     "Category": "Concerts",
-    "TotalEventsFound": 56,
+    "TotalEventsFound": 57,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -292,8 +329,8 @@
         "Year": 2026,
         "FileName": "cactus-05-2026.json",
         "FilePath": "events/concerts/cactus/cactus-05-2026.json",
-        "Hash": "7b104b596b9416eb82747f3d62d33358a9066bf7b08a63360b06989ef243bc16",
-        "EventCount": 16,
+        "Hash": "71fe4652acffb7d576ede53d4d7a32f2f6f7d61336c0271b46cbbd6a00d74307",
+        "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -360,11 +397,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.8034823Z",
-    "StartedAt": "2026-04-01T10:00:00.840001Z",
-    "FinishedAt": "2026-04-01T10:00:02.8034798Z",
+    "RunTime": "2026-04-01T14:00:02.9819177Z",
+    "StartedAt": "2026-04-01T14:00:00.8365628Z",
+    "FinishedAt": "2026-04-01T14:00:02.981916Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Oliver Symons (BAZART, Warhola) \u002B Sevens",
+        "DateString": "2026-05-20T00:00:00.0000000",
+        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/oliver-symons-2",
+        "ImageUrl": "",
+        "Location": "Cactus Cafe",
+        "Description": "Weelderige elektronica en een onmiskenbare stem maken van Oliver Symons de nieuwe belofte in pop land",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1966",
+        "Longitude": "3.2262"
+      }
+    ]
   },
   {
     "ScraperName": "DeCasinoScraper",
@@ -456,9 +506,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.8345331Z",
-    "StartedAt": "2026-04-01T10:00:00.8408527Z",
-    "FinishedAt": "2026-04-01T10:00:02.8345307Z",
+    "RunTime": "2026-04-01T14:00:02.9783921Z",
+    "StartedAt": "2026-04-01T14:00:00.8377653Z",
+    "FinishedAt": "2026-04-01T14:00:02.9783896Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -544,7 +594,7 @@
         "Year": 2026,
         "FileName": "democrazy-12-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-12-2026.json",
-        "Hash": "562a66f3969bd42e105d4baa5fbe980ea80b0bb2727fc4a0b1394ab0d31d3f53",
+        "Hash": "505a984df512730763ffdf5ff55f775113c90fe808a0a23bcaccd50986c93080",
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
@@ -562,24 +612,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.8819217Z",
-    "StartedAt": "2026-04-01T10:00:00.8421252Z",
-    "FinishedAt": "2026-04-01T10:00:02.8819197Z",
+    "RunTime": "2026-04-01T14:00:03.0661439Z",
+    "StartedAt": "2026-04-01T14:00:00.8380196Z",
+    "FinishedAt": "2026-04-01T14:00:03.0661414Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": [
-      {
-        "Title": "MEROL - Leve de Feeks",
-        "DateString": "2026-05-02",
-        "Url": "https://www.democrazy.be/agenda/3189-merol/",
-        "ImageUrl": "https://www.democrazy.be/media/thumb/35490-merol-2.jpg",
-        "Location": "Charlatan",
-        "Description": "Het is 2026 en MEROL heeft besloten dat het allemaal nog een beetje luider, vuiler en eerlijker mag met het nieuwe album Leve de Feeks.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.056",
-        "Longitude": "3.7284"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeRomaScraper",
@@ -613,7 +650,7 @@
         "Year": 2026,
         "FileName": "deroma-06-2026.json",
         "FilePath": "events/concerts/deroma/deroma-06-2026.json",
-        "Hash": "8f66cdaad4e0f13f2065ed8bbeeebb9a380067a2dbd2d5f96087a220fe2d778f",
+        "Hash": "7cc68b7a397f9f81d6d5c0e1120a1ef1e4d9697e3eeeede238f59c0aba86cf35",
         "EventCount": 21,
         "Status": "Success",
         "ErrorMessage": null
@@ -701,36 +738,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:05.8566537Z",
-    "StartedAt": "2026-04-01T10:00:00.8428451Z",
-    "FinishedAt": "2026-04-01T10:00:05.8566523Z",
+    "RunTime": "2026-04-01T14:00:06.4004057Z",
+    "StartedAt": "2026-04-01T14:00:00.8382991Z",
+    "FinishedAt": "2026-04-01T14:00:06.400403Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
-    "NewEvents": [
-      {
-        "Title": "Ben Harper",
-        "DateString": "2026-06-23T20:00:00.0000000",
-        "Url": "https://www.deroma.be/en/event/ben-harper",
-        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/0558/f8/c3fb75b3a505b8af4afba751178cac01814e8bd8.png",
-        "Location": "De Roma",
-        "Description": "This talented composer and guitarist is an iconic figure of his generation.",
-        "Room": "",
-        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
-        "Latitude": "51.2134",
-        "Longitude": "4.44"
-      },
-      {
-        "Title": "Kapitein Winokio",
-        "DateString": "2027-02-08T15:00:00.0000000",
-        "Url": "https://www.deroma.be/en/event/kapitein-winokio-48",
-        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/c3b6/09/a358fdbc1df150d79bcfdcb8b63147a7571c5503.png",
-        "Location": "De Roma",
-        "Description": "Kukeleku! De Grote Boerderijshow A musical show for little ones and animal lovers, packed with sing-along songs and farm-themed jokes.",
-        "Room": "",
-        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
-        "Latitude": "51.2134",
-        "Longitude": "4.44"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeSteenovenScraper",
@@ -741,9 +753,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:01.9136368Z",
-    "StartedAt": "2026-04-01T10:00:00.8437071Z",
-    "FinishedAt": "2026-04-01T10:00:01.9136348Z",
+    "RunTime": "2026-04-01T14:00:02.0646239Z",
+    "StartedAt": "2026-04-01T14:00:00.8388034Z",
+    "FinishedAt": "2026-04-01T14:00:02.0646209Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -797,9 +809,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.1193913Z",
-    "StartedAt": "2026-04-01T10:00:00.8447588Z",
-    "FinishedAt": "2026-04-01T10:00:02.1193873Z",
+    "RunTime": "2026-04-01T14:00:03.0735963Z",
+    "StartedAt": "2026-04-01T14:00:00.8390583Z",
+    "FinishedAt": "2026-04-01T14:00:03.0735937Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -903,9 +915,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:09.8852193Z",
-    "StartedAt": "2026-04-01T10:00:00.8454457Z",
-    "FinishedAt": "2026-04-01T10:00:09.885217Z",
+    "RunTime": "2026-04-01T14:00:04.3093083Z",
+    "StartedAt": "2026-04-01T14:00:00.8392665Z",
+    "FinishedAt": "2026-04-01T14:00:04.3093061Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -959,24 +971,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.9821284Z",
-    "StartedAt": "2026-04-01T10:00:00.8462888Z",
-    "FinishedAt": "2026-04-01T10:00:02.9821261Z",
+    "RunTime": "2026-04-01T14:00:05.1965248Z",
+    "StartedAt": "2026-04-01T14:00:00.8395547Z",
+    "FinishedAt": "2026-04-01T14:00:05.1965215Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
-    "NewEvents": [
-      {
-        "Title": "Amenra (try-out)",
-        "DateString": "2026-05-05T20:30:00",
-        "Url": "https://www.4ad.be/event/amenra-try-out-2/",
-        "ImageUrl": "https://www.4ad.be/wp-content/uploads/2026/04/amenra-try-out-2.png",
-        "Location": "Muziekclub 4AD",
-        "Description": "De ticketverkoop start op vrijdag 03.04 om 10.00 uur. Amenra (try-out) Legendarische band, legendarische avond. Het beste Belgische exportproduct? Da\u2019s ongetwijfeld de allesoverheersende post-metal en sludge van Amenra . Al jaren breekt de band uit Kortrijk zowel nationaal als internationaal stevige potten en zijn ze een onmisbare pijler van de scene geworden. Onder leiding van Colin H. Van Eeckhout brengt de band geen concert, maar een beklijvend ritueel dat je niet beluistert, maar ondergaat. In Diksmuide mochten we al meerdere keren zo\u2019n onvergetelijke avond beleven in onze club \u00E9n op de Grote Markt met Gone West, na lang wachten keren ze eindelijk nog eens terug. De Mass -platen van Amenra hebben intussen een cultstatus bij de fans verworven. Hun meest recente album, \u2018De Doorn\u2019 (2021), verraste met ongekende diepgang en de po\u00EBtische Nederlandstalige lamenten van Van Eeckhout. In 2025 bracht Amenra nog twee nieuwe en bijzonder straffe EP\u2019s uit: \u2018De Toorn\u2019 en \u2018With Fang and Claw\u2019 . Daarmee zetten ze hun ontdekkingstocht verder, balancerend tussen woede, verdriet en wedergeboorte. Dansende Beren over die EP\u2019s: \u0022Met \u2018De Toorn\u2019 en \u2018With Fang and Claw\u2019 levert Amenra opnieuw twee ep\u2019s die ijzersterk zijn. De ene kruipt traag onder de huid, de andere slaat meteen een barst in je borstkas, maar allebei ademen ze dezelfde compromisloze intensiteit waar de band al jaren patent op heeft. Het zijn twee gezichten, maar \u00E9\u00E9n onwrikbare identiteit. Amenra spreekt opnieuw en we luisteren, zoals enkel die band dat kan doen.\u0022 Binnenkort vertrekken ze op een indrukwekkende tournee en staan ze drie keer in een uitverkochte Ancienne Belgique. Maar eerst komen ze naar hun home away from home om zich helemaal klaar te maken. Amenra. 4AD. Aftellen. Instagram | Facebook",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0343",
-        "Longitude": "2.86"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "HaConcertsScraper",
@@ -1068,9 +1067,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:11.079209Z",
-    "StartedAt": "2026-04-01T10:00:00.8471486Z",
-    "FinishedAt": "2026-04-01T10:00:11.0792064Z",
+    "RunTime": "2026-04-01T14:00:13.0349265Z",
+    "StartedAt": "2026-04-01T14:00:00.8398244Z",
+    "FinishedAt": "2026-04-01T14:00:13.0349236Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1174,9 +1173,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:23.8412321Z",
-    "StartedAt": "2026-04-01T10:00:00.8479704Z",
-    "FinishedAt": "2026-04-01T10:00:23.8412292Z",
+    "RunTime": "2026-04-01T14:00:33.7446221Z",
+    "StartedAt": "2026-04-01T14:00:00.8401069Z",
+    "FinishedAt": "2026-04-01T14:00:33.7446195Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1240,9 +1239,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.1156611Z",
-    "StartedAt": "2026-04-01T10:00:00.8488165Z",
-    "FinishedAt": "2026-04-01T10:00:02.1156585Z",
+    "RunTime": "2026-04-01T14:00:03.0601478Z",
+    "StartedAt": "2026-04-01T14:00:00.8403844Z",
+    "FinishedAt": "2026-04-01T14:00:03.0601441Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -1286,9 +1285,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:07.023395Z",
-    "StartedAt": "2026-04-01T10:00:00.8495183Z",
-    "FinishedAt": "2026-04-01T10:00:07.0233925Z",
+    "RunTime": "2026-04-01T14:00:08.0512869Z",
+    "StartedAt": "2026-04-01T14:00:00.8406109Z",
+    "FinishedAt": "2026-04-01T14:00:08.0512844Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1304,7 +1303,7 @@
         "Year": 2026,
         "FileName": "trix-04-2026.json",
         "FilePath": "events/concerts/trix/trix-04-2026.json",
-        "Hash": "3b790d65699138342ad783aa5815b22d46312f9c73e63bf913965e9e371d8389",
+        "Hash": "90f7c8188f0b2a9099e379b4af9bdc2b93a70eff834431a2e7211446a5ebc82b",
         "EventCount": 30,
         "Status": "Success",
         "ErrorMessage": null
@@ -1312,9 +1311,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:05.2227638Z",
-    "StartedAt": "2026-04-01T10:00:00.8502803Z",
-    "FinishedAt": "2026-04-01T10:00:05.2227614Z",
+    "RunTime": "2026-04-01T14:00:05.555496Z",
+    "StartedAt": "2026-04-01T14:00:00.8408289Z",
+    "FinishedAt": "2026-04-01T14:00:05.5554932Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
     "NewEvents": []
   },
@@ -1368,9 +1367,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:06.5255699Z",
-    "StartedAt": "2026-04-01T10:00:00.8516366Z",
-    "FinishedAt": "2026-04-01T10:00:06.5255674Z",
+    "RunTime": "2026-04-01T14:00:07.1104559Z",
+    "StartedAt": "2026-04-01T14:00:00.8411209Z",
+    "FinishedAt": "2026-04-01T14:00:07.1104535Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -1454,24 +1453,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:01:07.2113094Z",
-    "StartedAt": "2026-04-01T10:00:00.8523989Z",
-    "FinishedAt": "2026-04-01T10:01:07.2113073Z",
+    "RunTime": "2026-04-01T14:01:07.9233381Z",
+    "StartedAt": "2026-04-01T14:00:00.8414079Z",
+    "FinishedAt": "2026-04-01T14:01:07.9233355Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
-    "NewEvents": [
-      {
-        "Title": "JAZZ MATINEE: VICE VERSA",
-        "DateString": "2026-05-10T11:00:00\u002B0200",
-        "Url": "https://www.wildewesten.be/nl/event/jazz-matinee-vice-versa",
-        "ImageUrl": "https://www.wildewesten.be/media/cache/default_uitdatabank/upload/media/default/f1e1/27/87e8a477858c57b758ed7016b3c5de8d5514b77d.jpg",
-        "Location": "Concertstudio",
-        "Description": "Jazz door drie compositorische genie\u00EBnVice Versa ontstond uit de nood van Belgische pianist Bram De Looze (LABtrio, Joey Baron, Hank Roberts) om met artiesten samen te werken die als een natuurlijke aanvulling aanvoelen. Al snel vond hij met de New Yorkse meesterdrummer Eric McPherson (Jackie Mclean, Andrew Hill, Fred Hersch) en het Berlijnse contrabastalent Felix Henkelhausen (Jim Black, Nate Wooley, Lotte Anker) twee gelijkgezinden: compositorische genie\u00EBn met een eindeloze ritmische vindingrijkheid.Dit veelzijdige, experimenterende trio legt de lat hoog wat betreft expressieve interpretatie en inventieve creativiteit. Verwacht uitzonderlijke benaderingen waarbij de muzikale regels voortdurend veranderen zonder aan continu\u00EFteit en dynamiek in te boeten. Verwacht, kortom, een intrigerende muzikale synthese waarbij de geest van traditionele jazz spontaan opduikt tijdens een intu\u00EFtieve ontdekkingsreis geleid door vrije improvisatie.Debuutalbum \u2018Vice Versa\u2019 verscheen in 2023 bij Dox Records. In januari 2025, toen Bram De Looze Artist in Residence was op het Brussels Jazz Festival in Flagey, namen ze hun tweede album live op voor een uitverkochte Studio 1. Hun nieuwe album verschijnt begin 2026 bij het Nederlandse Challenge Records.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8251",
-        "Longitude": "3.2607"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "WintercircusScraper",
@@ -1553,9 +1539,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.622225Z",
-    "StartedAt": "2026-04-01T10:00:00.8527023Z",
-    "FinishedAt": "2026-04-01T10:00:02.6222226Z",
+    "RunTime": "2026-04-01T14:00:02.9901704Z",
+    "StartedAt": "2026-04-01T14:00:00.8419217Z",
+    "FinishedAt": "2026-04-01T14:00:02.9901676Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   },
@@ -1589,9 +1575,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:03.3458831Z",
-    "StartedAt": "2026-04-01T10:00:00.8529378Z",
-    "FinishedAt": "2026-04-01T10:00:03.3458804Z",
+    "RunTime": "2026-04-01T14:00:03.2894063Z",
+    "StartedAt": "2026-04-01T14:00:00.8425067Z",
+    "FinishedAt": "2026-04-01T14:00:03.2894039Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -1615,9 +1601,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:07.2990401Z",
-    "StartedAt": "2026-04-01T10:00:00.8532261Z",
-    "FinishedAt": "2026-04-01T10:00:07.299037Z",
+    "RunTime": "2026-04-01T14:00:07.7532075Z",
+    "StartedAt": "2026-04-01T14:00:00.8429955Z",
+    "FinishedAt": "2026-04-01T14:00:07.7532045Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -1661,67 +1647,18 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:04.7147516Z",
-    "StartedAt": "2026-04-01T10:00:00.8561284Z",
-    "FinishedAt": "2026-04-01T10:00:04.7147496Z",
+    "RunTime": "2026-04-01T14:00:03.7066142Z",
+    "StartedAt": "2026-04-01T14:00:00.8433144Z",
+    "FinishedAt": "2026-04-01T14:00:03.7066118Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
-    "NewEvents": [
-      {
-        "Title": "Hoe koop je online tickets bij De Kluize?",
-        "DateString": "2026-05-19T09:00:00.0000000",
-        "Url": "https://gcdekluize.be/voorstelling/digidokter-sessie-1",
-        "ImageUrl": "",
-        "Location": "GC De Kluize",
-        "Description": "de digidokter Gratis Workshop",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9414",
-        "Longitude": "3.7938"
-      },
-      {
-        "Title": "Hoe koop je online tickets bij De Kluize?",
-        "DateString": "2026-05-26T09:00:00.0000000",
-        "Url": "https://gcdekluize.be/voorstelling/digidokter-sessie-2",
-        "ImageUrl": "",
-        "Location": "GC De Kluize",
-        "Description": "de digidokter Gratis Workshop",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9414",
-        "Longitude": "3.7938"
-      },
-      {
-        "Title": "Hoe koop je online tickets bij De Kluize?",
-        "DateString": "2026-06-02T09:00:00.0000000",
-        "Url": "https://gcdekluize.be/voorstelling/digidokter-sessie-3",
-        "ImageUrl": "",
-        "Location": "GC De Kluize",
-        "Description": "de digidokter Gratis Workshop",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9414",
-        "Longitude": "3.7938"
-      },
-      {
-        "Title": "Hoe koop je online tickets bij De Kluize?",
-        "DateString": "2026-06-04T09:00:00.0000000",
-        "Url": "https://gcdekluize.be/voorstelling/digidokter-sessie-4",
-        "ImageUrl": "",
-        "Location": "GC De Kluize",
-        "Description": "de digidokter Gratis Workshop",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9414",
-        "Longitude": "3.7938"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeWerfScraper",
     "VenueId": "dewerf",
     "VenueName": "Cultuurhuis De Werf",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 38,
+    "TotalEventsFound": 39,
     "MonthlyFiles": [
       {
         "Month": 9,
@@ -1738,8 +1675,8 @@
         "Year": 2026,
         "FileName": "dewerf-04-2026.json",
         "FilePath": "events/cultuurcentra/dewerf/dewerf-04-2026.json",
-        "Hash": "f38f6ce14be20968cd2afd6b59a92ae5ba631642de24d5a70651c3a9a672497b",
-        "EventCount": 20,
+        "Hash": "e78b2267d9c69f5ff86784a4638cfc684bef5bd2a00555dcda54fc66774f9f9a",
+        "EventCount": 21,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1748,7 +1685,7 @@
         "Year": 2026,
         "FileName": "dewerf-05-2026.json",
         "FilePath": "events/cultuurcentra/dewerf/dewerf-05-2026.json",
-        "Hash": "ce7bf12a0048f179d3014b0f43d4f01e2195be07ab9535a5bcececaa73285606",
+        "Hash": "7b5c7a5cad8944bd2e02c4d2d7b23685d7df803f465391119ce5a3aaea16d8b8",
         "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
@@ -1806,11 +1743,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:05.4094442Z",
-    "StartedAt": "2026-04-01T10:00:00.856428Z",
-    "FinishedAt": "2026-04-01T10:00:05.4094423Z",
+    "RunTime": "2026-04-01T14:00:06.0124234Z",
+    "StartedAt": "2026-04-01T14:00:00.8438336Z",
+    "FinishedAt": "2026-04-01T14:00:06.0124211Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Pop-up expo straatfotografie (o.l.v. Gert Swillens)",
+        "DateString": "2026-04-01",
+        "Url": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-straatfotografie-olv-gert-swillens/9824/",
+        "ImageUrl": "https://www.dewerfcultuurhuis.be/images/og-image/snapseed5web-1.jpg",
+        "Location": "Aalst",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9383226",
+        "Longitude": "4.0392147"
+      }
+    ]
   },
   {
     "ScraperName": "SintLievensHoutemScraper",
@@ -1842,9 +1792,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:09.8061307Z",
-    "StartedAt": "2026-04-01T10:00:00.856648Z",
-    "FinishedAt": "2026-04-01T10:00:09.8061281Z",
+    "RunTime": "2026-04-01T14:00:03.5948675Z",
+    "StartedAt": "2026-04-01T14:00:00.8444217Z",
+    "FinishedAt": "2026-04-01T14:00:03.5948653Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1868,9 +1818,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.5683958Z",
-    "StartedAt": "2026-04-01T10:00:00.856851Z",
-    "FinishedAt": "2026-04-01T10:00:02.5683943Z",
+    "RunTime": "2026-04-01T14:00:03.1552836Z",
+    "StartedAt": "2026-04-01T14:00:00.8449372Z",
+    "FinishedAt": "2026-04-01T14:00:03.1552748Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1894,9 +1844,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:02.0889093Z",
-    "StartedAt": "2026-04-01T10:00:00.8570615Z",
-    "FinishedAt": "2026-04-01T10:00:02.0889064Z",
+    "RunTime": "2026-04-01T14:00:02.5855066Z",
+    "StartedAt": "2026-04-01T14:00:00.8476554Z",
+    "FinishedAt": "2026-04-01T14:00:02.5855037Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1950,9 +1900,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:19.6721658Z",
-    "StartedAt": "2026-04-01T10:00:00.8573061Z",
-    "FinishedAt": "2026-04-01T10:00:19.6721626Z",
+    "RunTime": "2026-04-01T14:00:19.2981806Z",
+    "StartedAt": "2026-04-01T14:00:00.8480607Z",
+    "FinishedAt": "2026-04-01T14:00:19.2981625Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -2046,9 +1996,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-01T10:00:20.1875409Z",
-    "StartedAt": "2026-04-01T10:00:00.857521Z",
-    "FinishedAt": "2026-04-01T10:00:20.1875381Z",
+    "RunTime": "2026-04-01T14:00:21.9566888Z",
+    "StartedAt": "2026-04-01T14:00:00.8488248Z",
+    "FinishedAt": "2026-04-01T14:00:21.956274Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   }
