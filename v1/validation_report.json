@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-04-04T05:00:00.7771557Z",
-  "ValidatedAt": "2026-04-04T05:00:00.7771557Z",
+  "GeneratedAt": "2026-04-05T05:00:00.5973216Z",
+  "ValidatedAt": "2026-04-05T05:00:00.5973217Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1437,
+  "TotalEvents": 1422,
   "TotalErrors": 0,
-  "TotalWarnings": 630,
+  "TotalWarnings": 623,
   "Results": [
     {
       "ScraperId": "4ad",
       "ScraperName": "4adScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -117,9 +117,9 @@
           ]
         },
         {
-          "EventTitle": "Stone + Garage Flower",
+          "EventTitle": "UM! + GAIKO",
           "EventDate": "2026-04-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/stone/a10Qw00000BDYC1IAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/um/a10Qw00000BmwWPIAZ",
           "Issues": [
             {
               "Field": "DateString",
@@ -130,9 +130,9 @@
           ]
         },
         {
-          "EventTitle": "UM! + GAIKO",
+          "EventTitle": "Stone + Garage Flower",
           "EventDate": "2026-04-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/um/a10Qw00000BmwWPIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/stone/a10Qw00000BDYC1IAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -767,9 +767,9 @@
           ]
         },
         {
-          "EventTitle": "Orcutt Shelley Miller",
+          "EventTitle": "Fischer-Z",
           "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/orcutt-shelley-miller/a10Qw00000EIbYxIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/fischer-z/a10Qw000009YLhaIAG",
           "Issues": [
             {
               "Field": "DateString",
@@ -780,9 +780,9 @@
           ]
         },
         {
-          "EventTitle": "Fischer-Z",
+          "EventTitle": "Orcutt Shelley Miller",
           "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/fischer-z/a10Qw000009YLhaIAG",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/orcutt-shelley-miller/a10Qw00000EIbYxIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -2397,7 +2397,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 135,
+      "TotalEvents": 134,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3530,37 +3530,11 @@
       "ScraperId": "cecilia",
       "ScraperName": "ceciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 13,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 13,
+      "WarningCount": 12,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Parkplatz",
-          "EventDate": "2026-04-04T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mamamanie",
-          "EventDate": "2026-04-04T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/mamamanie",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Damesclub",
           "EventDate": "2026-04-07T00:00:00.0000000",
@@ -3571,6 +3545,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-07T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-04-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Parkplatz",
+          "EventDate": "2026-04-08T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-08T00:00:00.0000000"
             }
           ]
         },
@@ -3710,9 +3697,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 37,
+      "TotalEvents": 35,
       "ErrorCount": 0,
-      "WarningCount": 37,
+      "WarningCount": 35,
       "Issues": [],
       "EventDetails": [
         {
@@ -3738,32 +3725,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-01'.",
               "Severity": 1,
               "ActualValue": "2026-04-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Piv Huvluv",
-          "EventDate": "2026-04-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/piv-huvluv/9337/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Johan Verminnen",
-          "EventDate": "2026-04-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/johan-verminnen/9364/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04"
             }
           ]
         },
@@ -4015,19 +3976,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
-            }
-          ]
-        },
-        {
           "EventTitle": "Verftechnieken (marmer, hout, patineren)",
           "EventDate": "2026-05-11",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/verftechnieken-marmer-hout-patineren/8561/",
@@ -4050,6 +3998,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-13'.",
               "Severity": 1,
               "ActualValue": "2026-05-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Peter Lievens",
+          "EventDate": "2026-05-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08"
             }
           ]
         },
@@ -4202,7 +4163,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 32,
+      "TotalEvents": 31,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4236,24 +4197,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "C L U B Casino / Pimpish",
-          "EventDate": "2026-04-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-pimpish/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Sin City Burning / Vision",
           "EventDate": "2026-04-08T00:00:00",
@@ -4988,7 +4936,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 110,
+      "TotalEvents": 109,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4998,24 +4946,11 @@
       "ScraperId": "dezwerver",
       "ScraperName": "dezwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Push The Button 2026",
-          "EventDate": "2026-04-04T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/push-the-button/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Mantah + Aeveris + Millhaven",
           "EventDate": "2026-04-18T00:00:00",
@@ -5165,24 +5100,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 74,
+      "TotalEvents": 73,
       "ErrorCount": 0,
-      "WarningCount": 74,
+      "WarningCount": 73,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "CLUB LAAT: The Space Between - w/ Ciel, Xiaolin, UNOS & Yeye",
-          "EventDate": "2026-04-04",
-          "EventUrl": "https://www.democrazy.be/agenda/3170-club-laat-ciel-xiaolin-unos-yeye/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04"
-            }
-          ]
-        },
         {
           "EventTitle": "Sababa 5 & Kit Sebastian",
           "EventDate": "2026-04-08",
@@ -6138,7 +6060,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6718,7 +6640,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 70,
+      "TotalEvents": 69,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8109,7 +8031,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 193,
+      "TotalEvents": 192,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8156,24 +8078,11 @@
       "ScraperId": "vaartkapoen",
       "ScraperName": "vaartkapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 23,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Hiz Ya Wiz",
-          "EventDate": "2026-04-03T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/hiz-ya-wiz",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-03T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-03T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Disco Arabesquo Weekender - dag 1",
           "EventDate": "2026-04-09T22:00:00Z",
@@ -8466,7 +8375,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 37,
+      "TotalEvents": 36,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
