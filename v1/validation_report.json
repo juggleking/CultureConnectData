@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-05T05:00:00.5973216Z",
-  "ValidatedAt": "2026-04-05T05:00:00.5973217Z",
+  "GeneratedAt": "2026-04-06T05:00:02.2979216Z",
+  "ValidatedAt": "2026-04-06T05:00:02.2979217Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1422,
+  "TotalEvents": 1417,
   "TotalErrors": 0,
-  "TotalWarnings": 623,
+  "TotalWarnings": 621,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -611,19 +611,6 @@
           ]
         },
         {
-          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
-          "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "La Jungle",
           "EventDate": "2026-04-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/la-jungle/a10Qw00000GUcUkIAL",
@@ -640,6 +627,19 @@
           "EventTitle": "EarthBall + De Mond",
           "EventDate": "2026-04-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
+          "EventDate": "2026-04-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
           "Issues": [
             {
               "Field": "DateString",
@@ -2447,24 +2447,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Knives + The Rats",
-          "EventDate": "2026-04-05T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/knives",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-05T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tom Smith",
           "EventDate": "2026-04-09T00:00:00.0000000",
@@ -3402,24 +3389,11 @@
       "ScraperId": "aff",
       "ScraperName": "affScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 9,
+      "TotalEvents": 8,
       "ErrorCount": 0,
-      "WarningCount": 9,
+      "WarningCount": 8,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "leather.head + Akrem",
-          "EventDate": "2026-04-04",
-          "EventUrl": "https://aff.be/events/leatherhead/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04"
-            }
-          ]
-        },
         {
           "EventTitle": "Oliver Symons + Arno Sacco",
           "EventDate": "2026-04-18",
@@ -6640,7 +6614,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8031,7 +8005,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 192,
+      "TotalEvents": 191,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8375,7 +8349,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 36,
+      "TotalEvents": 35,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
