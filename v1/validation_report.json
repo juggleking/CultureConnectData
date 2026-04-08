@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-04-07T05:00:00.4501036Z",
-  "ValidatedAt": "2026-04-07T05:00:00.4502134Z",
+  "GeneratedAt": "2026-04-08T05:00:00.4743534Z",
+  "ValidatedAt": "2026-04-08T05:00:00.4743535Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1413,
+  "TotalEvents": 1419,
   "TotalErrors": 0,
   "TotalWarnings": 619,
   "Results": [
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 181,
+      "TotalEvents": 182,
       "ErrorCount": 0,
-      "WarningCount": 181,
+      "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Roufaida + Nina Sampermans",
-          "EventDate": "2026-04-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/roufaida/a10Qw00000EyzzpIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DEADLETTER + Bleech 9:3",
-          "EventDate": "2026-04-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/deadletter/a10Qw00000AVT82IAH",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "NIGHTLAB + w/ Blck Mamba: DJ workshop for beginners",
           "EventDate": "2026-04-08T00:00:00.0000000",
@@ -91,7 +65,7 @@
           ]
         },
         {
-          "EventTitle": "Fine",
+          "EventTitle": "Fine + Melodi Ghazal",
           "EventDate": "2026-04-09T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/fine/a10Qw00000EZf8HIAT",
           "Issues": [
@@ -195,9 +169,9 @@
           ]
         },
         {
-          "EventTitle": "KULTURA: Round Table Talk",
+          "EventTitle": "New date: GoldLink",
           "EventDate": "2026-04-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kultura-round-table-talk/a10Qw00000H1XL7IAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-goldlink/a10Qw000006Gk0EIAS",
           "Issues": [
             {
               "Field": "DateString",
@@ -208,9 +182,9 @@
           ]
         },
         {
-          "EventTitle": "New date: GoldLink",
+          "EventTitle": "KULTURA: Round Table Talk",
           "EventDate": "2026-04-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-goldlink/a10Qw000006Gk0EIAS",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kultura-round-table-talk/a10Qw00000H1XL7IAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -234,9 +208,9 @@
           ]
         },
         {
-          "EventTitle": "MICHA",
+          "EventTitle": "Kim Gordon - PLAY ME TOUR + The New Eves",
           "EventDate": "2026-04-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000E8tYjIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kim-gordon-play-me-tour/a10Qw00000FddQfIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -247,9 +221,9 @@
           ]
         },
         {
-          "EventTitle": "Kim Gordon - PLAY ME TOUR + The New Eves",
+          "EventTitle": "MICHA",
           "EventDate": "2026-04-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kim-gordon-play-me-tour/a10Qw00000FddQfIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000E8tYjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -403,9 +377,9 @@
           ]
         },
         {
-          "EventTitle": "The Avener",
+          "EventTitle": "Ragini Trio: Nathan Daems x Lander Gyselinck x Marco Bardoscia",
           "EventDate": "2026-04-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-avener/a10Qw00000Dz0MzIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ragini-trio-nathan-daems-x-lander-gyselinck-x-marco-bardoscia/a10Qw000008Pl5bIAC",
           "Issues": [
             {
               "Field": "DateString",
@@ -416,9 +390,9 @@
           ]
         },
         {
-          "EventTitle": "Ragini Trio: Nathan Daems x Lander Gyselinck x Marco Bardoscia",
+          "EventTitle": "The Avener",
           "EventDate": "2026-04-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ragini-trio-nathan-daems-x-lander-gyselinck-x-marco-bardoscia/a10Qw000008Pl5bIAC",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-avener/a10Qw00000Dz0MzIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -611,9 +585,9 @@
           ]
         },
         {
-          "EventTitle": "EarthBall + De Mond",
+          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
           "Issues": [
             {
               "Field": "DateString",
@@ -624,9 +598,9 @@
           ]
         },
         {
-          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
+          "EventTitle": "EarthBall + De Mond",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -705,6 +679,19 @@
           "EventTitle": "TK",
           "EventDate": "2026-05-01T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/tk/a10Qw00000GrWjhIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-01T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "United Sluts Party + Tracy De Sá, Deize Tigrona, Jamal Phoenix, RaqL, Nice girls piss in pink",
+          "EventDate": "2026-05-01T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/united-sluts-party/a10Qw00000GFeaDIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -806,7 +793,7 @@
           ]
         },
         {
-          "EventTitle": "Tinariwen",
+          "EventTitle": "Tinariwen + Sulaf",
           "EventDate": "2026-05-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/tinariwen/a10Qw00000CzSenIAF",
           "Issues": [
@@ -1027,9 +1014,9 @@
           ]
         },
         {
-          "EventTitle": "Punk 50: Habenmeuf, Flux, Cimitero, Blitzer",
+          "EventTitle": "Hommage à Éliane Radigue: screening, live set & diffusion",
           "EventDate": "2026-05-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/punk-50-habenmeuf-flux-cimitero-blitzer/a10Qw00000FN95BIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/hommage-a-eliane-radigue-screening-live-set-diffusion/a10Qw00000HddqvIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1040,9 +1027,9 @@
           ]
         },
         {
-          "EventTitle": "Hommage à Éliane Radigue: screening, live set & diffusion",
+          "EventTitle": "Punk 50: Habenmeuf, Flux, Cimitero, Blitzer",
           "EventDate": "2026-05-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/hommage-a-eliane-radigue-screening-live-set-diffusion/a10Qw00000HddqvIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/punk-50-habenmeuf-flux-cimitero-blitzer/a10Qw00000FN95BIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -1144,9 +1131,9 @@
           ]
         },
         {
-          "EventTitle": "The Sheila Divine",
+          "EventTitle": "Artist talk / Q&A: Craig Leon - Ramones",
           "EventDate": "2026-05-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sheila-divine/a10Qw00000Aox8nIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-talk-qa-craig-leon-ramones/a10Qw00000ETS8vIAH",
           "Issues": [
             {
               "Field": "DateString",
@@ -1157,9 +1144,9 @@
           ]
         },
         {
-          "EventTitle": "Artist talk / Q&A: Craig Leon - Ramones",
+          "EventTitle": "The Sheila Divine + The Romans",
           "EventDate": "2026-05-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-talk-qa-craig-leon-ramones/a10Qw00000ETS8vIAH",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sheila-divine/a10Qw00000Aox8nIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1719,6 +1706,19 @@
           "EventTitle": "gala dragot",
           "EventDate": "2026-10-08T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Courtney Barnett",
+          "EventDate": "2026-10-08T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -2377,6 +2377,19 @@
               "ActualValue": "2027-03-27T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Charles",
+          "EventDate": "2027-04-08T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/charles/a10Qw00000AhvLRIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-08T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -2384,7 +2397,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 134,
+      "TotalEvents": 136,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2570,7 +2583,7 @@
           ]
         },
         {
-          "EventTitle": "L.A. Witch",
+          "EventTitle": "L.A. Witch + Gros Coeur",
           "EventDate": "2026-04-29T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/la-witch",
           "Issues": [
@@ -3012,9 +3025,9 @@
           ]
         },
         {
-          "EventTitle": "DeVotchKa",
+          "EventTitle": "DeVotchKa + Sons of Town Hall",
           "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/devotchka",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/devotchka-sons-of-town-hall",
           "Issues": [
             {
               "Field": "DateString",
@@ -3170,24 +3183,11 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 14,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ciné Local: Urchin",
-          "EventDate": "2026-04-07",
-          "EventUrl": "https://www.cczoetegem.be/programma/cine-local-urchin.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-07'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-07"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciné Local voor kinderen: Zootropolis 2 (6+)",
           "EventDate": "2026-04-08",
@@ -3491,24 +3491,11 @@
       "ScraperId": "cecilia",
       "ScraperName": "ceciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Damesclub",
-          "EventDate": "2026-04-07T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/damesclub",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Parkplatz",
           "EventDate": "2026-04-08T00:00:00.0000000",
@@ -4907,9 +4894,9 @@
       "ScraperId": "dezwerver",
       "ScraperName": "dezwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 11,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 12,
       "Issues": [],
       "EventDetails": [
         {
@@ -5043,15 +5030,28 @@
           ]
         },
         {
-          "EventTitle": "Leffingeleuren 2026",
-          "EventDate": "2026-09-11T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/leffingeleuren/",
+          "EventTitle": "Poison Ruïn",
+          "EventDate": "2026-06-30T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/256-poison-ruin/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-11T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-30T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-09-11T00:00:00"
+              "ActualValue": "2026-06-30T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MOVING MOTION: Expo 50 Jaar Leffingeleuren",
+          "EventDate": "2026-08-30T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/257-expo-50-jaar-leffingeleuren/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-30T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-30T00:00:00"
             }
           ]
         }
@@ -5158,7 +5158,7 @@
           ]
         },
         {
-          "EventTitle": "Doodseskader: immersive 360 show - + LeBlanc",
+          "EventTitle": "Doodseskader: immersive show - + LeBlanc",
           "EventDate": "2026-04-17",
           "EventUrl": "https://www.democrazy.be/agenda/3131-doodseskader-immersive-360-show/",
           "Issues": [
@@ -8323,7 +8323,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 35,
+      "TotalEvents": 36,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8333,7 +8333,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 43,
+      "TotalEvents": 46,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
