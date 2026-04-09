@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-08T05:00:00.4743534Z",
-  "ValidatedAt": "2026-04-08T05:00:00.4743535Z",
+  "GeneratedAt": "2026-04-09T05:00:00.7245516Z",
+  "ValidatedAt": "2026-04-09T05:00:00.7245519Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1419,
+  "TotalEvents": 1404,
   "TotalErrors": 0,
-  "TotalWarnings": 619,
+  "TotalWarnings": 618,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -25,32 +25,6 @@
       "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "NIGHTLAB + w/ Blck Mamba: DJ workshop for beginners",
-          "EventDate": "2026-04-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab/a10Qw00000E95y6IAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sekou + Mulaa Joans",
-          "EventDate": "2026-04-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sekou/a10Qw00000FsRnNIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Charles",
           "EventDate": "2026-04-09T00:00:00.0000000",
@@ -223,7 +197,7 @@
         {
           "EventTitle": "MICHA",
           "EventDate": "2026-04-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000E8tYjIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000I3JQLIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -299,9 +273,9 @@
           ]
         },
         {
-          "EventTitle": "Mosimann",
+          "EventTitle": "Hiqpy + zo Lief",
           "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/mosimann/a10Qw00000790uSIAQ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/hiqpy/a10Qw00000BC5QcIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -312,9 +286,9 @@
           ]
         },
         {
-          "EventTitle": "Hiqpy + zo Lief",
+          "EventTitle": "Mosimann",
           "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/hiqpy/a10Qw00000BC5QcIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/mosimann/a10Qw00000790uSIAQ",
           "Issues": [
             {
               "Field": "DateString",
@@ -520,7 +494,7 @@
           ]
         },
         {
-          "EventTitle": "TJE",
+          "EventTitle": "TJE + Sickboykc",
           "EventDate": "2026-04-26T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
           "Issues": [
@@ -1534,6 +1508,19 @@
           ]
         },
         {
+          "EventTitle": "The Waterboys Fisherman’s Blues Revue",
+          "EventDate": "2026-09-01T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-waterboys-fishermans-blues-revue/a10Qw00000HhUqgIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-01T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Yebba",
           "EventDate": "2026-09-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/yebba/a10Qw00000GTKoXIAX",
@@ -1823,6 +1810,19 @@
           "EventTitle": "Lake Street Dive",
           "EventDate": "2026-10-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/lake-street-dive/a10Qw000004mV2RIAU",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MICHA",
+          "EventDate": "2026-10-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/micha/a10Qw00000E8tYjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2397,7 +2397,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 136,
+      "TotalEvents": 138,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2447,9 +2447,9 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 55,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
         {
@@ -3090,6 +3090,19 @@
           ]
         },
         {
+          "EventTitle": "Portland",
+          "EventDate": "2026-11-05T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/portland",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Joan As Police Woman",
           "EventDate": "2026-11-11T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/joan-as-police-woman",
@@ -3183,24 +3196,11 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 14,
+      "TotalEvents": 13,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 13,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ciné Local voor kinderen: Zootropolis 2 (6+)",
-          "EventDate": "2026-04-08",
-          "EventUrl": "https://www.cczoetegem.be/programma/cine-local-voor-kinderen-zootropolis-2-6.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciné Local: The Mastermind",
           "EventDate": "2026-04-14",
@@ -3498,14 +3498,14 @@
       "EventDetails": [
         {
           "EventTitle": "Parkplatz",
-          "EventDate": "2026-04-08T00:00:00.0000000",
+          "EventDate": "2026-04-09T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-08T00:00:00.0000000"
+              "ActualValue": "2026-04-09T00:00:00.0000000"
             }
           ]
         },
@@ -3645,9 +3645,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 35,
+      "TotalEvents": 33,
       "ErrorCount": 0,
-      "WarningCount": 35,
+      "WarningCount": 33,
       "Issues": [],
       "EventDetails": [
         {
@@ -3673,19 +3673,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-01'.",
               "Severity": 1,
               "ActualValue": "2026-04-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Släpstick (NL)",
-          "EventDate": "2026-04-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/slapstick-nl/9365/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08"
             }
           ]
         },
@@ -3950,19 +3937,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
-            }
-          ]
-        },
-        {
           "EventTitle": "Koninklijke Symfonische Kring Aalst ‘Door Eendracht Groot’",
           "EventDate": "2026-05-18",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koninklijke-symfonische-kring-aalst-door-eendracht-groot/9422/",
@@ -3972,6 +3946,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-18'.",
               "Severity": 1,
               "ActualValue": "2026-05-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Peter Lievens",
+          "EventDate": "2026-05-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08"
             }
           ]
         },
@@ -4067,19 +4054,6 @@
           ]
         },
         {
-          "EventTitle": "Voil jeanet voor beginners",
-          "EventDate": "2026-01-17",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/voil-jeanet-voor-beginners/7935/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-01-17'.",
-              "Severity": 1,
-              "ActualValue": "2026-01-17"
-            }
-          ]
-        },
-        {
           "EventTitle": "Gover Meit",
           "EventDate": "2026-10-22",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/gover-meit/9812/",
@@ -4111,7 +4085,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 31,
+      "TotalEvents": 32,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4145,24 +4119,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 56,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sin City Burning / Vision",
-          "EventDate": "2026-04-08T00:00:00",
-          "EventUrl": "https://decasino.be/concert/sin-city-burning-vision/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "C L U B Casino / DJArt",
           "EventDate": "2026-04-11T00:00:00",
@@ -4567,6 +4528,19 @@
           ]
         },
         {
+          "EventTitle": "Great Gigs in the Park / Monza (try-out)",
+          "EventDate": "2026-06-29T00:00:00",
+          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-monza-try-out/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-29T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-29T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Great Gigs in the Park / The Sheila Divine",
           "EventDate": "2026-07-02T00:00:00",
           "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-the-sheila-divine/",
@@ -4762,6 +4736,19 @@
           ]
         },
         {
+          "EventTitle": "Portland",
+          "EventDate": "2026-11-07T00:00:00",
+          "EventUrl": "https://decasino.be/concert/portland-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-07T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-07T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Jeremy Pinnell",
           "EventDate": "2026-11-12T00:00:00",
           "EventUrl": "https://decasino.be/concert/jeremy-pinnell/",
@@ -4866,6 +4853,19 @@
           ]
         },
         {
+          "EventTitle": "Charlotte Wessels & The Obsession",
+          "EventDate": "2027-02-04T00:00:00",
+          "EventUrl": "https://decasino.be/concert/charlotte-wessels-the-obsession/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-04T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-04T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "De Zwaarste Band",
           "EventDate": "2027-03-19T00:00:00",
           "EventUrl": "https://decasino.be/concert/de-zwaarste-band/",
@@ -4884,7 +4884,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 109,
+      "TotalEvents": 108,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5061,37 +5061,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 73,
+      "TotalEvents": 71,
       "ErrorCount": 0,
-      "WarningCount": 73,
+      "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sababa 5 & Kit Sebastian",
-          "EventDate": "2026-04-08",
-          "EventUrl": "https://www.democrazy.be/agenda/3137-kit-sebastian/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tom Smith",
-          "EventDate": "2026-04-08",
-          "EventUrl": "https://www.democrazy.be/agenda/3105-tom-smith/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-08"
-            }
-          ]
-        },
         {
           "EventTitle": "The Tool Experience - (voorheen The Perfect Tool)",
           "EventDate": "2026-04-09",
@@ -5115,19 +5089,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-10'.",
               "Severity": 1,
               "ActualValue": "2026-04-10"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Portland - + Nina Sampermans",
-          "EventDate": "2026-04-15",
-          "EventUrl": "https://www.democrazy.be/agenda/3129-portland/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-15"
             }
           ]
         },
@@ -5187,19 +5148,6 @@
           "EventTitle": "Badlands VI - badtime, RIPSHIP, The Boojums, Sick Thoughts, Head on Stone, Geitenvel, Burger Service, Alice George Perez, L.A.Sagne, Acid Talk, Klutter",
           "EventDate": "2026-04-18",
           "EventUrl": "https://www.democrazy.be/agenda/3130-badlands-vi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mo' Juice x Curfew: Kamma & Masalo - + Forbidden Fruit (live) + Mo Disko & Nico Juice",
-          "EventDate": "2026-04-18",
-          "EventUrl": "https://www.democrazy.be/agenda/3164-mo-juice-x-curfew-kamma-masalo/",
           "Issues": [
             {
               "Field": "DateString",
@@ -5912,6 +5860,19 @@
           ]
         },
         {
+          "EventTitle": "Mo' Juice x Curfew: Kamma & Masalo - + Forbidden Fruit (live) + Mo Disko & Nico Juice",
+          "EventDate": "2026-11-07",
+          "EventUrl": "https://www.democrazy.be/agenda/3164-mo-juice-x-curfew-kamma-masalo/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-07'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-07"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ão (extra show)",
           "EventDate": "2026-11-11",
           "EventUrl": "https://www.democrazy.be/agenda/3172-ao/",
@@ -5990,6 +5951,19 @@
           ]
         },
         {
+          "EventTitle": "Portland - + Nina Sampermans",
+          "EventDate": "2026-12-19",
+          "EventUrl": "https://www.democrazy.be/agenda/3129-portland/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19"
+            }
+          ]
+        },
+        {
           "EventTitle": "De Mens Late Night",
           "EventDate": "2027-01-15",
           "EventUrl": "https://www.democrazy.be/agenda/3181-de-mens/",
@@ -6031,9 +6005,9 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 42,
+      "TotalEvents": 43,
       "ErrorCount": 0,
-      "WarningCount": 42,
+      "WarningCount": 43,
       "Issues": [],
       "EventDetails": [
         {
@@ -6570,6 +6544,19 @@
           ]
         },
         {
+          "EventTitle": "Portland (albumrelease)",
+          "EventDate": "2026-12-19T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/portland-albumrelease-19-12-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Madou",
           "EventDate": "2027-01-29T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/madou-29-01-27",
@@ -6598,7 +6585,7 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8016,7 +8003,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8323,7 +8310,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 36,
+      "TotalEvents": 37,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8333,7 +8320,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 46,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
