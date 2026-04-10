@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-09T05:00:00.7245516Z",
-  "ValidatedAt": "2026-04-09T05:00:00.7245519Z",
+  "GeneratedAt": "2026-04-10T05:00:00.3169819Z",
+  "ValidatedAt": "2026-04-10T05:00:00.3169821Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1404,
+  "TotalEvents": 1424,
   "TotalErrors": 0,
-  "TotalWarnings": 618,
+  "TotalWarnings": 626,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -25,32 +25,6 @@
       "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Charles",
-          "EventDate": "2026-04-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/charles/a10Qw00000GvHanIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fine + Melodi Ghazal",
-          "EventDate": "2026-04-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/fine/a10Qw00000EZf8HIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-09T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "UM! + GAIKO",
           "EventDate": "2026-04-10T00:00:00.0000000",
@@ -559,9 +533,9 @@
           ]
         },
         {
-          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
+          "EventTitle": "EarthBall + De Mond",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -572,9 +546,9 @@
           ]
         },
         {
-          "EventTitle": "EarthBall + De Mond",
+          "EventTitle": "Femke Gyselinck / GRIP i.c.w. Lander Gyselinck: Figures of Speech",
           "EventDate": "2026-04-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/earthball/a10Qw00000GKjxRIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/femke-gyselinck-grip-icw-lander-gyselinck-figures-of-speech/a10Qw000009UnxOIAS",
           "Issues": [
             {
               "Field": "DateString",
@@ -1027,7 +1001,7 @@
           ]
         },
         {
-          "EventTitle": "Puggy",
+          "EventTitle": "Puggy + Pia",
           "EventDate": "2026-05-20T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/puggy/a10Qw00000FZ37GIAT",
           "Issues": [
@@ -2119,6 +2093,32 @@
           ]
         },
         {
+          "EventTitle": "Pierre de Maere",
+          "EventDate": "2026-12-01T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/pierre-de-maere/a10Qw00000CiJRTIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-01T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pierre de Maere",
+          "EventDate": "2026-12-02T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/pierre-de-maere/a10Qw00000CiJRUIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-02T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Elmiene",
           "EventDate": "2026-12-03T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
@@ -2397,7 +2397,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 138,
+      "TotalEvents": 136,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2447,24 +2447,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 56,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tom Smith",
-          "EventDate": "2026-04-09T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/tom-smith",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-09T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tortoise",
           "EventDate": "2026-04-11T00:00:00.0000000",
@@ -2531,6 +2518,32 @@
           ]
         },
         {
+          "EventTitle": "Radio 1 Classics Party",
+          "EventDate": "2026-04-18T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/classics-party",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Radio 1 Classics 1000 live @ Cactus Café",
+          "EventDate": "2026-04-18T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/classics-1000",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Yuuf + ALISN",
           "EventDate": "2026-04-20T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/yuuf",
@@ -2544,7 +2557,7 @@
           ]
         },
         {
-          "EventTitle": "OPROER",
+          "EventTitle": "OPROER + Blue Robin",
           "EventDate": "2026-04-22T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oproer",
           "Issues": [
@@ -2609,9 +2622,9 @@
           ]
         },
         {
-          "EventTitle": "Das Pop",
+          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
           "Issues": [
             {
               "Field": "DateString",
@@ -2622,9 +2635,9 @@
           ]
         },
         {
-          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
+          "EventTitle": "Das Pop",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
           "Issues": [
             {
               "Field": "DateString",
@@ -2687,9 +2700,9 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
+          "EventTitle": "Svalbard + Rulder",
           "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
           "Issues": [
             {
               "Field": "DateString",
@@ -2700,9 +2713,9 @@
           ]
         },
         {
-          "EventTitle": "Svalbard + Rulder",
+          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
           "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
           "Issues": [
             {
               "Field": "DateString",
@@ -3491,34 +3504,21 @@
       "ScraperId": "cecilia",
       "ScraperName": "ceciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
         {
           "EventTitle": "Parkplatz",
-          "EventDate": "2026-04-09T00:00:00.0000000",
+          "EventDate": "2026-04-11T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-11T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Brute Passie",
-          "EventDate": "2026-04-09T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/brute-passie",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-09T00:00:00.0000000"
+              "ActualValue": "2026-04-11T00:00:00.0000000"
             }
           ]
         },
@@ -4884,7 +4884,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 108,
+      "TotalEvents": 107,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5061,24 +5061,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 71,
+      "TotalEvents": 74,
       "ErrorCount": 0,
-      "WarningCount": 71,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Tool Experience - (voorheen The Perfect Tool)",
-          "EventDate": "2026-04-09",
-          "EventUrl": "https://www.democrazy.be/agenda/3093-the-perfect-tool/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-09"
-            }
-          ]
-        },
         {
           "EventTitle": "10 Years GANK w/ Rødhåd, Beste Hira & KADANS",
           "EventDate": "2026-04-10",
@@ -5652,6 +5639,32 @@
           ]
         },
         {
+          "EventTitle": "Boomtown: Brussels Salsa Project",
+          "EventDate": "2026-07-18",
+          "EventUrl": "https://www.democrazy.be/agenda/3193-boomtown-brussels-salsa-project/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Boomtown: Tiny Salsa",
+          "EventDate": "2026-07-18",
+          "EventUrl": "https://www.democrazy.be/agenda/3194-boomtown-tiny-salsa/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18"
+            }
+          ]
+        },
+        {
           "EventTitle": "Boomtown: Amenra",
           "EventDate": "2026-07-21",
           "EventUrl": "https://www.democrazy.be/agenda/3184-boomtown-amenra/",
@@ -5661,6 +5674,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-21'.",
               "Severity": 1,
               "ActualValue": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Boomtown: Haroun & Helena’s Heartbreak Hotel",
+          "EventDate": "2026-07-22",
+          "EventUrl": "https://www.democrazy.be/agenda/3192-haroun-helena-s-heartbreak-hotel/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Boomtown: Inspiratiedag “Gelijkwaardige muziekbeleving”",
+          "EventDate": "2026-07-22",
+          "EventUrl": "https://www.democrazy.be/agenda/3195-boomtown-inspiratiedag-gelijkwaardige-muziekbeleving/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-22"
             }
           ]
         },
@@ -6005,9 +6044,9 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 43,
+      "TotalEvents": 47,
       "ErrorCount": 0,
-      "WarningCount": 43,
+      "WarningCount": 47,
       "Issues": [],
       "EventDetails": [
         {
@@ -6414,6 +6453,32 @@
           ]
         },
         {
+          "EventTitle": "Boomtown: Tiny Salsa",
+          "EventDate": "2026-07-18T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/boomtown-tiny-salsa-18-07-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Boomtown: Brussels Salsa Project",
+          "EventDate": "2026-07-18T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/boomtown-brussels-salsa-project-18-07-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Boomtown: Amenra",
           "EventDate": "2026-07-21T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/boomtown-amenra-21-07-26",
@@ -6423,6 +6488,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-21T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Boomtown: Inspiratiedag",
+          "EventDate": "2026-07-22T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/boomtown-inspiratiedag-22-07-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Boomtown: Haroun & Helena's Heartbreak Hotel",
+          "EventDate": "2026-07-22T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/boomtown-haroun-en-helenas-heartbreak-hotel-22-07-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-22T00:00:00.0000000"
             }
           ]
         },
@@ -7966,7 +8057,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 191,
+      "TotalEvents": 190,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8003,7 +8094,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8013,9 +8104,9 @@
       "ScraperId": "vaartkapoen",
       "ScraperName": "vaartkapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 22,
+      "TotalEvents": 23,
       "ErrorCount": 0,
-      "WarningCount": 22,
+      "WarningCount": 23,
       "Issues": [],
       "EventDetails": [
         {
@@ -8084,9 +8175,9 @@
           ]
         },
         {
-          "EventTitle": "SOLD OUT! La Jungle",
+          "EventTitle": "La Jungle",
           "EventDate": "2026-04-27T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/sold-out-la-jungle",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/la-jungle",
           "Issues": [
             {
               "Field": "DateString",
@@ -8214,6 +8305,19 @@
           ]
         },
         {
+          "EventTitle": "FAVE",
+          "EventDate": "2026-05-29T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/fave",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29T22:00:00Z"
+            }
+          ]
+        },
+        {
           "EventTitle": "Kazdoura",
           "EventDate": "2026-06-02T22:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/kazdoura",
@@ -8310,7 +8414,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 37,
+      "TotalEvents": 38,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
