@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-10T05:00:00.3169819Z",
-  "ValidatedAt": "2026-04-10T05:00:00.3169821Z",
+  "GeneratedAt": "2026-04-11T05:00:00.3151041Z",
+  "ValidatedAt": "2026-04-11T05:00:00.3151041Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1424,
+  "TotalEvents": 1422,
   "TotalErrors": 0,
-  "TotalWarnings": 626,
+  "TotalWarnings": 625,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -25,32 +25,6 @@
       "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "UM! + GAIKO",
-          "EventDate": "2026-04-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/um/a10Qw00000BmwWPIAZ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stone + Garage Flower",
-          "EventDate": "2026-04-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/stone/a10Qw00000BDYC1IAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Stavroz + Mâhfoud",
           "EventDate": "2026-04-11T00:00:00.0000000",
@@ -455,9 +429,9 @@
           ]
         },
         {
-          "EventTitle": "Dekker",
+          "EventTitle": "TJE + Sickboykc",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -468,9 +442,9 @@
           ]
         },
         {
-          "EventTitle": "TJE + Sickboykc",
+          "EventTitle": "Dekker",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
           "Issues": [
             {
               "Field": "DateString",
@@ -572,9 +546,9 @@
           ]
         },
         {
-          "EventTitle": "Seefeel",
+          "EventTitle": "Triggerfinger + Hideous",
           "EventDate": "2026-04-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/seefeel/a10Qw00000ELgCIIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/triggerfinger/a10Qw000009UZkjIAG",
           "Issues": [
             {
               "Field": "DateString",
@@ -585,9 +559,9 @@
           ]
         },
         {
-          "EventTitle": "Triggerfinger + Hideous",
+          "EventTitle": "Seefeel",
           "EventDate": "2026-04-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/triggerfinger/a10Qw000009UZkjIAG",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/seefeel/a10Qw00000ELgCIIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -689,9 +663,9 @@
           ]
         },
         {
-          "EventTitle": "Fischer-Z",
+          "EventTitle": "Orcutt Shelley Miller",
           "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/fischer-z/a10Qw000009YLhaIAG",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/orcutt-shelley-miller/a10Qw00000EIbYxIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -702,9 +676,9 @@
           ]
         },
         {
-          "EventTitle": "Orcutt Shelley Miller",
+          "EventTitle": "Fischer-Z",
           "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/orcutt-shelley-miller/a10Qw00000EIbYxIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/fischer-z/a10Qw000009YLhaIAG",
           "Issues": [
             {
               "Field": "DateString",
@@ -1014,6 +988,19 @@
           ]
         },
         {
+          "EventTitle": "AB x VK: La Dame Blanche",
+          "EventDate": "2026-05-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ab-x-vk-la-dame-blanche/a10Qw00000I3qe1IAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "SIENNA SPIRO",
           "EventDate": "2026-05-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/sienna-spiro/a10Qw00000FcvizIAB",
@@ -1075,6 +1062,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-26T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-05-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Masterclass met Lander Gyselinck",
+          "EventDate": "2026-05-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/masterclass-met-lander-gyselinck/a10Qw00000BQuWUIA1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-27T00:00:00.0000000"
             }
           ]
         },
@@ -2397,7 +2397,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 136,
+      "TotalEvents": 135,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2622,9 +2622,9 @@
           ]
         },
         {
-          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
+          "EventTitle": "Das Pop",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
           "Issues": [
             {
               "Field": "DateString",
@@ -2635,9 +2635,9 @@
           ]
         },
         {
-          "EventTitle": "Das Pop",
+          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
           "Issues": [
             {
               "Field": "DateString",
@@ -3389,9 +3389,9 @@
       "ScraperId": "aff",
       "ScraperName": "affScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 8,
+      "TotalEvents": 9,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 9,
       "Issues": [],
       "EventDetails": [
         {
@@ -3495,6 +3495,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-19'.",
               "Severity": 1,
               "ActualValue": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jah Wobble plays Metal Box - Rebuilt in Dub",
+          "EventDate": "2026-11-25",
+          "EventUrl": "https://aff.be/events/jahwobble/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-25"
             }
           ]
         }
@@ -5004,6 +5017,19 @@
           ]
         },
         {
+          "EventTitle": "Death Before Disco",
+          "EventDate": "2026-06-11T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/258-death-before-disco/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-11T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Marbled Eye",
           "EventDate": "2026-06-18T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/251-marbled-eye/",
@@ -5041,19 +5067,6 @@
               "ActualValue": "2026-06-30T00:00:00"
             }
           ]
-        },
-        {
-          "EventTitle": "MOVING MOTION: Expo 50 Jaar Leffingeleuren",
-          "EventDate": "2026-08-30T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/257-expo-50-jaar-leffingeleuren/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-30T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-30T00:00:00"
-            }
-          ]
         }
       ]
     },
@@ -5061,24 +5074,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 74,
+      "TotalEvents": 73,
       "ErrorCount": 0,
-      "WarningCount": 74,
+      "WarningCount": 73,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "10 Years GANK w/ Rødhåd, Beste Hira & KADANS",
-          "EventDate": "2026-04-10",
-          "EventUrl": "https://www.democrazy.be/agenda/3138-10-years-gank-w-r-dhad-beste-hira-kadans/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-10'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-10"
-            }
-          ]
-        },
         {
           "EventTitle": "Rival Consoles - + Sasja",
           "EventDate": "2026-04-16",
@@ -8104,24 +8104,11 @@
       "ScraperId": "vaartkapoen",
       "ScraperName": "vaartkapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 23,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Disco Arabesquo Weekender - dag 1",
-          "EventDate": "2026-04-09T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/disco-arabesquo-weekender-dag-1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-09T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Disco Arabesquo Weekender - dag 2",
           "EventDate": "2026-04-10T22:00:00Z",
@@ -8149,9 +8136,9 @@
           ]
         },
         {
-          "EventTitle": "[NOUVELLE DATE] Demi Portion",
+          "EventTitle": "[CANCELLED] Demi Portion",
           "EventDate": "2026-04-23T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/nouvelle-date-demi-portion",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/cancelled-demi-portion",
           "Issues": [
             {
               "Field": "DateString",
@@ -8292,9 +8279,9 @@
           ]
         },
         {
-          "EventTitle": "La Dame Blanche",
+          "EventTitle": "AB x VK La Dame Blanche",
           "EventDate": "2026-05-20T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/la-dame-blanche",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/ab-x-vk-la-dame-blanche",
           "Issues": [
             {
               "Field": "DateString",
