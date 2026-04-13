@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-12T05:00:01.7136127Z",
-  "ValidatedAt": "2026-04-12T05:00:01.7136128Z",
+  "GeneratedAt": "2026-04-13T05:00:00.4015408Z",
+  "ValidatedAt": "2026-04-13T05:00:00.4015409Z",
   "TotalScrapers": 27,
-  "TotalEvents": 1377,
+  "TotalEvents": 1399,
   "TotalErrors": 0,
-  "TotalWarnings": 619,
+  "TotalWarnings": 616,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,24 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 180,
+      "TotalEvents": 179,
       "ErrorCount": 0,
-      "WarningCount": 180,
+      "WarningCount": 179,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Valery Meladze",
-          "EventDate": "2026-04-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/valery-meladze/a10Qw000009CApeIAG",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-12T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "KULTURA: Documentary Screening",
           "EventDate": "2026-04-13T00:00:00.0000000",
@@ -2371,7 +2358,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 131,
+      "TotalEvents": 129,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2421,24 +2408,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Tool Experience (fka The Perfect Tool) - USA Tool Tribute + CARNEIA",
-          "EventDate": "2026-04-12T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-tool-experience",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-12T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "GIFT + YUMA",
           "EventDate": "2026-04-13T00:00:00.0000000",
@@ -2661,19 +2635,6 @@
           ]
         },
         {
-          "EventTitle": "Svalbard + Rulder",
-          "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
           "EventDate": "2026-05-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
@@ -2687,9 +2648,22 @@
           ]
         },
         {
-          "EventTitle": "Great Lake Swimmers",
+          "EventTitle": "Svalbard + Rulder",
+          "EventDate": "2026-05-10T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Arsenal - Try-out",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
           "Issues": [
             {
               "Field": "DateString",
@@ -2700,9 +2674,9 @@
           ]
         },
         {
-          "EventTitle": "Arsenal - Try-out",
+          "EventTitle": "Great Lake Swimmers",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
           "Issues": [
             {
               "Field": "DateString",
@@ -3484,19 +3458,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Parkplatz",
-          "EventDate": "2026-04-12T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-12T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Fledermaus Forever",
           "EventDate": "2026-04-14T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/fledermaus-forever",
@@ -3601,6 +3562,19 @@
           ]
         },
         {
+          "EventTitle": "Parkplatz",
+          "EventDate": "2026-06-17T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Testament",
           "EventDate": "2026-09-09T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
@@ -3619,9 +3593,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 32,
+      "TotalEvents": 31,
       "ErrorCount": 0,
-      "WarningCount": 32,
+      "WarningCount": 31,
       "Issues": [],
       "EventDetails": [
         {
@@ -3647,19 +3621,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-01'.",
               "Severity": 1,
               "ActualValue": "2026-04-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Arte Amanti",
-          "EventDate": "2026-04-12",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/arte-amanti/9795/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-12'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-12"
             }
           ]
         },
@@ -3924,19 +3885,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
-            }
-          ]
-        },
-        {
           "EventTitle": "New Life Academy",
           "EventDate": "2026-05-23",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/new-life-academy/8614/",
@@ -3946,6 +3894,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-23'.",
               "Severity": 1,
               "ActualValue": "2026-05-23"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Peter Lievens",
+          "EventDate": "2026-05-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08"
             }
           ]
         },
@@ -4832,7 +4793,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 106,
+      "TotalEvents": 105,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7992,7 +7953,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 188,
+      "TotalEvents": 186,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8029,7 +7990,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 15,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
