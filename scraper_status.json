@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-05-2026.json",
         "FilePath": "events/concerts/ab/ab-05-2026.json",
-        "Hash": "16a543e9df5072ed1bc951e459d32db2a7827f5089deae95b1c62eb220a9006e",
+        "Hash": "0f5b2143f88f347ac9c9e84992ca10bfd74e6031db475fdf8f59bf4da232c95e",
         "EventCount": 45,
         "Status": "Success",
         "ErrorMessage": null
@@ -71,7 +71,7 @@
         "Year": 2026,
         "FileName": "ab-10-2026.json",
         "FilePath": "events/concerts/ab/ab-10-2026.json",
-        "Hash": "f458bd134d87355de9e4121682e5158a7ad3b67cf7b8ce4faf83792ede8b37e7",
+        "Hash": "4cd7add03169e16ab970a0c3a8ef534dcb7bc5d4fa044d772be76bc6a72def73",
         "EventCount": 23,
         "Status": "Success",
         "ErrorMessage": null
@@ -139,11 +139,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:08.8752737Z",
-    "StartedAt": "2026-04-14T14:00:00.265031Z",
-    "FinishedAt": "2026-04-14T14:00:08.8752698Z",
+    "RunTime": "2026-04-14T18:00:08.8006321Z",
+    "StartedAt": "2026-04-14T18:00:00.4115172Z",
+    "FinishedAt": "2026-04-14T18:00:08.8005419Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "New date: MICHA",
+        "DateString": "2026-10-17T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/new-date-micha/a10Qw00000E8tYjIAJ",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000HUrwLMAT_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Dutch singer-songwriter presents debut album",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "AffScraper",
@@ -205,24 +218,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:04.8394268Z",
-    "StartedAt": "2026-04-14T14:00:00.2663357Z",
-    "FinishedAt": "2026-04-14T14:00:04.839424Z",
+    "RunTime": "2026-04-14T18:00:02.6442Z",
+    "StartedAt": "2026-04-14T18:00:00.4121517Z",
+    "FinishedAt": "2026-04-14T18:00:02.6441946Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
-    "NewEvents": [
-      {
-        "Title": "Widowspeak",
-        "DateString": "2026-12-11",
-        "Url": "https://aff.be/events/widowspeak/",
-        "ImageUrl": "https://aff.be/media/2026/04/AFF26_Widowspeak_sweb-scaled.jpg",
-        "Location": "Genk",
-        "Description": "Widowspeak, het indie\u00ADrockduo rond Molly Hamilton en Robert Earl Thomas, is al meer dan vijftien jaar een vaste waarde binnen [\u2026]",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9655",
-        "Longitude": "5.5001"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "BotaniqueScraper",
@@ -236,7 +236,7 @@
         "Year": 2026,
         "FileName": "botanique-04-2026.json",
         "FilePath": "events/concerts/botanique/botanique-04-2026.json",
-        "Hash": "f1c97c12db0eb9bacdf655da60a2f422beabbf6a2ee2fe1081dbbf109831208b",
+        "Hash": "1b7030256bf12b4ebb69afdee21cbe97c8cd9fffc857ae1376d808a5cc003d26",
         "EventCount": 42,
         "Status": "Success",
         "ErrorMessage": null
@@ -334,24 +334,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:30.6385321Z",
-    "StartedAt": "2026-04-14T14:00:00.2677928Z",
-    "FinishedAt": "2026-04-14T14:00:30.6385285Z",
+    "RunTime": "2026-04-14T18:00:16.8089149Z",
+    "StartedAt": "2026-04-14T18:00:00.4127497Z",
+    "FinishedAt": "2026-04-14T18:00:16.8089102Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": [
-      {
-        "Title": "Temples",
-        "DateString": "2026-11-05T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/temples-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-04/temples.jpg?itok=ICQk7GLd",
-        "Location": "Botanique, Brussels",
-        "Description": "",
-        "Room": "Museum",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -365,7 +352,7 @@
         "Year": 2026,
         "FileName": "cactus-04-2026.json",
         "FilePath": "events/concerts/cactus/cactus-04-2026.json",
-        "Hash": "ac8c17a0e39227df11fb81b026665cfc6cb69c088ac7d55d336c0895b0abe049",
+        "Hash": "427a7a62e94f4a6f8a4fe280b672fc63e19bd545b4ac384e8d29eeb25287b35e",
         "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
@@ -375,7 +362,7 @@
         "Year": 2026,
         "FileName": "cactus-05-2026.json",
         "FilePath": "events/concerts/cactus/cactus-05-2026.json",
-        "Hash": "536cddd9fc0d710b4f6bb7bf5dcf30238e4833937451b0d1fdcf75221a3b806a",
+        "Hash": "2c76389683be2d6eb4a1072f77ffd855f47e57c74f33579b98dad5ed4daa3c9b",
         "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
@@ -443,9 +430,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:01.0296002Z",
-    "StartedAt": "2026-04-14T14:00:00.2684219Z",
-    "FinishedAt": "2026-04-14T14:00:01.0292536Z",
+    "RunTime": "2026-04-14T18:00:01.3735341Z",
+    "StartedAt": "2026-04-14T18:00:00.4138244Z",
+    "FinishedAt": "2026-04-14T18:00:01.3735291Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -559,9 +546,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:01.4761529Z",
-    "StartedAt": "2026-04-14T14:00:00.2685357Z",
-    "FinishedAt": "2026-04-14T14:00:01.4761485Z",
+    "RunTime": "2026-04-14T18:00:01.7259346Z",
+    "StartedAt": "2026-04-14T18:00:00.4143209Z",
+    "FinishedAt": "2026-04-14T18:00:01.7259305Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -665,24 +652,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:04.1318918Z",
-    "StartedAt": "2026-04-14T14:00:00.2686304Z",
-    "FinishedAt": "2026-04-14T14:00:04.105187Z",
+    "RunTime": "2026-04-14T18:00:01.0569108Z",
+    "StartedAt": "2026-04-14T18:00:00.4146405Z",
+    "FinishedAt": "2026-04-14T18:00:01.0569062Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": [
-      {
-        "Title": "Tanya Donelly \u0026 Chris Brokaw",
-        "DateString": "2026-11-12",
-        "Url": "https://www.democrazy.be/agenda/3197-tanya-donelly-chris-brokaw/",
-        "ImageUrl": "https://www.democrazy.be/media/thumb/35513-tanya-donelly-chris-brokaw-c-ben-stas.jpg",
-        "Location": "Kunsthal Gent",
-        "Description": "Twee iconen uit de Amerikaanse indie en alternatieve sc\u00E8ne, Tanya Donelly en Chris Brokaw, slaan de brug tussen renaissance en hedendaagse songwriting.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0587825",
-        "Longitude": "3.7217775"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeRomaScraper",
@@ -696,7 +670,7 @@
         "Year": 2026,
         "FileName": "deroma-04-2026.json",
         "FilePath": "events/concerts/deroma/deroma-04-2026.json",
-        "Hash": "0ef74cfdc147534982f24a6e25d6b118963187a8f229a35b19f8037fcfc045b2",
+        "Hash": "dd975d007aabf6fe2a45a0b285466b77bb0f53a0cc55857634533d1f0e17a403",
         "EventCount": 15,
         "Status": "Success",
         "ErrorMessage": null
@@ -804,9 +778,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:04.4957081Z",
-    "StartedAt": "2026-04-14T14:00:00.268703Z",
-    "FinishedAt": "2026-04-14T14:00:04.4957062Z",
+    "RunTime": "2026-04-14T18:00:05.6696203Z",
+    "StartedAt": "2026-04-14T18:00:00.4148679Z",
+    "FinishedAt": "2026-04-14T18:00:05.6695989Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -819,9 +793,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:01.0884684Z",
-    "StartedAt": "2026-04-14T14:00:00.2697364Z",
-    "FinishedAt": "2026-04-14T14:00:01.0884667Z",
+    "RunTime": "2026-04-14T18:00:00.9223124Z",
+    "StartedAt": "2026-04-14T18:00:00.4156456Z",
+    "FinishedAt": "2026-04-14T18:00:00.9223105Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -865,9 +839,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:01.0953249Z",
-    "StartedAt": "2026-04-14T14:00:00.2698256Z",
-    "FinishedAt": "2026-04-14T14:00:01.09532Z",
+    "RunTime": "2026-04-14T18:00:00.8477717Z",
+    "StartedAt": "2026-04-14T18:00:00.416022Z",
+    "FinishedAt": "2026-04-14T18:00:00.8477675Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -991,9 +965,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:03.3896122Z",
-    "StartedAt": "2026-04-14T14:00:00.2699011Z",
-    "FinishedAt": "2026-04-14T14:00:03.3896083Z",
+    "RunTime": "2026-04-14T18:00:01.6613569Z",
+    "StartedAt": "2026-04-14T18:00:00.4162892Z",
+    "FinishedAt": "2026-04-14T18:00:01.6613528Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1047,9 +1021,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:02.8332807Z",
-    "StartedAt": "2026-04-14T14:00:00.2699798Z",
-    "FinishedAt": "2026-04-14T14:00:02.8332765Z",
+    "RunTime": "2026-04-14T18:00:01.349903Z",
+    "StartedAt": "2026-04-14T18:00:00.4180893Z",
+    "FinishedAt": "2026-04-14T18:00:01.3498987Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -1062,9 +1036,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:02.9913662Z",
-    "StartedAt": "2026-04-14T14:00:00.2700578Z",
-    "FinishedAt": "2026-04-14T14:00:02.9913613Z",
+    "RunTime": "2026-04-14T18:00:00.8130508Z",
+    "StartedAt": "2026-04-14T18:00:00.418879Z",
+    "FinishedAt": "2026-04-14T18:00:00.8130453Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1073,7 +1047,7 @@
     "VenueId": "hetdepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 67,
+    "TotalEventsFound": 68,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -1164,22 +1138,45 @@
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 4,
+        "Year": 2027,
+        "FileName": "hetdepot-04-2027.json",
+        "FilePath": "events/concerts/hetdepot/hetdepot-04-2027.json",
+        "Hash": "abbdf92de9ff86a4371e09b9ae0f33cbf908cadd2ff3a1286fbd59f4d8e9df43",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:28.4397018Z",
-    "StartedAt": "2026-04-14T14:00:00.2701972Z",
-    "FinishedAt": "2026-04-14T14:00:28.4396977Z",
+    "RunTime": "2026-04-14T18:00:26.1102404Z",
+    "StartedAt": "2026-04-14T18:00:00.4195081Z",
+    "FinishedAt": "2026-04-14T18:00:26.1102383Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Jan Verheyen \u0027Het Beste Van Het Slechtste\u0027",
+        "DateString": "2027-04-14T20:00:00",
+        "Url": "https://www.hetdepot.be/concert/2027/jan-verheyen",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF000011IgEDYA0_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=63bPvDuq",
+        "Location": "Het Depot, Leuven",
+        "Description": "Een wonderlijke reis door de meest bizarre, ronduit onnozele mislukkingen uit de filmgeschiedenis.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.7138"
+      }
+    ]
   },
   {
     "ScraperName": "N9Scraper",
     "VenueId": "n9",
     "VenueName": "N9, Eeklo",
     "Category": "Concerts",
-    "TotalEventsFound": 17,
+    "TotalEventsFound": 18,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -1226,8 +1223,8 @@
         "Year": 2026,
         "FileName": "n9-08-2026.json",
         "FilePath": "events/concerts/n9/n9-08-2026.json",
-        "Hash": "2451acfa8210cbe4cb8a8273873f27d48de0e35a54b55a49a8672c1b254bdcc2",
-        "EventCount": 2,
+        "Hash": "31e67f1c1cc9053427328b891a7d661b4984afa4401f471ce7f5bd453d814e59",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1254,11 +1251,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:03.3966632Z",
-    "StartedAt": "2026-04-14T14:00:00.2702783Z",
-    "FinishedAt": "2026-04-14T14:00:03.3966591Z",
+    "RunTime": "2026-04-14T18:00:03.8356458Z",
+    "StartedAt": "2026-04-14T18:00:00.4203748Z",
+    "FinishedAt": "2026-04-14T18:00:03.8316686Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "HERBAKKERSFESTIVAL: DAS POP \u2014 07-08-2026",
+        "DateString": "2026-08-07T17:00:00\u002B02:00",
+        "Url": "https://www.n9.be/agenda/5168-herbakkersfestival-das-pop/",
+        "ImageUrl": "https://www.n9.be/media/event-large/2950-111635979herbakkersfestivaldaspop.jpg",
+        "Location": "Herbakkersfestival",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1841546",
+        "Longitude": "3.581504099999999"
+      }
+    ]
   },
   {
     "ScraperName": "RivierenhofScraper",
@@ -1300,217 +1310,37 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:06.4874018Z",
-    "StartedAt": "2026-04-14T14:00:00.2703473Z",
-    "FinishedAt": "2026-04-14T14:00:06.4873975Z",
+    "RunTime": "2026-04-14T18:00:03.7542642Z",
+    "StartedAt": "2026-04-14T18:00:00.4216029Z",
+    "FinishedAt": "2026-04-14T18:00:03.7542597Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
-    "NewEvents": [
-      {
-        "Title": "\u00C3o, ECHT!, Lander \u0026 Adriaan",
-        "DateString": "2026-07-19",
-        "Url": "https://www.oltrivierenhof.be/nl/programma/ao-echt-lander-adriaan/a0NP500000NtrHsMAJ",
-        "ImageUrl": "https://lab.digital-asset.app/A6klXzg7Nw",
-        "Location": "OLT Rivierenhof",
-        "Description": "Contrair Open Air is terug! Dit keer viert het festival z\u0026#39;n vijfde verjaardag zoals het hoort: groter, euforischer en met nog meer plek om te dansen. Op 18 \u0026amp; 19 juli 2026...",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.2151",
-        "Longitude": "4.4707"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "TrixScraper",
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 30,
+    "TotalEventsFound": 15,
     "MonthlyFiles": [
       {
         "Month": 4,
         "Year": 2026,
         "FileName": "trix-04-2026.json",
         "FilePath": "events/concerts/trix/trix-04-2026.json",
-        "Hash": "98a54fd02ef5133cc9fdf03655f15b1248b923bfba9b7cfa4572f5e102ac33d2",
-        "EventCount": 17,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
-        "Month": 5,
-        "Year": 2026,
-        "FileName": "trix-05-2026.json",
-        "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "2efbbf556b1070ac56071319612a811f3794d7e70c5ed906546a15d19db9532f",
-        "EventCount": 13,
+        "Hash": "1c9a39f648c433a3c97cd10a1059a8ab0a52712314955deacc37aa940d0dc830",
+        "EventCount": 15,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:04.5495716Z",
-    "StartedAt": "2026-04-14T14:00:00.2704186Z",
-    "FinishedAt": "2026-04-14T14:00:04.5384341Z",
+    "RunTime": "2026-04-14T18:00:01.6388918Z",
+    "StartedAt": "2026-04-14T18:00:00.4219237Z",
+    "FinishedAt": "2026-04-14T18:00:01.638888Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
-    "NewEvents": [
-      {
-        "Title": "L.A. Sagne / HIFIVE CONCERT",
-        "DateString": "2026-04-29T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/la-sagne/4067/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/lasagnewebsite.png",
-        "Location": "Trix",
-        "Description": "L.A. SAGNE bruist, schreeuwt, heeft lief en laat alles bewegen met hun rauwe, melodische punk, dystopische gitaren en onweerstaanbare live-energie.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Oproer / Floris Francis Arthur",
-        "DateString": "2026-04-29T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/oproer/4071/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/260429-oproerwebsite.png",
-        "Location": "Trix",
-        "Description": "OPROER: waar dansbare energie, rauwe emotie en onweerstaanbare riffs samenkomen tot een eigenzinnig indie-universum.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Youniss / \u0194AZAL",
-        "DateString": "2026-05-01T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/youniss/4062/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/260501-younisswebsite.png",
-        "Location": "Trix",
-        "Description": "Youniss Ahamad mixt post-punk, hiphop en noise tot een intens en onbevreesd geluid, waarin hij op Good Effort! de stad, gentrificatie en onverwachte zachte momenten verkent.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Teteo",
-        "DateString": "2026-05-01T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/teteo/4120/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/teteowebsite.png",
-        "Location": "Trix",
-        "Description": "Op 1 mei wordt Trix omgetoverd tot een Dominicaans dansfeest!",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Mojo \u0026 The Kitchen Brothers invites / Heath / TEMPLE FANG",
-        "DateString": "2026-05-02T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/mojo-the-kitchen-brothers-invites/4116/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/mojowebsite.png",
-        "Location": "Trix",
-        "Description": "Mojo \u0026 The Kitchen Brothers nemen de touwtjes in handen en cureren een avond vol nieuwe muziek. Ze halen met Heath en Temple Fang twee absolute topbands naar Trix voor een avond die het Belgische publiek hoog boven de stad laat zweven.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Public Image Ltd.",
-        "DateString": "2026-05-05T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/public-image-ltd/4054/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/public-image.png",
-        "Location": "Trix",
-        "Description": "John Lydons legendarische band Public Image Ltd. (PiL) strijkt dit voorjaar neer in Belgi\u00EB voor een exclusieve show in Trix!",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Peter Bjorn and John",
-        "DateString": "2026-05-06T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/peter-bjorn-and-john/4016/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Het Zweedse indie-poptrio Peter Bjorn and John keert terug om 20 jaar Writer\u2019s Block te vieren, met tijdloze hits zoals Young Folks, fluitjes en hun kenmerkende Zweedse charme.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Caf\u00E9 Kelder: Yuma \u002B Pplum \u002B Balek",
-        "DateString": "2026-05-06T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/cafe-kelder-yuma-pplum-balek/4141/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Tijdens Caf\u00E9 Kelder krijgen muzikanten vanuit onze repetitiekoten vrij spel in ons caf\u00E9!",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Das Pop",
-        "DateString": "2026-05-07T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/das-pop/4055/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Das Pop is terug na meer dan veertien jaar, met frisse energie, nieuwe muziek en hun onweerstaanbare, catchy sound.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Way Dynamic / HIFIVE CONCERT",
-        "DateString": "2026-05-07T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/way-dynamic/4082/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Way Dynamic maakt moderne indie-folk en art-rock met po\u00EBtische teksten, inventieve arrangementen en meeslepende live-optredens.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Doodseskader / Luie Louis",
-        "DateString": "2026-05-08T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/doodseskader/4069/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "DOODSESKADER serveert een explosieve, genrebrekende mix van witch house, hiphop, industrial dream pop en stadionrock, en slaat in april met The Change Is Me een nieuwe weg in.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Oski",
-        "DateString": "2026-05-09T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/oski/4041/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/oskiwebsite.png",
-        "Location": "Trix",
-        "Description": "",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Nightstalker / Witch Piss / Throatsnapper / Soul Diet",
-        "DateString": "2026-05-09T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/nightstalker/4094/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Sinds 1989 mixt het Griekse Nightstalker heavy rock en psychedelische grooves tot een rauwe, compromisloze sound.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "VaartKapoenScraper",
@@ -1572,9 +1402,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:06.4806828Z",
-    "StartedAt": "2026-04-14T14:00:00.2705059Z",
-    "FinishedAt": "2026-04-14T14:00:06.4806787Z",
+    "RunTime": "2026-04-14T18:00:06.4865044Z",
+    "StartedAt": "2026-04-14T18:00:00.4222737Z",
+    "FinishedAt": "2026-04-14T18:00:06.4865003Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -1668,24 +1498,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:01:08.7202837Z",
-    "StartedAt": "2026-04-14T14:00:00.2705822Z",
-    "FinishedAt": "2026-04-14T14:01:08.720227Z",
+    "RunTime": "2026-04-14T18:01:03.3305565Z",
+    "StartedAt": "2026-04-14T18:00:00.4225681Z",
+    "FinishedAt": "2026-04-14T18:01:03.3305525Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
-    "NewEvents": [
-      {
-        "Title": "WIDOWSPEAK",
-        "DateString": "2026-12-10T19:30:00\u002B0100",
-        "Url": "https://www.wildewesten.be/nl/event/widowspeak",
-        "ImageUrl": "https://www.wildewesten.be/media/cache/default_uitdatabank/upload/media/default/4ad0/dd/9b44aaee21b0279826f98f99481f454102740d19.jpg",
-        "Location": "De Kreun Caf\u00E9",
-        "Description": "Tickets in verkoop vanaf 17/04, 10u!Widowspeak is een van de meest productieve en toegewijde bands van het moment, altijd net onder de radar maar voortdurend in beweging. De kern wordt gevormd door Molly Hamilton en Robert Earl Thomas, die als songwriters hun geluid in de voorbije zestien jaar hebben verfijnd tot een opvallend consistent en herkenbaar geheel.De kracht van de band schuilt nog steeds in de subtiele wisselwerking tussen die twee: Molly\u2019s dromerige, gelaagde stem en Roberts directe, doorvoelde gitaarspel. Als producer weet hij bovendien perfect die vluchtige studiochemie te vangen, wanneer een nummer zich als het ware ter plekke ontvouwt. Je hoort nog altijd de spontaniteit van Molly\u2019s stemmemo\u2019s en de rijke gitaarlagen uit de demo\u2019s terug, met hier en daar bewust behouden rafelrandjes en ruis die het geheel zijn karakter geven.Op Roses, het zevende en nieuwste album van de band, verkennen tien nummers de kleine en grote momenten van de liefde, bekeken door een zachte, nostalgische lens. Widowspeak raakt aan grote emoties zonder zwaar te worden: de zoete, soms licht absurde intensiteit van verliefdheid die alles overheerst, bijna als een meeslepende stationsroman. Hun muziek balanceert moeiteloos tussen naturel en noir, tussen sober en weelderig. Widowspeak weet als geen ander hoe je sfeer neerzet.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8249",
-        "Longitude": "3.2617"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "WintercircusScraper",
@@ -1777,9 +1594,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:01.7734065Z",
-    "StartedAt": "2026-04-14T14:00:00.2707133Z",
-    "FinishedAt": "2026-04-14T14:00:01.7733919Z",
+    "RunTime": "2026-04-14T18:00:01.1138741Z",
+    "StartedAt": "2026-04-14T18:00:00.4228526Z",
+    "FinishedAt": "2026-04-14T18:00:01.1138702Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   },
@@ -1813,60 +1630,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:02.9339157Z",
-    "StartedAt": "2026-04-14T14:00:00.2707958Z",
-    "FinishedAt": "2026-04-14T14:00:02.9339122Z",
+    "RunTime": "2026-04-14T18:00:01.8736692Z",
+    "StartedAt": "2026-04-14T18:00:00.4231542Z",
+    "FinishedAt": "2026-04-14T18:00:01.8736641Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
-    "NewEvents": [
-      {
-        "Title": "De Jossen",
-        "DateString": "2026-04-23",
-        "Url": "https://www.cczoetegem.be/programma/de-jossen.aspx",
-        "ImageUrl": "https://www.cczoetegem.be/resources/internal/file_views/409/1_de jossen.png",
-        "Location": "Zottegem",
-        "Description": "Welkom in het rijk van de Jossen \u2014 een wereld waar iedereen gelijk is, tot iemand dat niet meer wil zijn.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8642",
-        "Longitude": "3.8103"
-      },
-      {
-        "Title": "Vogels voor de kat",
-        "DateString": "2026-04-23",
-        "Url": "https://www.cczoetegem.be/programma/vogels-voor-de-kat-.aspx",
-        "ImageUrl": "https://www.cczoetegem.be/resources/internal/file_views/411/1_vogels.png",
-        "Location": "Zottegem",
-        "Description": "Marie en James, politieagente en professor, zijn jonge dertigers die vastzitten in een uitgebluste relatie. Toch houdt iets hen tegen om uit elkaar te gaan.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8642",
-        "Longitude": "3.8103"
-      },
-      {
-        "Title": "De Jossen",
-        "DateString": "2026-04-24",
-        "Url": "https://www.cczoetegem.be/programma/de-jossen-2.aspx",
-        "ImageUrl": "https://www.cczoetegem.be/resources/internal/file_views/410/1_de jossen.png",
-        "Location": "Zottegem",
-        "Description": "Welkom in het rijk van de Jossen \u2014 een wereld waar iedereen gelijk is, tot iemand dat niet meer wil zijn.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8642",
-        "Longitude": "3.8103"
-      },
-      {
-        "Title": "Vogels voor de kat",
-        "DateString": "2026-04-24",
-        "Url": "https://www.cczoetegem.be/programma/vogels-voor-de-kat--2.aspx",
-        "ImageUrl": "https://www.cczoetegem.be/resources/internal/file_views/412/1_vogels.png",
-        "Location": "Zottegem",
-        "Description": "Marie en James, politieagente en professor, zijn jonge dertigers die vastzitten in een uitgebluste relatie. Toch houdt iets hen tegen om uit elkaar te gaan.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8642",
-        "Longitude": "3.8103"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CultuurhuisMerelbekeScraper",
@@ -1877,9 +1645,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:06.5904708Z",
-    "StartedAt": "2026-04-14T14:00:00.2708683Z",
-    "FinishedAt": "2026-04-14T14:00:06.5904656Z",
+    "RunTime": "2026-04-14T18:00:05.1773097Z",
+    "StartedAt": "2026-04-14T18:00:00.4234203Z",
+    "FinishedAt": "2026-04-14T18:00:05.1772954Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -1923,9 +1691,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:03.8013385Z",
-    "StartedAt": "2026-04-14T14:00:00.270935Z",
-    "FinishedAt": "2026-04-14T14:00:03.8013331Z",
+    "RunTime": "2026-04-14T18:00:02.8546548Z",
+    "StartedAt": "2026-04-14T18:00:00.4236776Z",
+    "FinishedAt": "2026-04-14T18:00:02.8546506Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -2009,9 +1777,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:05.0160856Z",
-    "StartedAt": "2026-04-14T14:00:00.2710109Z",
-    "FinishedAt": "2026-04-14T14:00:05.0160815Z",
+    "RunTime": "2026-04-14T18:00:03.7988417Z",
+    "StartedAt": "2026-04-14T18:00:00.4239569Z",
+    "FinishedAt": "2026-04-14T18:00:03.7988378Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -2045,9 +1813,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:02.433695Z",
-    "StartedAt": "2026-04-14T14:00:00.2711472Z",
-    "FinishedAt": "2026-04-14T14:00:02.4336908Z",
+    "RunTime": "2026-04-14T18:00:01.6604285Z",
+    "StartedAt": "2026-04-14T18:00:00.4242694Z",
+    "FinishedAt": "2026-04-14T18:00:01.660423Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -2071,9 +1839,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:01.0582694Z",
-    "StartedAt": "2026-04-14T14:00:00.2712354Z",
-    "FinishedAt": "2026-04-14T14:00:01.0578803Z",
+    "RunTime": "2026-04-14T18:00:01.3445255Z",
+    "StartedAt": "2026-04-14T18:00:00.4245341Z",
+    "FinishedAt": "2026-04-14T18:00:01.3445189Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -2097,9 +1865,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:00.9191298Z",
-    "StartedAt": "2026-04-14T14:00:00.2713109Z",
-    "FinishedAt": "2026-04-14T14:00:00.9191242Z",
+    "RunTime": "2026-04-14T18:00:01.0607643Z",
+    "StartedAt": "2026-04-14T18:00:00.424788Z",
+    "FinishedAt": "2026-04-14T18:00:01.0607578Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -2153,9 +1921,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:01:24.956381Z",
-    "StartedAt": "2026-04-14T14:00:00.2713864Z",
-    "FinishedAt": "2026-04-14T14:01:24.9563768Z",
+    "RunTime": "2026-04-14T18:00:54.2572837Z",
+    "StartedAt": "2026-04-14T18:00:00.4250388Z",
+    "FinishedAt": "2026-04-14T18:00:54.2572661Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -2164,7 +1932,7 @@
     "VenueId": "toneelhuis",
     "VenueName": "Toneelhuis, Antwerpen",
     "Category": "Theatre",
-    "TotalEventsFound": 186,
+    "TotalEventsFound": 185,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -2191,8 +1959,8 @@
         "Year": 2026,
         "FileName": "toneelhuis-06-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-06-2026.json",
-        "Hash": "4c118bac2f164d1b7e6d41bfda3039b42b8cd5d370615b2bbe29ca43901854f7",
-        "EventCount": 35,
+        "Hash": "8d6fdd43a3b95e942a90f5c9d85674e3e160dbfebb01c492d7b81bbf32e083e5",
+        "EventCount": 34,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2249,9 +2017,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-14T14:00:20.2122781Z",
-    "StartedAt": "2026-04-14T14:00:00.271464Z",
-    "FinishedAt": "2026-04-14T14:00:20.2122741Z",
+    "RunTime": "2026-04-14T18:00:18.4911406Z",
+    "StartedAt": "2026-04-14T18:00:00.4254016Z",
+    "FinishedAt": "2026-04-14T18:00:18.4911363Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   }
