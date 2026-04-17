@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-04-16T05:00:00.4214725Z",
-  "ValidatedAt": "2026-04-16T05:00:00.4214726Z",
+  "GeneratedAt": "2026-04-17T05:00:00.3504715Z",
+  "ValidatedAt": "2026-04-17T05:00:00.3504723Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1394,
+  "TotalEvents": 1398,
   "TotalErrors": 0,
-  "TotalWarnings": 622,
+  "TotalWarnings": 619,
   "Results": [
     {
       "ScraperId": "4ad",
       "ScraperName": "4adScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,50 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 178,
+      "TotalEvents": 179,
       "ErrorCount": 0,
-      "WarningCount": 178,
+      "WarningCount": 179,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "KULTURA: Soundscapes",
-          "EventDate": "2026-04-16T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kultura-soundscapes/a10Qw00000HPTD7IAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lancelot",
-          "EventDate": "2026-04-16T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lancelot/a10Qw00000BuNQEIA3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tsar B + gala dragot, Thomas Langlois",
-          "EventDate": "2026-04-16T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tsar-b/a10Qw000009LMbRIAW",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "GoGo Penguin + Daudi Matsiko",
           "EventDate": "2026-04-17T00:00:00.0000000",
@@ -442,9 +403,9 @@
           ]
         },
         {
-          "EventTitle": "Admiral Freebee",
+          "EventTitle": "Michelle David & The True Tones",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -455,9 +416,9 @@
           ]
         },
         {
-          "EventTitle": "Michelle David & The True Tones",
+          "EventTitle": "Admiral Freebee",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
           "Issues": [
             {
               "Field": "DateString",
@@ -572,9 +533,9 @@
           ]
         },
         {
-          "EventTitle": "Ricky Bekstok",
+          "EventTitle": "Tinariwen + Sulaf",
           "EventDate": "2026-05-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ricky-bekstok/a10Qw00000FFo0fIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tinariwen/a10Qw00000CzSenIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -585,9 +546,9 @@
           ]
         },
         {
-          "EventTitle": "Tinariwen + Sulaf",
+          "EventTitle": "Ricky Bekstok",
           "EventDate": "2026-05-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tinariwen/a10Qw00000CzSenIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ricky-bekstok/a10Qw00000FFo0fIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -689,9 +650,22 @@
           ]
         },
         {
-          "EventTitle": "Robert Jon & The Wreck + Boogie Beasts",
+          "EventTitle": "Artist in Residence Showcase: gala dragot",
+          "EventDate": "2026-05-08T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-in-residence-showcase-gala-dragot/a10Qw00000E92lkIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Doodseskader + Nemode",
           "EventDate": "2026-05-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/robert-jon-the-wreck/a10Qw000007YuOlIAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/doodseskader/a10Qw00000F4rb4IAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -702,9 +676,9 @@
           ]
         },
         {
-          "EventTitle": "Doodseskader + Nemode",
+          "EventTitle": "Robert Jon & The Wreck + Boogie Beasts",
           "EventDate": "2026-05-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/doodseskader/a10Qw00000F4rb4IAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/robert-jon-the-wreck/a10Qw000007YuOlIAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -1534,6 +1508,19 @@
           ]
         },
         {
+          "EventTitle": "Dushime presents INZOZI ZANJYE ft Cortex Ensemble",
+          "EventDate": "2026-10-04T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dushime-presents-inzozi-zanjye-ft-cortex-ensemble/a10Qw00000C60fxIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Simple Plan + Neck Deep",
           "EventDate": "2026-10-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/simple-plan/a10Qw000008x19xIAA",
@@ -1560,9 +1547,9 @@
           ]
         },
         {
-          "EventTitle": "gala dragot",
+          "EventTitle": "Courtney Barnett",
           "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -1573,9 +1560,9 @@
           ]
         },
         {
-          "EventTitle": "Courtney Barnett",
+          "EventTitle": "gala dragot",
           "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -2236,9 +2223,35 @@
           ]
         },
         {
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We zijn er mee bezig’-tour",
+          "EventDate": "2027-01-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-er-mee-bezig-tour/a10Qw00000ENyMnIAL",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Hollywood Porn Stars",
           "EventDate": "2027-01-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/hollywood-porn-stars/a10Qw00000Hf53dIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-23T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-23T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We zijn er mee bezig’-tour",
+          "EventDate": "2027-01-23T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-er-mee-bezig-tour/a10Qw00000ENyMoIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -2345,7 +2358,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 128,
+      "TotalEvents": 125,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2395,24 +2408,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Bazart - Try-out",
-          "EventDate": "2026-04-16T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bazart",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Luke Slater + Gaal + Man Outta Space",
           "EventDate": "2026-04-17T00:00:00.0000000",
@@ -2492,7 +2492,7 @@
           ]
         },
         {
-          "EventTitle": "L.A. Salami",
+          "EventTitle": "L.A. Salami + Knip Uw Haar",
           "EventDate": "2026-04-26T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/la-salami-2",
           "Issues": [
@@ -2609,19 +2609,6 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
-          "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Svalbard + Rulder",
           "EventDate": "2026-05-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
@@ -2635,9 +2622,22 @@
           ]
         },
         {
-          "EventTitle": "Great Lake Swimmers",
+          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
+          "EventDate": "2026-05-10T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Arsenal - Try-out",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
           "Issues": [
             {
               "Field": "DateString",
@@ -2648,9 +2648,9 @@
           ]
         },
         {
-          "EventTitle": "Arsenal - Try-out",
+          "EventTitle": "Great Lake Swimmers",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
           "Issues": [
             {
               "Field": "DateString",
@@ -2791,7 +2791,7 @@
           ]
         },
         {
-          "EventTitle": "Memorials",
+          "EventTitle": "Memorials + Opening Night",
           "EventDate": "2026-06-08T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/memorials",
           "Issues": [
@@ -3389,9 +3389,9 @@
       "ScraperId": "aff",
       "ScraperName": "affScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 10,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 10,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
         {
@@ -3456,6 +3456,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-08-07'.",
               "Severity": 1,
               "ActualValue": "2026-08-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Omar Souleyman",
+          "EventDate": "2026-09-11",
+          "EventUrl": "https://aff.be/events/omarsouleyman/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-11"
             }
           ]
         },
@@ -3530,24 +3543,11 @@
       "ScraperId": "cecilia",
       "ScraperName": "ceciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 10,
+      "TotalEvents": 9,
       "ErrorCount": 0,
-      "WarningCount": 10,
+      "WarningCount": 9,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Fledermaus Forever",
-          "EventDate": "2026-04-16T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/fledermaus-forever",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Opus Apparatus",
           "EventDate": "2026-04-22T00:00:00.0000000",
@@ -4056,24 +4056,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Fleddy Melculy + Rotzak",
-          "EventDate": "2026-04-16T00:00:00",
-          "EventUrl": "https://decasino.be/concert/fleddy-melculy-back-to-the-loots/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Cosmic Psychos + Good Sniff",
           "EventDate": "2026-04-17T00:00:00",
@@ -4808,7 +4795,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 104,
+      "TotalEvents": 103,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4985,37 +4972,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 76,
+      "TotalEvents": 74,
       "ErrorCount": 0,
-      "WarningCount": 76,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Rival Consoles - + Sasja",
-          "EventDate": "2026-04-16",
-          "EventUrl": "https://www.democrazy.be/agenda/3110-rival-consoles/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yong Yello: Den Bennie Tour - + LOïS",
-          "EventDate": "2026-04-16",
-          "EventUrl": "https://www.democrazy.be/agenda/3040-yong-yello-den-bennie-tour/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16"
-            }
-          ]
-        },
         {
           "EventTitle": "Doodseskader: immersive show - + LeBlanc",
           "EventDate": "2026-04-17",
@@ -8007,7 +7968,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 184,
+      "TotalEvents": 183,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8044,7 +8005,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8229,9 +8190,9 @@
           ]
         },
         {
-          "EventTitle": "AB x VK - La Dame Blanche + Erik Fernandez",
+          "EventTitle": "La Dame Blanche + Erik Fernandez | AB x VK",
           "EventDate": "2026-05-20T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/ab-x-vk-la-dame-blanche-erik-fernandez",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/la-dame-blanche-erik-fernandez-ab-x-vk",
           "Issues": [
             {
               "Field": "DateString",
@@ -8351,7 +8312,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 41,
+      "TotalEvents": 40,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8361,7 +8322,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 45,
+      "TotalEvents": 44,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
