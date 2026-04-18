@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-04-17T05:00:00.3504715Z",
-  "ValidatedAt": "2026-04-17T05:00:00.3504723Z",
+  "GeneratedAt": "2026-04-18T05:00:00.3598541Z",
+  "ValidatedAt": "2026-04-18T05:00:00.3598544Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1398,
+  "TotalEvents": 1386,
   "TotalErrors": 0,
-  "TotalWarnings": 619,
+  "TotalWarnings": 613,
   "Results": [
     {
       "ScraperId": "4ad",
       "ScraperName": "4adScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -25,19 +25,6 @@
       "WarningCount": 179,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "GoGo Penguin + Daudi Matsiko",
-          "EventDate": "2026-04-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gogo-penguin/a10Qw000007Q7GLIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "KULTURA + Tanaflow, Ekany, gxldenboy, Femifè, Tsunamy",
           "EventDate": "2026-04-17T00:00:00.0000000",
@@ -143,7 +130,7 @@
           ]
         },
         {
-          "EventTitle": "The Avener",
+          "EventTitle": "The Avener + Vhyce",
           "EventDate": "2026-04-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-avener/a10Qw00000Dz0MzIAJ",
           "Issues": [
@@ -260,9 +247,9 @@
           ]
         },
         {
-          "EventTitle": "TJE + Sickboykc",
+          "EventTitle": "Dekker",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
           "Issues": [
             {
               "Field": "DateString",
@@ -273,9 +260,9 @@
           ]
         },
         {
-          "EventTitle": "Dekker",
+          "EventTitle": "TJE + Sickboykc",
           "EventDate": "2026-04-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dekker/a10Qw000007WqPIIA0",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tje/a10Qw00000B3q8cIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -689,19 +676,6 @@
           ]
         },
         {
-          "EventTitle": "Blue",
-          "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/blue/a10Qw000009gS7ZIAU",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Florry",
           "EventDate": "2026-05-11T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/florry/a10Qw00000CzKUMIA3",
@@ -715,9 +689,22 @@
           ]
         },
         {
-          "EventTitle": "Machine head",
+          "EventTitle": "Blue",
+          "EventDate": "2026-05-11T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/blue/a10Qw000009gS7ZIAU",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tamikrest + Termal Raison",
           "EventDate": "2026-05-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/machine-head/a10Qw00000DvhiHIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tamikrest/a10Qw00000BnYbiIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -728,9 +715,9 @@
           ]
         },
         {
-          "EventTitle": "Tamikrest + Termal Raison",
+          "EventTitle": "Machine head",
           "EventDate": "2026-05-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tamikrest/a10Qw00000BnYbiIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/machine-head/a10Qw00000DvhiHIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -780,7 +767,7 @@
           ]
         },
         {
-          "EventTitle": "Steve Ignorant plays 'Crass - Feeding of The 5000' + Taqbir, Club Brat",
+          "EventTitle": "Steve Ignorant plays 'Crass - Feeding of The 5000' + Taqbir, Club Brat, L.A. SAGNE",
           "EventDate": "2026-05-16T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/steve-ignorant-plays-crass-feeding-of-the-5000/a10Qw00000ADS2OIAX",
           "Issues": [
@@ -1088,6 +1075,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-05T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Masterclass Laryssa Kim: Shaping the Invisible",
+          "EventDate": "2026-06-06T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/masterclass-laryssa-kim-shaping-the-invisible/a10Qw00000GqmlhIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-06T00:00:00.0000000"
             }
           ]
         },
@@ -2358,7 +2358,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 125,
+      "TotalEvents": 121,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2408,24 +2408,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Luke Slater + Gaal + Man Outta Space",
-          "EventDate": "2026-04-17T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/luke-slater",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Radio 1 Classics Party",
           "EventDate": "2026-04-18T00:00:00.0000000",
@@ -2531,9 +2518,9 @@
           ]
         },
         {
-          "EventTitle": "Das Pop",
+          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
           "Issues": [
             {
               "Field": "DateString",
@@ -2544,9 +2531,9 @@
           ]
         },
         {
-          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
+          "EventTitle": "Das Pop",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
           "Issues": [
             {
               "Field": "DateString",
@@ -2609,9 +2596,9 @@
           ]
         },
         {
-          "EventTitle": "Svalbard + Rulder",
+          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
           "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
           "Issues": [
             {
               "Field": "DateString",
@@ -2622,9 +2609,9 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
+          "EventTitle": "Svalbard + Rulder",
           "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
           "Issues": [
             {
               "Field": "DateString",
@@ -3157,24 +3144,11 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "4Hoog - Rommelpaard (3+)",
-          "EventDate": "2026-04-17",
-          "EventUrl": "https://www.cczoetegem.be/programma/4hoog-rommelpaard-3.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17"
-            }
-          ]
-        },
         {
           "EventTitle": "1ste en 2de leerjaar: Echte liefde valt niet te waarommen",
           "EventDate": "2026-04-21",
@@ -3671,9 +3645,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 28,
+      "TotalEvents": 27,
       "ErrorCount": 0,
-      "WarningCount": 28,
+      "WarningCount": 27,
       "Issues": [],
       "EventDetails": [
         {
@@ -3699,19 +3673,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-01'.",
               "Severity": 1,
               "ActualValue": "2026-04-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "de volksjury live",
-          "EventDate": "2026-04-16",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/de-volksjury-live/9687/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-16"
             }
           ]
         },
@@ -4056,24 +4017,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Cosmic Psychos + Good Sniff",
-          "EventDate": "2026-04-17T00:00:00",
-          "EventUrl": "https://decasino.be/concert/cosmic-psychos/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Fanniefest",
           "EventDate": "2026-04-18T00:00:00",
@@ -4795,7 +4743,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 103,
+      "TotalEvents": 102,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4972,37 +4920,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 74,
+      "TotalEvents": 72,
       "ErrorCount": 0,
-      "WarningCount": 74,
+      "WarningCount": 72,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Doodseskader: immersive show - + LeBlanc",
-          "EventDate": "2026-04-17",
-          "EventUrl": "https://www.democrazy.be/agenda/3131-doodseskader-immersive-360-show/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yong Yello: Den Bennie Tour - EXTRA SHOW + Justees",
-          "EventDate": "2026-04-17",
-          "EventUrl": "https://www.democrazy.be/agenda/3117-yong-yello-den-bennie-tour/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17"
-            }
-          ]
-        },
         {
           "EventTitle": "Badlands VI - badtime, RIPSHIP, The Boojums, Sick Thoughts, Head on Stone, Geitenvel, Burger Service, Alice George Perez, L.A.Sagne, Acid Talk, Klutter",
           "EventDate": "2026-04-18",
@@ -6587,7 +6509,7 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 18,
+      "TotalEvents": 19,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7968,7 +7890,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 183,
+      "TotalEvents": 182,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
