@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-18T05:00:00.3598541Z",
-  "ValidatedAt": "2026-04-18T05:00:00.3598544Z",
+  "GeneratedAt": "2026-04-19T05:00:00.3902231Z",
+  "ValidatedAt": "2026-04-19T05:00:00.3902232Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1386,
+  "TotalEvents": 1368,
   "TotalErrors": 0,
-  "TotalWarnings": 613,
+  "TotalWarnings": 602,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,50 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 179,
+      "TotalEvents": 176,
       "ErrorCount": 0,
-      "WarningCount": 179,
+      "WarningCount": 176,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "KULTURA + Tanaflow, Ekany, gxldenboy, Femifè, Tsunamy",
-          "EventDate": "2026-04-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kultura/a10Qw000009V6NJIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Hiqpy + Plonki",
-          "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/hiqpy/a10Qw00000BC5QcIAL",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mosimann",
-          "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/mosimann/a10Qw00000790uSIAQ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Matinée concert: Johan Verminnen - De Laatste Ronde",
           "EventDate": "2026-04-19T00:00:00.0000000",
@@ -117,9 +78,9 @@
           ]
         },
         {
-          "EventTitle": "Ragini Trio: Nathan Daems x Lander Gyselinck x Marco Bardoscia",
+          "EventTitle": "The Avener + Vhyce",
           "EventDate": "2026-04-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ragini-trio-nathan-daems-x-lander-gyselinck-x-marco-bardoscia/a10Qw000008Pl5bIAC",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-avener/a10Qw00000Dz0MzIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -130,9 +91,9 @@
           ]
         },
         {
-          "EventTitle": "The Avener + Vhyce",
+          "EventTitle": "Ragini Trio: Nathan Daems x Lander Gyselinck x Marco Bardoscia",
           "EventDate": "2026-04-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-avener/a10Qw00000Dz0MzIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ragini-trio-nathan-daems-x-lander-gyselinck-x-marco-bardoscia/a10Qw000008Pl5bIAC",
           "Issues": [
             {
               "Field": "DateString",
@@ -390,9 +351,9 @@
           ]
         },
         {
-          "EventTitle": "Michelle David & The True Tones",
+          "EventTitle": "Admiral Freebee",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
           "Issues": [
             {
               "Field": "DateString",
@@ -403,9 +364,9 @@
           ]
         },
         {
-          "EventTitle": "Admiral Freebee",
+          "EventTitle": "Michelle David & The True Tones",
           "EventDate": "2026-04-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/admiral-freebee/a10Qw000005yNOfIAM",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/michelle-david-the-true-tones/a10Qw00000EKhITIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -2358,7 +2319,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 121,
+      "TotalEvents": 118,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -2408,28 +2369,15 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 55,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
         {
           "EventTitle": "Radio 1 Classics Party",
           "EventDate": "2026-04-18T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/classics-party",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Radio 1 Classics 1000 live @ Cactus Café",
-          "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/classics-1000",
           "Issues": [
             {
               "Field": "DateString",
@@ -3645,9 +3593,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 27,
+      "TotalEvents": 26,
       "ErrorCount": 0,
-      "WarningCount": 27,
+      "WarningCount": 26,
       "Issues": [],
       "EventDetails": [
         {
@@ -3673,19 +3621,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-01'.",
               "Severity": 1,
               "ActualValue": "2026-04-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Jasper Posson",
-          "EventDate": "2026-04-18",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/jasper-posson/9367/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18"
             }
           ]
         },
@@ -4007,7 +3942,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 32,
+      "TotalEvents": 31,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4017,50 +3952,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 55,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Fanniefest",
-          "EventDate": "2026-04-18T00:00:00",
-          "EventUrl": "https://decasino.be/concert/fanniefest/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lawijtstrijd / Voorronde 1 / Den Eglantier",
-          "EventDate": "2026-04-18T00:00:00",
-          "EventUrl": "https://decasino.be/concert/lawijtstrijd-voorronde-1-den-eglantier/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "C L U B Casino / Dysfunkshunal",
-          "EventDate": "2026-04-18T00:00:00",
-          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-dysfunkshunal/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Welcome to the Jazzclub / Elias D'hooge trio",
           "EventDate": "2026-04-19T00:00:00",
@@ -4743,7 +4639,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 102,
+      "TotalEvents": 101,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4758,19 +4654,6 @@
       "WarningCount": 12,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Mantah + Aeveris + Millhaven",
-          "EventDate": "2026-04-18T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/238-mantah-aeveris-millhaven/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Ertebrekers",
           "EventDate": "2026-04-24T00:00:00",
@@ -4913,6 +4796,19 @@
               "ActualValue": "2026-06-30T00:00:00"
             }
           ]
+        },
+        {
+          "EventTitle": "MOVING MOTION: Expo 50 Jaar Leffingeleuren",
+          "EventDate": "2026-08-30T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/257-expo-50-jaar-leffingeleuren/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-30T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-30T00:00:00"
+            }
+          ]
         }
       ]
     },
@@ -4920,37 +4816,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 72,
+      "TotalEvents": 70,
       "ErrorCount": 0,
-      "WarningCount": 72,
+      "WarningCount": 70,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Badlands VI - badtime, RIPSHIP, The Boojums, Sick Thoughts, Head on Stone, Geitenvel, Burger Service, Alice George Perez, L.A.Sagne, Acid Talk, Klutter",
-          "EventDate": "2026-04-18",
-          "EventUrl": "https://www.democrazy.be/agenda/3130-badlands-vi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Record Store Day 2026 - Emma Hessels, Camilo Donoso, Helena Casella , Lézard , The Hickey Underworld , Het Zesde Metaal, Yong Yello, TJE, Klein Volk, Eefje De Visser, Puntjudith, Ramkot, High Hi, Jazz Brak, No Sleep Richy",
-          "EventDate": "2026-04-18",
-          "EventUrl": "https://www.democrazy.be/agenda/3177-record-store-day-2026/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18"
-            }
-          ]
-        },
         {
           "EventTitle": "Lézard - + Grote Geelstaart",
           "EventDate": "2026-04-22",
@@ -6499,7 +6369,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7890,7 +7760,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 182,
+      "TotalEvents": 181,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7937,24 +7807,11 @@
       "ScraperId": "vaartkapoen",
       "ScraperName": "vaartkapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 22,
+      "TotalEvents": 21,
       "ErrorCount": 0,
-      "WarningCount": 22,
+      "WarningCount": 21,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tafsut Imazighen - dag 2 | Rif Resonances",
-          "EventDate": "2026-04-17T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/tafsut-imazighen-dag-2-rif-resonances",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-17T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-17T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "V-Kurated #16 - Emma Hessels, Ola, senna JMB",
           "EventDate": "2026-04-22T22:00:00Z",
