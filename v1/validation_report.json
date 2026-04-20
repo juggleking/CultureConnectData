@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-19T05:00:00.3902231Z",
-  "ValidatedAt": "2026-04-19T05:00:00.3902232Z",
+  "GeneratedAt": "2026-04-20T05:00:00.345408Z",
+  "ValidatedAt": "2026-04-20T05:00:00.3454081Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1368,
+  "TotalEvents": 1357,
   "TotalErrors": 0,
-  "TotalWarnings": 602,
+  "TotalWarnings": 596,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,24 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 176,
+      "TotalEvents": 175,
       "ErrorCount": 0,
-      "WarningCount": 176,
+      "WarningCount": 175,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Matinée concert: Johan Verminnen - De Laatste Ronde",
-          "EventDate": "2026-04-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/matinee-concert-johan-verminnen-de-laatste-ronde/a10Qw000006GAeHIAW",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-19T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Listening Session: Dionyssia - One (hosted by Gloom Club) + Lander Gyselinck",
           "EventDate": "2026-04-20T00:00:00.0000000",
@@ -52,7 +39,7 @@
           ]
         },
         {
-          "EventTitle": "Stijn plays Prince - 10 years after",
+          "EventTitle": "Stijn plays Prince - 10 years after + DJ Sasha Van Der Speeten",
           "EventDate": "2026-04-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/stijn-plays-prince-10-years-after/a10Qw00000BDWTZIA5",
           "Issues": [
@@ -1625,9 +1612,9 @@
           ]
         },
         {
-          "EventTitle": "Lake Street Dive",
+          "EventTitle": "New date: MICHA",
           "EventDate": "2026-10-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lake-street-dive/a10Qw000004mV2RIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-micha/a10Qw00000E8tYjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1638,9 +1625,9 @@
           ]
         },
         {
-          "EventTitle": "New date: MICHA",
+          "EventTitle": "Lake Street Dive",
           "EventDate": "2026-10-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-micha/a10Qw00000E8tYjIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lake-street-dive/a10Qw000004mV2RIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -2319,24 +2306,11 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 118,
+      "TotalEvents": 115,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 2,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Bota Kids : El Sistema Belgium",
-          "EventDate": "2026-04-19T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bota-kids-el-sistema-belgium-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-19T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Chinese American Bear",
           "EventDate": "2026-09-22T00:00:00.0000000",
@@ -2369,24 +2343,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Radio 1 Classics Party",
-          "EventDate": "2026-04-18T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/classics-party",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Yuuf + ALISN",
           "EventDate": "2026-04-20T00:00:00.0000000",
@@ -2466,9 +2427,9 @@
           ]
         },
         {
-          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
+          "EventTitle": "Das Pop",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
           "Issues": [
             {
               "Field": "DateString",
@@ -2479,9 +2440,9 @@
           ]
         },
         {
-          "EventTitle": "Das Pop",
+          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
           "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
           "Issues": [
             {
               "Field": "DateString",
@@ -2544,19 +2505,6 @@
           ]
         },
         {
-          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
-          "EventDate": "2026-05-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Svalbard + Rulder",
           "EventDate": "2026-05-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Svalbard",
@@ -2570,9 +2518,22 @@
           ]
         },
         {
-          "EventTitle": "Arsenal - Try-out",
+          "EventTitle": "BRUSK FEST - Mad Professor, Derya Yildirim & Grup Simsek, Roufaida en meer",
+          "EventDate": "2026-05-10T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/brusk-fest-3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Great Lake Swimmers",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
           "Issues": [
             {
               "Field": "DateString",
@@ -2583,9 +2544,9 @@
           ]
         },
         {
-          "EventTitle": "Great Lake Swimmers",
+          "EventTitle": "Arsenal - Try-out",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/great-lake-swimmers",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/arsenal",
           "Issues": [
             {
               "Field": "DateString",
@@ -3311,24 +3272,11 @@
       "ScraperId": "aff",
       "ScraperName": "affScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Oliver Symons + Arno Sacco",
-          "EventDate": "2026-04-18",
-          "EventUrl": "https://aff.be/events/oliversymons/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-18'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-18"
-            }
-          ]
-        },
         {
           "EventTitle": "DOODSESKADER + Grizmo",
           "EventDate": "2026-04-23",
@@ -3593,9 +3541,9 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 26,
+      "TotalEvents": 25,
       "ErrorCount": 0,
-      "WarningCount": 26,
+      "WarningCount": 25,
       "Issues": [],
       "EventDetails": [
         {
@@ -3621,19 +3569,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-01'.",
               "Severity": 1,
               "ActualValue": "2026-04-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Arte Amanti",
-          "EventDate": "2026-04-19",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/arte-amanti/9389/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-19'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-19"
             }
           ]
         },
@@ -3768,6 +3703,19 @@
           ]
         },
         {
+          "EventTitle": "Pop-up expo Peter Lievens",
+          "EventDate": "2026-05-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-08"
+            }
+          ]
+        },
+        {
           "EventTitle": "Verftechnieken (marmer, hout, patineren)",
           "EventDate": "2026-05-11",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/verftechnieken-marmer-hout-patineren/8561/",
@@ -3872,19 +3820,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
-            }
-          ]
-        },
-        {
           "EventTitle": "BachPlus",
           "EventDate": "2026-06-14",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/bachplus/4704/",
@@ -3952,24 +3887,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 52,
+      "TotalEvents": 51,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 51,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Welcome to the Jazzclub / Elias D'hooge trio",
-          "EventDate": "2026-04-19T00:00:00",
-          "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-elias-dhooge-trio/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-19T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-19T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Carte Blanche / Rano invites",
           "EventDate": "2026-04-23T00:00:00",
@@ -4639,7 +4561,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 101,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7760,7 +7682,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 181,
+      "TotalEvents": 180,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8091,7 +8013,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 40,
+      "TotalEvents": 39,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
