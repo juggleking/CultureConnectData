@@ -4,7 +4,7 @@
     "VenueId": "ab",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 175,
+    "TotalEventsFound": 177,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -21,7 +21,7 @@
         "Year": 2026,
         "FileName": "ab-05-2026.json",
         "FilePath": "events/concerts/ab/ab-05-2026.json",
-        "Hash": "5f558b901431f4873b91eeff789e8a29146729289de5c1b80721bd4ed509aa1f",
+        "Hash": "ac5b0b26d147b9bb1d4abb7e48238276eee5f16a4196f52f41641cea7e3e6e01",
         "EventCount": 46,
         "Status": "Success",
         "ErrorMessage": null
@@ -71,8 +71,8 @@
         "Year": 2026,
         "FileName": "ab-10-2026.json",
         "FilePath": "events/concerts/ab/ab-10-2026.json",
-        "Hash": "f4b16daf6111e2a6ad7929fd8144c0e5911d59e29774c9d7b4eb06d4d21181a2",
-        "EventCount": 25,
+        "Hash": "9bd77eaeb57b896b1164f60a1c0e52afe8d91c41c8a25b1ec9de30741f667b39",
+        "EventCount": 26,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -81,8 +81,8 @@
         "Year": 2026,
         "FileName": "ab-11-2026.json",
         "FilePath": "events/concerts/ab/ab-11-2026.json",
-        "Hash": "92c2f1e63a55fafbb7abfc090954fb7dfb46a14de11a32c73e5855176f64514b",
-        "EventCount": 18,
+        "Hash": "a68bc540208ac6909bf1052b6734294aac6cf4e25f118a0e48d681efbb65ba69",
+        "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -139,11 +139,36 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:09.8206125Z",
-    "StartedAt": "2026-04-20T06:00:00.3527716Z",
-    "FinishedAt": "2026-04-20T06:00:09.8206086Z",
+    "RunTime": "2026-04-20T10:00:09.5927558Z",
+    "StartedAt": "2026-04-20T10:00:00.3508837Z",
+    "FinishedAt": "2026-04-20T10:00:09.5927532Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Noonzy",
+        "DateString": "2026-10-23T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/noonzy/a10Qw00000FjK3ZIAV",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000Mzua5MAB_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Groovy indie pop with a playful vibe",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      },
+      {
+        "Title": "Wallace Cleaver",
+        "DateString": "2026-11-12T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/wallace-cleaver/a10Qw00000FjOC1IAN",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000MzmCjMAJ_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Marcel Tour",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "AffScraper",
@@ -215,9 +240,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:03.8166003Z",
-    "StartedAt": "2026-04-20T06:00:00.3541526Z",
-    "FinishedAt": "2026-04-20T06:00:03.8165959Z",
+    "RunTime": "2026-04-20T10:00:03.12647Z",
+    "StartedAt": "2026-04-20T10:00:00.351329Z",
+    "FinishedAt": "2026-04-20T10:00:03.1264663Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -226,7 +251,7 @@
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 115,
+    "TotalEventsFound": 116,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -273,8 +298,8 @@
         "Year": 2026,
         "FileName": "botanique-09-2026.json",
         "FilePath": "events/concerts/botanique/botanique-09-2026.json",
-        "Hash": "31477fb831c71c6004decf01537274d98c9d0fa9d1efd37fc2f08f2c8290e718",
-        "EventCount": 23,
+        "Hash": "892a019bb1f07721df505642341132b3acd06d66d1b807e915bd7cbb951d0d99",
+        "EventCount": 24,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -331,18 +356,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:14.6262441Z",
-    "StartedAt": "2026-04-20T06:00:00.3558436Z",
-    "FinishedAt": "2026-04-20T06:00:14.6262397Z",
+    "RunTime": "2026-04-20T10:00:13.3195484Z",
+    "StartedAt": "2026-04-20T10:00:00.3515736Z",
+    "FinishedAt": "2026-04-20T10:00:13.3195459Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Flamin\u0027 Groovies",
+        "DateString": "2026-09-20T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/flamin-groovies-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-04/Flamin%27%20Groovies%20Recent%20Photo%20%281%29.jpg?itok=B3VmGyz5",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Museum",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
     "VenueId": "cactus",
     "VenueName": "Cactus Muziekcentrum, Brugge",
     "Category": "Concerts",
-    "TotalEventsFound": 53,
+    "TotalEventsFound": 54,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -423,15 +461,38 @@
         "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 2,
+        "Year": 2027,
+        "FileName": "cactus-02-2027.json",
+        "FilePath": "events/concerts/cactus/cactus-02-2027.json",
+        "Hash": "e6497fa6d09e5bbdf1989236d1a60c33653e490257c0cc0623a0af52a822024f",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.6984645Z",
-    "StartedAt": "2026-04-20T06:00:00.356762Z",
-    "FinishedAt": "2026-04-20T06:00:01.6984605Z",
+    "RunTime": "2026-04-20T10:00:01.4071464Z",
+    "StartedAt": "2026-04-20T10:00:00.3517976Z",
+    "FinishedAt": "2026-04-20T10:00:01.4071437Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "The Reytons",
+        "DateString": "2027-02-27T00:00:00.0000000",
+        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-reytons",
+        "ImageUrl": "",
+        "Location": "Cactus Club",
+        "Description": "Britse arenarockers trekken naar de Belgische clubs",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1966",
+        "Longitude": "3.2257"
+      }
+    ]
   },
   {
     "ScraperName": "DeCasinoScraper",
@@ -543,9 +604,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.7894396Z",
-    "StartedAt": "2026-04-20T06:00:00.3574443Z",
-    "FinishedAt": "2026-04-20T06:00:01.7894357Z",
+    "RunTime": "2026-04-20T10:00:01.355376Z",
+    "StartedAt": "2026-04-20T10:00:00.3519636Z",
+    "FinishedAt": "2026-04-20T10:00:01.3553711Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -561,7 +622,7 @@
         "Year": 2026,
         "FileName": "democrazy-04-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-04-2026.json",
-        "Hash": "8d7a7d2d766c8ac49acd452ce80a280f24864432c2d0e879e389c821a6d3a15c",
+        "Hash": "47cf9fd5f054f39a32c83d8469eb289d51ee5fc2cbdec5a4b7122d8d5a934faa",
         "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
@@ -649,9 +710,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.4602295Z",
-    "StartedAt": "2026-04-20T06:00:00.3579358Z",
-    "FinishedAt": "2026-04-20T06:00:01.4602259Z",
+    "RunTime": "2026-04-20T10:00:01.404651Z",
+    "StartedAt": "2026-04-20T10:00:00.3521537Z",
+    "FinishedAt": "2026-04-20T10:00:01.4046456Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -660,7 +721,7 @@
     "VenueId": "deroma",
     "VenueName": "De Roma",
     "Category": "Concerts",
-    "TotalEventsFound": 100,
+    "TotalEventsFound": 101,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -767,19 +828,32 @@
         "Year": 2027,
         "FileName": "deroma-03-2027.json",
         "FilePath": "events/concerts/deroma/deroma-03-2027.json",
-        "Hash": "596b8006146b83964735a9c0d3eb27bd5a2ec885ffb76b4e1055b79dcdd2b27d",
-        "EventCount": 1,
+        "Hash": "7a676495c1881bddc2fc294f6e8deb7f285901793450b317b3c1d67daee2cba3",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:05.7002874Z",
-    "StartedAt": "2026-04-20T06:00:00.3584905Z",
-    "FinishedAt": "2026-04-20T06:00:05.700285Z",
+    "RunTime": "2026-04-20T10:00:10.3560093Z",
+    "StartedAt": "2026-04-20T10:00:00.352347Z",
+    "FinishedAt": "2026-04-20T10:00:10.3560072Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Rumours, 50 years",
+        "DateString": "2027-03-20T20:00:00.0000000",
+        "Url": "https://www.deroma.be/en/event/rumours-50-years",
+        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/a1ce/2f/fa57e90340f30bfdcb962802bcaa84a07d90f5ff.png",
+        "Location": "De Roma",
+        "Description": "A Fleetwood Mac Tribute A spectacular celebration of the 50th anniversary of the definitive album: Rumours.",
+        "Room": "",
+        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
+        "Latitude": "51.2134",
+        "Longitude": "4.44"
+      }
+    ]
   },
   {
     "ScraperName": "DeSteenovenScraper",
@@ -790,9 +864,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.1177489Z",
-    "StartedAt": "2026-04-20T06:00:00.3591615Z",
-    "FinishedAt": "2026-04-20T06:00:01.1177466Z",
+    "RunTime": "2026-04-20T10:00:00.8409547Z",
+    "StartedAt": "2026-04-20T10:00:00.3525255Z",
+    "FinishedAt": "2026-04-20T10:00:00.8409529Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -846,9 +920,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.020088Z",
-    "StartedAt": "2026-04-20T06:00:00.3597199Z",
-    "FinishedAt": "2026-04-20T06:00:01.0200835Z",
+    "RunTime": "2026-04-20T10:00:00.9003651Z",
+    "StartedAt": "2026-04-20T10:00:00.3527225Z",
+    "FinishedAt": "2026-04-20T10:00:00.9003612Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -962,9 +1036,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:02.6509094Z",
-    "StartedAt": "2026-04-20T06:00:00.3602753Z",
-    "FinishedAt": "2026-04-20T06:00:02.6509047Z",
+    "RunTime": "2026-04-20T10:00:01.5895398Z",
+    "StartedAt": "2026-04-20T10:00:00.3554975Z",
+    "FinishedAt": "2026-04-20T10:00:01.588965Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1018,9 +1092,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:02.0677843Z",
-    "StartedAt": "2026-04-20T06:00:00.3609859Z",
-    "FinishedAt": "2026-04-20T06:00:02.0677803Z",
+    "RunTime": "2026-04-20T10:00:01.2998105Z",
+    "StartedAt": "2026-04-20T10:00:00.3558403Z",
+    "FinishedAt": "2026-04-20T10:00:01.2998064Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -1036,7 +1110,7 @@
         "Year": 2026,
         "FileName": "ha-04-2026.json",
         "FilePath": "events/concerts/ha/ha-04-2026.json",
-        "Hash": "6b8194d2451d99193d18ada33e7bc7ef210a3a812b1f585c67820bcd5efedb8a",
+        "Hash": "05ccd1be31b336efdbe6ea9f3360ba83070842b98f6cc329fe1fd7b2093b8461",
         "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
@@ -1114,9 +1188,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:06.6443248Z",
-    "StartedAt": "2026-04-20T06:00:00.3616192Z",
-    "FinishedAt": "2026-04-20T06:00:06.6443203Z",
+    "RunTime": "2026-04-20T10:00:07.1232763Z",
+    "StartedAt": "2026-04-20T10:00:00.35611Z",
+    "FinishedAt": "2026-04-20T10:00:07.1232717Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1142,7 +1216,7 @@
         "Year": 2026,
         "FileName": "hetdepot-05-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-05-2026.json",
-        "Hash": "ede797827460fadfa436e2281f99f51460cc28e913a68140623e431bfed79221",
+        "Hash": "b3743f769784e4c687bebb746835fee5a3b57efe983b23ccd2fb350598c1ba9a",
         "EventCount": 18,
         "Status": "Success",
         "ErrorMessage": null
@@ -1230,9 +1304,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:20.6312618Z",
-    "StartedAt": "2026-04-20T06:00:00.3619194Z",
-    "FinishedAt": "2026-04-20T06:00:20.6312469Z",
+    "RunTime": "2026-04-20T10:00:31.0614487Z",
+    "StartedAt": "2026-04-20T10:00:00.3562913Z",
+    "FinishedAt": "2026-04-20T10:00:31.0610379Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1241,7 +1315,7 @@
     "VenueId": "n9",
     "VenueName": "N9, Eeklo",
     "Category": "Concerts",
-    "TotalEventsFound": 19,
+    "TotalEventsFound": 20,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -1288,8 +1362,8 @@
         "Year": 2026,
         "FileName": "n9-08-2026.json",
         "FilePath": "events/concerts/n9/n9-08-2026.json",
-        "Hash": "6dee6f9a36e58810ef8d12a1c4e5eed14c3fb241dcb871d734b216abc5606a38",
-        "EventCount": 3,
+        "Hash": "d9bbd7300b836afe0936af7bdce6109fbbb021363b00f7d1355dc22219d5039f",
+        "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1316,11 +1390,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.3388843Z",
-    "StartedAt": "2026-04-20T06:00:00.3622067Z",
-    "FinishedAt": "2026-04-20T06:00:01.3388804Z",
+    "RunTime": "2026-04-20T10:00:01.1051772Z",
+    "StartedAt": "2026-04-20T10:00:00.3565117Z",
+    "FinishedAt": "2026-04-20T10:00:01.1051728Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "HERBAKKERSFESTIVAL: ROSIE STUART \u2014 08-08-2026",
+        "DateString": "2026-08-08T17:00:00\u002B02:00",
+        "Url": "https://www.n9.be/agenda/5170-herbakkersfestival-rosie-stuart/",
+        "ImageUrl": "https://www.n9.be/media/event-large/2970-111635994herbakkersfestivalrosiestuart.jpg",
+        "Location": "Herbakkersfestival",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1841546",
+        "Longitude": "3.581504099999999"
+      }
+    ]
   },
   {
     "ScraperName": "RivierenhofScraper",
@@ -1362,9 +1449,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:04.3883484Z",
-    "StartedAt": "2026-04-20T06:00:00.3623922Z",
-    "FinishedAt": "2026-04-20T06:00:04.3883448Z",
+    "RunTime": "2026-04-20T10:00:03.2817411Z",
+    "StartedAt": "2026-04-20T10:00:00.3566732Z",
+    "FinishedAt": "2026-04-20T10:00:03.2817371Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1380,8 +1467,8 @@
         "Year": 2026,
         "FileName": "trix-04-2026.json",
         "FilePath": "events/concerts/trix/trix-04-2026.json",
-        "Hash": "4b528c2091a41ce9d92ce9feb3c23d1b4ea0f20e74d274d8c0cf4bbdb7654b24",
-        "EventCount": 9,
+        "Hash": "a022980b301244812387cdabb76ff66054595239db964a403fe24aa46181ab97",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1390,19 +1477,32 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "3c5f6618681ced6a174894bd986c1f737c52be0d232cfecbbf6dca3cdb495f6e",
-        "EventCount": 21,
+        "Hash": "b4fe5b6f2f47acd7ac5ff79b2378f5bea4893bf7d550cd0e914a97be6d81bc7e",
+        "EventCount": 20,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:03.9155776Z",
-    "StartedAt": "2026-04-20T06:00:00.3625872Z",
-    "FinishedAt": "2026-04-20T06:00:03.9155751Z",
+    "RunTime": "2026-04-20T10:00:02.1648657Z",
+    "StartedAt": "2026-04-20T10:00:00.3568691Z",
+    "FinishedAt": "2026-04-20T10:00:02.1648631Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Live From Trix: L\u00E9zard takeover \u002B Grandmas House",
+        "DateString": "2026-04-23T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/live-from-trix-lezard-takeover-grandmas-house/4153/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/tekengebied-1150x-100-1-1-3-2-1-1-1-1.jpg",
+        "Location": "Trix",
+        "Description": "Trix zweeft door de ruimte, want met Live From Trix kapen we de radiogolven! In onze radioshow op We Are Various komen muziek, kunstenaars en creativiteit samen.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      }
+    ]
   },
   {
     "ScraperName": "VaartKapoenScraper",
@@ -1464,9 +1564,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:06.6150277Z",
-    "StartedAt": "2026-04-20T06:00:00.365616Z",
-    "FinishedAt": "2026-04-20T06:00:06.6150233Z",
+    "RunTime": "2026-04-20T10:00:07.9122482Z",
+    "StartedAt": "2026-04-20T10:00:00.3571107Z",
+    "FinishedAt": "2026-04-20T10:00:07.9122438Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -1560,9 +1660,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:01:05.4097294Z",
-    "StartedAt": "2026-04-20T06:00:00.3659575Z",
-    "FinishedAt": "2026-04-20T06:01:05.4097122Z",
+    "RunTime": "2026-04-20T10:01:04.9749538Z",
+    "StartedAt": "2026-04-20T10:00:00.3572781Z",
+    "FinishedAt": "2026-04-20T10:01:04.9749502Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1656,9 +1756,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.3474395Z",
-    "StartedAt": "2026-04-20T06:00:00.3661882Z",
-    "FinishedAt": "2026-04-20T06:00:01.3474355Z",
+    "RunTime": "2026-04-20T10:00:01.3053072Z",
+    "StartedAt": "2026-04-20T10:00:00.3575326Z",
+    "FinishedAt": "2026-04-20T10:00:01.305303Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   },
@@ -1667,7 +1767,7 @@
     "VenueId": "cczoetegem",
     "VenueName": "CC Zoetegem",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 16,
+    "TotalEventsFound": 17,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -1688,15 +1788,38 @@
         "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 2,
+        "Year": 2027,
+        "FileName": "cczoetegem-02-2027.json",
+        "FilePath": "events/cultuurcentra/cczoetegem/cczoetegem-02-2027.json",
+        "Hash": "0aad5a003d1f325833223fb05a65c8c0325eb872ab53d1716e4e6f6892dc5868",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:02.1399829Z",
-    "StartedAt": "2026-04-20T06:00:00.3663764Z",
-    "FinishedAt": "2026-04-20T06:00:02.1399785Z",
+    "RunTime": "2026-04-20T10:00:02.0695986Z",
+    "StartedAt": "2026-04-20T10:00:00.3577427Z",
+    "FinishedAt": "2026-04-20T10:00:02.0695762Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Hooverphonic - 30 Years Anniversary Tour - With No\u00E9mie Wolfs",
+        "DateString": "2027-02-03",
+        "Url": "https://www.cczoetegem.be/programma/hooverphonic-30-years-anniversary-tour.aspx",
+        "ImageUrl": "https://www.cczoetegem.be/resources/internal/file_views/413/1_Hooverphonic (c) Charlie De Keersmaecker.jpeg",
+        "Location": "Zottegem",
+        "Description": "Voor deze bijzondere jubileumtour keert Hooverphonice terug naar de essentie, met een warme en meeslepende liveshow die hun rijke repertoire in de kijker zet.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8642",
+        "Longitude": "3.8103"
+      }
+    ]
   },
   {
     "ScraperName": "CultuurhuisMerelbekeScraper",
@@ -1707,9 +1830,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:06.1249745Z",
-    "StartedAt": "2026-04-20T06:00:00.3665598Z",
-    "FinishedAt": "2026-04-20T06:00:06.1249698Z",
+    "RunTime": "2026-04-20T10:00:05.6687059Z",
+    "StartedAt": "2026-04-20T10:00:00.3579069Z",
+    "FinishedAt": "2026-04-20T10:00:05.668702Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -1753,9 +1876,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:02.6272367Z",
-    "StartedAt": "2026-04-20T06:00:00.3667138Z",
-    "FinishedAt": "2026-04-20T06:00:02.6272316Z",
+    "RunTime": "2026-04-20T10:00:02.6518387Z",
+    "StartedAt": "2026-04-20T10:00:00.3580986Z",
+    "FinishedAt": "2026-04-20T10:00:02.6518348Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -1839,9 +1962,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:03.8236038Z",
-    "StartedAt": "2026-04-20T06:00:00.3668933Z",
-    "FinishedAt": "2026-04-20T06:00:03.8236001Z",
+    "RunTime": "2026-04-20T10:00:02.6531313Z",
+    "StartedAt": "2026-04-20T10:00:00.3583098Z",
+    "FinishedAt": "2026-04-20T10:00:02.6530577Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -1875,9 +1998,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:02.3230432Z",
-    "StartedAt": "2026-04-20T06:00:00.3671154Z",
-    "FinishedAt": "2026-04-20T06:00:02.3230389Z",
+    "RunTime": "2026-04-20T10:00:01.5486502Z",
+    "StartedAt": "2026-04-20T10:00:00.3585606Z",
+    "FinishedAt": "2026-04-20T10:00:01.5486459Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1901,9 +2024,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.6987496Z",
-    "StartedAt": "2026-04-20T06:00:00.3673325Z",
-    "FinishedAt": "2026-04-20T06:00:01.698747Z",
+    "RunTime": "2026-04-20T10:00:01.1189679Z",
+    "StartedAt": "2026-04-20T10:00:00.3587582Z",
+    "FinishedAt": "2026-04-20T10:00:01.1189634Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1927,9 +2050,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:01.7924933Z",
-    "StartedAt": "2026-04-20T06:00:00.3676163Z",
-    "FinishedAt": "2026-04-20T06:00:01.7924699Z",
+    "RunTime": "2026-04-20T10:00:00.9381245Z",
+    "StartedAt": "2026-04-20T10:00:00.3589467Z",
+    "FinishedAt": "2026-04-20T10:00:00.9381197Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1983,9 +2106,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:48.7104114Z",
-    "StartedAt": "2026-04-20T06:00:00.3678218Z",
-    "FinishedAt": "2026-04-20T06:00:48.7103929Z",
+    "RunTime": "2026-04-20T10:00:42.303378Z",
+    "StartedAt": "2026-04-20T10:00:00.3591662Z",
+    "FinishedAt": "2026-04-20T10:00:42.303374Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -2079,9 +2202,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-20T06:00:17.8558759Z",
-    "StartedAt": "2026-04-20T06:00:00.3680219Z",
-    "FinishedAt": "2026-04-20T06:00:17.855872Z",
+    "RunTime": "2026-04-20T10:00:18.1372406Z",
+    "StartedAt": "2026-04-20T10:00:00.3593707Z",
+    "FinishedAt": "2026-04-20T10:00:18.1372369Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   }
