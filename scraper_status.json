@@ -139,9 +139,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:10.3913681Z",
-    "StartedAt": "2026-04-27T06:00:00.2507895Z",
-    "FinishedAt": "2026-04-27T06:00:10.3913654Z",
+    "RunTime": "2026-04-27T10:00:09.249909Z",
+    "StartedAt": "2026-04-27T10:00:00.3735188Z",
+    "FinishedAt": "2026-04-27T10:00:09.2499062Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -225,9 +225,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:04.0640422Z",
-    "StartedAt": "2026-04-27T06:00:00.2511727Z",
-    "FinishedAt": "2026-04-27T06:00:04.0640391Z",
+    "RunTime": "2026-04-27T10:00:07.2292709Z",
+    "StartedAt": "2026-04-27T10:00:00.3737539Z",
+    "FinishedAt": "2026-04-27T10:00:07.2292681Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -253,7 +253,7 @@
         "Year": 2026,
         "FileName": "botanique-05-2026.json",
         "FilePath": "events/concerts/botanique/botanique-05-2026.json",
-        "Hash": "67b3b343d6b9bbd66a8a33c879cb1d2944e8d7cda7e48cdd598fd85501092fce",
+        "Hash": "1e74e5df26900a528a58771c0c77a12e9c89051a6e75ebac43e5e607f7fe965a",
         "EventCount": 22,
         "Status": "Success",
         "ErrorMessage": null
@@ -341,18 +341,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:16.8724817Z",
-    "StartedAt": "2026-04-27T06:00:00.25137Z",
-    "FinishedAt": "2026-04-27T06:00:16.8724782Z",
+    "RunTime": "2026-04-27T10:00:16.4009936Z",
+    "StartedAt": "2026-04-27T10:00:00.373837Z",
+    "FinishedAt": "2026-04-27T10:00:16.4009913Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Public Image Ltd. - Kregel",
+        "DateString": "2026-05-03T17:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/public-image-ltd-kregel-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2025-11/PIL%202025-2190.jpg?itok=NrmCUo7W",
+        "Location": "Botanique, Brussels",
+        "Description": "Onder leiding van John Lydon combineert PiL post-punk, dub en geluidsexperimenten in een avant-gardistische groove",
+        "Room": "Orangerie",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
     "VenueId": "cactus",
     "VenueName": "Cactus Muziekcentrum, Brugge",
     "Category": "Concerts",
-    "TotalEventsFound": 60,
+    "TotalEventsFound": 61,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -419,8 +432,8 @@
         "Year": 2026,
         "FileName": "cactus-10-2026.json",
         "FilePath": "events/concerts/cactus/cactus-10-2026.json",
-        "Hash": "ce5aa8707d2c2145936afaf3aeadadd7f9ebd65d8c26aefcd6766fa730cc3115",
-        "EventCount": 9,
+        "Hash": "dcefb5da85a2493e1ae1623d2de2421cf9c4539c5b799a6008eb80a5fc501df5",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -467,11 +480,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.0646842Z",
-    "StartedAt": "2026-04-27T06:00:00.251491Z",
-    "FinishedAt": "2026-04-27T06:00:02.0646813Z",
+    "RunTime": "2026-04-27T10:00:01.3541187Z",
+    "StartedAt": "2026-04-27T10:00:00.3739196Z",
+    "FinishedAt": "2026-04-27T10:00:01.3541157Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "COIO3 (Soyuz)",
+        "DateString": "2026-10-20T00:00:00.0000000",
+        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/soyuz",
+        "ImageUrl": "",
+        "Location": "Cactus Cafe",
+        "Description": "Wit-Russisch combo mixt library music, bossa nova \u0026 tropicalia met Oost-Europese nostalgia",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1966",
+        "Longitude": "3.2262"
+      }
+    ]
   },
   {
     "ScraperName": "DeCasinoScraper",
@@ -583,9 +609,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.0690299Z",
-    "StartedAt": "2026-04-27T06:00:00.2516422Z",
-    "FinishedAt": "2026-04-27T06:00:02.0690271Z",
+    "RunTime": "2026-04-27T10:00:01.5389448Z",
+    "StartedAt": "2026-04-27T10:00:00.3739928Z",
+    "FinishedAt": "2026-04-27T10:00:01.5389414Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -689,9 +715,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:01.3684323Z",
-    "StartedAt": "2026-04-27T06:00:00.2517937Z",
-    "FinishedAt": "2026-04-27T06:00:01.3684127Z",
+    "RunTime": "2026-04-27T10:00:01.4944534Z",
+    "StartedAt": "2026-04-27T10:00:00.3740597Z",
+    "FinishedAt": "2026-04-27T10:00:01.4944504Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -700,7 +726,7 @@
     "VenueId": "deroma",
     "VenueName": "De Roma",
     "Category": "Concerts",
-    "TotalEventsFound": 101,
+    "TotalEventsFound": 102,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -811,15 +837,38 @@
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 4,
+        "Year": 2027,
+        "FileName": "deroma-04-2027.json",
+        "FilePath": "events/concerts/deroma/deroma-04-2027.json",
+        "Hash": "d7f98e7b127e9b03d59e2e90d0056d0f718d011c5a66bc04b988514ba56e6524",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:05.080774Z",
-    "StartedAt": "2026-04-27T06:00:00.2519057Z",
-    "FinishedAt": "2026-04-27T06:00:05.0807716Z",
+    "RunTime": "2026-04-27T10:00:04.5964047Z",
+    "StartedAt": "2026-04-27T10:00:00.3742271Z",
+    "FinishedAt": "2026-04-27T10:00:04.5964022Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Tindersticks",
+        "DateString": "2027-04-20T20:00:00.0000000",
+        "Url": "https://www.deroma.be/en/event/tindersticks-5",
+        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/9003/52/d62f4b5205038c79c8b5c3cc147f12576b7674e4.png",
+        "Location": "De Roma",
+        "Description": "This British band takes you on an intense journey through their thirty-year career.",
+        "Room": "",
+        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
+        "Latitude": "51.2134",
+        "Longitude": "4.44"
+      }
+    ]
   },
   {
     "ScraperName": "DeSteenovenScraper",
@@ -830,9 +879,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:01.1953349Z",
-    "StartedAt": "2026-04-27T06:00:00.2520953Z",
-    "FinishedAt": "2026-04-27T06:00:01.1953332Z",
+    "RunTime": "2026-04-27T10:00:00.9652676Z",
+    "StartedAt": "2026-04-27T10:00:00.3743108Z",
+    "FinishedAt": "2026-04-27T10:00:00.9652652Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -896,9 +945,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:01.3297489Z",
-    "StartedAt": "2026-04-27T06:00:00.2522606Z",
-    "FinishedAt": "2026-04-27T06:00:01.3297455Z",
+    "RunTime": "2026-04-27T10:00:00.8877565Z",
+    "StartedAt": "2026-04-27T10:00:00.3743898Z",
+    "FinishedAt": "2026-04-27T10:00:00.8877537Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -907,7 +956,7 @@
     "VenueId": "emotia",
     "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
     "Category": "Concerts",
-    "TotalEventsFound": 30,
+    "TotalEventsFound": 31,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -1004,8 +1053,8 @@
         "Year": 2026,
         "FileName": "emotia-02-2026.json",
         "FilePath": "events/concerts/emotia/emotia-02-2026.json",
-        "Hash": "bbc8ec8c1df3e8829b7562a09a64f58fda226256e5ae87b99992dce5836c7a59",
-        "EventCount": 1,
+        "Hash": "2e349ad9e2da77f92b32b58fb078f3e2a1bbc63e13f5b75b9e4c469b2301f819",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1022,11 +1071,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.8794807Z",
-    "StartedAt": "2026-04-27T06:00:00.252357Z",
-    "FinishedAt": "2026-04-27T06:00:02.8794774Z",
+    "RunTime": "2026-04-27T10:00:02.8522317Z",
+    "StartedAt": "2026-04-27T10:00:00.3744614Z",
+    "FinishedAt": "2026-04-27T10:00:02.8522293Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Piet De Praitere",
+        "DateString": "2026-02-26T20:00:00.0000000",
+        "Url": "https://www.emotia.be/piet-de-praitere",
+        "ImageUrl": "",
+        "Location": "Cultuurhuis EMotia",
+        "Description": "The best of the best",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9226",
+        "Longitude": "3.9453"
+      }
+    ]
   },
   {
     "ScraperName": "FourAdScraper",
@@ -1078,9 +1140,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.1462114Z",
-    "StartedAt": "2026-04-27T06:00:00.2525188Z",
-    "FinishedAt": "2026-04-27T06:00:02.1462084Z",
+    "RunTime": "2026-04-27T10:00:01.4694702Z",
+    "StartedAt": "2026-04-27T10:00:00.3745379Z",
+    "FinishedAt": "2026-04-27T10:00:01.4694674Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -1174,9 +1236,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:11.2473731Z",
-    "StartedAt": "2026-04-27T06:00:00.2526691Z",
-    "FinishedAt": "2026-04-27T06:00:11.2473704Z",
+    "RunTime": "2026-04-27T10:00:11.698824Z",
+    "StartedAt": "2026-04-27T10:00:00.3746206Z",
+    "FinishedAt": "2026-04-27T10:00:11.6988077Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1242,7 +1304,7 @@
         "Year": 2026,
         "FileName": "hetdepot-11-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-11-2026.json",
-        "Hash": "979143ef967495080d9b1cd02f668d7dd7306197000a26b71dd9b69b3971e81c",
+        "Hash": "20aa952e2c99389dd3c1fcc60a1ee1d9ccb46b562b041700e5e512554edf304d",
         "EventCount": 13,
         "Status": "Success",
         "ErrorMessage": null
@@ -1290,9 +1352,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:21.2347666Z",
-    "StartedAt": "2026-04-27T06:00:00.25286Z",
-    "FinishedAt": "2026-04-27T06:00:21.2344166Z",
+    "RunTime": "2026-04-27T10:00:37.6294477Z",
+    "StartedAt": "2026-04-27T10:00:00.3824633Z",
+    "FinishedAt": "2026-04-27T10:00:37.6294448Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -1366,9 +1428,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:03.0109493Z",
-    "StartedAt": "2026-04-27T06:00:00.2530193Z",
-    "FinishedAt": "2026-04-27T06:00:03.010946Z",
+    "RunTime": "2026-04-27T10:00:01.11959Z",
+    "StartedAt": "2026-04-27T10:00:00.3825694Z",
+    "FinishedAt": "2026-04-27T10:00:01.1195876Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -1402,9 +1464,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:05.5657124Z",
-    "StartedAt": "2026-04-27T06:00:00.253185Z",
-    "FinishedAt": "2026-04-27T06:00:05.5657096Z",
+    "RunTime": "2026-04-27T10:00:05.5380245Z",
+    "StartedAt": "2026-04-27T10:00:00.3826445Z",
+    "FinishedAt": "2026-04-27T10:00:05.5380218Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1413,7 +1475,7 @@
     "VenueId": "trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 45,
+    "TotalEventsFound": 31,
     "MonthlyFiles": [
       {
         "Month": 4,
@@ -1430,114 +1492,19 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "9499411b23ff16066ee8fac6db952aefb3924bb5733a6107487593c7775602e5",
-        "EventCount": 35,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
-        "Month": 6,
-        "Year": 2026,
-        "FileName": "trix-06-2026.json",
-        "FilePath": "events/concerts/trix/trix-06-2026.json",
-        "Hash": "90c4996b24833b49cebb12ad84da89219fd91a3083acbd79f397c630ed44029f",
-        "EventCount": 7,
+        "Hash": "bbd6d445db4267d70b6d03564b2e710bfcdf7c35ad78478ce49acbdb2df15571",
+        "EventCount": 28,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:05.4678139Z",
-    "StartedAt": "2026-04-27T06:00:00.2533077Z",
-    "FinishedAt": "2026-04-27T06:00:05.4678119Z",
+    "RunTime": "2026-04-27T10:00:03.6717225Z",
+    "StartedAt": "2026-04-27T10:00:00.3827167Z",
+    "FinishedAt": "2026-04-27T10:00:03.6717197Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
-    "NewEvents": [
-      {
-        "Title": "Antony Szmierek",
-        "DateString": "2026-05-27T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/antony-szmierek/4040/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Po\u00EBzie die beweegt, beats die raken, Antony Szmierek brengt spoken word en clubmuziek samen.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Toonmoment DJ-workshop / onder begeleiding van Lolalita",
-        "DateString": "2026-05-27T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/toonmoment-dj-workshop/4057/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Onder het goedkeurend oog van LOLALITA leerden een aantal enthousiaste talenten de fijne kneepjes van het DJ-vak.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Plini / Sungazer",
-        "DateString": "2026-05-28T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/plini/3969/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Progrock, metal en verfijnde melodie\u00EBn smelten samen in Plini\u2019s meeslepende liveperformance, waarin elke gitaarsolo je meevoert door zijn instrumentale wereld.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Seafret",
-        "DateString": "2026-05-29T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/seafret/4087/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Tien jaar na hun doorbraak met \u0022Atlantis\u0022 herontdekt Seafret zichzelf met een rijker, emotioneel gelaagd geluid.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "JMSN / Samy Sharif",
-        "DateString": "2026-05-30T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/jmsn/4102/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "JMSN uit Detroit is een geprezen zanger, producer en live-artiest die soul, dream-pop en DIY-creativiteit samenbrengt.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "LANY",
-        "DateString": "2026-05-31T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/lany/4003/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/260531-lanywebsite.png",
-        "Location": "Trix",
-        "Description": "LANY bouwt sinds 2014 aan een eigen universum van sfeervolle pop waarin melancholie, eenvoud en precisie samenkomen.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      },
-      {
-        "Title": "Elio Mei",
-        "DateString": "2026-05-31T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/elio-mei/4092/",
-        "ImageUrl": "",
-        "Location": "Trix",
-        "Description": "Dit concert is afgelast! Alle tickets worden automatisch terugbetaald.",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "VaartKapoenScraper",
@@ -1609,9 +1576,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:06.0973282Z",
-    "StartedAt": "2026-04-27T06:00:00.2534728Z",
-    "FinishedAt": "2026-04-27T06:00:06.0973251Z",
+    "RunTime": "2026-04-27T10:00:05.8407658Z",
+    "StartedAt": "2026-04-27T10:00:00.3827996Z",
+    "FinishedAt": "2026-04-27T10:00:05.8407634Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -1695,9 +1662,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:01:04.0390093Z",
-    "StartedAt": "2026-04-27T06:00:00.2564521Z",
-    "FinishedAt": "2026-04-27T06:01:04.0390065Z",
+    "RunTime": "2026-04-27T10:01:02.4564755Z",
+    "StartedAt": "2026-04-27T10:00:00.3828842Z",
+    "FinishedAt": "2026-04-27T10:01:02.4564717Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -1791,9 +1758,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.0482231Z",
-    "StartedAt": "2026-04-27T06:00:00.2595218Z",
-    "FinishedAt": "2026-04-27T06:00:02.0482201Z",
+    "RunTime": "2026-04-27T10:00:01.5349343Z",
+    "StartedAt": "2026-04-27T10:00:00.3829719Z",
+    "FinishedAt": "2026-04-27T10:00:01.5349309Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   },
@@ -1837,9 +1804,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:03.1555376Z",
-    "StartedAt": "2026-04-27T06:00:00.2605167Z",
-    "FinishedAt": "2026-04-27T06:00:03.1555343Z",
+    "RunTime": "2026-04-27T10:00:02.7717274Z",
+    "StartedAt": "2026-04-27T10:00:00.3830476Z",
+    "FinishedAt": "2026-04-27T10:00:02.7717248Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -1852,9 +1819,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:06.3897191Z",
-    "StartedAt": "2026-04-27T06:00:00.261051Z",
-    "FinishedAt": "2026-04-27T06:00:06.3897169Z",
+    "RunTime": "2026-04-27T10:00:04.8392838Z",
+    "StartedAt": "2026-04-27T10:00:00.3831697Z",
+    "FinishedAt": "2026-04-27T10:00:04.8392143Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -1898,9 +1865,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.2441248Z",
-    "StartedAt": "2026-04-27T06:00:00.2616158Z",
-    "FinishedAt": "2026-04-27T06:00:02.2441216Z",
+    "RunTime": "2026-04-27T10:00:03.0764763Z",
+    "StartedAt": "2026-04-27T10:00:00.3832403Z",
+    "FinishedAt": "2026-04-27T10:00:03.0764731Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -1984,9 +1951,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:04.0702844Z",
-    "StartedAt": "2026-04-27T06:00:00.2622546Z",
-    "FinishedAt": "2026-04-27T06:00:04.0702811Z",
+    "RunTime": "2026-04-27T10:00:02.928278Z",
+    "StartedAt": "2026-04-27T10:00:00.3833181Z",
+    "FinishedAt": "2026-04-27T10:00:02.9282747Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -2010,9 +1977,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:02.9154942Z",
-    "StartedAt": "2026-04-27T06:00:00.2629965Z",
-    "FinishedAt": "2026-04-27T06:00:02.9154913Z",
+    "RunTime": "2026-04-27T10:00:02.7089496Z",
+    "StartedAt": "2026-04-27T10:00:00.3833979Z",
+    "FinishedAt": "2026-04-27T10:00:02.7089468Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -2036,9 +2003,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:03.0154455Z",
-    "StartedAt": "2026-04-27T06:00:00.2638161Z",
-    "FinishedAt": "2026-04-27T06:00:03.0154421Z",
+    "RunTime": "2026-04-27T10:00:01.2058907Z",
+    "StartedAt": "2026-04-27T10:00:00.3834758Z",
+    "FinishedAt": "2026-04-27T10:00:01.2058879Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -2062,9 +2029,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:03.0131512Z",
-    "StartedAt": "2026-04-27T06:00:00.2646327Z",
-    "FinishedAt": "2026-04-27T06:00:03.0131477Z",
+    "RunTime": "2026-04-27T10:00:01.1034426Z",
+    "StartedAt": "2026-04-27T10:00:00.3835531Z",
+    "FinishedAt": "2026-04-27T10:00:01.1034395Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -2118,9 +2085,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:52.2491979Z",
-    "StartedAt": "2026-04-27T06:00:00.2654153Z",
-    "FinishedAt": "2026-04-27T06:00:52.249195Z",
+    "RunTime": "2026-04-27T10:00:49.5382731Z",
+    "StartedAt": "2026-04-27T10:00:00.3836361Z",
+    "FinishedAt": "2026-04-27T10:00:49.5382706Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -2214,9 +2181,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-04-27T06:00:18.450242Z",
-    "StartedAt": "2026-04-27T06:00:00.2660448Z",
-    "FinishedAt": "2026-04-27T06:00:18.450239Z",
+    "RunTime": "2026-04-27T10:00:19.1779641Z",
+    "StartedAt": "2026-04-27T10:00:00.383716Z",
+    "FinishedAt": "2026-04-27T10:00:19.1779611Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   }
