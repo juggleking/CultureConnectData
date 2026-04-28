@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-04-27T05:00:00.409121Z",
-  "ValidatedAt": "2026-04-27T05:00:00.4091211Z",
+  "GeneratedAt": "2026-04-28T05:00:00.3837561Z",
+  "ValidatedAt": "2026-04-28T05:00:00.3837562Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1306,
+  "TotalEvents": 1308,
   "TotalErrors": 0,
-  "TotalWarnings": 587,
+  "TotalWarnings": 586,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,50 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 177,
+      "TotalEvents": 174,
       "ErrorCount": 0,
-      "WarningCount": 177,
+      "WarningCount": 174,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Skillet",
-          "EventDate": "2026-04-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/skillet/a10Qw000009ZgNPIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "2L",
-          "EventDate": "2026-04-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/2l/a10Qw00000Fw7jdIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nina Vanhoenacker presents 'An Unbalanced Piece Of Wood'",
-          "EventDate": "2026-04-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nina-vanhoenacker-presents-an-unbalanced-piece-of-wood/a10Qw00000HIh1VIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-27T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "La Jungle",
           "EventDate": "2026-04-28T00:00:00.0000000",
@@ -117,9 +78,9 @@
           ]
         },
         {
-          "EventTitle": "Triggerfinger + Hideous",
+          "EventTitle": "Seefeel + echofarmer",
           "EventDate": "2026-04-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/triggerfinger/a10Qw000009UZkjIAG",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/seefeel/a10Qw00000ELgCIIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -130,9 +91,9 @@
           ]
         },
         {
-          "EventTitle": "Seefeel + echofarmer",
+          "EventTitle": "Triggerfinger + Hideous",
           "EventDate": "2026-04-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/seefeel/a10Qw00000ELgCIIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/triggerfinger/a10Qw000009UZkjIAG",
           "Issues": [
             {
               "Field": "DateString",
@@ -416,9 +377,9 @@
           ]
         },
         {
-          "EventTitle": "Doodseskader + Nemode",
+          "EventTitle": "Robert Jon & The Wreck + Boogie Beasts",
           "EventDate": "2026-05-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/doodseskader/a10Qw00000F4rb4IAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/robert-jon-the-wreck/a10Qw000007YuOlIAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -429,9 +390,9 @@
           ]
         },
         {
-          "EventTitle": "Robert Jon & The Wreck + Boogie Beasts",
+          "EventTitle": "Doodseskader + Nemode",
           "EventDate": "2026-05-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/robert-jon-the-wreck/a10Qw000007YuOlIAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/doodseskader/a10Qw00000F4rb4IAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2332,7 +2293,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 111,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2369,9 +2330,9 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 60,
+      "TotalEvents": 61,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
         {
@@ -2921,6 +2882,19 @@
           ]
         },
         {
+          "EventTitle": "COIO3 (Soyuz)",
+          "EventDate": "2026-10-20T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/soyuz",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Teenage Fanclub",
           "EventDate": "2026-10-24T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/teenage-fanclub",
@@ -3170,24 +3144,11 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 10,
+      "TotalEvents": 9,
       "ErrorCount": 0,
-      "WarningCount": 10,
+      "WarningCount": 9,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Zilverscherm: Downton Abbey 3",
-          "EventDate": "2026-04-27",
-          "EventUrl": "https://www.cczoetegem.be/programma/zilverscherm-downton-abbey-3.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-27"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciné Local: L'intérêt d'Adam",
           "EventDate": "2026-04-28",
@@ -3864,7 +3825,7 @@
       "ScraperId": "emotia",
       "ScraperName": "emotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 30,
+      "TotalEvents": 31,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3874,24 +3835,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 49,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 49,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "My Sleeping Karma + Colour Haze",
-          "EventDate": "2026-04-27T00:00:00",
-          "EventUrl": "https://decasino.be/concert/my-sleeping-karma-colour-haze/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-27T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-27T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Sin City Burning / Titans",
           "EventDate": "2026-04-29T00:00:00",
@@ -3909,6 +3857,19 @@
           "EventTitle": "Lawijtstrijd / Voorronde 3 / JH Okapi",
           "EventDate": "2026-05-02T00:00:00",
           "EventUrl": "https://decasino.be/concert/lawijtstrijd-voorronde-3-jh-okapi/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-02T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "C L U B Casino / Jan Van Den Bossche",
+          "EventDate": "2026-05-02T00:00:00",
+          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-jan-van-den-bossche/",
           "Issues": [
             {
               "Field": "DateString",
@@ -3945,6 +3906,19 @@
           ]
         },
         {
+          "EventTitle": "C L U B Casino / Dyango Unchained",
+          "EventDate": "2026-05-09T00:00:00",
+          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-dyango-unchained/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-09T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-09T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Carte Blanche / Seppe Van Tilborg invites",
           "EventDate": "2026-05-13T00:00:00",
           "EventUrl": "https://decasino.be/concert/carte-blanche/",
@@ -3971,6 +3945,19 @@
           ]
         },
         {
+          "EventTitle": "C L U B Casino / One-T",
+          "EventDate": "2026-05-16T00:00:00",
+          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-one-t/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-16T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-16T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Welcome to the Jazzclub / Green Mean Machine",
           "EventDate": "2026-05-17T00:00:00",
           "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-green-mean-machine/",
@@ -3980,6 +3967,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-17T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-05-17T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "C L U B Casino / Pimpish",
+          "EventDate": "2026-05-23T00:00:00",
+          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-pimpish-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-23T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-23T00:00:00"
             }
           ]
         },
@@ -4006,6 +4006,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-06-03T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Riri (by Goestink)",
+          "EventDate": "2026-06-05T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-riri-by-goestink-10/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-05T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-05T00:00:00"
             }
           ]
         },
@@ -4522,7 +4535,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 101,
+      "TotalEvents": 102,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4532,24 +4545,11 @@
       "ScraperId": "dezwerver",
       "ScraperName": "dezwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Cat Clyde + Maya Teklal",
-          "EventDate": "2026-04-27T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/236-cat-clyde/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-27T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-27T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Hiele + Sergeant",
           "EventDate": "2026-05-01T00:00:00",
@@ -5604,9 +5604,9 @@
       "ScraperId": "ha",
       "ScraperName": "haScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 43,
+      "TotalEvents": 42,
       "ErrorCount": 0,
-      "WarningCount": 43,
+      "WarningCount": 42,
       "Issues": [],
       "EventDetails": [
         {
@@ -6065,19 +6065,6 @@
           ]
         },
         {
-          "EventTitle": "Zap Mama & K.ZIA",
-          "EventDate": "2026-10-24T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/zap-mama-en-k.zia-24-10-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-24T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Ezhel",
           "EventDate": "2026-10-27T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/ezhel-27-10-26",
@@ -6174,7 +6161,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 64,
+      "TotalEvents": 63,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7552,7 +7539,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 170,
+      "TotalEvents": 171,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7589,7 +7576,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 31,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
