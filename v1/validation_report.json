@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-01T05:00:00.4223705Z",
-  "ValidatedAt": "2026-05-01T05:00:00.4223706Z",
+  "GeneratedAt": "2026-05-02T05:00:00.4062693Z",
+  "ValidatedAt": "2026-05-02T05:00:00.4062694Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1333,
+  "TotalEvents": 1334,
   "TotalErrors": 0,
-  "TotalWarnings": 583,
+  "TotalWarnings": 580,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 177,
+      "TotalEvents": 174,
       "ErrorCount": 0,
-      "WarningCount": 177,
+      "WarningCount": 174,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "TK",
-          "EventDate": "2026-05-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tk/a10Qw00000GrWjhIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "United Sluts Party + Tracy De Sá, Deize Tigrona, Jamal Phoenix, RaqL, Nice girls piss in pink",
-          "EventDate": "2026-05-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/united-sluts-party/a10Qw00000GFeaDIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-01T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "go BOOM x AB: Start Your Band! Extreme Vocals Workshop",
           "EventDate": "2026-05-02T00:00:00.0000000",
@@ -273,9 +247,9 @@
           ]
         },
         {
-          "EventTitle": "Robert Jon & The Wreck + Boogie Beasts",
+          "EventTitle": "Doodseskader + Nemode",
           "EventDate": "2026-05-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/robert-jon-the-wreck/a10Qw000007YuOlIAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/doodseskader/a10Qw00000F4rb4IAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -286,9 +260,9 @@
           ]
         },
         {
-          "EventTitle": "Doodseskader + Nemode",
+          "EventTitle": "Robert Jon & The Wreck + Boogie Beasts",
           "EventDate": "2026-05-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/doodseskader/a10Qw00000F4rb4IAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/robert-jon-the-wreck/a10Qw000007YuOlIAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -945,19 +919,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-16T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
-          "EventDate": "2026-06-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-wblck-mamba-dj-workshop-intermediate/a10Qw00000FqD2BIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00.0000000"
             }
           ]
         },
@@ -2332,7 +2293,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 115,
+      "TotalEvents": 114,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3298,9 +3259,9 @@
       "ScraperId": "aff",
       "ScraperName": "affScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 11,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 12,
       "Issues": [],
       "EventDetails": [
         {
@@ -3445,6 +3406,19 @@
               "ActualValue": "2026-12-11"
             }
           ]
+        },
+        {
+          "EventTitle": "Sam Bettens",
+          "EventDate": "2026-12-12",
+          "EventUrl": "https://aff.be/events/sambettens/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-12"
+            }
+          ]
         }
       ]
     },
@@ -3459,14 +3433,14 @@
       "EventDetails": [
         {
           "EventTitle": "Opus Apparatus",
-          "EventDate": "2026-05-01T00:00:00.0000000",
+          "EventDate": "2026-05-02T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/opus-apparatus",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-01T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-05-01T00:00:00.0000000"
+              "ActualValue": "2026-05-02T00:00:00.0000000"
             }
           ]
         },
@@ -4561,7 +4535,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 101,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4571,24 +4545,11 @@
       "ScraperId": "dezwerver",
       "ScraperName": "dezwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Hiele + Sergeant",
-          "EventDate": "2026-05-01T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/255-hiele-sergeant/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-01T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-01T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Jan Jaap van der Wal",
           "EventDate": "2026-05-15T00:00:00",
@@ -5607,7 +5568,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 10,
+      "TotalEvents": 9,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6148,7 +6109,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 65,
+      "TotalEvents": 64,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6158,7 +6119,7 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 20,
+      "TotalEvents": 19,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7526,7 +7487,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 162,
+      "TotalEvents": 159,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7563,7 +7524,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7841,7 +7802,7 @@
       "ScraperId": "wintercircus",
       "ScraperName": "wintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 43,
+      "TotalEvents": 40,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
