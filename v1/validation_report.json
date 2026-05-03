@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-02T05:00:00.4062693Z",
-  "ValidatedAt": "2026-05-02T05:00:00.4062694Z",
+  "GeneratedAt": "2026-05-03T05:00:00.3829632Z",
+  "ValidatedAt": "2026-05-03T05:00:00.3829633Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1334,
+  "TotalEvents": 1282,
   "TotalErrors": 0,
-  "TotalWarnings": 580,
+  "TotalWarnings": 570,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,63 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 174,
+      "TotalEvents": 171,
       "ErrorCount": 0,
-      "WarningCount": 174,
+      "WarningCount": 171,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "go BOOM x AB: Start Your Band! Extreme Vocals Workshop",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/go-boom-x-ab-start-your-band-extreme-vocals-workshop/a10Qw00000Ff3qvIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Impro'Night Aladar",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/impronight-aladar/a10Qw00000FrWFdIAN",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Metejoor",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/metejoor/a10Qw0000071uPDIAY",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dyce",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dyce/a10Qw00000FRiynIAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Orcutt Shelley Miller",
           "EventDate": "2026-05-03T00:00:00.0000000",
@@ -273,9 +221,9 @@
           ]
         },
         {
-          "EventTitle": "Blue",
+          "EventTitle": "Florry",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/blue/a10Qw000009gS7ZIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/florry/a10Qw00000CzKUMIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -286,9 +234,9 @@
           ]
         },
         {
-          "EventTitle": "Florry",
+          "EventTitle": "Blue",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/florry/a10Qw00000CzKUMIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/blue/a10Qw000009gS7ZIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -919,6 +867,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-16T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
+          "EventDate": "2026-06-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-wblck-mamba-dj-workshop-intermediate/a10Qw00000FqD2BIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-17T00:00:00.0000000"
             }
           ]
         },
@@ -2293,7 +2254,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 114,
+      "TotalEvents": 110,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2330,24 +2291,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 61,
+      "TotalEvents": 60,
       "ErrorCount": 0,
-      "WarningCount": 61,
+      "WarningCount": 60,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Das Pop",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/das-pop",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
           "EventDate": "2026-05-02T00:00:00.0000000",
@@ -3426,24 +3374,11 @@
       "ScraperId": "cecilia",
       "ScraperName": "ceciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 9,
+      "TotalEvents": 8,
       "ErrorCount": 0,
-      "WarningCount": 9,
+      "WarningCount": 8,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Opus Apparatus",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/opus-apparatus",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Grysde",
           "EventDate": "2026-05-09T00:00:00.0000000",
@@ -3796,37 +3731,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 56,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Lawijtstrijd / Voorronde 3 / JH Okapi",
-          "EventDate": "2026-05-02T00:00:00",
-          "EventUrl": "https://decasino.be/concert/lawijtstrijd-voorronde-3-jh-okapi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "C L U B Casino / Jan Van Den Bossche",
-          "EventDate": "2026-05-02T00:00:00",
-          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-jan-van-den-bossche/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Casino Brass Ensemble presents: Dance Baroque & Brass",
           "EventDate": "2026-05-03T00:00:00",
@@ -4535,7 +4444,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 100,
+      "TotalEvents": 99,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4686,24 +4595,11 @@
       "ScraperId": "democrazy",
       "ScraperName": "democrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "MEROL - Leve de Feeks",
-          "EventDate": "2026-05-02",
-          "EventUrl": "https://www.democrazy.be/agenda/3189-merol/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02"
-            }
-          ]
-        },
         {
           "EventTitle": "Big Next: SOAPBOX - + SEXTC",
           "EventDate": "2026-05-06",
@@ -6109,7 +6005,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 64,
+      "TotalEvents": 63,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6119,7 +6015,7 @@
       "ScraperId": "n9",
       "ScraperName": "n9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 19,
+      "TotalEvents": 18,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7487,7 +7383,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 159,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7524,7 +7420,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 29,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7534,37 +7430,11 @@
       "ScraperId": "vaartkapoen",
       "ScraperName": "vaartkapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 19,
+      "TotalEvents": 17,
       "ErrorCount": 0,
-      "WarningCount": 19,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Alexander Flood + KAU",
-          "EventDate": "2026-05-01T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/alexander-flood-kau",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-01T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-01T22:00:00Z"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BX.CULTURE- The Archive Sessions 2",
-          "EventDate": "2026-05-01T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/bxculture-archive-sessions-2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-01T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-01T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "DakhaBrakha",
           "EventDate": "2026-05-04T22:00:00Z",
@@ -7792,7 +7662,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 36,
+      "TotalEvents": 35,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
