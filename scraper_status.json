@@ -71,7 +71,7 @@
         "Year": 2026,
         "FileName": "ab-11-2026.json",
         "FilePath": "events/concerts/ab/ab-11-2026.json",
-        "Hash": "d45df4a17a056662c9d86c7ec1e7a6f78d4fd34a3c4d3546e9157314b49f59d8",
+        "Hash": "81e04804e1c5d94f602cc2657a1e8fd3952c1ab29dcaf8a0db6e3b2ce31a3b86",
         "EventCount": 25,
         "Status": "Success",
         "ErrorMessage": null
@@ -129,9 +129,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:07.063176Z",
-    "StartedAt": "2026-05-04T06:00:00.2824641Z",
-    "FinishedAt": "2026-05-04T06:00:07.0631731Z",
+    "RunTime": "2026-05-04T10:00:05.3805989Z",
+    "StartedAt": "2026-05-04T10:00:00.4035748Z",
+    "FinishedAt": "2026-05-04T10:00:05.3805961Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -140,7 +140,7 @@
     "VenueId": "aff",
     "VenueName": "Club AFF / Absolutely Free Festival",
     "Category": "Concerts",
-    "TotalEventsFound": 12,
+    "TotalEventsFound": 13,
     "MonthlyFiles": [
       {
         "Month": 5,
@@ -187,8 +187,8 @@
         "Year": 2026,
         "FileName": "aff-10-2026.json",
         "FilePath": "events/concerts/aff/aff-10-2026.json",
-        "Hash": "4aadbabea6d3cf379c41b8b010aaeec16fc36d0902d0fe3fba9b1945309585ad",
-        "EventCount": 1,
+        "Hash": "043448b161225c1047437bc33f894c58a684fe5705523beffb70f3ab623c326a",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -215,18 +215,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:03.3113643Z",
-    "StartedAt": "2026-05-04T06:00:00.2841934Z",
-    "FinishedAt": "2026-05-04T06:00:03.3113616Z",
+    "RunTime": "2026-05-04T10:00:02.7766599Z",
+    "StartedAt": "2026-05-04T10:00:00.4074006Z",
+    "FinishedAt": "2026-05-04T10:00:02.7766578Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "High Hi",
+        "DateString": "2026-10-17",
+        "Url": "https://aff.be/events/highhi/",
+        "ImageUrl": "https://aff.be/media/2026/04/AFF26_HighHi_socials_web-scaled.jpg",
+        "Location": "Genk",
+        "Description": "Het Antwerpse High Hi heeft steevast een eigen, kenmerkende plek gevonden tussen dromerige indie en uitgepuurde popsongs. Het trio bouwde [\u2026]",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9655",
+        "Longitude": "5.5001"
+      }
+    ]
   },
   {
     "ScraperName": "BotaniqueScraper",
     "VenueId": "botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 107,
+    "TotalEventsFound": 108,
     "MonthlyFiles": [
       {
         "Month": 5,
@@ -313,26 +326,39 @@
         "Year": 2027,
         "FileName": "botanique-02-2027.json",
         "FilePath": "events/concerts/botanique/botanique-02-2027.json",
-        "Hash": "99930432d77ab07ceca591367eebfe0575d4a4a98ed816d7fa5bea48eac49297",
-        "EventCount": 2,
+        "Hash": "81b166a5f87506bb36e8174765302ea8542c57aa50189a4ce75d414e4f5012f0",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:13.1861065Z",
-    "StartedAt": "2026-05-04T06:00:00.2843821Z",
-    "FinishedAt": "2026-05-04T06:00:13.1861023Z",
+    "RunTime": "2026-05-04T10:00:14.1078452Z",
+    "StartedAt": "2026-05-04T10:00:00.407857Z",
+    "FinishedAt": "2026-05-04T10:00:14.1078421Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "REVNOIR",
+        "DateString": "2027-02-07T17:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/revnoir-2027",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-04/Square_RVNR.jpeg?itok=mdpFO4r2",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
     "VenueId": "cactus",
     "VenueName": "Cactus Muziekcentrum, Brugge",
     "Category": "Concerts",
-    "TotalEventsFound": 58,
+    "TotalEventsFound": 59,
     "MonthlyFiles": [
       {
         "Month": 5,
@@ -389,8 +415,8 @@
         "Year": 2026,
         "FileName": "cactus-10-2026.json",
         "FilePath": "events/concerts/cactus/cactus-10-2026.json",
-        "Hash": "dcefb5da85a2493e1ae1623d2de2421cf9c4539c5b799a6008eb80a5fc501df5",
-        "EventCount": 10,
+        "Hash": "d14bfdd29fdd7805bdb45c20941032b11e246972f7dc24c60da1d9e0e1849bcd",
+        "EventCount": 11,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -437,18 +463,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.2681594Z",
-    "StartedAt": "2026-05-04T06:00:00.2844709Z",
-    "FinishedAt": "2026-05-04T06:00:01.2681561Z",
+    "RunTime": "2026-05-04T10:00:01.3437462Z",
+    "StartedAt": "2026-05-04T10:00:00.4079772Z",
+    "FinishedAt": "2026-05-04T10:00:01.3437439Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "High Hi",
+        "DateString": "2026-10-15T00:00:00.0000000",
+        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/high-hi",
+        "ImageUrl": "",
+        "Location": "Cactus Club",
+        "Description": "Het strakste powerpop trio van Belgi\u00EB keert terug naar Cactus Club.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1966",
+        "Longitude": "3.2257"
+      }
+    ]
   },
   {
     "ScraperName": "DeCasinoScraper",
     "VenueId": "decasino",
     "VenueName": "De Casino",
     "Category": "Concerts",
-    "TotalEventsFound": 53,
+    "TotalEventsFound": 55,
     "MonthlyFiles": [
       {
         "Month": 5,
@@ -495,8 +534,8 @@
         "Year": 2026,
         "FileName": "decasino-10-2026.json",
         "FilePath": "events/concerts/decasino/decasino-10-2026.json",
-        "Hash": "051d7c30e0c432a667b76f957b7aa61f653ce077e5d3d1cf2b609c7059984b50",
-        "EventCount": 9,
+        "Hash": "b9e3982bfad3cb42d5b23f5df99dfb6bf87df916d5dd88ab8130b955476b42b2",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -505,8 +544,8 @@
         "Year": 2026,
         "FileName": "decasino-11-2026.json",
         "FilePath": "events/concerts/decasino/decasino-11-2026.json",
-        "Hash": "d7d3312bd72445fda37099035ff8538fc6d8bb0edd36bddb187104345172abcc",
-        "EventCount": 9,
+        "Hash": "cc4c998f3b65ecfbcd74c0f80cd2cef4fb7bdf57026c466d1cd86c4a46511c33",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -543,11 +582,36 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.5393933Z",
-    "StartedAt": "2026-05-04T06:00:00.2845487Z",
-    "FinishedAt": "2026-05-04T06:00:01.5393787Z",
+    "RunTime": "2026-05-04T10:00:01.4236977Z",
+    "StartedAt": "2026-05-04T10:00:00.4080449Z",
+    "FinishedAt": "2026-05-04T10:00:01.423695Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "High Hi",
+        "DateString": "2026-10-16T00:00:00",
+        "Url": "https://decasino.be/concert/high-hi-2/",
+        "ImageUrl": "",
+        "Location": "De Casino",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1692",
+        "Longitude": "4.1422"
+      },
+      {
+        "Title": "Flamenco INSPIRACI\u00D3N by Patricio Grande",
+        "DateString": "2026-11-15T00:00:00",
+        "Url": "https://decasino.be/concert/flamenco-inspiracion-by-patricio-grande/",
+        "ImageUrl": "",
+        "Location": "De Casino",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1692",
+        "Longitude": "4.1422"
+      }
+    ]
   },
   {
     "ScraperName": "DemocrazyScraper",
@@ -561,7 +625,7 @@
         "Year": 2026,
         "FileName": "democrazy-05-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-05-2026.json",
-        "Hash": "1e34794a6246be00d048d4a67c145085dbbf743b6cf54c8992ee45d13147ee16",
+        "Hash": "c7431676d3c11341563ac6182a5eb8e3890de70e99a3388ffdef0310ae1efbdc",
         "EventCount": 23,
         "Status": "Success",
         "ErrorMessage": null
@@ -639,9 +703,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.2089392Z",
-    "StartedAt": "2026-05-04T06:00:00.2846238Z",
-    "FinishedAt": "2026-05-04T06:00:01.2089359Z",
+    "RunTime": "2026-05-04T10:00:01.351395Z",
+    "StartedAt": "2026-05-04T10:00:00.4081857Z",
+    "FinishedAt": "2026-05-04T10:00:01.3513919Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -765,9 +829,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:03.7247287Z",
-    "StartedAt": "2026-05-04T06:00:00.2846938Z",
-    "FinishedAt": "2026-05-04T06:00:03.7247261Z",
+    "RunTime": "2026-05-04T10:00:03.4735769Z",
+    "StartedAt": "2026-05-04T10:00:00.4082539Z",
+    "FinishedAt": "2026-05-04T10:00:03.4735745Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -780,9 +844,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:00.9925222Z",
-    "StartedAt": "2026-05-04T06:00:00.2847768Z",
-    "FinishedAt": "2026-05-04T06:00:00.9925198Z",
+    "RunTime": "2026-05-04T10:00:00.8523158Z",
+    "StartedAt": "2026-05-04T10:00:00.4083316Z",
+    "FinishedAt": "2026-05-04T10:00:00.8523141Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -836,9 +900,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.0477542Z",
-    "StartedAt": "2026-05-04T06:00:00.2848557Z",
-    "FinishedAt": "2026-05-04T06:00:01.0477514Z",
+    "RunTime": "2026-05-04T10:00:00.9369311Z",
+    "StartedAt": "2026-05-04T10:00:00.4084038Z",
+    "FinishedAt": "2026-05-04T10:00:00.9369281Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -962,9 +1026,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:03.0058547Z",
-    "StartedAt": "2026-05-04T06:00:00.2849267Z",
-    "FinishedAt": "2026-05-04T06:00:03.0058521Z",
+    "RunTime": "2026-05-04T10:00:01.6412219Z",
+    "StartedAt": "2026-05-04T10:00:00.4084751Z",
+    "FinishedAt": "2026-05-04T10:00:01.6412191Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1018,9 +1082,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:02.4413153Z",
-    "StartedAt": "2026-05-04T06:00:00.2850037Z",
-    "FinishedAt": "2026-05-04T06:00:02.4413118Z",
+    "RunTime": "2026-05-04T10:00:01.3203053Z",
+    "StartedAt": "2026-05-04T10:00:00.4085483Z",
+    "FinishedAt": "2026-05-04T10:00:01.3203025Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -1104,9 +1168,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:10.1630047Z",
-    "StartedAt": "2026-05-04T06:00:00.285151Z",
-    "FinishedAt": "2026-05-04T06:00:10.1630014Z",
+    "RunTime": "2026-05-04T10:00:11.8626479Z",
+    "StartedAt": "2026-05-04T10:00:00.4086221Z",
+    "FinishedAt": "2026-05-04T10:00:11.8626371Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -1115,7 +1179,7 @@
     "VenueId": "hetdepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 63,
+    "TotalEventsFound": 64,
     "MonthlyFiles": [
       {
         "Month": 5,
@@ -1152,8 +1216,8 @@
         "Year": 2026,
         "FileName": "hetdepot-10-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-10-2026.json",
-        "Hash": "49b44deef48e9f6122419c4724fed51f5a47bb1285bf4e28ec0a27943051c112",
-        "EventCount": 8,
+        "Hash": "a211d80647199fd6e5213d8730e67ebcaf8a4264693db6e5941b7a1005d5de9c",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1210,11 +1274,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:20.1106169Z",
-    "StartedAt": "2026-05-04T06:00:00.2852433Z",
-    "FinishedAt": "2026-05-04T06:00:20.1106143Z",
+    "RunTime": "2026-05-04T10:00:35.6516085Z",
+    "StartedAt": "2026-05-04T10:00:00.4086946Z",
+    "FinishedAt": "2026-05-04T10:00:35.6516062Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "High Hi",
+        "DateString": "2026-10-29T20:00:00",
+        "Url": "https://www.hetdepot.be/concert/2026/high-hi",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF000012zwDVYAY_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=yDH8P3Un",
+        "Location": "Het Depot, Leuven",
+        "Description": "Indiesnoepje High Hi balanceert dromerige introspectie met scherpe hooks in hun laatste wapenfeit \u0027Noonday Demon\u0027.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.7138"
+      }
+    ]
   },
   {
     "ScraperName": "N9Scraper",
@@ -1296,9 +1373,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.4156768Z",
-    "StartedAt": "2026-05-04T06:00:00.2853248Z",
-    "FinishedAt": "2026-05-04T06:00:01.4156596Z",
+    "RunTime": "2026-05-04T10:00:01.0437171Z",
+    "StartedAt": "2026-05-04T10:00:00.4087718Z",
+    "FinishedAt": "2026-05-04T10:00:01.0437134Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -1332,9 +1409,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:04.4296879Z",
-    "StartedAt": "2026-05-04T06:00:00.2853963Z",
-    "FinishedAt": "2026-05-04T06:00:04.4296643Z",
+    "RunTime": "2026-05-04T10:00:04.9133343Z",
+    "StartedAt": "2026-05-04T10:00:00.4088393Z",
+    "FinishedAt": "2026-05-04T10:00:04.91333Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -1350,7 +1427,7 @@
         "Year": 2026,
         "FileName": "trix-05-2026.json",
         "FilePath": "events/concerts/trix/trix-05-2026.json",
-        "Hash": "2d09ee300387632862ba7aa22ebd81f54547ed7a586e84eaedf559d99636fc3d",
+        "Hash": "2ff23b76225e84c63e1f89cd6c5e7e85a9b081606c777b925e7354dfcf340ee5",
         "EventCount": 30,
         "Status": "Success",
         "ErrorMessage": null
@@ -1358,9 +1435,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:03.7756426Z",
-    "StartedAt": "2026-05-04T06:00:00.2854646Z",
-    "FinishedAt": "2026-05-04T06:00:03.7756399Z",
+    "RunTime": "2026-05-04T10:00:02.7722147Z",
+    "StartedAt": "2026-05-04T10:00:00.4089055Z",
+    "FinishedAt": "2026-05-04T10:00:02.7722115Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
     "NewEvents": []
   },
@@ -1424,9 +1501,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:08.1584921Z",
-    "StartedAt": "2026-05-04T06:00:00.2855455Z",
-    "FinishedAt": "2026-05-04T06:00:08.1584896Z",
+    "RunTime": "2026-05-04T10:00:04.713738Z",
+    "StartedAt": "2026-05-04T10:00:00.4089821Z",
+    "FinishedAt": "2026-05-04T10:00:04.7133602Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -1435,7 +1512,7 @@
     "VenueId": "wildewesten",
     "VenueName": "Wilde Westen, Kortrijk",
     "Category": "Concerts",
-    "TotalEventsFound": 35,
+    "TotalEventsFound": 36,
     "MonthlyFiles": [
       {
         "Month": 5,
@@ -1462,8 +1539,8 @@
         "Year": 2026,
         "FileName": "wildewesten-10-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-10-2026.json",
-        "Hash": "26d18a24d221e3528fcf009a576b541464a6a798dcc0c1a98f0a5f8e01cdafaf",
-        "EventCount": 6,
+        "Hash": "1cca0c18ebbcc41af8b01d7af49c3133f279fb69f1eb6ecf180c017eb7c40ec9",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1510,11 +1587,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:59.8449373Z",
-    "StartedAt": "2026-05-04T06:00:00.2856203Z",
-    "FinishedAt": "2026-05-04T06:00:59.8449337Z",
+    "RunTime": "2026-05-04T10:01:01.0140053Z",
+    "StartedAt": "2026-05-04T10:00:00.4090552Z",
+    "FinishedAt": "2026-05-04T10:01:01.0140029Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "HIGH HI",
+        "DateString": "2026-10-30T19:30:00\u002B0100",
+        "Url": "https://www.wildewesten.be/nl/event/high-hi-2-1",
+        "ImageUrl": "https://www.wildewesten.be/media/cache/resolve/default_uitdatabank/upload/media/default/b7b4/24/0703f7ebcdfd306ab5532c39382f4bfab37381b9.jpg",
+        "Location": "De Kreun",
+        "Description": "Tickets on sale 6/05 vanaf 11 uur.Vanuit de rijke Belgische klei heeft dit drietal met zelfvertrouwen een eigen plek gecre\u00EBerd waar experiment en scherpe popgevoeligheid perfect samengaan. Het Antwerpse trio - Anne-Sophie Ooghe (zang, gitaar), Dieter Beerten (zang, drums) en Koen Weverbergh (bas) - begon met een dromerige, door shoegaze ge\u00EFnspireerde stijl die zich gaandeweg ontwikkelde tot een subtiele balans tussen introspectie en hooks.\u0026nbsp;Hun karakteristieke geluid - herkenbaar maar toch moeilijk te categoriseren - viel op bij M83 en kenner Steve Lamacq, wiens vroege ondersteuning op de BBC voor internationale erkenning zorgde. Het werk van de band, vooral het doorbraakalbum \u0022Firepool\u0022 en de ambitieuzere opvolger \u0022Return to Dust\u0022, toont een groep die consequent grenzen verlegt zonder toegankelijkheid te verliezen.\u0026nbsp;In een indielandschap dat steeds meer op herhaling gaat, hebben ze een eigen terrein afgebakend - wat suggereert dat hun meest indrukwekkende werk nog moet komen. Precies dat laten ze horen op hun nieuwste album \u2018Noonday Demon\u2019.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8244",
+        "Longitude": "3.2616"
+      }
+    ]
   },
   {
     "ScraperName": "WintercircusScraper",
@@ -1626,9 +1716,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.1073068Z",
-    "StartedAt": "2026-05-04T06:00:00.2857047Z",
-    "FinishedAt": "2026-05-04T06:00:01.1073036Z",
+    "RunTime": "2026-05-04T10:00:01.0321796Z",
+    "StartedAt": "2026-05-04T10:00:00.4092562Z",
+    "FinishedAt": "2026-05-04T10:00:01.0321769Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   },
@@ -1662,9 +1752,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:02.2665566Z",
-    "StartedAt": "2026-05-04T06:00:00.2857932Z",
-    "FinishedAt": "2026-05-04T06:00:02.2665538Z",
+    "RunTime": "2026-05-04T10:00:01.7954327Z",
+    "StartedAt": "2026-05-04T10:00:00.4181578Z",
+    "FinishedAt": "2026-05-04T10:00:01.7954284Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -1677,9 +1767,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:05.4978156Z",
-    "StartedAt": "2026-05-04T06:00:00.2858637Z",
-    "FinishedAt": "2026-05-04T06:00:05.4978137Z",
+    "RunTime": "2026-05-04T10:00:07.261676Z",
+    "StartedAt": "2026-05-04T10:00:00.4183293Z",
+    "FinishedAt": "2026-05-04T10:00:07.2616739Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -1713,9 +1803,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:03.1097441Z",
-    "StartedAt": "2026-05-04T06:00:00.2859239Z",
-    "FinishedAt": "2026-05-04T06:00:03.1097409Z",
+    "RunTime": "2026-05-04T10:00:04.5404835Z",
+    "StartedAt": "2026-05-04T10:00:00.4183876Z",
+    "FinishedAt": "2026-05-04T10:00:04.5404812Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -1779,9 +1869,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:02.9971887Z",
-    "StartedAt": "2026-05-04T06:00:00.2859989Z",
-    "FinishedAt": "2026-05-04T06:00:02.9971858Z",
+    "RunTime": "2026-05-04T10:00:02.598091Z",
+    "StartedAt": "2026-05-04T10:00:00.4184644Z",
+    "FinishedAt": "2026-05-04T10:00:02.5980878Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -1805,9 +1895,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.5965Z",
-    "StartedAt": "2026-05-04T06:00:00.2863Z",
-    "FinishedAt": "2026-05-04T06:00:01.5964966Z",
+    "RunTime": "2026-05-04T10:00:02.0724575Z",
+    "StartedAt": "2026-05-04T10:00:00.4185465Z",
+    "FinishedAt": "2026-05-04T10:00:02.0724544Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1816,26 +1906,39 @@
     "VenueId": "pukkelpop",
     "VenueName": "Pukkelpop",
     "Category": "Festival",
-    "TotalEventsFound": 113,
+    "TotalEventsFound": 114,
     "MonthlyFiles": [
       {
         "Month": 8,
         "Year": 2026,
         "FileName": "pukkelpop-08-2026.json",
         "FilePath": "events/festival/pukkelpop/pukkelpop-08-2026.json",
-        "Hash": "33465cfd03fc60937ce8ce082f5c8319e97bc0af9193822b7c4ec444d38f5860",
-        "EventCount": 113,
+        "Hash": "34fe7609686fe94f5c2eb85f5fc15225226359941da853efa26e1d56b1a32fc8",
+        "EventCount": 114,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.4264312Z",
-    "StartedAt": "2026-05-04T06:00:00.2864222Z",
-    "FinishedAt": "2026-05-04T06:00:01.4264281Z",
+    "RunTime": "2026-05-04T10:00:01.3544323Z",
+    "StartedAt": "2026-05-04T10:00:00.4186196Z",
+    "FinishedAt": "2026-05-04T10:00:01.3544291Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "DIW-VOORMIDDAGSOIR\u00C9E DEEL 2",
+        "DateString": "2026-08-16T12:00:00",
+        "Url": "https://www.pukkelpop.be/en/bands/diw-voormiddagsoiree-deel-2",
+        "ImageUrl": "https://www.pukkelpop.be/media/cache/default_card/upload/media/default/e754/11/3db2d38fbb9bc6e664460345c40ea17b22e110ac.jpg",
+        "Location": "Pukkelpop, Kiewit",
+        "Description": "DIW-VOORMIDDAGSOIR\u00C9E DEEL 2 live at Pukkelpop",
+        "Room": "Pukkelpop",
+        "Address": "Kiewit, 3500 Hasselt",
+        "Latitude": "50.9545",
+        "Longitude": "5.3491"
+      }
+    ]
   },
   {
     "ScraperName": "RockWerchterScraper",
@@ -1857,9 +1960,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:01.4105636Z",
-    "StartedAt": "2026-05-04T06:00:00.2864971Z",
-    "FinishedAt": "2026-05-04T06:00:01.4105607Z",
+    "RunTime": "2026-05-04T10:00:01.1444826Z",
+    "StartedAt": "2026-05-04T10:00:00.4186913Z",
+    "FinishedAt": "2026-05-04T10:00:01.144479Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1903,9 +2006,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:01:02.950874Z",
-    "StartedAt": "2026-05-04T06:00:00.2865711Z",
-    "FinishedAt": "2026-05-04T06:01:02.95087Z",
+    "RunTime": "2026-05-04T10:01:03.6255503Z",
+    "StartedAt": "2026-05-04T10:00:00.4187664Z",
+    "FinishedAt": "2026-05-04T10:01:03.6255472Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -1989,9 +2092,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-05-04T06:00:16.0527271Z",
-    "StartedAt": "2026-05-04T06:00:00.2866535Z",
-    "FinishedAt": "2026-05-04T06:00:16.0527232Z",
+    "RunTime": "2026-05-04T10:00:15.6647509Z",
+    "StartedAt": "2026-05-04T10:00:00.4188463Z",
+    "FinishedAt": "2026-05-04T10:00:15.6647261Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   }
