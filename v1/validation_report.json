@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-03T05:00:00.3829632Z",
-  "ValidatedAt": "2026-05-03T05:00:00.3829633Z",
+  "GeneratedAt": "2026-05-04T05:00:00.4793643Z",
+  "ValidatedAt": "2026-05-04T05:00:00.4793644Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1282,
+  "TotalEvents": 1284,
   "TotalErrors": 0,
-  "TotalWarnings": 570,
+  "TotalWarnings": 562,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -20,37 +20,11 @@
       "ScraperId": "ab",
       "ScraperName": "abScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 171,
+      "TotalEvents": 169,
       "ErrorCount": 0,
-      "WarningCount": 171,
+      "WarningCount": 169,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Orcutt Shelley Miller",
-          "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/orcutt-shelley-miller/a10Qw00000EIbYxIAL",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fischer-Z + Chloe Leigh",
-          "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/fischer-z/a10Qw000009YLhaIAG",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Redman & M.O.P",
           "EventDate": "2026-05-04T00:00:00.0000000",
@@ -221,9 +195,9 @@
           ]
         },
         {
-          "EventTitle": "Florry",
+          "EventTitle": "Blue",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/florry/a10Qw00000CzKUMIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/blue/a10Qw000009gS7ZIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -234,9 +208,9 @@
           ]
         },
         {
-          "EventTitle": "Blue",
+          "EventTitle": "Florry",
           "EventDate": "2026-05-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/blue/a10Qw000009gS7ZIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/florry/a10Qw00000CzKUMIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -2254,7 +2228,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 110,
+      "TotalEvents": 107,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2291,37 +2265,11 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 60,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "DISCO! - Soulmotion DJs All Night Long",
-          "EventDate": "2026-05-02T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-disco",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "W.I.T.C.H. (We Intend To Cause Havoc)",
-          "EventDate": "2026-05-03T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/witch",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Eydís Evensen",
           "EventDate": "2026-05-04T00:00:00.0000000",
@@ -3082,7 +3030,7 @@
       "ScraperId": "slh",
       "ScraperName": "slhScraper",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
-      "TotalEvents": 3,
+      "TotalEvents": 2,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3092,37 +3040,11 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 8,
+      "TotalEvents": 6,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Apero Klassiek: Andy Dhondt en Alexandros Sarakenidis",
-          "EventDate": "2026-05-03",
-          "EventUrl": "https://www.cczoetegem.be/programma/apero-klassiek-andy-dhondt-en-alexandros-sarakenidis.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lander Severins en Thomas Van Caeneghem - BOTSKOP (3+)",
-          "EventDate": "2026-05-03",
-          "EventUrl": "https://www.cczoetegem.be/programma/lander-severins-en-thomas-van-caeneghem-botskop-3.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03"
-            }
-          ]
-        },
         {
           "EventTitle": "STATIONTOSTATION: Serious Moonlight",
           "EventDate": "2026-05-08",
@@ -3489,24 +3411,11 @@
       "ScraperId": "dewerf",
       "ScraperName": "dewerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Arte Amanti",
-          "EventDate": "2026-05-03",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/arte-amanti/9124/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03"
-            }
-          ]
-        },
         {
           "EventTitle": "Ioannis Mandafounis / Dresden Frankfurt Dance Company (GR/DE)",
           "EventDate": "2026-05-07",
@@ -3731,24 +3640,11 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Casino Brass Ensemble presents: Dance Baroque & Brass",
-          "EventDate": "2026-05-03T00:00:00",
-          "EventUrl": "https://decasino.be/concert/casino-brass-ensemble-presents-dance-baroque-brass/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-03T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-03T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Das Pop",
           "EventDate": "2026-05-06T00:00:00",
@@ -4444,7 +4340,7 @@
       "ScraperId": "deroma",
       "ScraperName": "deromaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 99,
+      "TotalEvents": 98,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7383,7 +7279,7 @@
       "ScraperId": "toneelhuis",
       "ScraperName": "toneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 156,
+      "TotalEvents": 155,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7420,7 +7316,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 29,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
