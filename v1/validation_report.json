@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-04T05:00:00.4793643Z",
-  "ValidatedAt": "2026-05-04T05:00:00.4793644Z",
+  "GeneratedAt": "2026-05-05T05:00:00.6871187Z",
+  "ValidatedAt": "2026-05-05T05:00:00.6871188Z",
   "TotalScrapers": 26,
-  "TotalEvents": 1284,
+  "TotalEvents": 1268,
   "TotalErrors": 0,
-  "TotalWarnings": 562,
+  "TotalWarnings": 569,
   "Results": [
     {
       "ScraperId": "4ad",
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "EventTitle": "Ricky Bekstok",
+          "EventTitle": "Ricky Bekstok + xcelia",
           "EventDate": "2026-05-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ricky-bekstok/a10Qw00000FFo0fIAD",
           "Issues": [
@@ -130,9 +130,9 @@
           ]
         },
         {
-          "EventTitle": "Amenra + Use Knife",
+          "EventTitle": "Ifé Ogunjobi + Aghogho",
           "EventDate": "2026-05-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/amenra/a10Qw000008Iru9IAC",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ife-ogunjobi/a10Qw00000Fr9FpIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -143,9 +143,9 @@
           ]
         },
         {
-          "EventTitle": "Ifé Ogunjobi + Aghogho",
+          "EventTitle": "Amenra + Use Knife",
           "EventDate": "2026-05-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ife-ogunjobi/a10Qw00000Fr9FpIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/amenra/a10Qw000008Iru9IAC",
           "Issues": [
             {
               "Field": "DateString",
@@ -1534,7 +1534,7 @@
           ]
         },
         {
-          "EventTitle": "The Clockworks",
+          "EventTitle": "The Clockworks + Danny Blue",
           "EventDate": "2026-11-07T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-clockworks/a10Qw00000E8TG7IAN",
           "Issues": [
@@ -2228,7 +2228,7 @@
       "ScraperId": "botanique",
       "ScraperName": "botaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 107,
+      "TotalEvents": 108,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2265,9 +2265,9 @@
       "ScraperId": "cactus",
       "ScraperName": "cactusScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
         {
@@ -2739,6 +2739,19 @@
           ]
         },
         {
+          "EventTitle": "High Hi",
+          "EventDate": "2026-10-15T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/high-hi",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "DeVotchKa + Sons of Town Hall",
           "EventDate": "2026-10-18T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/devotchka-sons-of-town-hall",
@@ -3040,9 +3053,9 @@
       "ScraperId": "cczoetegem",
       "ScraperName": "cczoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 6,
+      "TotalEvents": 9,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 9,
       "Issues": [],
       "EventDetails": [
         {
@@ -3098,7 +3111,7 @@
           ]
         },
         {
-          "EventTitle": "Seizoenpresentatie 26/27: Durf kijken",
+          "EventTitle": "Seizoenpresentatie 26-27: Durf kijken",
           "EventDate": "2026-05-21",
           "EventUrl": "https://www.cczoetegem.be/programma/seizoenpresentatie-2627-durf-kijken.aspx",
           "Issues": [
@@ -3107,6 +3120,45 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-21'.",
               "Severity": 1,
               "ActualValue": "2026-05-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Infoavond Cyberveiligheid - Klik niet in de val!",
+          "EventDate": "2026-06-24",
+          "EventUrl": "https://www.cczoetegem.be/programma/online-oplichting-klik-niet-in-de-val.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Xander De Rycke",
+          "EventDate": "2026-10-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/xander-de-rycke.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Xander De Rycke",
+          "EventDate": "2026-10-22",
+          "EventUrl": "https://www.cczoetegem.be/programma/xander-de-rycke-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22"
             }
           ]
         },
@@ -3129,9 +3181,9 @@
       "ScraperId": "aff",
       "ScraperName": "affScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 12,
+      "TotalEvents": 13,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 13,
       "Issues": [],
       "EventDetails": [
         {
@@ -3196,6 +3248,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-09'.",
               "Severity": 1,
               "ActualValue": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "High Hi",
+          "EventDate": "2026-10-17",
+          "EventUrl": "https://aff.be/events/highhi/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17"
             }
           ]
         },
@@ -3640,9 +3705,9 @@
       "ScraperId": "decasino",
       "ScraperName": "decasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 53,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
         {
@@ -4127,6 +4192,19 @@
           ]
         },
         {
+          "EventTitle": "High Hi",
+          "EventDate": "2026-10-16T00:00:00",
+          "EventUrl": "https://decasino.be/concert/high-hi-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Novastar (solo)",
           "EventDate": "2026-10-23T00:00:00",
           "EventUrl": "https://decasino.be/concert/novastar-solo/",
@@ -4214,6 +4292,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-12T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-11-12T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Flamenco INSPIRACIÓN by Patricio Grande",
+          "EventDate": "2026-11-15T00:00:00",
+          "EventUrl": "https://decasino.be/concert/flamenco-inspiracion-by-patricio-grande/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15T00:00:00"
             }
           ]
         },
@@ -5360,7 +5451,7 @@
       "ScraperId": "dekluize",
       "ScraperName": "dekluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 9,
+      "TotalEvents": 11,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5901,7 +5992,7 @@
       "ScraperId": "hetdepot",
       "ScraperName": "hetdepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 63,
+      "TotalEvents": 64,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5971,7 +6062,7 @@
       "ScraperId": "pukkelpop",
       "ScraperName": "pukkelpopScraper",
       "VenueName": "Pukkelpop",
-      "TotalEvents": 113,
+      "TotalEvents": 114,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7316,7 +7407,7 @@
       "ScraperId": "trix",
       "ScraperName": "trixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7558,7 +7649,7 @@
       "ScraperId": "wildewesten",
       "ScraperName": "wildewestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 35,
+      "TotalEvents": 36,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
