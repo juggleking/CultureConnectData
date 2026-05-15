@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-14T05:00:04.2221282Z",
-  "ValidatedAt": "2026-05-14T05:00:04.2222705Z",
+  "GeneratedAt": "2026-05-15T05:00:00.3955055Z",
+  "ValidatedAt": "2026-05-15T05:00:00.3955057Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1355,
+  "TotalEvents": 1330,
   "TotalErrors": 0,
-  "TotalWarnings": 592,
+  "TotalWarnings": 589,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -25,19 +25,6 @@
       "WarningCount": 161,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "New date: ISHA & LIMSA",
-          "EventDate": "2026-05-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-isha-limsa/a10Qw000001XvOjIAK",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-14T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Dyke*March pre-march hangout",
           "EventDate": "2026-05-15T00:00:00.0000000",
@@ -1300,6 +1287,19 @@
           ]
         },
         {
+          "EventTitle": "Puscifer",
+          "EventDate": "2026-11-02T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/puscifer/a10Qw00000HJjxLIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Davina Michelle",
           "EventDate": "2026-11-03T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/davina-michelle/a10Qw00000GcHoEIAV",
@@ -2124,7 +2124,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 130,
+      "TotalEvents": 129,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2161,24 +2161,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Nah Mean Party - Tribal Kush + Team DAMP + Sako Glitch",
-          "EventDate": "2026-05-13T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/nah-mean",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Jasper Steverlinck + Bernard",
           "EventDate": "2026-05-15T00:00:00.0000000",
@@ -3251,14 +3238,14 @@
       "EventDetails": [
         {
           "EventTitle": "Liefde is van hout",
-          "EventDate": "2026-05-14T00:00:00.0000000",
+          "EventDate": "2026-05-15T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/liefde-is-van-hout",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-14T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-05-14T00:00:00.0000000"
+              "ActualValue": "2026-05-15T00:00:00.0000000"
             }
           ]
         },
@@ -4330,7 +4317,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 103,
+      "TotalEvents": 102,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4481,37 +4468,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 64,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Palmarium: Friendship + Félicette",
-          "EventDate": "2026-05-14",
-          "EventUrl": "https://www.democrazy.be/agenda/3103-friendship/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-14'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-14"
-            }
-          ]
-        },
-        {
-          "EventTitle": "sor - + San Andreas",
-          "EventDate": "2026-05-14",
-          "EventUrl": "https://www.democrazy.be/agenda/3141-sor/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-14'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-14"
-            }
-          ]
-        },
         {
           "EventTitle": "Palmarium: Felbm + La Zza Ro",
           "EventDate": "2026-05-21",
@@ -6291,7 +6252,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7669,7 +7630,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 134,
+      "TotalEvents": 131,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7706,7 +7667,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 15,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7948,7 +7909,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 38,
+      "TotalEvents": 37,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
