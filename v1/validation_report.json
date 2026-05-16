@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-15T05:00:00.3955055Z",
-  "ValidatedAt": "2026-05-15T05:00:00.3955057Z",
+  "GeneratedAt": "2026-05-16T05:00:00.3555785Z",
+  "ValidatedAt": "2026-05-16T05:00:00.3555786Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1330,
+  "TotalEvents": 1355,
   "TotalErrors": 0,
-  "TotalWarnings": 589,
+  "TotalWarnings": 586,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 161,
+      "TotalEvents": 160,
       "ErrorCount": 0,
-      "WarningCount": 161,
+      "WarningCount": 160,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Dyke*March pre-march hangout",
-          "EventDate": "2026-05-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dykemarch-pre-march-hangout/a10Qw00000H0aksIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "OUTRAGEOUS: Shata Mata + Lalla Rami, ZOBAYDA, mona, Noise Diva, Anira Orlando, Diva Beirut, The House of Gabbana, Nazanin, Habibitch, Sherine Falasteen, prnc, Lily",
-          "EventDate": "2026-05-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/outrageous-shata-mata/a10Qw000001UmBWIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Steve Ignorant plays 'Crass - Feeding of The 5000' + Taqbir, Club Brat, L.A. SAGNE",
           "EventDate": "2026-05-16T00:00:00.0000000",
@@ -178,6 +152,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-24T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-05-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Conference : Let's talk about Africa 3.0",
+          "EventDate": "2026-05-25T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/conference-lets-talk-about-africa-30/a10Qw00000HzopJIAR",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-25T00:00:00.0000000"
             }
           ]
         },
@@ -1053,9 +1040,9 @@
           ]
         },
         {
-          "EventTitle": "Finojet",
+          "EventTitle": "The Sisters Of Mercy",
           "EventDate": "2026-10-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/finojet/a10Qw00000FdspVIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjBIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -1066,9 +1053,9 @@
           ]
         },
         {
-          "EventTitle": "The Sisters Of Mercy",
+          "EventTitle": "Finojet",
           "EventDate": "2026-10-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjBIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/finojet/a10Qw00000FdspVIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -2124,7 +2111,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 129,
+      "TotalEvents": 130,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2161,24 +2148,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jasper Steverlinck + Bernard",
-          "EventDate": "2026-05-15T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/jasper-steverlinck-15-05",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "PREWN + Head on stone + Magda",
           "EventDate": "2026-05-19T00:00:00.0000000",
@@ -3012,24 +2986,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 16,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "SWMRS + HEISA",
-          "EventDate": "2026-05-14",
-          "EventUrl": "https://aff.be/events/swmrs-heisa/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-14'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-14"
-            }
-          ]
-        },
         {
           "EventTitle": "Iguana Death Cult + SHA-LA-LEES + Mojo & The Kitchen Brothers + Fellatio",
           "EventDate": "2026-05-21",
@@ -3238,14 +3199,14 @@
       "EventDetails": [
         {
           "EventTitle": "Liefde is van hout",
-          "EventDate": "2026-05-15T00:00:00.0000000",
+          "EventDate": "2026-05-16T00:00:00.0000000",
           "EventUrl": "https://compagnie-cecilia.be/nl/programma/liefde-is-van-hout",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-16T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-05-15T00:00:00.0000000"
+              "ActualValue": "2026-05-16T00:00:00.0000000"
             }
           ]
         },
@@ -3604,24 +3565,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 54,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "DC Rocks! / Nashville Pussy + Speedözer + Acid Talk",
-          "EventDate": "2026-05-15T00:00:00",
-          "EventUrl": "https://decasino.be/concert/dc-rocks-nashville-pussy-speedozer-acid-talk/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-15T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "C L U B Casino / One-T",
           "EventDate": "2026-05-16T00:00:00",
@@ -4286,6 +4234,32 @@
           ]
         },
         {
+          "EventTitle": "Dylan LeBlanc",
+          "EventDate": "2026-12-10T00:00:00",
+          "EventUrl": "https://decasino.be/concert/dylan-leblanc-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-10T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-10T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Doodseskader",
+          "EventDate": "2026-12-11T00:00:00",
+          "EventUrl": "https://decasino.be/concert/doodseskader/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-11T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-11T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Charlotte Wessels & The Obsession",
           "EventDate": "2027-02-04T00:00:00",
           "EventUrl": "https://decasino.be/concert/charlotte-wessels-the-obsession/",
@@ -4317,7 +4291,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 102,
+      "TotalEvents": 101,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4332,19 +4306,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jan Jaap van der Wal",
-          "EventDate": "2026-05-15T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/240-jan-jaap-van-der-wal/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-15T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-15T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Romperayo",
           "EventDate": "2026-05-27T00:00:00",
@@ -4459,6 +4420,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-11T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-09-11T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Magic Numbers",
+          "EventDate": "2026-10-13T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/253-the-magic-numbers/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13T00:00:00"
             }
           ]
         }
@@ -6252,7 +6226,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7630,7 +7604,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 131,
+      "TotalEvents": 130,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7667,7 +7641,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 15,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7677,24 +7651,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Danyèl Waro",
-          "EventDate": "2026-05-13T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/danyel-waro",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-13T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-13T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Planet Funk",
           "EventDate": "2026-05-18T22:00:00Z",
