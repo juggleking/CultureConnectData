@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-05-16T05:00:00.3555785Z",
-  "ValidatedAt": "2026-05-16T05:00:00.3555786Z",
+  "GeneratedAt": "2026-05-17T05:00:00.4156638Z",
+  "ValidatedAt": "2026-05-17T05:00:00.4156638Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1355,
+  "TotalEvents": 1330,
   "TotalErrors": 0,
-  "TotalWarnings": 586,
+  "TotalWarnings": 581,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 160,
+      "TotalEvents": 159,
       "ErrorCount": 0,
-      "WarningCount": 160,
+      "WarningCount": 159,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Steve Ignorant plays 'Crass - Feeding of The 5000' + Taqbir, Club Brat, L.A. SAGNE",
-          "EventDate": "2026-05-16T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/steve-ignorant-plays-crass-feeding-of-the-5000/a10Qw00000ADS2OIAX",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-16T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Punk 50: Habenmeuf, Flux, Cimitero, Blitzer + Cancelled",
           "EventDate": "2026-05-19T00:00:00.0000000",
@@ -2111,7 +2098,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 130,
+      "TotalEvents": 128,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2884,26 +2871,13 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 7,
+      "TotalEvents": 6,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Jan Jaap van der Wal - Amor Fati - 10 jaar in Vlaanderen (try-out) - UITVERKOCHT!",
-          "EventDate": "2026-05-16",
-          "EventUrl": "https://www.cczoetegem.be/programma/jan-jaap-van-der-wal-nederland-amor-fati-10-jaar-in-vlaanderen-tryout.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-16'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-16"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Seizoenpresentatie 26-27: Durf kijken",
+          "EventTitle": "Seizoenpresentatie 26-27: Durf kijken - UITVERKOCHT!",
           "EventDate": "2026-05-21",
           "EventUrl": "https://www.cczoetegem.be/programma/seizoenpresentatie-2627-durf-kijken.aspx",
           "Issues": [
@@ -3192,24 +3166,11 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 7,
+      "TotalEvents": 6,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Liefde is van hout",
-          "EventDate": "2026-05-16T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/liefde-is-van-hout",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-16T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Bowling Buffalo",
           "EventDate": "2026-05-27T00:00:00.0000000",
@@ -3294,9 +3255,9 @@
       "ScraperId": "DeWerf",
       "ScraperName": "DeWerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 18,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
         {
@@ -3374,19 +3335,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-30'.",
               "Severity": 1,
               "ActualValue": "2026-05-30"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Pop-up expo Peter Lievens",
-          "EventDate": "2026-05-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-peter-lievens/9707/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-08"
             }
           ]
         },
@@ -3565,24 +3513,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 55,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "C L U B Casino / One-T",
-          "EventDate": "2026-05-16T00:00:00",
-          "EventUrl": "https://decasino.be/concert/c-l-u-b-casino-one-t/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-16T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-16T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Welcome to the Jazzclub / Green Mean Machine",
           "EventDate": "2026-05-17T00:00:00",
@@ -4291,7 +4226,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 101,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7604,7 +7539,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 130,
+      "TotalEvents": 129,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7641,7 +7576,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
