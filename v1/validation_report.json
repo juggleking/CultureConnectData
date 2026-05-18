@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-17T05:00:00.4156638Z",
-  "ValidatedAt": "2026-05-17T05:00:00.4156638Z",
+  "GeneratedAt": "2026-05-18T05:00:00.8055278Z",
+  "ValidatedAt": "2026-05-18T05:00:00.8055279Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1330,
+  "TotalEvents": 1324,
   "TotalErrors": 0,
-  "TotalWarnings": 581,
+  "TotalWarnings": 579,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2098,7 +2098,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 128,
+      "TotalEvents": 127,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3513,24 +3513,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Welcome to the Jazzclub / Green Mean Machine",
-          "EventDate": "2026-05-17T00:00:00",
-          "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-green-mean-machine/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-17T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-17T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "C L U B Casino / Pimpish",
           "EventDate": "2026-05-23T00:00:00",
@@ -4226,7 +4213,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 100,
+      "TotalEvents": 99,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5214,24 +5201,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 72,
+      "TotalEvents": 71,
       "ErrorCount": 0,
-      "WarningCount": 72,
+      "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Samen rouwen, samen helen",
-          "EventDate": "2026-05-17T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/samen-rouwen-samen-helen-17-05-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-17T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Pandax (6 tot 106+)",
           "EventDate": "2026-05-21T00:00:00.0000000",
@@ -7539,7 +7513,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 129,
+      "TotalEvents": 128,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7805,7 +7779,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 37,
+      "TotalEvents": 36,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
