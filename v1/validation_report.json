@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-18T05:00:00.8055278Z",
-  "ValidatedAt": "2026-05-18T05:00:00.8055279Z",
+  "GeneratedAt": "2026-05-19T05:00:01.1910837Z",
+  "ValidatedAt": "2026-05-19T05:00:01.1910838Z",
   "TotalScrapers": 28,
-  "TotalEvents": 1324,
+  "TotalEvents": 1328,
   "TotalErrors": 0,
-  "TotalWarnings": 579,
+  "TotalWarnings": 583,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,15 +20,15 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 159,
+      "TotalEvents": 162,
       "ErrorCount": 0,
-      "WarningCount": 159,
+      "WarningCount": 162,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Punk 50: Habenmeuf, Flux, Cimitero, Blitzer + Cancelled",
+          "EventTitle": "Punk 50: Cancelled, Habenmeuf, Flux, Blitzer",
           "EventDate": "2026-05-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/punk-50-habenmeuf-flux-cimitero-blitzer/a10Qw00000FN95BIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/punk-50-cancelled-habenmeuf-flux-blitzer/a10Qw00000FN95BIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -221,19 +221,6 @@
           ]
         },
         {
-          "EventTitle": "Emmy d'Arc + TEUN",
-          "EventDate": "2026-05-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/emmy-darc/a10Qw00000AK7ijIAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Nnelg",
           "EventDate": "2026-05-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/nnelg/a10Qw00000ELUEMIA5",
@@ -250,6 +237,19 @@
           "EventTitle": "TP Le Green",
           "EventDate": "2026-05-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/tp-le-green/a10Qw00000GURb3IAH",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Emmy d'Arc + TEUN",
+          "EventDate": "2026-05-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/emmy-darc/a10Qw00000AK7ijIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -299,9 +299,9 @@
           ]
         },
         {
-          "EventTitle": "HOLY",
+          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
           "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -312,9 +312,9 @@
           ]
         },
         {
-          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
+          "EventTitle": "HOLY",
           "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -796,6 +796,19 @@
           "EventTitle": "New date: Lute + K.Z",
           "EventDate": "2026-09-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-lute/a10Qw00000B1wEwIAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
+          "EventDate": "2026-09-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1729,6 +1742,19 @@
           ]
         },
         {
+          "EventTitle": "Blondshell + TTSSFU",
+          "EventDate": "2026-12-08T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/blondshell/a10Qw00000E4RXrIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Kids With Buns",
           "EventDate": "2026-12-09T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/kids-with-buns/a10Qw00000EDqn7IAD",
@@ -1976,6 +2002,19 @@
           ]
         },
         {
+          "EventTitle": "Alice Mae",
+          "EventDate": "2027-02-18T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/alice-mae/a10Qw00000FRfw6IAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Zornik",
           "EventDate": "2027-02-19T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/zornik/a10Qw00000DZDMJIA5",
@@ -2098,7 +2137,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 127,
+      "TotalEvents": 129,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2960,9 +2999,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
         {
@@ -2975,6 +3014,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-21'.",
               "Severity": 1,
               "ActualValue": "2026-05-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Sheila Divine",
+          "EventDate": "2026-05-26",
+          "EventUrl": "https://aff.be/events/thesheiladivine/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-26"
             }
           ]
         },
@@ -3261,19 +3313,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Koninklijke Symfonische Kring Aalst ‘Door Eendracht Groot’",
-          "EventDate": "2026-05-18",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koninklijke-symfonische-kring-aalst-door-eendracht-groot/9422/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-18'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-18"
-            }
-          ]
-        },
-        {
           "EventTitle": "Johannes Wirix-Speetjens",
           "EventDate": "2026-05-20",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/johannes-wirix-speetjens/9372/",
@@ -3444,6 +3483,19 @@
               "Description": "Event has no start time — only a date was scraped: '2025-02-07'.",
               "Severity": 1,
               "ActualValue": "2025-02-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dé Danscompagnie",
+          "EventDate": "2026-02-27",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/de-danscompagnie/9350/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-02-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-02-27"
             }
           ]
         },
@@ -4229,7 +4281,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Romperayo",
+          "EventTitle": "ROMPERAYO",
           "EventDate": "2026-05-27T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/250-romperayo/",
           "Issues": [
@@ -4242,7 +4294,7 @@
           ]
         },
         {
-          "EventTitle": "Surf Trash",
+          "EventTitle": "SURF TRASH + Itches",
           "EventDate": "2026-05-29T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/249-surf-trash/",
           "Issues": [
@@ -4255,7 +4307,7 @@
           ]
         },
         {
-          "EventTitle": "The Ex + Frankie Traandruppel",
+          "EventTitle": "THE EX + Frankie Traandruppel",
           "EventDate": "2026-06-04T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/254-the-ex-frankie-traandruppel/",
           "Issues": [
@@ -4268,7 +4320,7 @@
           ]
         },
         {
-          "EventTitle": "Death Before Disco",
+          "EventTitle": "DEATH BEFORE DISCO + PVRS",
           "EventDate": "2026-06-11T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/258-death-before-disco/",
           "Issues": [
@@ -4281,7 +4333,7 @@
           ]
         },
         {
-          "EventTitle": "Marbled Eye",
+          "EventTitle": "MARBLED EYE + Rehash Neu Klang",
           "EventDate": "2026-06-18T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/251-marbled-eye/",
           "Issues": [
@@ -4294,7 +4346,7 @@
           ]
         },
         {
-          "EventTitle": "Greet Death",
+          "EventTitle": "GREET DEATH + The Bernadettes Maries",
           "EventDate": "2026-06-25T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/252-greet-death/",
           "Issues": [
@@ -4307,7 +4359,7 @@
           ]
         },
         {
-          "EventTitle": "Poison Ruïn",
+          "EventTitle": "POISON RUÏN + Sportweekend",
           "EventDate": "2026-06-30T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/256-poison-ruin/",
           "Issues": [
@@ -4333,7 +4385,7 @@
           ]
         },
         {
-          "EventTitle": "Leffingeleuren 2026",
+          "EventTitle": "LEFFINGELEUREN 2026",
           "EventDate": "2026-09-11T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/leffingeleuren/",
           "Issues": [
@@ -4346,7 +4398,7 @@
           ]
         },
         {
-          "EventTitle": "The Magic Numbers",
+          "EventTitle": "THE MAGIC NUMBERS",
           "EventDate": "2026-10-13T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/253-the-magic-numbers/",
           "Issues": [
@@ -5191,7 +5243,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 37,
+      "TotalEvents": 35,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6135,7 +6187,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 56,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7779,7 +7831,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 36,
+      "TotalEvents": 35,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
