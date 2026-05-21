@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-05-20T05:00:00.4384219Z",
-  "ValidatedAt": "2026-05-20T05:00:00.438422Z",
-  "TotalScrapers": 28,
-  "TotalEvents": 1360,
+  "GeneratedAt": "2026-05-21T05:00:05.1292514Z",
+  "ValidatedAt": "2026-05-21T05:00:05.1293519Z",
+  "TotalScrapers": 29,
+  "TotalEvents": 1436,
   "TotalErrors": 0,
-  "TotalWarnings": 584,
+  "TotalWarnings": 654,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 14,
+      "TotalEvents": 15,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -25,32 +25,6 @@
       "WarningCount": 167,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Group Atelier w/Paulo Rietjens (ASTROFISIKS)",
-          "EventDate": "2026-05-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wpaulo-rietjens-astrofisiks/a10Qw00000HW5cHIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Puggy + Pia",
-          "EventDate": "2026-05-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/puggy/a10Qw00000FZ37GIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "AB x VK: La Dame Blanche + Erik Fernandez",
           "EventDate": "2026-05-21T00:00:00.0000000",
@@ -1781,6 +1755,19 @@
           ]
         },
         {
+          "EventTitle": "Gurriers + Enola Gay",
+          "EventDate": "2026-12-05T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gurriers/a10Qw00000FA6czIAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Trixie Whitley",
           "EventDate": "2026-12-06T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/trixie-whitley/a10Qw00000F5xEwIAJ",
@@ -2119,6 +2106,19 @@
           ]
         },
         {
+          "EventTitle": "Green Crow Collective",
+          "EventDate": "2027-03-04T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/green-crow-collective/a10Qw00000Fr8q1IAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Trentemøller",
           "EventDate": "2027-03-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/trentemoller/a10Qw00000EBcLFIA1",
@@ -2202,7 +2202,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 131,
+      "TotalEvents": 133,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2244,19 +2244,6 @@
       "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Oliver Symons (BAZART, Warhola) + Sevens",
-          "EventDate": "2026-05-20T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oliver-symons-2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Black Sabbath & Ozzy Osbourne by Ozzyfied",
           "EventDate": "2026-05-23T00:00:00.0000000",
@@ -2531,6 +2518,19 @@
           ]
         },
         {
+          "EventTitle": "Sub.Merge - a quality Drum&Bass event",
+          "EventDate": "2026-10-03T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sub-merge",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Berre",
           "EventDate": "2026-10-06T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/berre",
@@ -2661,7 +2661,7 @@
           ]
         },
         {
-          "EventTitle": "Bruges Is Doomed Festival #2 - Wolves In The Throne Room + Final Dose + Worm + More TBA",
+          "EventTitle": "Bruges Is Doomed Festival #2 - Wolves In The Throne Room + Oranssi Pazuzu + Worm + Mur + Final Dose + Primitive Warfare",
           "EventDate": "2026-10-25T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bruges-is-doomed-festival",
           "Issues": [
@@ -3372,24 +3372,11 @@
       "ScraperId": "DeWerf",
       "ScraperName": "DeWerfScraper",
       "VenueName": "Cultuurhuis De Werf",
-      "TotalEvents": 13,
+      "TotalEvents": 9,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 9,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Johannes Wirix-Speetjens",
-          "EventDate": "2026-05-20",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/johannes-wirix-speetjens/9372/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-20'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-20"
-            }
-          ]
-        },
         {
           "EventTitle": "New Life Academy",
           "EventDate": "2026-05-23",
@@ -3495,57 +3482,6 @@
           ]
         },
         {
-          "EventTitle": "De Prinsencaemere Aalst",
-          "EventDate": "2024-11-22",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/de-prinsencaemere-aalst/8789/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Date is more than 1 year in the past: 2024-11-22.",
-              "Severity": 1,
-              "ActualValue": "2024-11-22"
-            },
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2024-11-22'.",
-              "Severity": 1,
-              "ActualValue": "2024-11-22"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Academie voor Podiumkunsten",
-          "EventDate": "2025-02-07",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/academie-voor-podiumkunsten/8732/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Date is more than 1 year in the past: 2025-02-07.",
-              "Severity": 1,
-              "ActualValue": "2025-02-07"
-            },
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2025-02-07'.",
-              "Severity": 1,
-              "ActualValue": "2025-02-07"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dé Danscompagnie",
-          "EventDate": "2026-02-27",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/de-danscompagnie/9350/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-27"
-            }
-          ]
-        },
-        {
           "EventTitle": "Xander De Rycke",
           "EventDate": "2027-04-02",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/xander-de-rycke/9817/",
@@ -3564,7 +3500,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 29,
+      "TotalEvents": 28,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4350,11 +4286,997 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 99,
+      "TotalEvents": 101,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
       "EventDetails": []
+    },
+    {
+      "ScraperId": "Steenoven",
+      "ScraperName": "SteenovenScraper",
+      "VenueName": "De Steenoven, Herzele",
+      "TotalEvents": 75,
+      "ErrorCount": 0,
+      "WarningCount": 75,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Popkoor Harjasali | Live on Air [Te Gast]",
+          "EventDate": "2026-05-22T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/popkoor-harjasali--live-radioshow-vol-muziek-en-magie-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Popkoor Harjasali | Live on Air [Te Gast]",
+          "EventDate": "2026-05-23T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/popkoor-harjasali--live-radioshow-vol-muziek-en-magie-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-23T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-23T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Yannick Noben - Geef acht + 2 - Best of 10 years comedy [G]",
+          "EventDate": "2026-05-27T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/yannick-noben---geef-acht--2---best-of-10-years-comedy-g?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "This is Tina Turner - Simply The Best [Gast]",
+          "EventDate": "2026-05-29T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/this-is-tina-turner---simply-the-best?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het Prethuis | Rust Roest",
+          "EventDate": "2026-05-07T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/het-prethuis--rust-roest?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jo Vally zingt Tura - Deel 2 [Te Gast]",
+          "EventDate": "2026-05-21T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/jo-vally-zingt-tura---deel-2-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bart Herman - Vintage & Oldskool [Te Gast]",
+          "EventDate": "2026-05-22T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/bart-herman---vintage-and-oldskool-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Steffie De Baerdemaeker | Try out - In mijn hoofd klonk het beter.",
+          "EventDate": "2026-06-03T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/steffie-de-baerdemaeker--in-mijn-hoofd-klonk-het-beter?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "VBS Herzele | Roodkapje de musical [Te Gast]",
+          "EventDate": "2026-06-06T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/vbsh-herzele--roodkapje-de-musical-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jef Vermassen | Seriemoordenaars [Te Gast]",
+          "EventDate": "2026-06-09T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/jef-vermassen--seriemoordenaars-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Han Solo | 15 jaar Han Solo - De Exclusieve Magnun XXXL Shows [G]",
+          "EventDate": "2026-06-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/han-solo--15-jaar-han-solo---de-exclusieve-magnun-xxxl-shows-g?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Hans Cools | Zolang de voorraad strekt [Gast]",
+          "EventDate": "2026-06-12T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/hans-cools--zolang-de-voorraad-strekt-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jasper Posson | Eeuwige jeugd [Gast]",
+          "EventDate": "2026-06-13T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/jasper-posson--eeuwige-jeugd-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Steven Mahieu | Stabieler [Gast]",
+          "EventDate": "2026-06-19T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/steven-mahieu--stabieler-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bert Gabriëls | Live vanuit de Wetstraat [GAST]",
+          "EventDate": "2026-06-20T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/bert-gabriels--live-vanuit-de-wetstraat-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rudi Vranckx - De wereld in chaos [Te Gast]",
+          "EventDate": "2026-06-03T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/rudi-vranckx---de-wereld-in-chaos-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mother Mercury - 50 jaar Bohemian Rhapsody [Te Gast]",
+          "EventDate": "2026-06-10T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/mother-mercury---50-jaar-bohemian-rhapsody-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Yves Segers | Bedankt Rob [Te Gast]",
+          "EventDate": "2026-06-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/yves-segers--bedankt-rob-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "William Boeva - Drift [Te Gast]",
+          "EventDate": "2026-06-17T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/william-boeva---drift-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Vernieuwd Gents Volkstoneel | Bambi [Try-out] | Tickets te koop",
+          "EventDate": "2026-07-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/vernieuwd-gents-volkstoneel--bambi-try-out?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Vernieuwd Gents Volkstoneel | Muurd in de Steenoven | Tickets te koop",
+          "EventDate": "2026-07-12T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/vernieuwd-gents-volkstoneel--muurd-in-de-steenoven?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cartoonist AAaRGh | Mario, morgen gadegij naar de dokter!",
+          "EventDate": "2026-09-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/cartoonist-aaargh--mario-morgen-gadegij-naar-de-dokter?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Les Folles de Gand & The Stardancers - Luxe Travestieshow [Te Gast]",
+          "EventDate": "2026-09-12T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/les-folles-de-gand-and-the-stardancers---luxe-travestieshow-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ellen Schoenaerts",
+          "EventDate": "2026-09-18T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/ellen-schoenaerts?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het Farcetheater | DUBBEL OP [Te Gast]",
+          "EventDate": "2026-09-25T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/het-farcetheater--dubbel-op-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-25T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Wim Helsen | Welkom ongemak",
+          "EventDate": "2026-10-03T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/wim-helsen--welkom-ongemak?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kamal Kharmach | Eindejaarsconference 2026 - Try out [Te Gast]",
+          "EventDate": "2026-10-09T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/kamal-kharmach--eindejaarsconference-2026---try-out-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Eén Zee | DE VADER",
+          "EventDate": "2026-10-10T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/een-zee--de-vader?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "DEREK & De Tedere Kompanen - Release HUNKER",
+          "EventDate": "2026-10-15T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/derek---release-hunker?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "BERLAEN - Lui zweet",
+          "EventDate": "2026-10-17T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/berlaen---lui-zweet?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het Prethuis | De Quaghebeurs 2, D'erfenisse [Te Gast]",
+          "EventDate": "2026-10-22T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/het-prethuis--de-quaghebeurs-2-derfenisse-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stef Kamil Carlens & The Poem",
+          "EventDate": "2026-10-24T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/stef-kamil-carlens-and-the-poem?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Radio Guga | Steenoven Ondersteboven",
+          "EventDate": "2026-10-30T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/radio-guga--steenoven-ondersteboven?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sven De Ridder Company | De jacht is open [Gast]",
+          "EventDate": "2026-10-31T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/sven-de-ridder-company--de-jacht-is-open-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-31T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-31T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Loge10 Theaterproducties | CLUEDO in het theater",
+          "EventDate": "2026-11-05T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/loge10-theaterproducties--cluedo-in-het-theater?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gregory Frateur sings Billie Holiday and then some",
+          "EventDate": "2026-11-07T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/gregory-frateur-sings-billie-holiday-and-then-some?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bruno Vanden Broecke | Confessie",
+          "EventDate": "2026-11-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/bruno-vanden-broecke--confessie?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pink Floyd | \"60 years of Pink Floyd\" [Te Gast]",
+          "EventDate": "2026-11-12T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/pink-floyd--60-years-of-pink-floyd?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Hans Cools | Zolang de voorraad strekt [te Gast]",
+          "EventDate": "2026-11-13T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/hans-cools--zolang-de-voorraad-strekt-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Soetkin Baptist & Det Vilde Kor",
+          "EventDate": "2026-11-24T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/soetkin-baptist-and-det-vilde-kor?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kommil Foo - BABEL",
+          "EventDate": "2026-11-26T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/kommil-foo---babel?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kommil Foo - BABEL",
+          "EventDate": "2026-11-27T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/activiteiten/detail/9860/kommil-foo-babel?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Concertband Vivace - Lichtpuntjes [Te Gast]",
+          "EventDate": "2026-12-05T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/concertband-vivace---lichtpuntjes-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Concertband Vivace - Lichtpuntjes [Te Gast]",
+          "EventDate": "2026-12-06T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/concerband-vivace---lichtpuntjes-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Han Solo | Psycho Solo, Lof Der Zotheid [Te Gast]",
+          "EventDate": "2026-12-10T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/han-solo--psycho-solo-lof-der-zotheid-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Côté Coeur | Silvester - Van oud naar nieuw [Te Gast]",
+          "EventDate": "2026-12-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/cte-coeur--silvester---van-oud-naar-nieuw-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sam Bettens | Coming Home Tour",
+          "EventDate": "2026-12-13T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/sam-bettens--coming-home-tour?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sophia Ammann - Here I Am",
+          "EventDate": "2026-12-16T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/sophia-ammann---here-i-am?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Veerle Baetens & Bo Spaenc | Hier, Ik als Keizerin - Molenstraat 103 / Bus 5",
+          "EventDate": "2026-12-18T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/veerle-baetens-and-bo-spaenc--hier-ik-als-keizerin?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Battery Family - Christmas Gospel Night",
+          "EventDate": "2026-12-20T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/the-battery-family---christmas-gospel-night?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SHARING THE BLUE'S Vol.2",
+          "EventDate": "2027-01-07T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/sharing-the-bleus-vol2?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Steven Mahieu | Stabieler [Te Gast]",
+          "EventDate": "2027-01-09T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/steven-mahieu--stabieler-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "AUFOND Producties | HET ZINKGAT",
+          "EventDate": "2027-01-14T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/aufond-productions--het-zinkgat?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "DAAN - Crooner",
+          "EventDate": "2027-01-15T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/daan---crooner?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "LADIES NIGHT | The Best Threesome You'll Ever Have",
+          "EventDate": "2027-01-22T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/the-best-threesome-youll-ever-have?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bas Birker | Twee Procent [Te Gast]",
+          "EventDate": "2027-01-23T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/bas-birker--twee-procent?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-23T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-23T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "PianoWAVES & Voices | Infinity",
+          "EventDate": "2027-01-28T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/pianowaves-and-voices--infinity?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Abattoir Fermé | Galapagos",
+          "EventDate": "2027-02-03T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/abattoir-ferme--galapagos?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SURPLACE",
+          "EventDate": "2027-02-05T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/surplace?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het Farcetheater | De Tante van Charlie [Te Gast]",
+          "EventDate": "2027-02-12T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/het-farcetheater--de-tante-van-charlie-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "DDT HOUDT UITVERKOOP [Te Gast]",
+          "EventDate": "2026-03-04T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/ddt-houdt-uitverkoop?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dimitri Leue, Inge Paulussen, Jonas Leemans & Wannes Cappelle | ELEGAST",
+          "EventDate": "2026-03-05T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/dimitri-leue-inge-paulussen-jonas-leemans-and-wannes-capelle--elegast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Joke Devynck - De Keizerin, de Hoer en de Dochter van de mosselboer",
+          "EventDate": "2026-03-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/joke-devynck---de-keizerin-de-hoer-en-de-dochter-van-de-mosselboer?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Guido Belcanto | Paviljoen der Menselijke Driften",
+          "EventDate": "2026-03-12T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/guido-belcanto--droevig-is-deze-wereld?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Andy Peelman| Gebaseerd op waargebeurde feiten [Te Gast]",
+          "EventDate": "2026-03-25T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/andy-peelman-gebaseerd-op-aargebeurde-feiten-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-25T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Eén Zee | Tramlijn Begeerte",
+          "EventDate": "2026-03-26T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/een-zee--tramlijn-begeert?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-03-26T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-03-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dottermans, Dex & Croonenberghs - Vrouwen zingen Tura",
+          "EventDate": "2026-04-03T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/dottermans-dex-and-croonenberghs---vrouwen-zingen-tura?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "FILM - PARELKERKE",
+          "EventDate": "2026-04-08T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/film---parelkerke?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Filip Peeters & tourneuse de pages An Miller | Van van Beethoven",
+          "EventDate": "2026-04-09T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/filip-peeters-and-tourneuse-de-pages-an-miller--van-van-beethoven?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "FILM - PARELKERKE",
+          "EventDate": "2026-04-10T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/activiteiten/detail/10249/film-parelkerke?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Raymond van het Groenewoud | ARCHIVARIS",
+          "EventDate": "2026-04-16T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/raymond-van-het-groenewoud--archivaris?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Fanny Oplinus & Daan Hugaert - Parle Moi D'Amour",
+          "EventDate": "2026-04-20T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/fanny-oplinus-and-daan-hugaert---parle-moi-damour?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pieter Verelst | Altijd Aan [Te Gast]",
+          "EventDate": "2026-04-24T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/pieter-verelst--altijd-aan-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Will Tura by El Bandido - 85 jaar Will Tura [Te Gast]",
+          "EventDate": "2026-04-29T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/will-tura-by-el-bandido---85-jaar-will-tura-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MARS 2064",
+          "EventDate": "2026-04-30T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/mars-2064?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-30T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "DeZwerver",
@@ -4501,9 +5423,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 63,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 63,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
         {
@@ -4637,7 +5559,7 @@
           ]
         },
         {
-          "EventTitle": "Dijf Sanders & Segers",
+          "EventTitle": "Dijf Sanders & Segers - + Lupo Spaccaro",
           "EventDate": "2026-05-29",
           "EventUrl": "https://www.democrazy.be/agenda/3156-dijf-sanders-segers/",
           "Issues": [
@@ -5222,6 +6144,19 @@
           ]
         },
         {
+          "EventTitle": "Lost in Kyiv",
+          "EventDate": "2026-11-24",
+          "EventUrl": "https://www.democrazy.be/agenda/3209-lost-in-kyiv/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-24"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Scratch - + DUG",
           "EventDate": "2026-12-02",
           "EventUrl": "https://www.democrazy.be/agenda/3196-the-scratch/",
@@ -5331,7 +6266,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6207,7 +7142,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7585,7 +8520,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 126,
+      "TotalEvents": 123,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -7851,7 +8786,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 35,
+      "TotalEvents": 36,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7861,7 +8796,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 38,
+      "TotalEvents": 42,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
