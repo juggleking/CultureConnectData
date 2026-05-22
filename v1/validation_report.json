@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-05-21T05:00:05.1292514Z",
-  "ValidatedAt": "2026-05-21T05:00:05.1293519Z",
-  "TotalScrapers": 29,
-  "TotalEvents": 1436,
+  "GeneratedAt": "2026-05-22T05:00:03.3013716Z",
+  "ValidatedAt": "2026-05-22T05:00:03.30149Z",
+  "TotalScrapers": 30,
+  "TotalEvents": 1562,
   "TotalErrors": 0,
-  "TotalWarnings": 654,
+  "TotalWarnings": 726,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -25,19 +25,6 @@
       "WarningCount": 167,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "AB x VK: La Dame Blanche + Erik Fernandez",
-          "EventDate": "2026-05-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ab-x-vk-la-dame-blanche/a10Qw00000I3qe1IAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Workshop Polyfonic singing with N'Faly Kouyaté",
           "EventDate": "2026-05-23T00:00:00.0000000",
@@ -247,9 +234,9 @@
           ]
         },
         {
-          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
+          "EventTitle": "HOLY",
           "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -260,9 +247,9 @@
           ]
         },
         {
-          "EventTitle": "HOLY",
+          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
           "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -351,9 +338,9 @@
           ]
         },
         {
-          "EventTitle": "The Dwarfs of East Agouza",
+          "EventTitle": "Just Vox",
           "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dwarfs-of-east-agouza/a10Qw00000GDeRSIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/just-vox/a10Qw00000A3D1OIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -364,9 +351,9 @@
           ]
         },
         {
-          "EventTitle": "Just Vox",
+          "EventTitle": "The Dwarfs of East Agouza",
           "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/just-vox/a10Qw00000A3D1OIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dwarfs-of-east-agouza/a10Qw00000GDeRSIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1352,9 +1339,9 @@
           ]
         },
         {
-          "EventTitle": "Water Damage",
+          "EventTitle": "Peet",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -1365,9 +1352,9 @@
           ]
         },
         {
-          "EventTitle": "Peet",
+          "EventTitle": "Water Damage",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1420,6 +1407,19 @@
           "EventTitle": "Bonnie 'Prince' Billy",
           "EventDate": "2026-11-10T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/bonnie-prince-billy/a10Qw00000CnRMoIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sunday Charmers",
+          "EventDate": "2026-11-10T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-charmers/a10Qw00000GpdSjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2202,7 +2202,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 133,
+      "TotalEvents": 132,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2975,24 +2975,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 6,
+      "TotalEvents": 74,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Seizoenpresentatie 26-27: Durf kijken - UITVERKOCHT!",
-          "EventDate": "2026-05-21",
-          "EventUrl": "https://www.cczoetegem.be/programma/seizoenpresentatie-2627-durf-kijken.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Infoavond Cyberveiligheid - Klik niet in de val!",
           "EventDate": "2026-06-24",
@@ -3007,6 +2994,45 @@
           ]
         },
         {
+          "EventTitle": "Feest van de Vlaamse Gemeenschap - Aaron Blommaert",
+          "EventDate": "2026-07-09",
+          "EventUrl": "https://www.cczoetegem.be/programma/feest-van-de-vlaamse-gemeenschap-aaron-blommaert.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-09'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Openingsfilm Ciné Local - Dust",
+          "EventDate": "2026-09-22",
+          "EventUrl": "https://www.cczoetegem.be/programma/openingsfilm-cine-local-dust.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Isolde Lasoen - My Kind Of Drama (try-out)",
+          "EventDate": "2026-09-24",
+          "EventUrl": "https://www.cczoetegem.be/programma/isolde-lasoen-my-kind-of-drama-tryout.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-24"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Scene (Nederland) en Willy On Tour",
           "EventDate": "2026-10-02",
           "EventUrl": "https://www.cczoetegem.be/programma/the-scene-nederland-en-willy-on-tour.aspx",
@@ -3016,6 +3042,84 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-02'.",
               "Severity": 1,
               "ActualValue": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Hetty Helsmoortel - Missie 2026 (try-out)",
+          "EventDate": "2026-10-03",
+          "EventUrl": "https://www.cczoetegem.be/programma/hetty-helsmoortel-missie-2026-tryout.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Part-a-fou - Phoenix Rising",
+          "EventDate": "2026-10-04",
+          "EventUrl": "https://www.cczoetegem.be/programma/partafou-phoenix-rising.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Michael Van Peel - Farce Majeure",
+          "EventDate": "2026-10-08",
+          "EventUrl": "https://www.cczoetegem.be/programma/michael-van-peel-farce-majeure.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Peter Adriaenssens - De flexgeneratie",
+          "EventDate": "2026-10-12",
+          "EventUrl": "https://www.cczoetegem.be/programma/peter-adriaenssens-de-flexgeneratie.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bas Birker - Twee procent",
+          "EventDate": "2026-10-15",
+          "EventUrl": "https://www.cczoetegem.be/programma/bas-birker-twee-procent.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Zilverscherm - Zondag de negenste",
+          "EventDate": "2026-10-19",
+          "EventUrl": "https://www.cczoetegem.be/programma/zilverscherm-zondag-de-negenste.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-19"
             }
           ]
         },
@@ -3046,6 +3150,435 @@
           ]
         },
         {
+          "EventTitle": "Apero Klassiek - License to Reed",
+          "EventDate": "2026-10-25",
+          "EventUrl": "https://www.cczoetegem.be/programma/apero-klassiek-license-to-reed.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kapel: Frans Kalf en Johannes Is Zijn Naam",
+          "EventDate": "2026-10-30",
+          "EventUrl": "https://www.cczoetegem.be/programma/club-kapel-frans-kalf-en-johannes-is-zijn-naam.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local - Familiefilmfestival KIJK - Pak me dan als je kan (3+)",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://www.cczoetegem.be/programma/cine-local-familiefilmfestival-kijk-pak-me-dan-als-je-kan-3.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local - Familiefilmfestival KIJK - Space Cadet (6+)",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://www.cczoetegem.be/programma/cine-local-familiefilmfestival-kijk-space-cadet-6.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local - Familiefilmfestival KIJK - Minions & Monsters (6+)",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://www.cczoetegem.be/programma/cine-local-familiefilmfestival-kijk-minions-monsters-6.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Compagnie Cecilia - Kerff",
+          "EventDate": "2026-11-05",
+          "EventUrl": "https://www.cczoetegem.be/programma/compagnie-cecilia-kerff.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Duo Abbraccio - Switch",
+          "EventDate": "2026-11-08",
+          "EventUrl": "https://www.cczoetegem.be/programma/duo-abbraccio-switch.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-08"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Grof Geschud - VIEREN (try-out)",
+          "EventDate": "2026-11-12",
+          "EventUrl": "https://www.cczoetegem.be/programma/grof-geschud-vieren-tryout.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kadril - Het Liedboek van Kadril",
+          "EventDate": "2026-11-13",
+          "EventUrl": "https://www.cczoetegem.be/programma/kadril-het-liedboek-van-kadril.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kunstendag voor Kinderen - Sprookjes enzo - Sssstt!",
+          "EventDate": "2026-11-15",
+          "EventUrl": "https://www.cczoetegem.be/programma/kunstendag-voor-kinderen-sprookjes-enzo-sssstt.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kunstendag voor Kinderen - Sprookjes enzo - Sssstt!",
+          "EventDate": "2026-11-15",
+          "EventUrl": "https://www.cczoetegem.be/programma/kunstendag-voor-kinderen-sprookjes-enzo-sssstt-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Portie Gemengd - SKETCH!",
+          "EventDate": "2026-11-19",
+          "EventUrl": "https://www.cczoetegem.be/programma/portie-gemengd-sketch.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tom McRae (Engeland)",
+          "EventDate": "2026-11-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/tom-mcrae-engeland.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Wannes Cappelle - Verstaanbaar",
+          "EventDate": "2026-11-26",
+          "EventUrl": "https://www.cczoetegem.be/programma/wannes-cappelle-verstaanbaar.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Comedycafé: Nigel Williams, Raf Coppens en Ariane Van Hasselt",
+          "EventDate": "2026-11-27",
+          "EventUrl": "https://www.cczoetegem.be/programma/comedycafe-nigel-williams--raf-coppens-en-ariane-van-hasselt.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jahon - Het cadeautjesmysterie",
+          "EventDate": "2026-11-29",
+          "EventUrl": "https://www.cczoetegem.be/programma/jahon-het-cadeautjesmysterie.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mohsin Abbas - Moh?!",
+          "EventDate": "2026-12-03",
+          "EventUrl": "https://www.cczoetegem.be/programma/mohsin-abbas-moh-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pieter Verelst - Altijd Aan",
+          "EventDate": "2026-12-10",
+          "EventUrl": "https://www.cczoetegem.be/programma/pieter-verelst-altijd-aan.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Someone Like Her - A tribute to Adele",
+          "EventDate": "2026-12-11",
+          "EventUrl": "https://www.cczoetegem.be/programma/someone-like-her-a-tribute-to-adele.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ellis Meeusen/Steven Beersmans - Vitrine",
+          "EventDate": "2026-12-13",
+          "EventUrl": "https://www.cczoetegem.be/programma/ellis-meeusensteven-beersmans-vitrine.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ellis Meeusen/Steven Beersmans - Vitrine",
+          "EventDate": "2026-12-13",
+          "EventUrl": "https://www.cczoetegem.be/programma/ellis-meeusensteven-beersmans-vitrine-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Veerle Baetens en Bo Spaenc - Hier, Ik als Keizerin - Molenstraat 103/Bus 5",
+          "EventDate": "2026-12-17",
+          "EventUrl": "https://www.cczoetegem.be/programma/veerle-baetens-en-bo-spaenc-hier--ik-als-keizerin.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-17"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gregory Frateur - Sings Billie Holiday and then some",
+          "EventDate": "2026-12-18",
+          "EventUrl": "https://www.cczoetegem.be/programma/gregory-frateur-sings-billie-holiday-and-then-some.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "David Lynch - Twin Peaks Marathon (seizoen 1)",
+          "EventDate": "2026-12-19",
+          "EventUrl": "https://www.cczoetegem.be/programma/david-lynch-twin-peaks-marathon-1.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tom Hannes en The Moonlovers - Bowie 80: Many Returns of the Day (try-out)",
+          "EventDate": "2027-01-07",
+          "EventUrl": "https://www.cczoetegem.be/programma/tom-hannes-en-the-moonlovers-bowie-80-many-returns-of-the-day-tryout.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-07'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mirja Klippel en Alex Jønsson (Finland)",
+          "EventDate": "2027-01-13",
+          "EventUrl": "https://www.cczoetegem.be/programma/mirja-klippel-en-alex-joensson-finland.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-13'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ZRT - MARS 2064 (avant-première)",
+          "EventDate": "2027-01-14",
+          "EventUrl": "https://www.cczoetegem.be/programma/zrt-mars-2064-avantpremiere.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-14'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jeroens Clan (Nederland) - JUK",
+          "EventDate": "2027-01-16",
+          "EventUrl": "https://www.cczoetegem.be/programma/jeroens-clan-nederland-juk.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-16'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Robrecht Vanden Thoren - Ten minste houdbaar tot",
+          "EventDate": "2027-01-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/robbrecht-vanden-thoren-ten-minste-houdbaar-tot.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kapel: Alessandro Cortini (Italië)",
+          "EventDate": "2027-01-22",
+          "EventUrl": "https://www.cczoetegem.be/programma/club-kapel-alessandro-cortini-italie.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-22'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Apero Klassiek - Niels Hap en Martijn van Sas",
+          "EventDate": "2027-01-24",
+          "EventUrl": "https://www.cczoetegem.be/programma/apero-klassiek-niels-hap-en-martijn-van-sas.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-24'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "4Hoog - BRIES",
+          "EventDate": "2027-01-24",
+          "EventUrl": "https://www.cczoetegem.be/programma/4hoog-bries-.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-24'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Senne en Lokko - Senne en Lokko 2 (try-out)",
+          "EventDate": "2027-01-28",
+          "EventUrl": "https://www.cczoetegem.be/programma/senne-en-lokko-senne-en-lokko-2-tryout.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-28'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-28"
+            }
+          ]
+        },
+        {
           "EventTitle": "Hooverphonic - 30 Years Anniversary Tour - With Noémie Wolfs",
           "EventDate": "2027-02-03",
           "EventUrl": "https://www.cczoetegem.be/programma/hooverphonic-30-years-anniversary-tour.aspx",
@@ -3057,6 +3590,357 @@
               "ActualValue": "2027-02-03"
             }
           ]
+        },
+        {
+          "EventTitle": "Jef Neve - Stories Without Words",
+          "EventDate": "2027-02-04",
+          "EventUrl": "https://www.cczoetegem.be/programma/jef-neve-stories-without-words.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical - Première",
+          "EventDate": "2027-02-19",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-19'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-02-20",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-20'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-02-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-7.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-02-26",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-3.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-26'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-02-27",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-4.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-02-28",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-8.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-28'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-28"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-03-05",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-5.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-03-06",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-6.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-06'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-06"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pijkenzot - Jan De Lichte - De musical",
+          "EventDate": "2027-03-07",
+          "EventUrl": "https://www.cczoetegem.be/programma/pijkenzot-jan-de-lichte-de-musical-9.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-07'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "William Boeva - Drift",
+          "EventDate": "2027-03-10",
+          "EventUrl": "https://www.cczoetegem.be/programma/william-boeva-drift.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-10'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pascale Platel - MAMA",
+          "EventDate": "2027-03-11",
+          "EventUrl": "https://www.cczoetegem.be/programma/pascale-platel-mama.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-11'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Apero Jazz - Duo Calvadoré",
+          "EventDate": "2027-03-14",
+          "EventUrl": "https://www.cczoetegem.be/programma/apero-jazz-duo-calvadore.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-14'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Steven Mahieu - Stabieler",
+          "EventDate": "2027-03-18",
+          "EventUrl": "https://www.cczoetegem.be/programma/steven-mahieu-stabieler.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jan Verheyen - Het Beste Van Het Slechtste",
+          "EventDate": "2027-03-19",
+          "EventUrl": "https://www.cczoetegem.be/programma/jan-verheyen-het-beste-van-het-slechtste.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-19'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La Corneille bleue en Hilde Rogge: Kom, laten we gaan! (Viens, on se tire!) en De Dorstige Droom",
+          "EventDate": "2027-03-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/la-corneille-bleue-en-hilde-rogge-kom--laten-we-gaan-viens--on-se-tire-en-de-dorstige-droom-.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La Corneille bleue en Hilde Rogge: Kom, laten we gaan! (Viens, on se tire!) en De Dorstige Droom",
+          "EventDate": "2027-03-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/la-corneille-bleue-en-hilde-rogge-kom--laten-we-gaan-viens--on-se-tire-en-de-dorstige-droom.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ozark Henry",
+          "EventDate": "2027-03-25",
+          "EventUrl": "https://www.cczoetegem.be/programma/ozark-henry.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-25'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jam.Shenanigans - Splash",
+          "EventDate": "2027-04-09",
+          "EventUrl": "https://www.cczoetegem.be/programma/jamshenanigans-splash.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-09'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Guido Belcanto - Paviljoen der Menselijke Driften",
+          "EventDate": "2027-04-16",
+          "EventUrl": "https://www.cczoetegem.be/programma/guido-belcanto-paviljoen-der-menselijke-driften.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-16'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Admiral Freebee - Raw Fun",
+          "EventDate": "2027-04-21",
+          "EventUrl": "https://www.cczoetegem.be/programma/admiral-freebee-raw-fun.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Alba Carmona (Spanje) - Ofrenda",
+          "EventDate": "2027-04-22",
+          "EventUrl": "https://www.cczoetegem.be/programma/alba-carmona-spanje-ofrenda.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-22'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Comedycafé: Bregje Iding, Robbe Boons en Jeron Dewulf",
+          "EventDate": "2027-04-23",
+          "EventUrl": "https://www.cczoetegem.be/programma/comedycafe-bregje-iding--robbe-boons-en-jeron-dewulf.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-23'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-23"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kommil Foo - BABEL",
+          "EventDate": "2027-04-29",
+          "EventUrl": "https://www.cczoetegem.be/programma/kommil-foo-babel.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-29'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Roel C. Verburg (Nederland) - Slechtste liedjes van de straat",
+          "EventDate": "2027-05-13",
+          "EventUrl": "https://www.cczoetegem.be/programma/roel-c-verburg-nederland-slechtste-liedjes-van-de-straat.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-13'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Apero Klassiek - José Borges en Robin De Jaeger",
+          "EventDate": "2027-05-23",
+          "EventUrl": "https://www.cczoetegem.be/programma/apero-klassiek-jose-borges-en-robin-de-jaeger.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-23'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-23"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nodus/Korte Keten - Broer",
+          "EventDate": "2027-05-29",
+          "EventUrl": "https://www.cczoetegem.be/programma/noduskorte-keten-broer.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-29'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-29"
+            }
+          ]
         }
       ]
     },
@@ -3064,9 +3948,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 16,
+      "TotalEvents": 17,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
         {
@@ -3157,6 +4041,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-17'.",
               "Severity": 1,
               "ActualValue": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Johnny van Riems + Kregel",
+          "EventDate": "2026-10-24",
+          "EventUrl": "https://aff.be/events/johnnyvanriems/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24"
             }
           ]
         },
@@ -3283,90 +4180,11 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 6,
+      "TotalEvents": 37,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Bowling Buffalo",
-          "EventDate": "2026-05-27T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/bowling-buffalo",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Arme tante Danni",
-          "EventDate": "2026-06-03T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/arme-tante-danni",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Troje",
-          "EventDate": "2026-06-05T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/troje",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kerff",
-          "EventDate": "2026-06-10T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/kerff",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Parkplatz",
-          "EventDate": "2026-06-17T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/parkplatz",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Testament",
-          "EventDate": "2026-09-09T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/testament",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-09T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "DeWerf",
@@ -3500,7 +4318,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 28,
+      "TotalEvents": 27,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3518,7 +4336,7 @@
         {
           "EventTitle": "Unknown Title",
           "EventDate": "2026-06-21",
-          "EventUrl": "https://www.cultuurhuis.merelbeke.be/aanbod/opening-expo-ateliers-beeld-cultuurhuis",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-ateliers-beeld-cultuurhuis",
           "Issues": [
             {
               "Field": "DateString",
@@ -3531,7 +4349,7 @@
         {
           "EventTitle": "Unknown Title",
           "EventDate": "2026-06-21",
-          "EventUrl": "https://www.cultuurhuis.merelbeke.be/aanbod/opening-expo-ateliers-beeld-pastorie-munte",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-ateliers-beeld-pastorie-munte",
           "Issues": [
             {
               "Field": "DateString",
@@ -4286,11 +5104,126 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 101,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
       "EventDetails": []
+    },
+    {
+      "ScraperId": "DeSpil",
+      "ScraperName": "DeSpilScraper",
+      "VenueName": "De Spil, Roeselare",
+      "TotalEvents": 13,
+      "ErrorCount": 0,
+      "WarningCount": 8,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Driehoeksverhouding tussen liefde, leven en kunst",
+          "EventDate": "2026-04-04T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/driehoeksverhouding-tussen-liefde-leven-en-kunst-tsl3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Groeten uit Bordeaux",
+          "EventDate": "2026-05-26T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/groeten-uit-bordeaux-rjtk",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-26T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Altijd Aan",
+          "EventDate": "2026-05-27T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/altijd-aan-5c6h",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "PMLE presenteert",
+          "EventDate": "2026-05-28T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/pmle-presenteert-ts8j",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "PMLE presenteert",
+          "EventDate": "2026-05-29T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/pmle-presenteert-ts8l",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "STAP presenteert",
+          "EventDate": "2026-05-30T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/stap-presenteert-1jhd",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ga op blind date met ons gloednieuw seizoen",
+          "EventDate": "2026-05-31T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/ga-op-blind-date-met-ons-gloednieuw-seizoen-f7jd",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-31T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ik werd als eerste wakker",
+          "EventDate": "2026-05-31T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/ik-werd-als-eerste-wakker-x5mc",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-05-31T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "Steenoven",
@@ -5379,6 +6312,19 @@
           ]
         },
         {
+          "EventTitle": "DRESSED LIKE BOYS",
+          "EventDate": "2026-07-01T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/260-dressed-like-boys/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-01T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-01T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "MOVING MOTION: Expo 50 Jaar Leffingeleuren",
           "EventDate": "2026-08-30T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/257-expo-50-jaar-leffingeleuren/",
@@ -5403,19 +6349,6 @@
               "ActualValue": "2026-09-11T00:00:00"
             }
           ]
-        },
-        {
-          "EventTitle": "THE MAGIC NUMBERS",
-          "EventDate": "2026-10-13T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/253-the-magic-numbers/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-13T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-13T00:00:00"
-            }
-          ]
         }
       ]
     },
@@ -5423,24 +6356,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 64,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Palmarium: Felbm + La Zza Ro",
-          "EventDate": "2026-05-21",
-          "EventUrl": "https://www.democrazy.be/agenda/3151-felbm/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Big Next: pussydestroyers - + Weenzin",
           "EventDate": "2026-05-22",
@@ -5949,6 +6869,19 @@
           ]
         },
         {
+          "EventTitle": "Uberdope (extra show) - Uitgespeeld",
+          "EventDate": "2026-10-23",
+          "EventUrl": "https://www.democrazy.be/agenda/3212-uberdope/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-23'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-23"
+            }
+          ]
+        },
+        {
           "EventTitle": "Uberdope - Uitgespeeld",
           "EventDate": "2026-10-24",
           "EventUrl": "https://www.democrazy.be/agenda/3207-uberdope/",
@@ -5958,6 +6891,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-24'.",
               "Severity": 1,
               "ActualValue": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Big Next: Soft Loft",
+          "EventDate": "2026-10-27",
+          "EventUrl": "https://www.democrazy.be/agenda/3208-big-next-soft-loft/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-27"
             }
           ]
         },
@@ -6101,6 +7047,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-14'.",
               "Severity": 1,
               "ActualValue": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Psychonaut - + The Guru Guru",
+          "EventDate": "2026-11-19",
+          "EventUrl": "https://www.democrazy.be/agenda/3210-psychonaut/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-19"
             }
           ]
         },
@@ -6286,24 +7245,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 65,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Pandax (6 tot 106+)",
-          "EventDate": "2026-05-21T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/pandax-6-tot-106-21-05-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Ham Sessions outdoor",
           "EventDate": "2026-05-24T00:00:00.0000000",
@@ -6357,9 +7303,9 @@
           ]
         },
         {
-          "EventTitle": "Eye On Palestine",
+          "EventTitle": "Kamilya Jubran en Wajdi Riahi",
           "EventDate": "2026-05-29T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/eye-on-palestine-29-05-26",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/kamilya-jubran-en-wajdi-riahi-29-05-26",
           "Issues": [
             {
               "Field": "DateString",
@@ -7152,7 +8098,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 18,
+      "TotalEvents": 22,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8520,7 +9466,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 123,
+      "TotalEvents": 118,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -8557,7 +9503,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8572,19 +9518,6 @@
       "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "La Dame Blanche + Erik Fernandez | AB x VK",
-          "EventDate": "2026-05-20T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/la-dame-blanche-erik-fernandez-ab-x-vk",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-20T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-20T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Sosotysha EP listening event + small live performance",
           "EventDate": "2026-05-27T22:00:00Z",
@@ -8673,6 +9606,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-15T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-06-15T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "V-Kurated #17 - Fête de la Musique",
+          "EventDate": "2026-06-17T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/v-kurated-17-fete-de-la-musique",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-17T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-17T22:00:00Z"
             }
           ]
         },
