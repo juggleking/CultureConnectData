@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-22T05:00:03.3013716Z",
-  "ValidatedAt": "2026-05-22T05:00:03.30149Z",
+  "GeneratedAt": "2026-05-23T05:00:00.3328549Z",
+  "ValidatedAt": "2026-05-23T05:00:00.3328553Z",
   "TotalScrapers": 30,
-  "TotalEvents": 1562,
+  "TotalEvents": 1561,
   "TotalErrors": 0,
-  "TotalWarnings": 726,
+  "TotalWarnings": 728,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 167,
+      "TotalEvents": 169,
       "ErrorCount": 0,
-      "WarningCount": 167,
+      "WarningCount": 169,
       "Issues": [],
       "EventDetails": [
         {
@@ -1001,9 +1001,9 @@
           ]
         },
         {
-          "EventTitle": "Courtney Barnett + Body Type",
+          "EventTitle": "gala dragot",
           "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -1014,9 +1014,9 @@
           ]
         },
         {
-          "EventTitle": "gala dragot",
+          "EventTitle": "Courtney Barnett + Body Type",
           "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -1495,6 +1495,19 @@
           ]
         },
         {
+          "EventTitle": "PRESIDENT",
+          "EventDate": "2026-11-16T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/president/a10Qw00000Fj5NtIAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Eluveitie + Pain, WOLFHEART",
           "EventDate": "2026-11-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/eluveitie/a10Qw00000CUGYJIA5",
@@ -1950,6 +1963,19 @@
           ]
         },
         {
+          "EventTitle": "Namiddagconcert: Johan Verminnen, Afscheid Van Een Zanger",
+          "EventDate": "2027-01-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/namiddagconcert-johan-verminnen-afscheid-van-een-zanger/a10Qw00000J5a9aIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We zijn er mee bezig’-tour",
           "EventDate": "2027-01-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-er-mee-bezig-tour/a10Qw00000ENyMnIAL",
@@ -2202,7 +2228,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 132,
+      "TotalEvents": 131,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3954,19 +3980,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Iguana Death Cult + SHA-LA-LEES + Mojo & The Kitchen Brothers + Fellatio",
-          "EventDate": "2026-05-21",
-          "EventUrl": "https://aff.be/events/iguanadeathcult/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-21"
-            }
-          ]
-        },
-        {
           "EventTitle": "The Sheila Divine",
           "EventDate": "2026-05-26",
           "EventUrl": "https://aff.be/events/thesheiladivine/",
@@ -4074,6 +4087,19 @@
           "EventTitle": "Ploegendienst",
           "EventDate": "2026-10-30",
           "EventUrl": "https://aff.be/events/ploegendienst2026/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Bloody Beetroots (DJ-set) + Crookers + Sound Of Stereo + The Ant",
+          "EventDate": "2026-10-30",
+          "EventUrl": "https://aff.be/events/crookers/",
           "Issues": [
             {
               "Field": "DateString",
@@ -5104,7 +5130,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 100,
+      "TotalEvents": 99,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5229,24 +5255,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 75,
+      "TotalEvents": 74,
       "ErrorCount": 0,
-      "WarningCount": 75,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Popkoor Harjasali | Live on Air [Te Gast]",
-          "EventDate": "2026-05-22T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/popkoor-harjasali--live-radioshow-vol-muziek-en-magie-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Popkoor Harjasali | Live on Air [Te Gast]",
           "EventDate": "2026-05-23T00:00:00.0000000",
@@ -6356,37 +6369,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 66,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 66,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Big Next: pussydestroyers - + Weenzin",
-          "EventDate": "2026-05-22",
-          "EventUrl": "https://www.democrazy.be/agenda/3147-big-next-pussydestroyers/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-22'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-22"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JOHN 5 - + South Of Salem",
-          "EventDate": "2026-05-22",
-          "EventUrl": "https://www.democrazy.be/agenda/3150-john-5/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-22'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-22"
-            }
-          ]
-        },
         {
           "EventTitle": "Fokofpolisiekar + Die Heuwels Fantasties",
           "EventDate": "2026-05-23",
@@ -6713,6 +6700,19 @@
           ]
         },
         {
+          "EventTitle": "TJE + Niels Orens",
+          "EventDate": "2026-09-24",
+          "EventUrl": "https://www.democrazy.be/agenda/3211-tje-niels-orens/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-24"
+            }
+          ]
+        },
+        {
           "EventTitle": "Big Next: GB",
           "EventDate": "2026-09-29",
           "EventUrl": "https://www.democrazy.be/agenda/3204-big-next-gb/",
@@ -6791,6 +6791,19 @@
           ]
         },
         {
+          "EventTitle": "Uberdope (extra show) - Uitgespeeld",
+          "EventDate": "2026-10-15",
+          "EventUrl": "https://www.democrazy.be/agenda/3214-uberdope/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15"
+            }
+          ]
+        },
+        {
           "EventTitle": "WASTE",
           "EventDate": "2026-10-15",
           "EventUrl": "https://www.democrazy.be/agenda/3186-waste/",
@@ -6859,6 +6872,19 @@
           "EventTitle": "Stef Kamil Carlens & The Poem",
           "EventDate": "2026-10-22",
           "EventUrl": "https://www.democrazy.be/agenda/3167-stef-kamil-carlens-the-poem/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Uberdope (extra show) - Uitgespeeld",
+          "EventDate": "2026-10-22",
+          "EventUrl": "https://www.democrazy.be/agenda/3213-uberdope/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8088,7 +8114,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 57,
+      "TotalEvents": 58,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9466,7 +9492,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 118,
+      "TotalEvents": 116,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
