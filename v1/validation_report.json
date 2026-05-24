@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-23T05:00:00.3328549Z",
-  "ValidatedAt": "2026-05-23T05:00:00.3328553Z",
+  "GeneratedAt": "2026-05-24T05:00:00.6411688Z",
+  "ValidatedAt": "2026-05-24T05:00:00.6411691Z",
   "TotalScrapers": 30,
-  "TotalEvents": 1561,
+  "TotalEvents": 1544,
   "TotalErrors": 0,
-  "TotalWarnings": 728,
+  "TotalWarnings": 727,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 169,
+      "TotalEvents": 168,
       "ErrorCount": 0,
-      "WarningCount": 169,
+      "WarningCount": 168,
       "Issues": [],
       "EventDetails": [
         {
@@ -152,19 +152,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-05-28T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-05-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nnelg",
-          "EventDate": "2026-05-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nnelg/a10Qw00000ELUEMIA5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-29T00:00:00.0000000"
             }
           ]
         },
@@ -9529,7 +9516,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9758,7 +9745,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 36,
+      "TotalEvents": 35,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
