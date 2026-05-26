@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-05-25T05:00:10.2494291Z",
-  "ValidatedAt": "2026-05-25T05:00:10.2495365Z",
+  "GeneratedAt": "2026-05-26T05:00:00.4145851Z",
+  "ValidatedAt": "2026-05-26T05:00:00.4146987Z",
   "TotalScrapers": 33,
-  "TotalEvents": 1613,
+  "TotalEvents": 1609,
   "TotalErrors": 0,
   "TotalWarnings": 719,
   "Results": [
@@ -25,32 +25,6 @@
       "WarningCount": 165,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Conference : Let's talk about Africa 3.0",
-          "EventDate": "2026-05-25T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/conference-lets-talk-about-africa-30/a10Qw00000HzopJIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-25T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "N'Faly Kouyaté + Tiken Jah Fakoly, Didier Awadi, Lil Saako, LAY THIS DRUM!, Two Dots",
-          "EventDate": "2026-05-25T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nfaly-kouyate/a10Qw00000B85fKIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-25T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Rendez-Vous 2026: dag voor muziekpro's",
           "EventDate": "2026-05-26T00:00:00.0000000",
@@ -182,9 +156,9 @@
           ]
         },
         {
-          "EventTitle": "HOLY",
+          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
           "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -195,9 +169,9 @@
           ]
         },
         {
-          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
+          "EventTitle": "HOLY",
           "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -1456,6 +1430,19 @@
           ]
         },
         {
+          "EventTitle": "Horse Lords presents 'Demand To Be Taken To Heaven Alive!'",
+          "EventDate": "2026-11-16T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/horse-lords-presents-demand-to-be-taken-to-heaven-alive/a10Qw00000H538SIAR",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Eluveitie + Pain, WOLFHEART",
           "EventDate": "2026-11-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/eluveitie/a10Qw00000CUGYJIA5",
@@ -1472,6 +1459,19 @@
           "EventTitle": "Luther",
           "EventDate": "2026-11-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/luther/a10Qw0000097A8jIAE",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pyo",
+          "EventDate": "2026-11-18T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/pyo/a10Qw00000HMGdpIAH",
           "Issues": [
             {
               "Field": "DateString",
@@ -5046,7 +5046,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 98,
+      "TotalEvents": 97,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7177,7 +7177,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 35,
+      "TotalEvents": 33,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8017,7 +8017,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
