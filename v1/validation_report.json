@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-30T05:00:00.5179588Z",
-  "ValidatedAt": "2026-05-30T05:00:00.5179589Z",
+  "GeneratedAt": "2026-05-31T05:00:00.3399074Z",
+  "ValidatedAt": "2026-05-31T05:00:00.3399075Z",
   "TotalScrapers": 32,
-  "TotalEvents": 1998,
+  "TotalEvents": 1991,
   "TotalErrors": 0,
-  "TotalWarnings": 831,
+  "TotalWarnings": 827,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -325,9 +325,9 @@
           ]
         },
         {
-          "EventTitle": "Dernière: 'One Song' - Miet Warlop",
+          "EventTitle": "Red Leather + Jady",
           "EventDate": "2026-06-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/derniere-one-song-miet-warlop/a10Qw000007eTbxIAE",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/red-leather/a10Qw00000FdwTJIAZ",
           "Issues": [
             {
               "Field": "DateString",
@@ -338,9 +338,9 @@
           ]
         },
         {
-          "EventTitle": "Red Leather + Jady",
+          "EventTitle": "Dernière: 'One Song' - Miet Warlop",
           "EventDate": "2026-06-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/red-leather/a10Qw00000FdwTJIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/derniere-one-song-miet-warlop/a10Qw000007eTbxIAE",
           "Issues": [
             {
               "Field": "DateString",
@@ -2215,7 +2215,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 140,
+      "TotalEvents": 139,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -4167,7 +4167,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 34,
+      "TotalEvents": 33,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4192,19 +4192,6 @@
       "WarningCount": 120,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Dansgroep Bi’Force",
-          "EventDate": "2026-05-30",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/dansgroep-biforce/9430/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-30'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-30"
-            }
-          ]
-        },
         {
           "EventTitle": "BachPlus",
           "EventDate": "2026-06-14",
@@ -4323,6 +4310,19 @@
           ]
         },
         {
+          "EventTitle": "Koppen in piepschuim (niv 3)",
+          "EventDate": "2026-09-24",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koppen-in-piepschuim-niv-3/9194/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-24"
+            }
+          ]
+        },
+        {
           "EventTitle": "Compagnie Gardavoe",
           "EventDate": "2026-09-11",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/compagnie-gardavoe/9829/",
@@ -4345,19 +4345,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-23'.",
               "Severity": 1,
               "ActualValue": "2026-09-23"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Koppen in piepschuim (niv 3)",
-          "EventDate": "2026-09-24",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koppen-in-piepschuim-niv-3/9194/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-24"
             }
           ]
         },
@@ -4973,19 +4960,6 @@
           ]
         },
         {
-          "EventTitle": "Moritz Ostruschnjak (DE)",
-          "EventDate": "2026-12-12",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/moritz-ostruschnjak-de/9876/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-12'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-12"
-            }
-          ]
-        },
-        {
           "EventTitle": "De Prinsengarde der Stad Aalst",
           "EventDate": "2026-12-11",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/de-prinsengarde-der-stad-aalst/9942/",
@@ -4995,6 +4969,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-11'.",
               "Severity": 1,
               "ActualValue": "2026-12-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Moritz Ostruschnjak (DE)",
+          "EventDate": "2026-12-12",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/moritz-ostruschnjak-de/9876/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-12"
             }
           ]
         },
@@ -5749,6 +5736,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-17'.",
               "Severity": 1,
               "ActualValue": "2027-03-17"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het nieuwstedelijk",
+          "EventDate": "2027-03-18",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/het-nieuwstedelijk/9908/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-18"
             }
           ]
         }
@@ -6593,9 +6593,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 11,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 9,
+      "WarningCount": 8,
       "Issues": [],
       "EventDetails": [
         {
@@ -6608,19 +6608,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "STAP presenteert",
-          "EventDate": "2026-05-30T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stap-presenteert-1jhd",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-30T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-30T00:00:00.0000000"
             }
           ]
         },
@@ -7783,24 +7770,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 65,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Puggy",
-          "EventDate": "2026-05-30",
-          "EventUrl": "https://www.democrazy.be/agenda/3121-puggy/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-30'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-30"
-            }
-          ]
-        },
         {
           "EventTitle": "Nebula - + Johnny Nasty Boots",
           "EventDate": "2026-05-31",
@@ -8639,7 +8613,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 79,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8659,24 +8633,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 60,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "TP Le Green",
-          "EventDate": "2026-05-30T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/tp-le-green-30-05-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-30T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-30T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Ghazal Faghihi solo + John Dikeman-Nicolas Field duo",
           "EventDate": "2026-06-01T00:00:00.0000000",
@@ -9460,7 +9421,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 158,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9470,7 +9431,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 26,
+      "TotalEvents": 25,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10844,7 +10805,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 105,
+      "TotalEvents": 103,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -10891,24 +10852,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 16,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "FAVE",
-          "EventDate": "2026-05-29T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/fave",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-29T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-29T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Kazdoura + Juno",
           "EventDate": "2026-06-02T22:00:00Z",
