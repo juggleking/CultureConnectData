@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-05-31T05:00:00.3399074Z",
-  "ValidatedAt": "2026-05-31T05:00:00.3399075Z",
+  "GeneratedAt": "2026-06-01T05:00:00.3695059Z",
+  "ValidatedAt": "2026-06-01T05:00:00.369506Z",
   "TotalScrapers": 32,
-  "TotalEvents": 1991,
+  "TotalEvents": 1981,
   "TotalErrors": 0,
-  "TotalWarnings": 827,
+  "TotalWarnings": 820,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,63 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 168,
+      "TotalEvents": 164,
       "ErrorCount": 0,
-      "WarningCount": 168,
+      "WarningCount": 164,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Closing Night Kunstenfestivaldesarts x Zinneke Parade + ANJEES GG, BIS project, ELEZA, Tokyo B2B Akwefa, aminabonthebeat B2B Mango Slut, Sarah Abd Al, Het Salon",
-          "EventDate": "2026-05-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/closing-night-kunstenfestivaldesarts-x-zinneke-parade/a10Qw000008u83AIAQ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-30T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-30T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "WASCO! - LIVE - Voetvolk",
-          "EventDate": "2026-05-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/wasco-live-voetvolk/a10Qw000006945lIAA",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-31T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Coke Studio Session: marcel + Coucou C'est Moi",
-          "EventDate": "2026-05-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/coke-studio-session-marcel/a10Qw00000Fe2VWIAZ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-31T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Punk 50 movie screening: 'Repo Man' (1984)",
-          "EventDate": "2026-05-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/punk-50-movie-screening-repo-man-1984/a10Qw00000HwbgXIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-31T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "HOLY",
           "EventDate": "2026-06-02T00:00:00.0000000",
@@ -624,7 +572,7 @@
           ]
         },
         {
-          "EventTitle": "New date: Chicos y Mendez",
+          "EventTitle": "New date: Chicos y Mendez + Renata Flores",
           "EventDate": "2026-09-19T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-chicos-y-mendez/a10Qw0000017ADNIA2",
           "Issues": [
@@ -2215,7 +2163,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 139,
+      "TotalEvents": 138,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -5768,24 +5716,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 3,
+      "TotalEvents": 2,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 2,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Unknown Title",
-          "EventDate": "2026-06-21",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-ateliers-beeld-pastorie-munte",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Unknown Title",
           "EventDate": "2026-12-19",
@@ -6583,7 +6518,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 100,
+      "TotalEvents": 99,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6593,9 +6528,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 12,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
         {
@@ -6608,32 +6543,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ga op blind date met ons gloednieuw seizoen",
-          "EventDate": "2026-05-31T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ga-op-blind-date-met-ons-gloednieuw-seizoen-f7jd",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-31T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ik werd als eerste wakker",
-          "EventDate": "2026-05-31T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ik-werd-als-eerste-wakker-x5mc",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-31T00:00:00.0000000"
             }
           ]
         },
@@ -6699,6 +6608,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Waterlanders",
+          "EventDate": "2026-06-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/waterlanders-dtff",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-18T00:00:00.0000000"
             }
           ]
         }
@@ -7404,79 +7326,79 @@
         },
         {
           "EventTitle": "DDT HOUDT UITVERKOOP [Te Gast]",
-          "EventDate": "2026-03-04T00:00:00.0000000",
+          "EventDate": "2027-03-04T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/ddt-houdt-uitverkoop?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-04T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-04T00:00:00.0000000"
+              "ActualValue": "2027-03-04T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Dimitri Leue, Inge Paulussen, Jonas Leemans & Wannes Cappelle | ELEGAST",
-          "EventDate": "2026-03-05T00:00:00.0000000",
+          "EventDate": "2027-03-05T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/dimitri-leue-inge-paulussen-jonas-leemans-and-wannes-capelle--elegast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-05T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-05T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-05T00:00:00.0000000"
+              "ActualValue": "2027-03-05T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Joke Devynck - De Keizerin, de Hoer en de Dochter van de mosselboer",
-          "EventDate": "2026-03-11T00:00:00.0000000",
+          "EventDate": "2027-03-11T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/joke-devynck---de-keizerin-de-hoer-en-de-dochter-van-de-mosselboer?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-11T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-11T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-11T00:00:00.0000000"
+              "ActualValue": "2027-03-11T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Guido Belcanto | Paviljoen der Menselijke Driften",
-          "EventDate": "2026-03-12T00:00:00.0000000",
+          "EventDate": "2027-03-12T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/guido-belcanto--droevig-is-deze-wereld?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-12T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-12T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-12T00:00:00.0000000"
+              "ActualValue": "2027-03-12T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Andy Peelman| Gebaseerd op waargebeurde feiten [Te Gast]",
-          "EventDate": "2026-03-25T00:00:00.0000000",
+          "EventDate": "2027-03-25T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/andy-peelman-gebaseerd-op-aargebeurde-feiten-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-25T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-25T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-25T00:00:00.0000000"
+              "ActualValue": "2027-03-25T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Eén Zee | Tramlijn Begeerte",
-          "EventDate": "2026-03-26T00:00:00.0000000",
+          "EventDate": "2027-03-26T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/een-zee--tramlijn-begeert?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-03-26T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-26T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-03-26T00:00:00.0000000"
+              "ActualValue": "2027-03-26T00:00:00.0000000"
             }
           ]
         },
@@ -7770,24 +7692,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 64,
+      "TotalEvents": 63,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 63,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Nebula - + Johnny Nasty Boots",
-          "EventDate": "2026-05-31",
-          "EventUrl": "https://www.democrazy.be/agenda/3139-nebula/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-05-31'.",
-              "Severity": 1,
-              "ActualValue": "2026-05-31"
-            }
-          ]
-        },
         {
           "EventTitle": "Palmarium: Fuzzy Bears (AKA De Beren Gieren) + Adia Vanheerentals",
           "EventDate": "2026-06-04",
@@ -9411,7 +9320,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 63,
+      "TotalEvents": 62,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9421,7 +9330,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 160,
+      "TotalEvents": 159,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10805,7 +10714,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 103,
+      "TotalEvents": 101,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
