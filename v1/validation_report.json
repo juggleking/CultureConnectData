@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-02T05:00:00.4214687Z",
-  "ValidatedAt": "2026-06-02T05:00:00.4214689Z",
+  "GeneratedAt": "2026-06-03T05:00:00.421431Z",
+  "ValidatedAt": "2026-06-03T05:00:00.4214311Z",
   "TotalScrapers": 33,
-  "TotalEvents": 2346,
+  "TotalEvents": 2330,
   "TotalErrors": 0,
-  "TotalWarnings": 826,
+  "TotalWarnings": 834,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 169,
+      "TotalEvents": 168,
       "ErrorCount": 0,
-      "WarningCount": 169,
+      "WarningCount": 168,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "HOLY",
-          "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcbIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Moor Mother + Aquiles Navarro & Olof Melander",
-          "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/moor-mother-aquiles-navarro-olof-melander/a10Qw00000IEe1gIAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
           "EventDate": "2026-06-03T00:00:00.0000000",
@@ -143,9 +117,9 @@
           ]
         },
         {
-          "EventTitle": "Just Vox",
+          "EventTitle": "The Dwarfs of East Agouza",
           "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/just-vox/a10Qw00000A3D1OIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dwarfs-of-east-agouza/a10Qw00000GDeRSIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -156,9 +130,9 @@
           ]
         },
         {
-          "EventTitle": "The Dwarfs of East Agouza",
+          "EventTitle": "Just Vox",
           "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dwarfs-of-east-agouza/a10Qw00000GDeRSIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/just-vox/a10Qw00000A3D1OIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -871,9 +845,9 @@
           ]
         },
         {
-          "EventTitle": "Ultra Vomit",
+          "EventTitle": "Nectar Woode",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -884,9 +858,9 @@
           ]
         },
         {
-          "EventTitle": "Nectar Woode",
+          "EventTitle": "Ultra Vomit",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
           "Issues": [
             {
               "Field": "DateString",
@@ -1326,9 +1300,9 @@
           ]
         },
         {
-          "EventTitle": "Ice Sealed Eyes",
+          "EventTitle": "JeanJass",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -1339,9 +1313,9 @@
           ]
         },
         {
-          "EventTitle": "JeanJass",
+          "EventTitle": "Ice Sealed Eyes",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1651,9 +1625,9 @@
           ]
         },
         {
-          "EventTitle": "Kaat Van Stralen",
+          "EventTitle": "Elmiene",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -1664,9 +1638,9 @@
           ]
         },
         {
-          "EventTitle": "Elmiene",
+          "EventTitle": "Kaat Van Stralen",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -2158,6 +2132,19 @@
           ]
         },
         {
+          "EventTitle": "Sniper",
+          "EventDate": "2027-03-14T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sniper/a10Qw00000ItkflIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: Hatik",
           "EventDate": "2027-03-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-hatik/a10Qw00000620DQIAY",
@@ -2228,7 +2215,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 140,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2975,7 +2962,7 @@
       "ScraperId": "SintLievensHoutem",
       "ScraperName": "SintLievensHoutemScraper",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
-      "TotalEvents": 30,
+      "TotalEvents": 29,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3381,7 +3368,7 @@
           ]
         },
         {
-          "EventTitle": "Mohsin Abbas - Moh?!",
+          "EventTitle": "Mohsin Abbas - Moh?! - UITVERKOCHT!",
           "EventDate": "2026-12-03",
           "EventUrl": "https://cczoetegem.be/programma/mohsin-abbas-moh-2.aspx",
           "Issues": [
@@ -3602,7 +3589,7 @@
           ]
         },
         {
-          "EventTitle": "Hooverphonic - 30 Years Anniversary Tour - With Noémie Wolfs",
+          "EventTitle": "Hooverphonic - UITVERKOCHT!",
           "EventDate": "2027-02-03",
           "EventUrl": "https://cczoetegem.be/programma/hooverphonic-30-years-anniversary-tour.aspx",
           "Issues": [
@@ -3971,9 +3958,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
         {
@@ -4142,6 +4129,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-25'.",
               "Severity": 1,
               "ActualValue": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "HAMERS & 30,000 Monkies",
+          "EventDate": "2026-11-26",
+          "EventUrl": "https://aff.be/events/hamers30000monkies/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-26"
             }
           ]
         },
@@ -5778,9 +5778,9 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 2,
+      "TotalEvents": 6,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -5798,6 +5798,19 @@
         },
         {
           "EventTitle": "Unknown Title",
+          "EventDate": "2026-12-06",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/weekend-illustreren-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-06'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-06"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Unknown Title",
           "EventDate": "2026-10-07",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/vrij-atelier-beeldende-technieken-15-tem-20-jaar-2",
           "Issues": [
@@ -5808,6 +5821,45 @@
               "ActualValue": "2026-10-07"
             }
           ]
+        },
+        {
+          "EventTitle": "Unknown Title",
+          "EventDate": "2026-11-15",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kunstendag-voor-kinderen-door-de-ogen-van-irmine-remue",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Unknown Title",
+          "EventDate": "2026-11-15",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kunstendag-voor-kinderen-door-de-ogen-van-irmine-remue-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Unknown Title",
+          "EventDate": "2027-01-31",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/mousse-poppen-maken",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-31'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-31"
+            }
+          ]
         }
       ]
     },
@@ -5815,9 +5867,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 58,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
         {
@@ -6120,6 +6172,19 @@
           ]
         },
         {
+          "EventTitle": "The Jayhawks",
+          "EventDate": "2026-09-20T00:00:00",
+          "EventUrl": "https://decasino.be/concert/the-jayhawks/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-20T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "De Staat",
           "EventDate": "2026-09-25T00:00:00",
           "EventUrl": "https://decasino.be/concert/de-staat/",
@@ -6146,6 +6211,19 @@
           ]
         },
         {
+          "EventTitle": "Hooverphonic & Noémie Wolfs / 30 Years Anniversary Tour",
+          "EventDate": "2026-10-01T00:00:00",
+          "EventUrl": "https://decasino.be/concert/hooverphonic-noemie-wolfs-30-years-anniversary-tour/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Deep Dark Woods",
           "EventDate": "2026-10-03T00:00:00",
           "EventUrl": "https://decasino.be/concert/the-deep-dark-woods-2/",
@@ -6155,6 +6233,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-03T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-10-03T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Drink The Sea",
+          "EventDate": "2026-10-06T00:00:00",
+          "EventUrl": "https://decasino.be/concert/drink-the-sea/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-06T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-06T00:00:00"
             }
           ]
         },
@@ -6519,6 +6610,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-11T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-12-11T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Daan / Crooner",
+          "EventDate": "2027-01-14T00:00:00",
+          "EventUrl": "https://decasino.be/concert/daan-crooner/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-14T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-14T00:00:00"
             }
           ]
         },
@@ -7741,9 +7845,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 63,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 63,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
         {
@@ -8003,6 +8107,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
               "Severity": 1,
               "ActualValue": "2026-09-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Swell",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.democrazy.be/agenda/3220-swell/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
             }
           ]
         },
@@ -8591,24 +8708,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sectordag over muziek voor jong publiek",
-          "EventDate": "2026-06-02T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/sectordag-over-muziek-voor-jong-publiek-02-06-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Guitari Baro",
           "EventDate": "2026-06-05T00:00:00.0000000",
@@ -9356,25 +9460,11 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 63,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "COOL presents An Evening With Theo Katzman",
-          "EventDate": "2026-06-09T00:00:00",
-          "EventUrl": "https://www.hetdepot.be/concert/2026/cool-presents-an-evening-with-theo-katzman",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-09T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-09T00:00:00"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "Leietheater",
@@ -9456,7 +9546,7 @@
       "ScraperId": "Pukkelpop",
       "ScraperName": "PukkelpopScraper",
       "VenueName": "Pukkelpop",
-      "TotalEvents": 128,
+      "TotalEvents": 129,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10764,7 +10854,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 258,
+      "TotalEvents": 256,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -10840,7 +10930,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10850,9 +10940,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
         {
@@ -10904,6 +10994,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-05T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-06-05T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Niveau 4",
+          "EventDate": "2026-06-11T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/niveau-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-11T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-11T22:00:00Z"
             }
           ]
         },
@@ -11066,7 +11169,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 42,
+      "TotalEvents": 47,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
