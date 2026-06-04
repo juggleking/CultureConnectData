@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-06-03T05:00:00.421431Z",
-  "ValidatedAt": "2026-06-03T05:00:00.4214311Z",
+  "GeneratedAt": "2026-06-04T05:00:00.6398935Z",
+  "ValidatedAt": "2026-06-04T05:00:00.6398936Z",
   "TotalScrapers": 33,
-  "TotalEvents": 2330,
+  "TotalEvents": 2402,
   "TotalErrors": 0,
-  "TotalWarnings": 834,
+  "TotalWarnings": 839,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 16,
+      "TotalEvents": 18,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 168,
+      "TotalEvents": 169,
       "ErrorCount": 0,
-      "WarningCount": 168,
+      "WarningCount": 169,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
-          "EventDate": "2026-06-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-wblck-mamba-dj-workshop-intermediate/a10Qw00000FqD29IAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "HOLY",
-          "EventDate": "2026-06-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXccIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "HOLY",
           "EventDate": "2026-06-04T00:00:00.0000000",
@@ -67,7 +41,7 @@
         {
           "EventTitle": "Ghinzu",
           "EventDate": "2026-06-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ghinzu/a10Qw00000FjG4qIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ghinzu/a10Qw00000JlEKkIAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -286,7 +260,7 @@
           ]
         },
         {
-          "EventTitle": "Jack White",
+          "EventTitle": "Jack White + Hideous",
           "EventDate": "2026-06-16T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/jack-white/a10Qw00000EQHN0IAP",
           "Issues": [
@@ -312,7 +286,7 @@
           ]
         },
         {
-          "EventTitle": "Jack White",
+          "EventTitle": "Jack White + Lézard",
           "EventDate": "2026-06-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/jack-white/a10Qw00000EQHN1IAP",
           "Issues": [
@@ -438,6 +412,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-02T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "New date: Ghinzu",
+          "EventDate": "2026-07-07T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-ghinzu/a10Qw00000FjG4qIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-07T00:00:00.0000000"
             }
           ]
         },
@@ -806,6 +793,19 @@
           ]
         },
         {
+          "EventTitle": "The Afghan Whigs 'Soft Control' Tour + Ed Harcourt",
+          "EventDate": "2026-10-05T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-afghan-whigs-soft-control-tour/a10Qw00000FtWWTIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Jalen Ngonda + Brooke Combe",
           "EventDate": "2026-10-06T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
@@ -845,9 +845,9 @@
           ]
         },
         {
-          "EventTitle": "Nectar Woode",
+          "EventTitle": "Ultra Vomit",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
           "Issues": [
             {
               "Field": "DateString",
@@ -858,9 +858,9 @@
           ]
         },
         {
-          "EventTitle": "Ultra Vomit",
+          "EventTitle": "Nectar Woode",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -2054,6 +2054,19 @@
           ]
         },
         {
+          "EventTitle": "Thylacine",
+          "EventDate": "2027-02-26T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/thylacine/a10Qw00000EvBJgIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-26T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Eivør + Rabbitology",
           "EventDate": "2027-03-02T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/eivor/a10Qw00000FXvy9IAD",
@@ -2215,7 +2228,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 141,
+      "TotalEvents": 148,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2252,24 +2265,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ata Kak",
-          "EventDate": "2026-06-03T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/ata-kak",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Oasis tribute by Oasies",
           "EventDate": "2026-06-05T00:00:00.0000000",
@@ -2972,11 +2972,50 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 75,
+      "TotalEvents": 78,
       "ErrorCount": 0,
-      "WarningCount": 75,
+      "WarningCount": 78,
       "Issues": [],
       "EventDetails": [
+        {
+          "EventTitle": "Jazz Zottegem - Park Kasteel van Egmont",
+          "EventDate": "2026-06-13",
+          "EventUrl": "https://cczoetegem.be/programma/jazz-zottegem-park-kasteel-van-egmont.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jazz Zottegem - Park Kasteel van Egmont",
+          "EventDate": "2026-06-14",
+          "EventUrl": "https://cczoetegem.be/programma/jazz-zottegem-park-kasteel-van-egmont-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-14'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cultuurkaravaan: familiefestival in Godveerdegem",
+          "EventDate": "2026-06-21",
+          "EventUrl": "https://cczoetegem.be/programma/cultuurkaravaan-familiefestival-in-godveerdegem.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-21"
+            }
+          ]
+        },
         {
           "EventTitle": "Infoavond Cyberveiligheid - Klik niet in de val!",
           "EventDate": "2026-06-24",
@@ -3958,9 +3997,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 16,
+      "TotalEvents": 17,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
         {
@@ -4170,6 +4209,19 @@
               "ActualValue": "2026-12-12"
             }
           ]
+        },
+        {
+          "EventTitle": "Tramhaus",
+          "EventDate": "2027-02-11",
+          "EventUrl": "https://aff.be/events/tramhaus/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-11'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-11"
+            }
+          ]
         }
       ]
     },
@@ -4177,7 +4229,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 109,
+      "TotalEvents": 108,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5768,7 +5820,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 85,
+      "TotalEvents": 89,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5872,19 +5924,6 @@
       "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Carte Blanche / Jan Wagemans invites",
-          "EventDate": "2026-06-03T00:00:00",
-          "EventUrl": "https://decasino.be/concert/carte-blanche-2/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Club Riri (by Goestink)",
           "EventDate": "2026-06-05T00:00:00",
@@ -6155,6 +6194,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-05T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-07-05T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dikke (try-out)",
+          "EventDate": "2026-08-18T00:00:00",
+          "EventUrl": "https://decasino.be/concert/dikke-try-out/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-18T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-18T00:00:00"
             }
           ]
         },
@@ -6684,7 +6736,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 99,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6802,20 +6854,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Steffie De Baerdemaeker | Try out - In mijn hoofd klonk het beter.",
-          "EventDate": "2026-06-03T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/steffie-de-baerdemaeker--in-mijn-hoofd-klonk-het-beter?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "VBS Herzele | Roodkapje de musical [Te Gast]",
+          "EventTitle": "VBS Herzele | Roodkapje de musical",
           "EventDate": "2026-06-06T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/vbsh-herzele--roodkapje-de-musical-te-gast?th=4047",
           "Issues": [
@@ -6828,7 +6867,7 @@
           ]
         },
         {
-          "EventTitle": "Jef Vermassen | Seriemoordenaars [Te Gast]",
+          "EventTitle": "Jef Vermassen | Seriemoordenaars",
           "EventDate": "2026-06-09T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/jef-vermassen--seriemoordenaars-te-gast?th=4047",
           "Issues": [
@@ -6841,7 +6880,7 @@
           ]
         },
         {
-          "EventTitle": "Han Solo | 15 jaar Han Solo - De Exclusieve Magnun XXXL Shows [G]",
+          "EventTitle": "Han Solo | 15 jaar Han Solo - De Exclusieve Magnun XXXL Shows",
           "EventDate": "2026-06-11T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/han-solo--15-jaar-han-solo---de-exclusieve-magnun-xxxl-shows-g?th=4047",
           "Issues": [
@@ -6854,7 +6893,7 @@
           ]
         },
         {
-          "EventTitle": "Hans Cools | Zolang de voorraad strekt [Gast]",
+          "EventTitle": "Hans Cools | Zolang de voorraad strekt",
           "EventDate": "2026-06-12T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/hans-cools--zolang-de-voorraad-strekt-gast?th=4047",
           "Issues": [
@@ -6867,7 +6906,7 @@
           ]
         },
         {
-          "EventTitle": "Jasper Posson | Eeuwige jeugd [Gast]",
+          "EventTitle": "Jasper Posson | Eeuwige jeugd",
           "EventDate": "2026-06-13T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/jasper-posson--eeuwige-jeugd-gast?th=4047",
           "Issues": [
@@ -6880,7 +6919,7 @@
           ]
         },
         {
-          "EventTitle": "Steven Mahieu | Stabieler [Gast]",
+          "EventTitle": "Steven Mahieu | Stabieler",
           "EventDate": "2026-06-19T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/steven-mahieu--stabieler-gast?th=4047",
           "Issues": [
@@ -6893,7 +6932,7 @@
           ]
         },
         {
-          "EventTitle": "Bert Gabriëls | Live vanuit de Wetstraat [GAST]",
+          "EventTitle": "Bert Gabriëls | Live vanuit de Wetstraat",
           "EventDate": "2026-06-20T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/bert-gabriels--live-vanuit-de-wetstraat-gast?th=4047",
           "Issues": [
@@ -6906,7 +6945,7 @@
           ]
         },
         {
-          "EventTitle": "Rudi Vranckx - De wereld in chaos [Te Gast]",
+          "EventTitle": "Rudi Vranckx - De wereld in chaos",
           "EventDate": "2026-06-03T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/rudi-vranckx---de-wereld-in-chaos-te-gast?th=4047",
           "Issues": [
@@ -6919,7 +6958,7 @@
           ]
         },
         {
-          "EventTitle": "Mother Mercury - 50 jaar Bohemian Rhapsody [Te Gast]",
+          "EventTitle": "Mother Mercury - 50 jaar Bohemian Rhapsody",
           "EventDate": "2026-06-10T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/mother-mercury---50-jaar-bohemian-rhapsody-te-gast?th=4047",
           "Issues": [
@@ -6932,7 +6971,7 @@
           ]
         },
         {
-          "EventTitle": "Yves Segers | Bedankt Rob [Te Gast]",
+          "EventTitle": "Yves Segers | Bedankt Rob",
           "EventDate": "2026-06-11T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/yves-segers--bedankt-rob-te-gast?th=4047",
           "Issues": [
@@ -6945,7 +6984,7 @@
           ]
         },
         {
-          "EventTitle": "William Boeva - Drift [Te Gast]",
+          "EventTitle": "William Boeva - Drift",
           "EventDate": "2026-06-17T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/william-boeva---drift-te-gast?th=4047",
           "Issues": [
@@ -6997,7 +7036,7 @@
           ]
         },
         {
-          "EventTitle": "Les Folles de Gand & The Stardancers - Luxe Travestieshow [Te Gast]",
+          "EventTitle": "Les Folles de Gand & The Stardancers - Luxe Travestieshow",
           "EventDate": "2026-09-12T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/les-folles-de-gand-and-the-stardancers---luxe-travestieshow-te-gast?th=4047",
           "Issues": [
@@ -7023,7 +7062,7 @@
           ]
         },
         {
-          "EventTitle": "Het Farcetheater | DUBBEL OP [Te Gast]",
+          "EventTitle": "Het Farcetheater | DUBBEL OP",
           "EventDate": "2026-09-25T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/het-farcetheater--dubbel-op-te-gast?th=4047",
           "Issues": [
@@ -7049,7 +7088,7 @@
           ]
         },
         {
-          "EventTitle": "Kamal Kharmach | Eindejaarsconference 2026 - Try out [Te Gast]",
+          "EventTitle": "Kamal Kharmach | Eindejaarsconference 2026 - Try out",
           "EventDate": "2026-10-09T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/kamal-kharmach--eindejaarsconference-2026---try-out-te-gast?th=4047",
           "Issues": [
@@ -7101,7 +7140,7 @@
           ]
         },
         {
-          "EventTitle": "Het Prethuis | De Quaghebeurs 2, D'erfenisse [Te Gast]",
+          "EventTitle": "Het Prethuis | De Quaghebeurs 2, D'erfenisse",
           "EventDate": "2026-10-22T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/het-prethuis--de-quaghebeurs-2-derfenisse-te-gast?th=4047",
           "Issues": [
@@ -7140,7 +7179,7 @@
           ]
         },
         {
-          "EventTitle": "Sven De Ridder Company | De jacht is open [Gast]",
+          "EventTitle": "Sven De Ridder Company | De jacht is open",
           "EventDate": "2026-10-31T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/sven-de-ridder-company--de-jacht-is-open-gast?th=4047",
           "Issues": [
@@ -7179,7 +7218,7 @@
           ]
         },
         {
-          "EventTitle": "Pink Floyd | \"60 years of Pink Floyd\" [Te Gast]",
+          "EventTitle": "Pink Floyd | \"60 years of Pink Floyd\"",
           "EventDate": "2026-11-12T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/pink-floyd--60-years-of-pink-floyd?th=4047",
           "Issues": [
@@ -7192,7 +7231,7 @@
           ]
         },
         {
-          "EventTitle": "Hans Cools | Zolang de voorraad strekt [te Gast]",
+          "EventTitle": "Hans Cools | Zolang de voorraad strekt",
           "EventDate": "2026-11-13T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/hans-cools--zolang-de-voorraad-strekt-te-gast?th=4047",
           "Issues": [
@@ -7244,7 +7283,7 @@
           ]
         },
         {
-          "EventTitle": "Concertband Vivace - Lichtpuntjes [Te Gast]",
+          "EventTitle": "Concertband Vivace - Lichtpuntjes",
           "EventDate": "2026-12-05T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/concertband-vivace---lichtpuntjes-te-gast?th=4047",
           "Issues": [
@@ -7257,7 +7296,7 @@
           ]
         },
         {
-          "EventTitle": "Concertband Vivace - Lichtpuntjes [Te Gast]",
+          "EventTitle": "Concertband Vivace - Lichtpuntjes",
           "EventDate": "2026-12-06T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/concerband-vivace---lichtpuntjes-te-gast?th=4047",
           "Issues": [
@@ -7270,7 +7309,7 @@
           ]
         },
         {
-          "EventTitle": "Han Solo | Psycho Solo, Lof Der Zotheid [Te Gast]",
+          "EventTitle": "Han Solo | Psycho Solo, Lof Der Zotheid",
           "EventDate": "2026-12-10T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/han-solo--psycho-solo-lof-der-zotheid-te-gast?th=4047",
           "Issues": [
@@ -7283,7 +7322,7 @@
           ]
         },
         {
-          "EventTitle": "Côté Coeur | Silvester - Van oud naar nieuw [Te Gast]",
+          "EventTitle": "Côté Coeur | Silvester - Van oud naar nieuw",
           "EventDate": "2026-12-11T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/cte-coeur--silvester---van-oud-naar-nieuw-te-gast?th=4047",
           "Issues": [
@@ -7361,7 +7400,7 @@
           ]
         },
         {
-          "EventTitle": "Steven Mahieu | Stabieler [Te Gast]",
+          "EventTitle": "Steven Mahieu | Stabieler",
           "EventDate": "2027-01-09T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/steven-mahieu--stabieler-te-gast?th=4047",
           "Issues": [
@@ -7413,7 +7452,7 @@
           ]
         },
         {
-          "EventTitle": "Bas Birker | Twee Procent [Te Gast]",
+          "EventTitle": "Bas Birker | Twee Procent",
           "EventDate": "2027-01-23T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/bas-birker--twee-procent?th=4047",
           "Issues": [
@@ -7465,7 +7504,7 @@
           ]
         },
         {
-          "EventTitle": "Het Farcetheater | De Tante van Charlie [Te Gast]",
+          "EventTitle": "Het Farcetheater | De Tante van Charlie",
           "EventDate": "2027-02-12T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/het-farcetheater--de-tante-van-charlie-te-gast?th=4047",
           "Issues": [
@@ -7478,7 +7517,7 @@
           ]
         },
         {
-          "EventTitle": "DDT HOUDT UITVERKOOP [Te Gast]",
+          "EventTitle": "DDT HOUDT UITVERKOOP",
           "EventDate": "2027-03-04T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/ddt-houdt-uitverkoop?th=4047",
           "Issues": [
@@ -7530,7 +7569,7 @@
           ]
         },
         {
-          "EventTitle": "Andy Peelman| Gebaseerd op waargebeurde feiten [Te Gast]",
+          "EventTitle": "Andy Peelman| Gebaseerd op waargebeurde feiten",
           "EventDate": "2027-03-25T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/andy-peelman-gebaseerd-op-aargebeurde-feiten-te-gast?th=4047",
           "Issues": [
@@ -7552,6 +7591,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-26T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-03-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Els De Schepper | (B)ENGEL",
+          "EventDate": "2026-04-02T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/els-de-schepper--bengel?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-02T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-02T00:00:00.0000000"
             }
           ]
         },
@@ -7634,7 +7686,7 @@
           ]
         },
         {
-          "EventTitle": "Pieter Verelst | Altijd Aan [Te Gast]",
+          "EventTitle": "Pieter Verelst | Altijd Aan",
           "EventDate": "2026-04-24T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/pieter-verelst--altijd-aan-te-gast?th=4047",
           "Issues": [
@@ -7647,7 +7699,7 @@
           ]
         },
         {
-          "EventTitle": "Will Tura by El Bandido - 85 jaar Will Tura [Te Gast]",
+          "EventTitle": "Will Tura by El Bandido - 85 jaar Will Tura",
           "EventDate": "2026-04-29T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/will-tura-by-el-bandido---85-jaar-will-tura-te-gast?th=4047",
           "Issues": [
@@ -7686,7 +7738,7 @@
           ]
         },
         {
-          "EventTitle": "Jo Vally zingt Tura - Deel 2 [Te Gast]",
+          "EventTitle": "Jo Vally zingt Tura - Deel 2",
           "EventDate": "2026-05-21T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/jo-vally-zingt-tura---deel-2-te-gast?th=4047",
           "Issues": [
@@ -7699,7 +7751,7 @@
           ]
         },
         {
-          "EventTitle": "Bart Herman - Vintage & Oldskool [Te Gast]",
+          "EventTitle": "Bart Herman - Vintage & Oldskool",
           "EventDate": "2026-05-22T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/bart-herman---vintage-and-oldskool-te-gast?th=4047",
           "Issues": [
@@ -7845,9 +7897,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 64,
+      "TotalEvents": 65,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 65,
       "Issues": [],
       "EventDetails": [
         {
@@ -8020,7 +8072,7 @@
           ]
         },
         {
-          "EventTitle": "AZ",
+          "EventTitle": "AZ - 30 YEARS OF DOE OR DIE + DJ DOO WOP",
           "EventDate": "2026-09-08",
           "EventUrl": "https://www.democrazy.be/agenda/3218-az/",
           "Issues": [
@@ -8107,6 +8159,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
               "Severity": 1,
               "ActualValue": "2026-09-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dizzee Rascal",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.democrazy.be/agenda/3221-dizzee-rascal/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
             }
           ]
         },
@@ -10854,7 +10919,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 256,
+      "TotalEvents": 254,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -10930,7 +10995,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10945,19 +11010,6 @@
       "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kazdoura + Juno",
-          "EventDate": "2026-06-02T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/kazdoura-juno",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-02T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-02T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Shlohmo",
           "EventDate": "2026-06-03T22:00:00Z",
@@ -10998,9 +11050,9 @@
           ]
         },
         {
-          "EventTitle": "Niveau 4",
+          "EventTitle": "Niveau 4 - Try-Out",
           "EventDate": "2026-06-11T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/niveau-4",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/niveau-4-try-out",
           "Issues": [
             {
               "Field": "DateString",
@@ -11072,6 +11124,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-25T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-09-25T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ONHA | FrancoFaune CARTE BLANCHE",
+          "EventDate": "2026-10-01T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/onha-francofaune-carte-blanche",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01T22:00:00Z"
             }
           ]
         },
@@ -11159,7 +11224,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 36,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11169,7 +11234,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 47,
+      "TotalEvents": 52,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
