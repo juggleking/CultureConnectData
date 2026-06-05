@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-04T05:00:00.6398935Z",
-  "ValidatedAt": "2026-06-04T05:00:00.6398936Z",
+  "GeneratedAt": "2026-06-05T05:00:00.5624838Z",
+  "ValidatedAt": "2026-06-05T05:00:00.5624839Z",
   "TotalScrapers": 33,
-  "TotalEvents": 2402,
+  "TotalEvents": 2395,
   "TotalErrors": 0,
-  "TotalWarnings": 839,
+  "TotalWarnings": 837,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 169,
+      "TotalEvents": 170,
       "ErrorCount": 0,
-      "WarningCount": 169,
+      "WarningCount": 170,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "HOLY",
-          "EventDate": "2026-06-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/holy/a10Qw00000FlXcdIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-04T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Ghinzu",
           "EventDate": "2026-06-05T00:00:00.0000000",
@@ -988,6 +975,19 @@
           ]
         },
         {
+          "EventTitle": "Sunday Morning concert: Ignatz presents 'I Don't Know'",
+          "EventDate": "2026-10-18T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-morning-concert-ignatz-presents-i-dont-know/a10Qw00000IYm9VIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Allie X",
           "EventDate": "2026-10-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
@@ -1768,6 +1768,19 @@
           ]
         },
         {
+          "EventTitle": "Sunday Morning concert: Catharina Evens",
+          "EventDate": "2026-12-13T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-morning-concert-catharina-evens/a10Qw00000Iiw17IAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Accept + Dynazty, TAILGUNNER",
           "EventDate": "2026-12-13T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/accept/a10Qw00000Acyv8IAB",
@@ -2228,7 +2241,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 148,
+      "TotalEvents": 150,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3121,7 +3134,7 @@
           ]
         },
         {
-          "EventTitle": "Peter Adriaenssens - De flexgeneratie",
+          "EventTitle": "Peter Adriaenssens - De flexgeneratie - UITVERKOCHT!",
           "EventDate": "2026-10-12",
           "EventUrl": "https://cczoetegem.be/programma/peter-adriaenssens-de-flexgeneratie.aspx",
           "Issues": [
@@ -3940,7 +3953,7 @@
           ]
         },
         {
-          "EventTitle": "Kommil Foo - BABEL",
+          "EventTitle": "Kommil Foo - BABEL - UITVERKOCHT!",
           "EventDate": "2027-04-29",
           "EventUrl": "https://cczoetegem.be/programma/kommil-foo-babel.aspx",
           "Issues": [
@@ -3997,11 +4010,24 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 17,
+      "TotalEvents": 18,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 18,
       "Issues": [],
       "EventDetails": [
+        {
+          "EventTitle": "Wereldvluchtelingendag",
+          "EventDate": "2026-06-20",
+          "EventUrl": "https://aff.be/events/wereldvluchtelingendag/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-20'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-20"
+            }
+          ]
+        },
         {
           "EventTitle": "AFF '26",
           "EventDate": "2026-08-07",
@@ -4229,7 +4255,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 108,
+      "TotalEvents": 107,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5820,7 +5846,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 89,
+      "TotalEvents": 88,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6746,9 +6772,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 14,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -6761,32 +6787,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "STAP presenteert",
-          "EventDate": "2026-06-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stap-presenteert-nr26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "An evening with Alex Agnew",
-          "EventDate": "2026-06-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/an-evening-with-alex-agnew-m9v5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-04T00:00:00.0000000"
             }
           ]
         },
@@ -6839,6 +6839,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Burlycious presenteert",
+          "EventDate": "2026-06-20T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/burlycious-presenteert-f7ys",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-20T00:00:00.0000000"
             }
           ]
         }
@@ -6997,7 +7010,7 @@
           ]
         },
         {
-          "EventTitle": "Vernieuwd Gents Volkstoneel | Bambi [Try-out] | Tickets te koop",
+          "EventTitle": "Vernieuwd Gents Volkstoneel | Bambi [Try-out]",
           "EventDate": "2026-07-11T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/vernieuwd-gents-volkstoneel--bambi-try-out?th=4047",
           "Issues": [
@@ -7010,7 +7023,7 @@
           ]
         },
         {
-          "EventTitle": "Vernieuwd Gents Volkstoneel | Muurd in de Steenoven | Tickets te koop",
+          "EventTitle": "Vernieuwd Gents Volkstoneel | Muurd in de Steenoven",
           "EventDate": "2026-07-12T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/vernieuwd-gents-volkstoneel--muurd-in-de-steenoven?th=4047",
           "Issues": [
@@ -7769,24 +7782,11 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 9,
+      "TotalEvents": 8,
       "ErrorCount": 0,
-      "WarningCount": 9,
+      "WarningCount": 8,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "THE EX + Frankie Traandruppel",
-          "EventDate": "2026-06-04T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/254-the-ex-frankie-traandruppel/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-04T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "DEATH BEFORE DISCO + PVRS",
           "EventDate": "2026-06-11T00:00:00",
@@ -7897,24 +7897,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 65,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Palmarium: Fuzzy Bears (AKA De Beren Gieren) + Adia Vanheerentals",
-          "EventDate": "2026-06-04",
-          "EventUrl": "https://www.democrazy.be/agenda/3158-fuzzy-bears-aka-de-beren-gieren/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-04"
-            }
-          ]
-        },
         {
           "EventTitle": "Curtis Harding",
           "EventDate": "2026-06-08",
@@ -8176,19 +8163,6 @@
           ]
         },
         {
-          "EventTitle": "Swell",
-          "EventDate": "2026-09-30",
-          "EventUrl": "https://www.democrazy.be/agenda/3220-swell/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-30"
-            }
-          ]
-        },
-        {
           "EventTitle": "Club Laat: dj g2g - + LOV b2b rostgoed + Rotbrijn b2b waltur",
           "EventDate": "2026-10-02",
           "EventUrl": "https://www.democrazy.be/agenda/3134-club-laat-dj-g2g/",
@@ -8335,6 +8309,19 @@
           "EventTitle": "Stef Kamil Carlens & The Poem",
           "EventDate": "2026-10-22",
           "EventUrl": "https://www.democrazy.be/agenda/3167-stef-kamil-carlens-the-poem/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Swell",
+          "EventDate": "2026-10-22",
+          "EventUrl": "https://www.democrazy.be/agenda/3220-swell/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8753,7 +8740,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 77,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9525,7 +9512,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 64,
+      "TotalEvents": 69,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9535,7 +9522,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 159,
+      "TotalEvents": 158,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9545,7 +9532,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 25,
+      "TotalEvents": 26,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10995,7 +10982,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11005,37 +10992,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 16,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Shlohmo",
-          "EventDate": "2026-06-03T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/shlohmo",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T22:00:00Z"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Shlohmo",
-          "EventDate": "2026-06-03T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/shlohmo-0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "BRMX - Martaba Tour",
           "EventDate": "2026-06-05T22:00:00Z",
@@ -11141,6 +11102,19 @@
           ]
         },
         {
+          "EventTitle": "BCUC | AB × VK",
+          "EventDate": "2026-10-13T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/bcuc-ab-vk",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13T22:00:00Z"
+            }
+          ]
+        },
+        {
           "EventTitle": "Los Piranas",
           "EventDate": "2026-10-29T23:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/los-piranas",
@@ -11206,9 +11180,9 @@
           ]
         },
         {
-          "EventTitle": "Bilal | AB x VK",
+          "EventTitle": "Bilal | AB × VK",
           "EventDate": "2026-12-04T23:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/bilal-ab-x-vk",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/bilal-ab-vk",
           "Issues": [
             {
               "Field": "DateString",
@@ -11224,7 +11198,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 57,
+      "TotalEvents": 62,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
