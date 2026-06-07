@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-06-06T05:00:00.4345972Z",
-  "ValidatedAt": "2026-06-06T05:00:00.4345972Z",
+  "GeneratedAt": "2026-06-07T05:00:00.6819296Z",
+  "ValidatedAt": "2026-06-07T05:00:00.6819297Z",
   "TotalScrapers": 32,
-  "TotalEvents": 2267,
+  "TotalEvents": 2322,
   "TotalErrors": 0,
-  "TotalWarnings": 839,
+  "TotalWarnings": 834,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 18,
+      "TotalEvents": 17,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,63 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 175,
+      "TotalEvents": 171,
       "ErrorCount": 0,
-      "WarningCount": 175,
+      "WarningCount": 171,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Clubnight by Liaison x Kunty Kompany: DICTATOR’S FUNERAL + AMI, Henry Keller, prnc, Lucrezia, Anano, ANTWAN, HOLINESS",
-          "EventDate": "2026-06-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/clubnight-by-liaison-x-kunty-kompany-dictators-funeral/a10Qw000009V4LXIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Masterclass Laryssa Kim: Shaping the Invisible",
-          "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/masterclass-laryssa-kim-shaping-the-invisible/a10Qw00000GqmlhIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Dwarfs of East Agouza",
-          "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dwarfs-of-east-agouza/a10Qw00000GDeRSIA1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Just Vox",
-          "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/just-vox/a10Qw00000A3D1OIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "HUMBE",
           "EventDate": "2026-06-07T00:00:00.0000000",
@@ -2303,27 +2251,51 @@
       ]
     },
     {
-      "ScraperId": "CactusMusic",
-      "ScraperName": "CactusMusicScraper",
-      "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 51,
+      "ScraperId": "Botanique",
+      "ScraperName": "BotaniqueScraper",
+      "VenueName": "Botanique, Brussels",
+      "TotalEvents": 150,
       "ErrorCount": 0,
-      "WarningCount": 51,
+      "WarningCount": 2,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "2 jaar Cactus Café - BLVRD Takeover",
-          "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactus-cafe-takeover-blvrd",
+          "EventTitle": "Chinese American Bear",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
+              "ActualValue": "2026-09-22T00:00:00.0000000"
             }
           ]
         },
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScraperId": "CactusMusic",
+      "ScraperName": "CactusMusicScraper",
+      "VenueName": "Cactus Muziekcentrum, Brugge",
+      "TotalEvents": 50,
+      "ErrorCount": 0,
+      "WarningCount": 50,
+      "Issues": [],
+      "EventDetails": [
         {
           "EventTitle": "Memorials + Opening Night",
           "EventDate": "2026-06-08T00:00:00.0000000",
@@ -4283,7 +4255,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 113,
+      "TotalEvents": 105,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6764,7 +6736,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 99,
+      "TotalEvents": 98,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6789,19 +6761,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "bij de expo What’s Love Got to Do with It",
-          "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-what-s-love-got-to-do-with-it-xncg",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
             }
           ]
         },
@@ -6856,6 +6815,19 @@
               "ActualValue": "2026-06-20T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "zomerkamp",
+          "EventDate": "2026-07-06T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/zomerkamp-q87d",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-06T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -6870,14 +6842,14 @@
       "EventDetails": [
         {
           "EventTitle": "VBS Herzele | Roodkapje de musical",
-          "EventDate": "2026-06-06T00:00:00.0000000",
+          "EventDate": "2026-06-07T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/vbsh-herzele--roodkapje-de-musical-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-07T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
+              "ActualValue": "2026-06-07T00:00:00.0000000"
             }
           ]
         },
@@ -8752,16 +8724,6 @@
       ]
     },
     {
-      "ScraperId": "DeKluize",
-      "ScraperName": "DeKluizeScraper",
-      "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 74,
-      "ErrorCount": 0,
-      "WarningCount": 0,
-      "Issues": [],
-      "EventDetails": []
-    },
-    {
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
@@ -9527,7 +9489,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9537,7 +9499,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 157,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10921,24 +10883,11 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 253,
+      "TotalEvents": 251,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 4,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "No Yogurt for the Dead",
-          "EventDate": "2026-06-06T00:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/no-yogurt-for-the-dead/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-06T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "No Yogurt for the Dead",
           "EventDate": "2026-06-07T00:00:00.0000000",
@@ -11007,24 +10956,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 14,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "BRMX - Martaba Tour",
-          "EventDate": "2026-06-05T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/brmx-martaba-tour",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-05T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-05T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "Niveau 4 - Try-Out",
           "EventDate": "2026-06-11T22:00:00Z",
@@ -11213,7 +11149,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 62,
+      "TotalEvents": 61,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
