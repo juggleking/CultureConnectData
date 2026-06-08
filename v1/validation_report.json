@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-07T05:00:00.6819296Z",
-  "ValidatedAt": "2026-06-07T05:00:00.6819297Z",
+  "GeneratedAt": "2026-06-08T05:00:00.6242988Z",
+  "ValidatedAt": "2026-06-08T05:00:00.6242988Z",
   "TotalScrapers": 32,
-  "TotalEvents": 2322,
+  "TotalEvents": 2317,
   "TotalErrors": 0,
-  "TotalWarnings": 834,
+  "TotalWarnings": 830,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 171,
+      "TotalEvents": 170,
       "ErrorCount": 0,
-      "WarningCount": 171,
+      "WarningCount": 170,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "HUMBE",
-          "EventDate": "2026-06-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/humbe/a10Qw00000GNgwbIAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tashi Dorji + Jean DL",
           "EventDate": "2026-06-09T00:00:00.0000000",
@@ -5932,24 +5919,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 61,
+      "TotalEvents": 60,
       "ErrorCount": 0,
-      "WarningCount": 61,
+      "WarningCount": 60,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "A Royal Day at DC / Stijn plays Prince + Edgar Kruize + Krewcial + Filmvoorstelling",
-          "EventDate": "2026-06-07T00:00:00",
-          "EventUrl": "https://decasino.be/concert/a-royal-day-in-dc-stijn-plays-prince-edgar-kruize-krewcial-filmvoorstelling/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-07T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-07T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Orkesta Mendoza + Twanguero & The Tucsonians",
           "EventDate": "2026-06-11T00:00:00",
@@ -6835,24 +6809,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 71,
+      "TotalEvents": 70,
       "ErrorCount": 0,
-      "WarningCount": 71,
+      "WarningCount": 70,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "VBS Herzele | Roodkapje de musical",
-          "EventDate": "2026-06-07T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/vbsh-herzele--roodkapje-de-musical-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Jef Vermassen | Seriemoordenaars",
           "EventDate": "2026-06-09T00:00:00.0000000",
@@ -10883,24 +10844,11 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 251,
+      "TotalEvents": 249,
       "ErrorCount": 0,
-      "WarningCount": 4,
+      "WarningCount": 3,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "No Yogurt for the Dead",
-          "EventDate": "2026-06-07T00:00:00.0000000",
-          "EventUrl": "https://toneelhuis.be/nl/programma/no-yogurt-for-the-dead/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "To Be Antwerp 2026",
           "EventDate": "2026-11-27T00:00:00.0000000",
