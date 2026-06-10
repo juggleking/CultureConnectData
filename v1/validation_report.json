@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-09T05:00:00.6214139Z",
-  "ValidatedAt": "2026-06-09T05:00:00.621414Z",
+  "GeneratedAt": "2026-06-10T05:00:00.3598706Z",
+  "ValidatedAt": "2026-06-10T05:00:00.3598707Z",
   "TotalScrapers": 32,
-  "TotalEvents": 2326,
+  "TotalEvents": 2293,
   "TotalErrors": 0,
-  "TotalWarnings": 837,
+  "TotalWarnings": 836,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 171,
+      "TotalEvents": 170,
       "ErrorCount": 0,
-      "WarningCount": 171,
+      "WarningCount": 170,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tashi Dorji + Jean DL",
-          "EventDate": "2026-06-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tashi-dorji/a10Qw00000IDhpZIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-09T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Group Atelier w/Youssef Swatt's",
           "EventDate": "2026-06-10T00:00:00.0000000",
@@ -741,9 +728,9 @@
           ]
         },
         {
-          "EventTitle": "Jalen Ngonda + Brooke Combe",
+          "EventTitle": "Cory Hanson",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -754,9 +741,9 @@
           ]
         },
         {
-          "EventTitle": "Cory Hanson",
+          "EventTitle": "Jalen Ngonda + Brooke Combe",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -5859,7 +5846,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 89,
+      "TotalEvents": 91,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6762,7 +6749,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 99,
+      "TotalEvents": 98,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6861,24 +6848,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 72,
+      "TotalEvents": 71,
       "ErrorCount": 0,
-      "WarningCount": 72,
+      "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jef Vermassen | Seriemoordenaars",
-          "EventDate": "2026-06-09T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/jef-vermassen--seriemoordenaars-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-09T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Han Solo | 15 jaar Han Solo - De Exclusieve Magnun XXXL Shows",
           "EventDate": "2026-06-11T00:00:00.0000000",
@@ -7923,9 +7897,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 64,
+      "TotalEvents": 65,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 65,
       "Issues": [],
       "EventDetails": [
         {
@@ -8653,6 +8627,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-10'.",
               "Severity": 1,
               "ActualValue": "2026-12-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Oathbreaker - + special guests Portrayal of Guilt",
+          "EventDate": "2026-12-11",
+          "EventUrl": "https://www.democrazy.be/agenda/3225-oathbreaker/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-11"
             }
           ]
         },
@@ -9538,7 +9525,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 154,
+      "TotalEvents": 152,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10922,7 +10909,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 250,
+      "TotalEvents": 251,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -10972,7 +10959,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 29,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11198,7 +11185,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
