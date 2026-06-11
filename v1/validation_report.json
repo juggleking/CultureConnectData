@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-06-10T05:00:00.3598706Z",
-  "ValidatedAt": "2026-06-10T05:00:00.3598707Z",
-  "TotalScrapers": 32,
-  "TotalEvents": 2293,
+  "GeneratedAt": "2026-06-11T05:00:00.3778764Z",
+  "ValidatedAt": "2026-06-11T05:00:00.3778764Z",
+  "TotalScrapers": 31,
+  "TotalEvents": 2307,
   "TotalErrors": 0,
-  "TotalWarnings": 836,
+  "TotalWarnings": 846,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 17,
+      "TotalEvents": 19,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -25,45 +25,6 @@
       "WarningCount": 170,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Group Atelier w/Youssef Swatt's",
-          "EventDate": "2026-06-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wyoussef-swatts/a10Qw00000HotxDIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
-          "EventDate": "2026-06-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-wblck-mamba-dj-workshop-intermediate/a10Qw00000FqD2AIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "KYLE DIXON & MICHAEL STEIN PERFORMING THE MUSIC OF 'STRANGER THINGS'",
-          "EventDate": "2026-06-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kyle-dixon-michael-stein-performing-the-music-of-stranger-things/a10Qw00000ItlaDIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Gelukkig zijn sessies finale!",
           "EventDate": "2026-06-11T00:00:00.0000000",
@@ -728,9 +689,9 @@
           ]
         },
         {
-          "EventTitle": "Cory Hanson",
+          "EventTitle": "Jalen Ngonda + Brooke Combe",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -741,9 +702,9 @@
           ]
         },
         {
-          "EventTitle": "Jalen Ngonda + Brooke Combe",
+          "EventTitle": "Cory Hanson",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -1144,9 +1105,9 @@
           ]
         },
         {
-          "EventTitle": "Peet",
+          "EventTitle": "Water Damage",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1157,9 +1118,9 @@
           ]
         },
         {
-          "EventTitle": "Water Damage",
+          "EventTitle": "Peet",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -1820,6 +1781,19 @@
           ]
         },
         {
+          "EventTitle": "75th Birthday Party with Horace Andy & Dub Asante Band, Matic Horns & Youth + Roots Warriors, YOUTH",
+          "EventDate": "2026-12-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/75th-birthday-party-with-horace-andy-dub-asante-band-matic-horns-youth/a10Qw00000I9LCXIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Suzane",
           "EventDate": "2027-01-14T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/suzane/a10Qw00000G0L1hIAF",
@@ -2171,6 +2145,19 @@
           ]
         },
         {
+          "EventTitle": "Acid Arab (Live)",
+          "EventDate": "2027-03-24T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/acid-arab-live/a10Qw00000Hurj2IAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Sam Sauvage",
           "EventDate": "2027-03-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/sam-sauvage/a10Qw00000FmIurIAF",
@@ -2223,6 +2210,19 @@
           ]
         },
         {
+          "EventTitle": "Rodrigo y Gabriela",
+          "EventDate": "2027-04-13T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/rodrigo-y-gabriela/a10Qw00000EWGMXIA5",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Marka solo",
           "EventDate": "2027-05-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/marka-solo/a10Qw00000J3yRKIAZ",
@@ -2241,7 +2241,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 151,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2278,9 +2278,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 51,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 51,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
         {
@@ -2323,6 +2323,19 @@
           ]
         },
         {
+          "EventTitle": "Rooftop Street Food #1: Wuakmole",
+          "EventDate": "2026-07-04T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/wuakmole",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Cactusfestival 2026",
           "EventDate": "2026-07-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Cactusfestival-2026-10-07",
@@ -2358,6 +2371,45 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-12T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rooftop Street Food #2: Shibuya",
+          "EventDate": "2026-07-18T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/shibuya",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rooftop Street Food #3: Mout",
+          "EventDate": "2026-07-25T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/mout",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-25T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rooftop Street Food #4: Diek",
+          "EventDate": "2026-08-01T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/diek",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-01T00:00:00.0000000"
             }
           ]
         },
@@ -2414,6 +2466,19 @@
           ]
         },
         {
+          "EventTitle": "Rooftop Street Food #5: RØK",
+          "EventDate": "2026-08-08T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Emmy d'Arc",
           "EventDate": "2026-08-12T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-emmy-darc",
@@ -2436,6 +2501,45 @@
               "Description": "Event has no start time — only a date was scraped: '2026-08-13T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-08-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rooftop Street Food #6: Tou.Gou",
+          "EventDate": "2026-08-15T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/tou-gou",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rooftop Street Food #7: Patrick Devos",
+          "EventDate": "2026-08-22T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/patrick-devos",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rooftop Street Food #8: Streetfood by Nata x Orfeo",
+          "EventDate": "2026-08-29T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/streetfood-by-nata-orfeo",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-29T00:00:00.0000000"
             }
           ]
         },
@@ -4268,7 +4372,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 105,
+      "TotalEvents": 104,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4278,7 +4382,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 47,
+      "TotalEvents": 48,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5846,7 +5950,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 91,
+      "TotalEvents": 93,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6640,7 +6744,7 @@
           ]
         },
         {
-          "EventTitle": "Dominum",
+          "EventTitle": "Dominum + Edge of Paradise",
           "EventDate": "2026-12-06T00:00:00",
           "EventUrl": "https://decasino.be/concert/dominum/",
           "Issues": [
@@ -6749,7 +6853,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 98,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7782,9 +7886,9 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 8,
+      "TotalEvents": 9,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 9,
       "Issues": [],
       "EventDetails": [
         {
@@ -7890,6 +7994,19 @@
               "ActualValue": "2026-10-13T00:00:00"
             }
           ]
+        },
+        {
+          "EventTitle": "BLOODSPORTS + support",
+          "EventDate": "2026-11-02T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/261-bloodsports/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-02T00:00:00"
+            }
+          ]
         }
       ]
     },
@@ -7897,9 +8014,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 65,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
         {
@@ -8397,6 +8514,19 @@
           ]
         },
         {
+          "EventTitle": "Elijah Fox",
+          "EventDate": "2026-10-29",
+          "EventUrl": "https://www.democrazy.be/agenda/3223-elijah-fox/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29"
+            }
+          ]
+        },
+        {
           "EventTitle": "Iskander Moon - (extra show)",
           "EventDate": "2026-11-04",
           "EventUrl": "https://www.democrazy.be/agenda/3201-iskander-moon/",
@@ -8746,18 +8876,21 @@
               "ActualValue": "2027-04-21"
             }
           ]
+        },
+        {
+          "EventTitle": "Celebrating Meat Loaf",
+          "EventDate": "2027-04-29",
+          "EventUrl": "https://www.democrazy.be/agenda/3224-celebrating-meat-loaf/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-29'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-29"
+            }
+          ]
         }
       ]
-    },
-    {
-      "ScraperId": "DeMeent",
-      "ScraperName": "DeMeentScraper",
-      "VenueName": "GC De Meent",
-      "TotalEvents": 35,
-      "ErrorCount": 0,
-      "WarningCount": 0,
-      "Issues": [],
-      "EventDetails": []
     },
     {
       "ScraperId": "HaConcerts",
@@ -9525,7 +9658,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 152,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9545,37 +9678,11 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 3,
+      "TotalEvents": 2,
       "ErrorCount": 0,
-      "WarningCount": 4,
+      "WarningCount": 3,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Father John Misty",
-          "EventDate": "2026-06-10",
-          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/father-john-misty/a0NP500000IEx7VMAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-10"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Froukje: Solo Tour",
-          "EventDate": "2026-06-26",
-          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-26'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-26"
-            }
-          ]
-        },
         {
           "EventTitle": "Garbage",
           "EventDate": "2025-05-30",
@@ -9592,6 +9699,19 @@
               "Description": "Event has no start time — only a date was scraped: '2025-05-30'.",
               "Severity": 1,
               "ActualValue": "2025-05-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Froukje: Solo Tour",
+          "EventDate": "2026-06-26",
+          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-26"
             }
           ]
         }
@@ -10959,7 +11079,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 29,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11175,7 +11295,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 61,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
