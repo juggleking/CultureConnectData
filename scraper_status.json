@@ -119,9 +119,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:01:15.018382Z",
-    "StartedAt": "2026-06-12T06:00:00.370244Z",
-    "FinishedAt": "2026-06-12T06:01:15.0183788Z",
+    "RunTime": "2026-06-12T10:01:21.3518686Z",
+    "StartedAt": "2026-06-12T10:00:00.2743594Z",
+    "FinishedAt": "2026-06-12T10:01:21.3518652Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -130,7 +130,7 @@
     "VenueId": "Toneelhuis",
     "VenueName": "Toneelhuis, Antwerpen",
     "Category": "Theatre",
-    "TotalEventsFound": 249,
+    "TotalEventsFound": 256,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -177,8 +177,18 @@
         "Year": 2026,
         "FileName": "toneelhuis-11-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-11-2026.json",
-        "Hash": "d82bcf1a34284692e6a8857ee42f6621217c9caa01de571718850cfc32c90bfa",
-        "EventCount": 14,
+        "Hash": "ad8313c87cdf273496e815c157ad0e7b9bdde95883f6e9eeeb0e9cef52a9f743",
+        "EventCount": 18,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 2,
+        "Year": 2027,
+        "FileName": "toneelhuis-02-2027.json",
+        "FilePath": "events/theatre/toneelhuis/toneelhuis-02-2027.json",
+        "Hash": "02f59ee6d0c7eda71f302988b9a02bdbca1896f0ec5e334e3c140277690666b1",
+        "EventCount": 16,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -193,22 +203,22 @@
         "ErrorMessage": null
       },
       {
-        "Month": 2,
-        "Year": 2027,
-        "FileName": "toneelhuis-02-2027.json",
-        "FilePath": "events/theatre/toneelhuis/toneelhuis-02-2027.json",
-        "Hash": "64e76cfb5815cf93bfbce732398c8577198e94b4e5855ddf9d5e875a13b0a667",
-        "EventCount": 14,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
         "Month": 5,
         "Year": 2027,
         "FileName": "toneelhuis-05-2027.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-05-2027.json",
         "Hash": "90e4d518a33077cb1e243bc6ca09d81549ead8417845f35883438b0886ad1834",
         "EventCount": 17,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 6,
+        "Year": 2027,
+        "FileName": "toneelhuis-06-2027.json",
+        "FilePath": "events/theatre/toneelhuis/toneelhuis-06-2027.json",
+        "Hash": "221ad3a21950348dfdfa3699471408be19cba8aaf5c0b1319a08e1ddbdb8fcd0",
+        "EventCount": 8,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -251,25 +261,100 @@
         "EventCount": 29,
         "Status": "Success",
         "ErrorMessage": null
-      },
-      {
-        "Month": 6,
-        "Year": 2027,
-        "FileName": "toneelhuis-06-2027.json",
-        "FilePath": "events/theatre/toneelhuis/toneelhuis-06-2027.json",
-        "Hash": "1dbdc4ac1fec4a1b4ad7b4276ded7a342264bfcc9251459e84dd68b9dba084f7",
-        "EventCount": 7,
-        "Status": "Success",
-        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:35.8226996Z",
-    "StartedAt": "2026-06-12T06:00:00.3707559Z",
-    "FinishedAt": "2026-06-12T06:00:35.8226965Z",
+    "RunTime": "2026-06-12T10:00:35.2198219Z",
+    "StartedAt": "2026-06-12T10:00:00.2754626Z",
+    "FinishedAt": "2026-06-12T10:00:35.2198197Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Spaghetti Western",
+        "DateString": "2026-11-12T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/spaghetti-western/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000XT4JnIAL_730x410.jpg",
+        "Location": "BOL, Brussel",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8405",
+        "Longitude": "4.3599"
+      },
+      {
+        "Title": "Spaghetti Western",
+        "DateString": "2026-11-13T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/spaghetti-western/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000XT4JnIAL_730x410.jpg",
+        "Location": "BOL, Brussel",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8405",
+        "Longitude": "4.3599"
+      },
+      {
+        "Title": "Spaghetti Western",
+        "DateString": "2026-11-20T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/spaghetti-western/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000XT4JnIAL_730x410.jpg",
+        "Location": "NTGent/Schouwburg, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0536",
+        "Longitude": "3.7259"
+      },
+      {
+        "Title": "Spaghetti Western",
+        "DateString": "2026-11-21T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/spaghetti-western/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000XT4JnIAL_730x410.jpg",
+        "Location": "NTGent/Schouwburg, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0536",
+        "Longitude": "3.7259"
+      },
+      {
+        "Title": "Spaghetti Western",
+        "DateString": "2027-02-24T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/spaghetti-western/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000XT4JnIAL_730x410.jpg",
+        "Location": "De Brakke Grond/Grote zaal, Amsterdam",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "52.3712",
+        "Longitude": "4.8938"
+      },
+      {
+        "Title": "Spaghetti Western",
+        "DateString": "2027-02-25T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/spaghetti-western/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000XT4JnIAL_730x410.jpg",
+        "Location": "De Brakke Grond/Grote zaal, Amsterdam",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "52.3712",
+        "Longitude": "4.8938"
+      },
+      {
+        "Title": "Rondleiding",
+        "DateString": "2027-06-12T11:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/rondleiding/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a134I00000DaKfSQAV_730x410.jpg",
+        "Location": "Bourlaschouwburg, Antwerpen",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.216",
+        "Longitude": "4.4073"
+      }
+    ]
   },
   {
     "ScraperName": "PukkelpopScraper",
@@ -291,9 +376,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.6808472Z",
-    "StartedAt": "2026-06-12T06:00:00.3716469Z",
-    "FinishedAt": "2026-06-12T06:00:02.6808455Z",
+    "RunTime": "2026-06-12T10:00:00.9872741Z",
+    "StartedAt": "2026-06-12T10:00:00.2762Z",
+    "FinishedAt": "2026-06-12T10:00:00.9872725Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -317,9 +402,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.4513174Z",
-    "StartedAt": "2026-06-12T06:00:00.3718455Z",
-    "FinishedAt": "2026-06-12T06:00:02.4513136Z",
+    "RunTime": "2026-06-12T10:00:01.2276431Z",
+    "StartedAt": "2026-06-12T10:00:00.2763031Z",
+    "FinishedAt": "2026-06-12T10:00:01.2276399Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -328,7 +413,7 @@
     "VenueId": "CcBrugge",
     "VenueName": "CC Brugge",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 112,
+    "TotalEventsFound": 113,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -355,7 +440,7 @@
         "Year": 2026,
         "FileName": "ccbrugge-10-2026.json",
         "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-10-2026.json",
-        "Hash": "0ea1f2039274f97bc3fd0b126b98782f9327f4f197a584b3586bf7487fcc15c3",
+        "Hash": "c65c8b8679b16a0c0bab55b68149e58c66eef444b7257344335630422b82982a",
         "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
@@ -375,8 +460,8 @@
         "Year": 2026,
         "FileName": "ccbrugge-12-2026.json",
         "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-12-2026.json",
-        "Hash": "4eff5bacc055b59a46d9c66d81bd66d8d961e75086b9bfafed1c2fa215fcdd2c",
-        "EventCount": 8,
+        "Hash": "617eb51bfb14b0077296fc372a35bcf97c5316c85e6b875e8b24f59165b2a79b",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -415,7 +500,7 @@
         "Year": 2027,
         "FileName": "ccbrugge-04-2027.json",
         "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-04-2027.json",
-        "Hash": "7c98cd68c53f438f3c765ee118a6648d84b24067c2837046d8e64fd4e7129f3e",
+        "Hash": "7fc9e1f83edcd6976ca7d15a5c43bf6e0379fe0c9a651c64db02daead0eba6a5",
         "EventCount": 17,
         "Status": "Success",
         "ErrorMessage": null
@@ -443,11 +528,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:09.7683947Z",
-    "StartedAt": "2026-06-12T06:00:00.3720371Z",
-    "FinishedAt": "2026-06-12T06:00:09.7683914Z",
+    "RunTime": "2026-06-12T10:00:08.7647116Z",
+    "StartedAt": "2026-06-12T10:00:00.2780991Z",
+    "FinishedAt": "2026-06-12T10:00:08.7647093Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Andries Beckers",
+        "DateString": "2026-12-17T20:00:00.0000000",
+        "Url": "https://www.ccbrugge.be/agenda/andries-beckers-q2cv",
+        "ImageUrl": "https://img.ccbrugge.be/TCFKudPYNb43W71P61kQyYcIIItJcVfef7DgmDC8hc8/c:2400:1356:fp:0.5:0.33/s:690:390:1/format:png/aHR0cHM6Ly93d3cuY2NicnVnZ2UuYmUvL2Ntc19maWxlcy9zeXN0ZW0vaW1hZ2VzL2ltZzI4MjE2X29yaWcucG5n",
+        "Location": "CC Brugge",
+        "Description": "De Zwaarste Theatershow",
+        "Room": "Theaterzaal Biekorf",
+        "Address": "Sint-Jakobsstraat 8, Brugge",
+        "Latitude": "51.2094",
+        "Longitude": "3.2225"
+      }
+    ]
   },
   {
     "ScraperName": "CcZoetegemScraper",
@@ -569,9 +667,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:05.0608361Z",
-    "StartedAt": "2026-06-12T06:00:00.3723114Z",
-    "FinishedAt": "2026-06-12T06:00:05.0608332Z",
+    "RunTime": "2026-06-12T10:00:03.7750121Z",
+    "StartedAt": "2026-06-12T10:00:00.278811Z",
+    "FinishedAt": "2026-06-12T10:00:03.7750096Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -625,9 +723,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:14.1635064Z",
-    "StartedAt": "2026-06-12T06:00:00.3724638Z",
-    "FinishedAt": "2026-06-12T06:00:14.1635036Z",
+    "RunTime": "2026-06-12T10:00:13.0151213Z",
+    "StartedAt": "2026-06-12T10:00:00.2788868Z",
+    "FinishedAt": "2026-06-12T10:00:13.015118Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -636,7 +734,7 @@
     "VenueId": "CultuurKnokkeHeist",
     "VenueName": "Cultuur Knokke-Heist",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 47,
+    "TotalEventsFound": 48,
     "MonthlyFiles": [
       {
         "Month": 9,
@@ -673,8 +771,8 @@
         "Year": 2026,
         "FileName": "cultuurknokkeheist-12-2026.json",
         "FilePath": "events/cultuurcentra/cultuurknokkeheist/cultuurknokkeheist-12-2026.json",
-        "Hash": "cab4aeaa3119aa41a4b21ff7359f2811f3475e4314d55771a59ddac33970146e",
-        "EventCount": 5,
+        "Hash": "e7ace826b8b4172e92aa37ce4c8e59bb5dbaa06818d6b70312b0b0f006b4f810",
+        "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -741,11 +839,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.7718262Z",
-    "StartedAt": "2026-06-12T06:00:00.3726357Z",
-    "FinishedAt": "2026-06-12T06:00:02.7718233Z",
+    "RunTime": "2026-06-12T10:00:01.6057737Z",
+    "StartedAt": "2026-06-12T10:00:00.2789521Z",
+    "FinishedAt": "2026-06-12T10:00:01.6057704Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Scala 30 - Scala \u0026 Kolacny Brothers",
+        "DateString": "2026-12-27T20:00:00",
+        "Url": "https://cultuur.knokke-heist.be/evenementen/evenement/scala-30-scala-kolacny-brothers-37373",
+        "ImageUrl": "https://cdn.tixly.com/be/tix/EventImages/Event_37373.jpg",
+        "Location": "CC Scharpoord",
+        "Description": "Wijziging van locatie naar Cultuurcentrum Scharpoord. Kom en vier met ons 30 jaar muzikale pracht tijdens Scala 30. Een onvergetelijke avond met het wereldberoemde meisjeskoor, onder de meesterlijke leiding van de gebroeders Kolacny. Laat je betoveren door adembenemende, unieke herinterpretaties van iconische pop- en rockklassiekers. Tot leven gebracht door pure, harmonieuze stemmen, meeslepende pianobegeleiding en verfijnde visuele en choreografische elementen. De extra live drum zal je hart in vuur en vlam zetten. Elke noot is zorgvuldig gecre\u00EBerd om te verrassen, te raken en te inspireren. Na hun uitverkocht concert in december 2024 keren de stemmen van Scala \u0026 Kolacny Brothers terug naar Knokke-Heist. Mis deze unieke jubileumtour niet en sluit 2026 af met een fantastisch concert.",
+        "Room": "",
+        "Address": "Maxim Willemspad 1, 8300 Knokke-Heist",
+        "Latitude": "51.3436",
+        "Longitude": "3.2801"
+      }
+    ]
   },
   {
     "ScraperName": "DeKluizeScraper",
@@ -756,9 +867,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:06.305431Z",
-    "StartedAt": "2026-06-12T06:00:00.3727985Z",
-    "FinishedAt": "2026-06-12T06:00:06.3054285Z",
+    "RunTime": "2026-06-12T10:00:05.0567694Z",
+    "StartedAt": "2026-06-12T10:00:00.279097Z",
+    "FinishedAt": "2026-06-12T10:00:05.0567672Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -771,9 +882,9 @@
     "MonthlyFiles": [],
     "Status": "Failed",
     "ErrorMessage": "Response status code does not indicate success: 404 (Not Found).",
-    "RunTime": "2026-06-12T06:00:03.0013932Z",
-    "StartedAt": "2026-06-12T06:00:00.3730008Z",
-    "FinishedAt": "2026-06-12T06:00:03.0013936Z",
+    "RunTime": "2026-06-12T10:00:02.2503585Z",
+    "StartedAt": "2026-06-12T10:00:00.2792672Z",
+    "FinishedAt": "2026-06-12T10:00:02.2503589Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -817,9 +928,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.6063289Z",
-    "StartedAt": "2026-06-12T06:00:00.3734508Z",
-    "FinishedAt": "2026-06-12T06:00:02.6063259Z",
+    "RunTime": "2026-06-12T10:00:02.2069713Z",
+    "StartedAt": "2026-06-12T10:00:00.2796Z",
+    "FinishedAt": "2026-06-12T10:00:02.2069683Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -865,7 +976,7 @@
         "Year": 2026,
         "FileName": "dewerf-10-2026.json",
         "FilePath": "events/cultuurcentra/dewerf/dewerf-10-2026.json",
-        "Hash": "3b28437136e6c378ac64242385d649809623a10a4667cfb2045195e540644444",
+        "Hash": "c2672e86d7be02e201492d4546b76559fbce54735ec5f354b72426e2eb153da6",
         "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
@@ -923,9 +1034,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:09.1246518Z",
-    "StartedAt": "2026-06-12T06:00:00.3737018Z",
-    "FinishedAt": "2026-06-12T06:00:09.1246492Z",
+    "RunTime": "2026-06-12T10:00:07.5864137Z",
+    "StartedAt": "2026-06-12T10:00:00.2798075Z",
+    "FinishedAt": "2026-06-12T10:00:07.5863921Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -934,7 +1045,7 @@
     "VenueId": "Emotia",
     "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 92,
+    "TotalEventsFound": 93,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1021,8 +1132,8 @@
         "Year": 2027,
         "FileName": "emotia-03-2027.json",
         "FilePath": "events/cultuurcentra/emotia/emotia-03-2027.json",
-        "Hash": "47170e8076f6925b56fd6a2a7cd0d5467095aa10df672fd244824eae0e350c9b",
-        "EventCount": 6,
+        "Hash": "b276b67e6edc390066d95055ed683074b5623737c32022a038941a38100b545c",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1059,18 +1170,31 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:05.4521774Z",
-    "StartedAt": "2026-06-12T06:00:00.3738882Z",
-    "FinishedAt": "2026-06-12T06:00:05.4521743Z",
+    "RunTime": "2026-06-12T10:00:04.3331141Z",
+    "StartedAt": "2026-06-12T10:00:00.2799188Z",
+    "FinishedAt": "2026-06-12T10:00:04.3331121Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Wandeling Begijn Le Bleu",
+        "DateString": "2027-03-07T08:00:00.0000000",
+        "Url": "https://www.emotia.be/wandeling-begijn-le-bleu",
+        "ImageUrl": "",
+        "Location": "Cultuurhuis EMotia",
+        "Description": "Fwiet! Fwiet!",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9226",
+        "Longitude": "3.9453"
+      }
+    ]
   },
   {
     "ScraperName": "LeietheaterScraper",
     "VenueId": "Leietheater",
     "VenueName": "Leietheater, Deinze",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 152,
+    "TotalEventsFound": 153,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1107,7 +1231,7 @@
         "Year": 2026,
         "FileName": "leietheater-10-2026.json",
         "FilePath": "events/cultuurcentra/leietheater/leietheater-10-2026.json",
-        "Hash": "799e07b52c47e59c0bae75d6d871db72d13c2ef9667db8f0487ee3886c4d017e",
+        "Hash": "4d421f8168dcd2fbecb81dd07d6475887a6b1e75e56799cbb892bd9baae853cf",
         "EventCount": 20,
         "Status": "Success",
         "ErrorMessage": null
@@ -1137,8 +1261,8 @@
         "Year": 2027,
         "FileName": "leietheater-01-2027.json",
         "FilePath": "events/cultuurcentra/leietheater/leietheater-01-2027.json",
-        "Hash": "c14fd3cab2e2a8974323e8df8e0f44fd4e0f10684ab578b651a4d2b4a1196b95",
-        "EventCount": 13,
+        "Hash": "e81469f3424ea7a981f71040b350b59e16ea030141cb5ceb7a21fcdef119082a",
+        "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1195,11 +1319,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:05.0522172Z",
-    "StartedAt": "2026-06-12T06:00:00.3741888Z",
-    "FinishedAt": "2026-06-12T06:00:05.0522144Z",
+    "RunTime": "2026-06-12T10:00:02.9154047Z",
+    "StartedAt": "2026-06-12T10:00:00.2801255Z",
+    "FinishedAt": "2026-06-12T10:00:02.9154024Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Een uur cultuur: Stefan Hertmans",
+        "DateString": "2027-01-31T11:00:00.0000000",
+        "Url": "https://www.leietheater.be/een-uur-cultuur",
+        "ImageUrl": "https://www.leietheater.be/file/imagecache/NPApwCibJVhrjFXCIEMMMOMIAVAgcGeWAtmYcXPGc3d/list/95088420-751d-4dc5-8d67-11fb3ad22f26/5273.jpg",
+        "Location": "Leietheater",
+        "Description": "",
+        "Room": "",
+        "Address": "Brielstraat 8, 9800 Deinze",
+        "Latitude": "50.9819",
+        "Longitude": "3.5246"
+      }
+    ]
   },
   {
     "ScraperName": "SintLievensHoutemScraper",
@@ -1261,9 +1398,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:04.4744649Z",
-    "StartedAt": "2026-06-12T06:00:00.3743532Z",
-    "FinishedAt": "2026-06-12T06:00:04.4737231Z",
+    "RunTime": "2026-06-12T10:00:03.2367183Z",
+    "StartedAt": "2026-06-12T10:00:00.2802625Z",
+    "FinishedAt": "2026-06-12T10:00:03.2367157Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1272,7 +1409,7 @@
     "VenueId": "AbConcerts",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 170,
+    "TotalEventsFound": 173,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1329,7 +1466,7 @@
         "Year": 2026,
         "FileName": "abconcerts-11-2026.json",
         "FilePath": "events/concerts/abconcerts/abconcerts-11-2026.json",
-        "Hash": "6b2ee16f19452e719a7f6c2adffd81347782f30d7d58de5f83489bd7a7ca5f2f",
+        "Hash": "03d1846948a2176b245ad1591748253ffe7134296357288c058784872d8d6cb2",
         "EventCount": 37,
         "Status": "Success",
         "ErrorMessage": null
@@ -1379,8 +1516,8 @@
         "Year": 2027,
         "FileName": "abconcerts-04-2027.json",
         "FilePath": "events/concerts/abconcerts/abconcerts-04-2027.json",
-        "Hash": "3b494b5d623f14e1324827a216c707d4120d1596a01a28ca8d0e860475d2f317",
-        "EventCount": 3,
+        "Hash": "fcbac00e4a61a37eb10eb903d878c3f8b427689a0c2e4fcb95397489bd9fcf37",
+        "EventCount": 5,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1393,15 +1530,62 @@
         "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 6,
+        "Year": 2027,
+        "FileName": "abconcerts-06-2027.json",
+        "FilePath": "events/concerts/abconcerts/abconcerts-06-2027.json",
+        "Hash": "95573dc6a9ab6a9a670c78c964851885dddea30602ce610d5b9dc62e6050dc6f",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:09.7996445Z",
-    "StartedAt": "2026-06-12T06:00:00.3745443Z",
-    "FinishedAt": "2026-06-12T06:00:09.7996414Z",
+    "RunTime": "2026-06-12T10:00:09.1405092Z",
+    "StartedAt": "2026-06-12T10:00:00.2804271Z",
+    "FinishedAt": "2026-06-12T10:00:09.1405069Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Herman van Veen",
+        "DateString": "2027-04-24T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/herman-van-veen/a10Qw00000FagBOIAZ",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000OgFfxMAF_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "The warmest bard of the Low Countries brings a new show full of personal, moving and musical stories",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      },
+      {
+        "Title": "Matin\u00E9econcert: Herman van Veen",
+        "DateString": "2027-04-25T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/matineeconcert-herman-van-veen/a10Qw00000FagBPIAZ",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000OhCUkMAN_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "The warmest bard in the Low Countries presents a new show brimming with personal, moving and musical stories, songs and reflections, delivered with unpredictable humour and sharp wit",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      },
+      {
+        "Title": "Poulycroc",
+        "DateString": "2027-06-12T00:00:00.0000000",
+        "Url": "https://www.abconcerts.be/en/agenda/poulycroc/a10Qw00000ELlv9IAD",
+        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000OaiuMMAR_1240x720.jpg",
+        "Location": "AB Concerts, Brussels",
+        "Description": "Poulycroc celebrates its 30th anniversary: the concert!",
+        "Room": "",
+        "Address": "Anspachlaan 110, 1000 Brussel",
+        "Latitude": "50.8473",
+        "Longitude": "4.3488"
+      }
+    ]
   },
   {
     "ScraperName": "AffScraper",
@@ -1483,9 +1667,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:05.9768549Z",
-    "StartedAt": "2026-06-12T06:00:00.3747305Z",
-    "FinishedAt": "2026-06-12T06:00:05.9764221Z",
+    "RunTime": "2026-06-12T10:00:09.4778247Z",
+    "StartedAt": "2026-06-12T10:00:00.2805812Z",
+    "FinishedAt": "2026-06-12T10:00:09.4778218Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -1494,7 +1678,7 @@
     "VenueId": "Botanique",
     "VenueName": "Botanique, Brussels",
     "Category": "Concerts",
-    "TotalEventsFound": 154,
+    "TotalEventsFound": 157,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1521,8 +1705,8 @@
         "Year": 2026,
         "FileName": "botanique-09-2026.json",
         "FilePath": "events/concerts/botanique/botanique-09-2026.json",
-        "Hash": "80d2918c85e79b8ea176e5efe3a189e0066e224606061be4a2a77cda42277c21",
-        "EventCount": 42,
+        "Hash": "376c856e3b0bce7b3a22ddbad42e6455d8dccf286f267a2ab4f2696961b4db52",
+        "EventCount": 43,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1531,8 +1715,8 @@
         "Year": 2026,
         "FileName": "botanique-10-2026.json",
         "FilePath": "events/concerts/botanique/botanique-10-2026.json",
-        "Hash": "45347f3fdf12f3cc2a0cddc7e4b723e0936ad2d4c1061f7a1dc7cd8b7ad3694a",
-        "EventCount": 48,
+        "Hash": "f9d47bba2afcc768554e9db9a710faf69995e11781ccd4427caf79efc4e5e5f5",
+        "EventCount": 49,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1541,8 +1725,8 @@
         "Year": 2026,
         "FileName": "botanique-11-2026.json",
         "FilePath": "events/concerts/botanique/botanique-11-2026.json",
-        "Hash": "393cb71652ca4cadc78da79e630cdab1ce8457e725fe6be2ad49dad2895895d5",
-        "EventCount": 27,
+        "Hash": "9861c3167936eb205fbe88fd2239c2ac69ac52066548428046e04c7648004b8c",
+        "EventCount": 28,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1579,11 +1763,48 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:27.4998147Z",
-    "StartedAt": "2026-06-12T06:00:00.3749096Z",
-    "FinishedAt": "2026-06-12T06:00:27.4998113Z",
+    "RunTime": "2026-06-12T10:00:21.6909466Z",
+    "StartedAt": "2026-06-12T10:00:00.2807581Z",
+    "FinishedAt": "2026-06-12T10:00:21.6909443Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Emptiness - Marc de Backer",
+        "DateString": "2026-09-18T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/emptiness-marc-de-backer-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-06/EMPTINESS_Promo_2026_H11.jpg?itok=9e58WbHM",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Rotonde",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "echofarmer",
+        "DateString": "2026-10-06T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/echofarmer-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-05/echofarmer-1%20%28shot%20by%20Oriana%20Mangala%20Ikomo%20Wanga%20-%20edit%20by%20Arne%20Nuyts%29_0.png?itok=IBEafdR1",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Witloof Bar",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      },
+      {
+        "Title": "Chloe Slater",
+        "DateString": "2026-11-25T18:30:00.0000000",
+        "Url": "https://botanique.be/nl/concert/chloe-slater-2026",
+        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-06/chloe%20slater_0.JPG?itok=uL5V_qd0",
+        "Location": "Botanique, Brussels",
+        "Description": "",
+        "Room": "Museum",
+        "Address": "Botanique, Brussels",
+        "Latitude": "50.8531",
+        "Longitude": "4.3662"
+      }
+    ]
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -1685,9 +1906,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.7802541Z",
-    "StartedAt": "2026-06-12T06:00:00.3751524Z",
-    "FinishedAt": "2026-06-12T06:00:02.7802514Z",
+    "RunTime": "2026-06-12T10:00:01.8792358Z",
+    "StartedAt": "2026-06-12T10:00:00.2808711Z",
+    "FinishedAt": "2026-06-12T10:00:01.8792328Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -1801,9 +2022,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:03.865899Z",
-    "StartedAt": "2026-06-12T06:00:00.3753697Z",
-    "FinishedAt": "2026-06-12T06:00:03.8658961Z",
+    "RunTime": "2026-06-12T10:00:01.8732373Z",
+    "StartedAt": "2026-06-12T10:00:00.2810183Z",
+    "FinishedAt": "2026-06-12T10:00:01.8732338Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -1907,9 +2128,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.2616378Z",
-    "StartedAt": "2026-06-12T06:00:00.3755336Z",
-    "FinishedAt": "2026-06-12T06:00:02.2616345Z",
+    "RunTime": "2026-06-12T10:00:01.5634895Z",
+    "StartedAt": "2026-06-12T10:00:00.2812193Z",
+    "FinishedAt": "2026-06-12T10:00:01.5634865Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -1918,7 +2139,7 @@
     "VenueId": "DeRoma",
     "VenueName": "De Roma",
     "Category": "Concerts",
-    "TotalEventsFound": 99,
+    "TotalEventsFound": 100,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1975,8 +2196,8 @@
         "Year": 2026,
         "FileName": "deroma-12-2026.json",
         "FilePath": "events/concerts/deroma/deroma-12-2026.json",
-        "Hash": "26c00cf0b4b2243f69d45f8c694cb6377d1e3427a870c21186d0b04fa58bcd56",
-        "EventCount": 8,
+        "Hash": "bb23e40763871437f6b5aa64dd86cb8a55da5fbcdca8ff5439d72527ed563e4d",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2033,26 +2254,39 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:05.5137485Z",
-    "StartedAt": "2026-06-12T06:00:00.3756976Z",
-    "FinishedAt": "2026-06-12T06:00:05.5137259Z",
+    "RunTime": "2026-06-12T10:00:04.60394Z",
+    "StartedAt": "2026-06-12T10:00:00.2813694Z",
+    "FinishedAt": "2026-06-12T10:00:04.6039366Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Kingfishr",
+        "DateString": "2026-12-01T20:00:00.0000000",
+        "Url": "https://www.deroma.be/en/event/kingfishr-5",
+        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/e375/c4/8d0e9a54d21cd1289b7d6a804bf40bea98e6fb58.png",
+        "Location": "De Roma",
+        "Description": "Irish indie band is making folk music wildly popular again. Tickets for the second concert are on sale NOW!",
+        "Room": "",
+        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
+        "Latitude": "51.2134",
+        "Longitude": "4.44"
+      }
+    ]
   },
   {
     "ScraperName": "DeSteenovenScraper",
     "VenueId": "Steenoven",
     "VenueName": "De Steenoven, Herzele",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 71,
+    "TotalEventsFound": 72,
     "MonthlyFiles": [
       {
         "Month": 6,
         "Year": 2026,
         "FileName": "steenoven-06-2026.json",
         "FilePath": "events/cultuurcentra/steenoven/steenoven-06-2026.json",
-        "Hash": "7aeebf16ae783f894e3366f3f1996572dd8748db35504fc87d7c64db0138c28e",
-        "EventCount": 9,
+        "Hash": "7394c26d3270ea167ccc49cd21746825f633b0c10f7387cc1b9ba941bec28159",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2159,11 +2393,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.4597761Z",
-    "StartedAt": "2026-06-12T06:00:00.3761168Z",
-    "FinishedAt": "2026-06-12T06:00:02.4597733Z",
+    "RunTime": "2026-06-12T10:00:01.6637857Z",
+    "StartedAt": "2026-06-12T10:00:00.2815488Z",
+    "FinishedAt": "2026-06-12T10:00:01.6637833Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Dries Heyneman | Voor normale mensen",
+        "DateString": "2026-06-04T00:00:00.0000000",
+        "Url": "https://steenoven.herzele.be/dries-heyneman--voor-normale-mensen?th=4047",
+        "ImageUrl": "https://steenoven.herzele.be/imageresizer/94AC2683075DC92E1593A424C5988AC0/42524.jpg?w=544\u0026amp;h=401\u0026amp;mode=crop\u0026amp;scale=both",
+        "Location": "De Steenoven, Herzele",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8858",
+        "Longitude": "3.8837"
+      }
+    ]
   },
   {
     "ScraperName": "DeZwerverScraper",
@@ -2195,9 +2442,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.053362Z",
-    "StartedAt": "2026-06-12T06:00:00.3763357Z",
-    "FinishedAt": "2026-06-12T06:00:02.0533588Z",
+    "RunTime": "2026-06-12T10:00:01.1595882Z",
+    "StartedAt": "2026-06-12T10:00:00.2816584Z",
+    "FinishedAt": "2026-06-12T10:00:01.1595847Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -2206,7 +2453,7 @@
     "VenueId": "FourAD",
     "VenueName": "4AD, Diksmuide",
     "Category": "Concerts",
-    "TotalEventsFound": 18,
+    "TotalEventsFound": 19,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -2257,15 +2504,38 @@
         "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 12,
+        "Year": 2026,
+        "FileName": "fourad-12-2026.json",
+        "FilePath": "events/concerts/fourad/fourad-12-2026.json",
+        "Hash": "dc7ed5dc4e8e3de42f9ad1c23d4a500b8044cf2202c3f0d442c13bc417f0566a",
+        "EventCount": 1,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.3166048Z",
-    "StartedAt": "2026-06-12T06:00:00.3766191Z",
-    "FinishedAt": "2026-06-12T06:00:02.3166016Z",
+    "RunTime": "2026-06-12T10:00:01.2885688Z",
+    "StartedAt": "2026-06-12T10:00:00.2818435Z",
+    "FinishedAt": "2026-06-12T10:00:01.2885662Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Liesa Van Der Aa \u002B Aure",
+        "DateString": "2026-12-04T20:30:00",
+        "Url": "https://www.4ad.be/event/liesa-van-der-aa-aure/",
+        "ImageUrl": "https://www.4ad.be/wp-content/uploads/2026/06/liesa-van-der-aa-aure.jpg",
+        "Location": "Muziekclub 4AD",
+        "Description": "Liesa Van der Aa Uniek klankenuniversum dat laveert tussen jazz, pop, elektronica en klassiek. Componiste, muzikante, zangeres, actrice, of om het kort te zeggen: Belgisch toptalent. Liesa Van der Aa is een artistieke allrounder met een indrukwekkende discografie achter haar naam. Haar tweede plaat \u2018WOTH\u2019 uit 2014 is zo eentje die ons nog steeds bijblijft, en muzikaal drieluik ge\u00EFnspireerd op de dodenceremonie\u00EBn uit de oude Egyptische cultuur. Nu komt ze met een nieuw album getiteld \u2018Caramel\u2019 . Het \u2018jongere, zachtere zusje\u2019 van haar vorige plaat \u2018Easy Alice\u2019 (2020) beweegt zich nog steeds in eenzelfde jazzy universum. Alhoewel. Om toch een paar referenties te noemen: je hoort echo\u2019s van Laurie Anderson, dit keer vervlochten met de vroege klassiekers van James Blake en flarden van Billie Eilish en FKA Twigs. Elektronica, hedendaags klassiek, barok, jazz en hiphop \u2013 Caramel draagt, zoals Van der Aa het zelf graag omschrijft, al deze jassen tegelijk, nonchalant over elkaar heen. En daarbovenop vallen, meer dan ooit tevoren, de maskers. \u201CIk wilde een plaat maken die voelt alsof je iemand luidop hoort denken,\u201D zegt ze. \u201CAlsof je op het puntje van iemands bewustzijn zit, zonder dat alles al uitgesproken is.\u201D Liesa knipte, plakte, speelde met loops zoals in de hiphop, en bouwde zo een klankenuniversum dat laveert tussen jazz en pop, tussen melancholie en hedendaagse frisheid. De productie gebeurde in nauwe samenwerking met Niels Broos , met bijdragen van onder anderen actrice Sandra H\u00FCller (Anatomy of a Fall) en zangeres Judith Okon. Invloeden? Van Nina Simone tot Laurie Anderson, van Billie Eilish tot James Blake. Maar bovenal: Liesa\u2019s eigen, compromisloze signatuur. Instagram | Site | Live bij Ayco Aure (fr) Intieme, minimalistische en meertalige folk. Sommige mensen hebben een overdaad aan talent. Aure is zo iemand. Naast een carri\u00E8re als architecte waagde ze zich ook aan het singer-songwriterschap, en ook daar scheert ze hoge toppen. Haar debuut-EP \u2018A Few Notes\u2019 (2023) kon op heel wat lof rekenen en bracht haar naar podia door heel Europa als support van Andy Shauf en Tom McRae . Dit najaar komt ze haar kersverse debuutplaat \u2018printemps\u2019 voorstellen, die verschijnt op Mayway Records . Een plaat van drempels, geschreven in de tussenruimte waarin het ene hoofdstuk eindigt en het andere begint. Ge\u00EFnspireerd door het po\u00EBtische minimalisme van artiesten als Atahualpa Yupanqui, Facundo Cabral en Leonard Cohen, vermengd met het mysterieuze clair-obscur van Lhasa, Jessica Pratt en Nico. Ze verweeft talen en tradities tot een universum dat zowel fragiel als trefzeker aanvoelt. Instagram | Bandcamp | Focus Knack: \u0022Aure schrijft liedjes om de stilte op te zoeken\u0022",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0343",
+        "Longitude": "2.86"
+      }
+    ]
   },
   {
     "ScraperName": "HaConcertsScraper",
@@ -2377,9 +2647,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:26.1021832Z",
-    "StartedAt": "2026-06-12T06:00:00.3768209Z",
-    "FinishedAt": "2026-06-12T06:00:26.1021798Z",
+    "RunTime": "2026-06-12T10:00:31.8988439Z",
+    "StartedAt": "2026-06-12T10:00:00.2819813Z",
+    "FinishedAt": "2026-06-12T10:00:31.8988411Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -2388,7 +2658,7 @@
     "VenueId": "HetDepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 69,
+    "TotalEventsFound": 71,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -2455,7 +2725,7 @@
         "Year": 2027,
         "FileName": "hetdepot-02-2027.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-02-2027.json",
-        "Hash": "361ecf8a17efb265cf8960b1e7d3a0d74bb523061d3ec4093536ffa95a13cd54",
+        "Hash": "a9997dad35736995052004cd8bc2e7559ced4addf43a79892a5a96575f7a7fbd",
         "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
@@ -2475,19 +2745,44 @@
         "Year": 2027,
         "FileName": "hetdepot-04-2027.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-04-2027.json",
-        "Hash": "9f75b0921d0639dea974b7a2711bc89ff6c09b34a8a4790383711d7b473f036a",
-        "EventCount": 2,
+        "Hash": "6810d2eb274ce4f56eb90449eb36dd4815cbf96cd917d8f1f73087cda781cac1",
+        "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:25.4599143Z",
-    "StartedAt": "2026-06-12T06:00:00.3770205Z",
-    "FinishedAt": "2026-06-12T06:00:25.4595603Z",
+    "RunTime": "2026-06-12T10:00:31.6329812Z",
+    "StartedAt": "2026-06-12T10:00:00.2821271Z",
+    "FinishedAt": "2026-06-12T10:00:31.6329788Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Wim Helsen Welkom Ongemak",
+        "DateString": "2027-04-02T20:00:00",
+        "Url": "https://www.hetdepot.be/concert/2027/wim-helsen",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF000015kifNYAQ_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=Hot1XgIX",
+        "Location": "Het Depot, Leuven",
+        "Description": "Wim Helsen in volle glorie.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.7138"
+      },
+      {
+        "Title": "Wim Helsen Welkom Ongemak",
+        "DateString": "2027-04-03T20:00:00",
+        "Url": "https://www.hetdepot.be/concert/2027/wim-helsen-0",
+        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0aQF000015kkIzYAI_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=D5RRnsQ-",
+        "Location": "Het Depot, Leuven",
+        "Description": "Wim Helsen in volle glorie.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.7138"
+      }
+    ]
   },
   {
     "ScraperName": "N9Scraper",
@@ -2579,9 +2874,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.2514084Z",
-    "StartedAt": "2026-06-12T06:00:00.3772501Z",
-    "FinishedAt": "2026-06-12T06:00:02.2514058Z",
+    "RunTime": "2026-06-12T10:00:01.1935966Z",
+    "StartedAt": "2026-06-12T10:00:00.2822771Z",
+    "FinishedAt": "2026-06-12T10:00:01.1935927Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -2615,9 +2910,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:06.2575865Z",
-    "StartedAt": "2026-06-12T06:00:00.3773951Z",
-    "FinishedAt": "2026-06-12T06:00:06.2575835Z",
+    "RunTime": "2026-06-12T10:00:04.2668279Z",
+    "StartedAt": "2026-06-12T10:00:00.2823931Z",
+    "FinishedAt": "2026-06-12T10:00:04.2668249Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -2626,7 +2921,7 @@
     "VenueId": "Trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 60,
+    "TotalEventsFound": 15,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -2663,8 +2958,8 @@
         "Year": 2026,
         "FileName": "trix-09-2026.json",
         "FilePath": "events/concerts/trix/trix-09-2026.json",
-        "Hash": "26e08c85006db0171559545bfffd82656acf73d5b1f7bdfe5536f43f9d0b7ffc",
-        "EventCount": 3,
+        "Hash": "e0af00e3b8f2883f10f88b3429003e75990791294f1b1e9df81f4e3644e5a7c8",
+        "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2673,29 +2968,32 @@
         "Year": 2026,
         "FileName": "trix-10-2026.json",
         "FilePath": "events/concerts/trix/trix-10-2026.json",
-        "Hash": "a3e44904a40377a59e053ea995e1bfcb16f66e898981f7b58d90a051ce6aa009",
-        "EventCount": 22,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
-        "Month": 11,
-        "Year": 2026,
-        "FileName": "trix-11-2026.json",
-        "FilePath": "events/concerts/trix/trix-11-2026.json",
-        "Hash": "f51c5c426c902cf8684e6c6a9b28926db3d4b75de16f22fb99f4511b96768e3c",
-        "EventCount": 27,
+        "Hash": "348ef4caa8cedb891e22a2296f033faa4f71fa692f4681391e0cbc47a53f0a8d",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:06.7525001Z",
-    "StartedAt": "2026-06-12T06:00:00.3775606Z",
-    "FinishedAt": "2026-06-12T06:00:06.752497Z",
+    "RunTime": "2026-06-12T10:00:02.0096453Z",
+    "StartedAt": "2026-06-12T10:00:00.2825218Z",
+    "FinishedAt": "2026-06-12T10:00:02.0096419Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Maddie Ashman",
+        "DateString": "2026-09-18T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/maddie-ashman/4191/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/261101-ryan-beattywebsite-1.png",
+        "Location": "Trix",
+        "Description": "Maddie Ashman stemt haar muziek compleet anders dan de rest van de wereld en scoort miljoenen views met haar unieke, hypnotiserende sound die ook indruk maakt op Caroline Polachek en Jacob Collier.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      }
+    ]
   },
   {
     "ScraperName": "VaartKapoenScraper",
@@ -2767,9 +3065,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:05.9662012Z",
-    "StartedAt": "2026-06-12T06:00:00.3777596Z",
-    "FinishedAt": "2026-06-12T06:00:05.9661982Z",
+    "RunTime": "2026-06-12T10:00:04.1763364Z",
+    "StartedAt": "2026-06-12T10:00:00.2826787Z",
+    "FinishedAt": "2026-06-12T10:00:04.1763071Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -2778,14 +3076,14 @@
     "VenueId": "WildeWesten",
     "VenueName": "Wilde Westen, Kortrijk",
     "Category": "Concerts",
-    "TotalEventsFound": 60,
+    "TotalEventsFound": 61,
     "MonthlyFiles": [
       {
         "Month": 6,
         "Year": 2026,
         "FileName": "wildewesten-06-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-06-2026.json",
-        "Hash": "86bc7320fdac8b22afeacb4c6d0801dfbb0f7453e8ba0e9abce3958ebfed2015",
+        "Hash": "4ab0b9e5fb905d7792a3dda01431817f2c0d570bc07a86a1616d67e1e7dccc96",
         "EventCount": 11,
         "Status": "Success",
         "ErrorMessage": null
@@ -2795,8 +3093,8 @@
         "Year": 2026,
         "FileName": "wildewesten-08-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-08-2026.json",
-        "Hash": "c8a6c316a6851257071572cb3ef2da851b09cd4a0514e570eb6e1601b0499db3",
-        "EventCount": 1,
+        "Hash": "e700af15219de19b4a8743a2b5371efbc448597c28c48580a632492ed775929b",
+        "EventCount": 2,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2815,7 +3113,7 @@
         "Year": 2026,
         "FileName": "wildewesten-10-2026.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-10-2026.json",
-        "Hash": "163d601f86c9aae143ac5a6744b66db4e1bbde872e0a53757b64d8e46b484471",
+        "Hash": "d58bb31b675471980e858c658a8135dfeb2e6cf38ad5b318c8af0487e80f128f",
         "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
@@ -2855,7 +3153,7 @@
         "Year": 2027,
         "FileName": "wildewesten-02-2027.json",
         "FilePath": "events/concerts/wildewesten/wildewesten-02-2027.json",
-        "Hash": "bfd9b55da35d74c09534314180211a75a9f990e172d54a6ac325c9661eb80d10",
+        "Hash": "e3bdb5c790f47a0107bc468051546cda6b573dfeb5ac73bc279530e7eca35133",
         "EventCount": 8,
         "Status": "Success",
         "ErrorMessage": null
@@ -2893,11 +3191,36 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:01:39.0510039Z",
-    "StartedAt": "2026-06-12T06:00:00.3779425Z",
-    "FinishedAt": "2026-06-12T06:01:39.0510011Z",
+    "RunTime": "2026-06-12T10:01:42.4312624Z",
+    "StartedAt": "2026-06-12T10:00:00.2828094Z",
+    "FinishedAt": "2026-06-12T10:01:42.4312598Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "REHAB - ROOFTOP SESSION #3",
+        "DateString": "2026-08-29T14:00:00\u002B0200",
+        "Url": "https://www.wildewesten.be/nl/event/rehab-rooftop-session-3",
+        "ImageUrl": "https://www.wildewesten.be/media/cache/resolve/default_uitdatabank/upload/media/default/ce63/b2/ceb997682da97aa11a9797382cf60199104a8eea.jpg",
+        "Location": "DAK De Kreun",
+        "Description": "REHAB ROOFTOP SESSION #3Rehab is back with the 3rd drum and bass rooftop session on top of Wilde Westen!Good vibes, quality soundsystem and great line-up for a perfect closing of your summer.\u0026nbsp;FD (The North Quarter, UK)Developing a love for music through London\u2019s pirate radio waves and the energy of the city\u2019s rave scene, FD\u2019s journey has always been one driven by feeling. Those early days spent recording mix tapes and chasing the emotionof certain records naturally led towards DJing and soon after the need tocreate his own music followed.As a DJ, FD\u2019s sets are journeys built from a long-standing love andunderstanding of the music, showcasing the full spectrum of drum \u0026amp; bass, inall it\u2019s depth, emotion and versatility, revealing how its tempo can carry aworld of ideas and influences. Having played at some of the scene\u2019s mostrespected clubs and festivals around the world, he continues to represent hisown vision and belief in what makes this music truly special.\u0026nbsp;Redeyes (Five Alley, The North Quarter, FR)Redeyes is a versatile producer from Toulouse, known for his soulful and genre-blending music.His work spans across Drum \u0026amp; Bass, Hip-Hop, Jazz, Soul, Funk, and House, creating a rich and diverse soundscape.A prominent artist on The North Quarter label,Redeyes has released acclaimed albums like\u201CBroken Soul\u201D in 2018 and \u201CSelfportraits\u201D in 2020. These works highlight his ability to seamlessly navigate different genres and tempos, showcasing his detailed and soulful production style!\u0026nbsp;One87This DJ, producer, and promoter is a true pioneer of the Belgian drum \u0026amp; bass scene. As the mastermind behind the legendary Star Warz nights in Ghent, he is a champion of innovative sounds and shapes the culture.In close collaboration with Rampage, he hosts an annual stage where he curates the line-up. With releases on Critical, Dispatch \u0026amp; Flexout Audio, expect nothing less than deep, dark \u0026amp; rolling energy when he steps up!\u0026nbsp;Respect The BreakzA drum and bass collective that includes Try One, Split Personality \u0026amp; VIKI is ready to conquer Kortrijk! With their own experience behind the decks, they decided to collaborate as a trio to show their knowledge.\u0026nbsp;Sisley \u0026amp; BenOneShotSisley \u0026amp; BenOneShot are a must-see duo on the Belgian Drum and Bass scene. This explosive tandem is known for their powerful and energetic sets, capable of electrifying any crowd. Their unique style spans from jungle to \u201Cdancefloor killers\u201D, \u201Crolling steppers\u201D and soulful drum and bass, always seeking out the rhythms that make people move.Regularly featured at the biggest Drum and Bass events in Belgium, they\u2019ve made their mark at Dour, Tomorrowland and Starwarz, to name just a few. With a perfect blend of musicality and raw energy, their performances strike a delicate balance between power and harmony. Each performance is a thrilling journey, with seamless transitions and a high energy atmosphere.Whether on international or local stages, Sisley \u0026amp; BenOneShot know how to captivate their audience. Get ready, because every set is a wild ride you won\u2019t want to miss!\u0026nbsp;MDRLRMDRLR (also known as Madruler) is an Antwerp-based DJ, producer, and promoter who has been a staple of the Belgian electronic music underground for over three decades. He is most recognized for his dedication to atmospheric jungle, drumfunk, and deep, soulful drum \u0026amp; bass.\u0026nbsp;Swift (NL)Every now and then you come across an MC who actually complements the music, Swift is certainly one of them. With his distinctive voice Swift brings something extra to the table. Swift is mostly known as a Drum and bass \u0026amp; Dubstep MC, but he actually fits any type of bassheavy music.Hailing from the urban jungle that is Rotterdam, Swift unexpectedly became one of Holland\u0027s most prolific MC\u0027s. Starting as an MC by accident, from the first second he picked up a mic there was no denying his talent.\u0026nbsp;MC NiceBeing the host MC at some of the biggest stages and festivals, MC NIice has become one of the leading voices of the bass-music scene in Belgium. With his short bars and hyper lyrics, Nice adds pure energy to the sound! Inspired by some old school Renegade Hardware mix-tapes, he started writing lyrics around the millennium years.\u0026nbsp;\u002B Residents: Twogun \u0026amp; Likewize",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.5039",
+        "Longitude": "4.4699"
+      },
+      {
+        "Title": "VANESSA MATTHYS QUARTET",
+        "DateString": "2026-10-25T20:30:00\u002B0100",
+        "Url": "https://www.wildewesten.be/nl/event/vanessa-matthys-quartet",
+        "ImageUrl": "https://www.wildewesten.be/media/cache/default_uitdatabank/upload/media/default/1ba0/57/157d54416ae588e636f7430186d98b6a94b9ff77.jpg",
+        "Location": "HOF",
+        "Description": "Jazz Cats clubshowVanessa Matthys Quartet serveert jazz met fluwelen finesse en een hartslag die recht naar je borstkas grijpt. Denk Gretchen Parlato op een nachtelijke roadtrip of Kurt Elling met een glas rode wijn te veel: warme vocals, virtuoze improvisaties en melodie\u00EBn die tegelijk breekbaar en krachtig binnenkomen. Rond de charismatische stem van Vanessa Matthys ontstaat een internationaal kwartet dat moeiteloos schakelt tussen intimiteit en grandeur.Hedendaagse jazz, traditionals en popklassiekers krijgen een nieuw leven in een concert vol storytelling, onverwachte wendingen en subtiele spanning. Soms fluisterzacht en verfijnd, dan weer onstuimig en meeslepend. De muzikanten geven elkaar voortdurend ruimte om te ademen, uit te breken en terug samen te vallen in een sound die even elegant als intens aanvoelt. Een avond die je langzaam meesleept en pas loslaat wanneer de laatste noot al lang verdwenen is.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.7095",
+        "Longitude": "5.9997"
+      }
+    ]
   },
   {
     "ScraperName": "WintercircusScraper",
@@ -3029,9 +3352,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-06-12T06:00:02.0657294Z",
-    "StartedAt": "2026-06-12T06:00:00.3782066Z",
-    "FinishedAt": "2026-06-12T06:00:02.0656114Z",
+    "RunTime": "2026-06-12T10:00:01.2117807Z",
+    "StartedAt": "2026-06-12T10:00:00.2829206Z",
+    "FinishedAt": "2026-06-12T10:00:01.2117778Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   }
