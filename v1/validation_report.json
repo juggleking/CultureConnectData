@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-13T05:00:00.4459604Z",
-  "ValidatedAt": "2026-06-13T05:00:00.4459605Z",
+  "GeneratedAt": "2026-06-14T05:00:01.4038589Z",
+  "ValidatedAt": "2026-06-14T05:00:01.4038589Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2385,
+  "TotalEvents": 2313,
   "TotalErrors": 0,
-  "TotalWarnings": 855,
+  "TotalWarnings": 848,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 172,
+      "TotalEvents": 170,
       "ErrorCount": 0,
-      "WarningCount": 172,
+      "WarningCount": 170,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Red Leather + Jady",
-          "EventDate": "2026-06-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/red-leather/a10Qw00000FdwTJIAZ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dernière: 'One Song' - Miet Warlop",
-          "EventDate": "2026-06-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/derniere-one-song-miet-warlop/a10Qw000007eTbxIAE",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Dernière: 'One Song' - Miet Warlop",
           "EventDate": "2026-06-14T00:00:00.0000000",
@@ -2267,7 +2241,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 156,
+      "TotalEvents": 155,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3115,24 +3089,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 88,
+      "TotalEvents": 87,
       "ErrorCount": 0,
-      "WarningCount": 88,
+      "WarningCount": 87,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jazz Zottegem - Park Kasteel van Egmont",
-          "EventDate": "2026-06-13",
-          "EventUrl": "https://cczoetegem.be/programma/jazz-zottegem-park-kasteel-van-egmont.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-13'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-13"
-            }
-          ]
-        },
         {
           "EventTitle": "Jazz Zottegem - Park Kasteel van Egmont",
           "EventDate": "2026-06-14",
@@ -4515,7 +4476,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 155,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6106,7 +6067,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 93,
+      "TotalEvents": 92,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6205,24 +6166,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / The Delta Bombers + The Bridge City Sinners",
-          "EventDate": "2026-06-13T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-delta-bombers-bridge-city-sinners/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-13T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-13T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "België - Egypte",
           "EventDate": "2026-06-15T00:00:00",
@@ -6983,7 +6931,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 99,
+      "TotalEvents": 98,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7069,24 +7017,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 71,
+      "TotalEvents": 70,
       "ErrorCount": 0,
-      "WarningCount": 71,
+      "WarningCount": 70,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jasper Posson | Eeuwige jeugd",
-          "EventDate": "2026-06-13T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/jasper-posson--eeuwige-jeugd-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Steven Mahieu | Stabieler",
           "EventDate": "2026-06-19T00:00:00.0000000",
@@ -9765,7 +9700,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 71,
+      "TotalEvents": 70,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9775,7 +9710,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 152,
+      "TotalEvents": 151,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9795,30 +9730,11 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 2,
+      "TotalEvents": 1,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 1,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Garbage",
-          "EventDate": "2025-05-30",
-          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/garbage/a0NP500000IRYMbMAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Date is more than 1 year in the past: 2025-05-30.",
-              "Severity": 1,
-              "ActualValue": "2025-05-30"
-            },
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2025-05-30'.",
-              "Severity": 1,
-              "ActualValue": "2025-05-30"
-            }
-          ]
-        },
         {
           "EventTitle": "Froukje: Solo Tour",
           "EventDate": "2026-06-26",
@@ -11159,7 +11075,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 254,
+      "TotalEvents": 252,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11209,7 +11125,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 73,
+      "TotalEvents": 15,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
