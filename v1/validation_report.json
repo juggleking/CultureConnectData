@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-14T05:00:01.4038589Z",
-  "ValidatedAt": "2026-06-14T05:00:01.4038589Z",
+  "GeneratedAt": "2026-06-15T05:00:00.6656005Z",
+  "ValidatedAt": "2026-06-15T05:00:00.6656006Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2313,
+  "TotalEvents": 2336,
   "TotalErrors": 0,
-  "TotalWarnings": 848,
+  "TotalWarnings": 847,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 170,
+      "TotalEvents": 169,
       "ErrorCount": 0,
-      "WarningCount": 170,
+      "WarningCount": 169,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Dernière: 'One Song' - Miet Warlop",
-          "EventDate": "2026-06-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/derniere-one-song-miet-warlop/a10Qw000007eTbyIAE",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-14T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Jack White + Hideous",
           "EventDate": "2026-06-16T00:00:00.0000000",
@@ -2241,7 +2228,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 155,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3069,7 +3056,7 @@
       "ScraperId": "CcBrugge",
       "ScraperName": "CcBruggeScraper",
       "VenueName": "CC Brugge",
-      "TotalEvents": 113,
+      "TotalEvents": 112,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3089,24 +3076,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 87,
+      "TotalEvents": 86,
       "ErrorCount": 0,
-      "WarningCount": 87,
+      "WarningCount": 86,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jazz Zottegem - Park Kasteel van Egmont",
-          "EventDate": "2026-06-14",
-          "EventUrl": "https://cczoetegem.be/programma/jazz-zottegem-park-kasteel-van-egmont-2.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-14'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-14"
-            }
-          ]
-        },
         {
           "EventTitle": "Cultuurkaravaan: familiefestival in Godveerdegem",
           "EventDate": "2026-06-21",
@@ -4502,19 +4476,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "BachPlus",
-          "EventDate": "2026-06-14",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/bachplus/4704/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-14'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-14"
-            }
-          ]
-        },
-        {
           "EventTitle": "Close Call Company",
           "EventDate": "2026-08-29",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/close-call-company/9953/",
@@ -4632,6 +4593,19 @@
           ]
         },
         {
+          "EventTitle": "Andries Beckers",
+          "EventDate": "2026-09-24",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/andries-beckers/9842/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-24"
+            }
+          ]
+        },
+        {
           "EventTitle": "Compagnie Gardavoe",
           "EventDate": "2026-09-11",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/compagnie-gardavoe/9829/",
@@ -4654,19 +4628,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-23'.",
               "Severity": 1,
               "ActualValue": "2026-09-23"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Andries Beckers",
-          "EventDate": "2026-09-24",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/andries-beckers/9842/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-24"
             }
           ]
         },
@@ -6060,6 +6021,19 @@
               "ActualValue": "2027-03-13"
             }
           ]
+        },
+        {
+          "EventTitle": "Ruth Beeckmans, Robrecht Vanden Thoren & Tim Van Aelst",
+          "EventDate": "2027-03-14",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/ruth-beeckmans-robrecht-vanden-thoren-tim-van-aelst/9906/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-14'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-14"
+            }
+          ]
         }
       ]
     },
@@ -6931,7 +6905,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 98,
+      "TotalEvents": 97,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6941,24 +6915,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 14,
+      "TotalEvents": 13,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Driehoeksverhouding tussen liefde, leven en kunst",
-          "EventDate": "2026-04-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/driehoeksverhouding-tussen-liefde-leven-en-kunst-tsl3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-04-04T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Waterlanders",
           "EventDate": "2026-06-18T00:00:00.0000000",
@@ -7008,6 +6969,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-06T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Openluchtfilm",
+          "EventDate": "2026-08-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/openluchtfilm-nrlb",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Openluchtfilm",
+          "EventDate": "2026-08-19T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/openluchtfilm-51yb",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-19T00:00:00.0000000"
             }
           ]
         }
@@ -11075,7 +11062,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 252,
+      "TotalEvents": 251,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11125,7 +11112,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 15,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
