@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-15T05:00:00.6656005Z",
-  "ValidatedAt": "2026-06-15T05:00:00.6656006Z",
+  "GeneratedAt": "2026-06-16T05:00:00.4290272Z",
+  "ValidatedAt": "2026-06-16T05:00:00.4290272Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2336,
+  "TotalEvents": 2367,
   "TotalErrors": 0,
-  "TotalWarnings": 847,
+  "TotalWarnings": 850,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 169,
+      "TotalEvents": 171,
       "ErrorCount": 0,
-      "WarningCount": 169,
+      "WarningCount": 171,
       "Issues": [],
       "EventDetails": [
         {
@@ -104,7 +104,7 @@
           ]
         },
         {
-          "EventTitle": "The Streets",
+          "EventTitle": "The Streets + ILA",
           "EventDate": "2026-06-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-streets/a10Qw00000Ey7D3IAJ",
           "Issues": [
@@ -117,7 +117,7 @@
           ]
         },
         {
-          "EventTitle": "The Streets",
+          "EventTitle": "The Streets + ILA",
           "EventDate": "2026-06-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-streets/a10Qw00000Ey7HtIAJ",
           "Issues": [
@@ -204,6 +204,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Floris Francis Arthur (Band)",
+          "EventDate": "2026-07-11T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/floris-francis-arthur-band/a10Qw00000K3JDvIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-11T00:00:00.0000000"
             }
           ]
         },
@@ -598,9 +611,9 @@
           ]
         },
         {
-          "EventTitle": "Simple Plan + Neck Deep",
+          "EventTitle": "The Afghan Whigs 'Soft Control' Tour + Ed Harcourt",
           "EventDate": "2026-10-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/simple-plan/a10Qw000008x19xIAA",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-afghan-whigs-soft-control-tour/a10Qw00000FtWWTIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -611,9 +624,9 @@
           ]
         },
         {
-          "EventTitle": "The Afghan Whigs 'Soft Control' Tour + Ed Harcourt",
+          "EventTitle": "Simple Plan + Neck Deep",
           "EventDate": "2026-10-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-afghan-whigs-soft-control-tour/a10Qw00000FtWWTIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/simple-plan/a10Qw000008x19xIAA",
           "Issues": [
             {
               "Field": "DateString",
@@ -1794,6 +1807,19 @@
           ]
         },
         {
+          "EventTitle": "Black Veil Brides",
+          "EventDate": "2027-01-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/black-veil-brides/a10Qw00000GiMrdIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We zijn er mee bezig’-tour",
           "EventDate": "2027-01-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-er-mee-bezig-tour/a10Qw00000ENyMnIAL",
@@ -2228,7 +2254,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 154,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2270,19 +2296,6 @@
       "WarningCount": 60,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Modern Nature",
-          "EventDate": "2026-06-15T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/modern-nature",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Rooftop Street Food #1: Wuakmole",
           "EventDate": "2026-07-04T00:00:00.0000000",
@@ -2427,9 +2440,9 @@
           ]
         },
         {
-          "EventTitle": "Benenwerk",
+          "EventTitle": "Rooftop Street Food #5: RØK",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
           "Issues": [
             {
               "Field": "DateString",
@@ -2440,9 +2453,9 @@
           ]
         },
         {
-          "EventTitle": "Rooftop Street Food #5: RØK",
+          "EventTitle": "Benenwerk",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
           "Issues": [
             {
               "Field": "DateString",
@@ -2566,6 +2579,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-24T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sergeant + Klein Volk",
+          "EventDate": "2026-09-27T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27T00:00:00.0000000"
             }
           ]
         },
@@ -4450,11 +4476,25 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 154,
+      "TotalEvents": 151,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 1,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Moeder Theresa was razend",
+          "EventDate": "2027-06-16T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/moeder-theresa-was-razend",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-06-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "CultuurKnokkeHeist",
@@ -5348,14 +5388,14 @@
         },
         {
           "EventTitle": "Kommil Foo",
-          "EventDate": "2027-01-07",
+          "EventDate": "2027-01-06",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/kommil-foo/9948/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-07'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-06'.",
               "Severity": 1,
-              "ActualValue": "2027-01-07"
+              "ActualValue": "2027-01-06"
             }
           ]
         },
@@ -6140,24 +6180,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "België - Egypte",
-          "EventDate": "2026-06-15T00:00:00",
-          "EventUrl": "https://decasino.be/concert/belgie-egypte/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-15T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-15T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / 't Hof van Commerce + C-RHYMS",
           "EventDate": "2026-06-17T00:00:00",
@@ -6905,7 +6932,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 97,
+      "TotalEvents": 96,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8883,9 +8910,9 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 61,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 61,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
         {
@@ -8911,6 +8938,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-06-22T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-06-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Allez, Chantez! * juni",
+          "EventDate": "2026-06-25T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-juni-25-06-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-25T00:00:00.0000000"
             }
           ]
         },
@@ -9687,7 +9727,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 70,
+      "TotalEvents": 71,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11112,7 +11152,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 71,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
