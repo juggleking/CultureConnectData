@@ -1,16 +1,16 @@
 {
   "Version": "2026.05.25.1234",
-  "GeneratedAt": "2026-06-17T10:02:11.6093716Z",
-  "StartedAt": "2026-06-17T10:00:04.1796972Z",
-  "FinishedAt": "2026-06-17T10:01:47.2195428Z",
-  "LastUploadAt": "2026-06-17T10:02:11.6202699Z",
+  "GeneratedAt": "2026-06-17T14:02:01.6600043Z",
+  "StartedAt": "2026-06-17T14:00:03.6728693Z",
+  "FinishedAt": "2026-06-17T14:01:45.4306957Z",
+  "LastUploadAt": "2026-06-17T14:02:01.6700345Z",
   "Venues": [
     {
       "VenueId": "FourAD",
       "VenueName": "4AD, Diksmuide",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3118755Z",
-      "FinishedAt": "2026-06-17T10:00:08.5376466Z",
+      "StartedAt": "2026-06-17T14:00:03.8607314Z",
+      "FinishedAt": "2026-06-17T14:00:08.372885Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
       "Files": [
         {
@@ -38,7 +38,7 @@
           "Year": 2026,
           "FileName": "fourad-08-2026.json",
           "FilePath": "events/concerts/fourad/fourad-08-2026.json",
-          "Hash": "ac69080f9e5becd2dbe88cb02e078dcd0c9d30bdbeb0a3ce2edb2e9ffdc97b2d",
+          "Hash": "bc73b1af47a61b4080bfbc57e3bfa42c04a2b09df4161ef521b5a92145a8753c",
           "EventCount": 4,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -79,8 +79,8 @@
       "VenueId": "AbConcerts",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3076062Z",
-      "FinishedAt": "2026-06-17T10:00:19.5113948Z",
+      "StartedAt": "2026-06-17T14:00:03.8563842Z",
+      "FinishedAt": "2026-06-17T14:00:14.9241669Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
       "Files": [
         {
@@ -128,7 +128,7 @@
           "Year": 2026,
           "FileName": "abconcerts-10-2026.json",
           "FilePath": "events/concerts/abconcerts/abconcerts-10-2026.json",
-          "Hash": "3be9a90673f84de34b132eed7506c746780e089024f858d435f7a9f0ac3650e4",
+          "Hash": "0fd62704a2a1ae7579048e6204805f802213f27926af07f5fb85ee6678ba91c8",
           "EventCount": 38,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -216,11 +216,111 @@
       ]
     },
     {
+      "VenueId": "Botanique",
+      "VenueName": "Botanique, Brussels",
+      "Category": "Concerts",
+      "StartedAt": "2026-06-17T14:00:03.8577958Z",
+      "FinishedAt": "2026-06-17T14:00:31.0595588Z",
+      "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
+      "Files": [
+        {
+          "Month": 6,
+          "Year": 2026,
+          "FileName": "botanique-06-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-06-2026.json",
+          "Hash": "e60a021c4e3e2f0374bcaf97e0859a9d0d1adafedc2fcbf209c3a1c85e102281",
+          "EventCount": 9,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 7,
+          "Year": 2026,
+          "FileName": "botanique-07-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-07-2026.json",
+          "Hash": "c2badfdd69b6fa247a5686a154160152a56f616be44378cb052cdc84960a3827",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "botanique-09-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-09-2026.json",
+          "Hash": "22a394d069e4d8c588db17755395e6f5de333ab447c54219b658f3b4876ae3a5",
+          "EventCount": 48,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "botanique-10-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-10-2026.json",
+          "Hash": "e2f40c8eb751da8d745c659cc6cdc00c6273f78a1119131425cd42a181041452",
+          "EventCount": 52,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "botanique-11-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-11-2026.json",
+          "Hash": "3db86dd09182b6d49dc1611594eff1eb0f8dd2d180fd175400d398701a5bc693",
+          "EventCount": 31,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "botanique-12-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-12-2026.json",
+          "Hash": "857a4c0c3d2ff3c6dab53d981084cc659420336b553412863ba8b941695636dc",
+          "EventCount": 16,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "botanique-01-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-01-2027.json",
+          "Hash": "c86b4a131f5901670231734fd4e9da099edaa2982900cc8227cdf00c3481a692",
+          "EventCount": 3,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "botanique-02-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-02-2027.json",
+          "Hash": "93134657e2b758040ee78819503c555f66a647e6361f559aad6f5e3661d671d9",
+          "EventCount": 7,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "botanique-03-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-03-2027.json",
+          "Hash": "50ed5a35f14f28ddeb4fc404df062525174048364a0145565ecc2556cc8be0aa",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
       "VenueId": "CactusMusic",
       "VenueName": "Cactus Muziekcentrum, Brugge",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3078306Z",
-      "FinishedAt": "2026-06-17T10:00:09.7665962Z",
+      "StartedAt": "2026-06-17T14:00:03.8584085Z",
+      "FinishedAt": "2026-06-17T14:00:08.4958946Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
       "Files": [
         {
@@ -309,8 +409,8 @@
       "VenueId": "CcBrugge",
       "VenueName": "CC Brugge",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.181523Z",
-      "FinishedAt": "2026-06-17T10:00:17.8826178Z",
+      "StartedAt": "2026-06-17T14:00:03.6769655Z",
+      "FinishedAt": "2026-06-17T14:00:16.3161876Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -429,8 +529,8 @@
       "VenueId": "SintLievensHoutem",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.3074665Z",
-      "FinishedAt": "2026-06-17T10:00:14.1518673Z",
+      "StartedAt": "2026-06-17T14:00:03.8546283Z",
+      "FinishedAt": "2026-06-17T14:00:10.008686Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
       "Files": [
         {
@@ -489,8 +589,8 @@
       "VenueId": "CcZoetegem",
       "VenueName": "CC Zoetegem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.2408611Z",
-      "FinishedAt": "2026-06-17T10:00:14.3583876Z",
+      "StartedAt": "2026-06-17T14:00:03.7099351Z",
+      "FinishedAt": "2026-06-17T14:00:10.5177022Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
       "Files": [
         {
@@ -609,8 +709,8 @@
       "VenueId": "Aff",
       "VenueName": "Club AFF / Absolutely Free Festival",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3076839Z",
-      "FinishedAt": "2026-06-17T10:00:14.3161928Z",
+      "StartedAt": "2026-06-17T14:00:03.8572148Z",
+      "FinishedAt": "2026-06-17T14:00:10.7348704Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
       "Files": [
         {
@@ -689,8 +789,8 @@
       "VenueId": "Cecilia",
       "VenueName": "Compagnie Cecilia, Gent",
       "Category": "Theatre",
-      "StartedAt": "2026-06-17T10:00:04.1796972Z",
-      "FinishedAt": "2026-06-17T10:01:27.1087596Z",
+      "StartedAt": "2026-06-17T14:00:03.6728693Z",
+      "FinishedAt": "2026-06-17T14:01:39.4564348Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
       "Files": [
         {
@@ -809,8 +909,8 @@
       "VenueId": "CultuurKnokkeHeist",
       "VenueName": "Cultuur Knokke-Heist",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.2421796Z",
-      "FinishedAt": "2026-06-17T10:00:12.1486012Z",
+      "StartedAt": "2026-06-17T14:00:03.7117527Z",
+      "FinishedAt": "2026-06-17T14:00:09.0253318Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -919,8 +1019,8 @@
       "VenueId": "DeWerf",
       "VenueName": "Cultuurhuis De Werf",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.3036974Z",
-      "FinishedAt": "2026-06-17T10:00:18.3374289Z",
+      "StartedAt": "2026-06-17T14:00:03.8498807Z",
+      "FinishedAt": "2026-06-17T14:00:14.8025699Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
       "Files": [
         {
@@ -958,8 +1058,8 @@
           "Year": 2026,
           "FileName": "dewerf-11-2026.json",
           "FilePath": "events/cultuurcentra/dewerf/dewerf-11-2026.json",
-          "Hash": "b048055e622544a4579c7ab2c694af6df3ab9a7e3a912da4228ed0b35b7e1150",
-          "EventCount": 23,
+          "Hash": "cb76d6dd1c48f377a28c5d9f0f559a61015fd165f7ffceb2f77df83a8ed88e39",
+          "EventCount": 24,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -998,8 +1098,8 @@
           "Year": 2027,
           "FileName": "dewerf-03-2027.json",
           "FilePath": "events/cultuurcentra/dewerf/dewerf-03-2027.json",
-          "Hash": "3dd1858a5df081371143c6ec38824ce5cb420a5076ad60a49e1c9f2520a4930d",
-          "EventCount": 14,
+          "Hash": "10aa46a6c4c0a9ca33ff0697714903c826a4980bb96f8a5b1cee93f537627336",
+          "EventCount": 13,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -1009,8 +1109,8 @@
       "VenueId": "Emotia",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.3038692Z",
-      "FinishedAt": "2026-06-17T10:00:15.560012Z",
+      "StartedAt": "2026-06-17T14:00:03.8527473Z",
+      "FinishedAt": "2026-06-17T14:00:11.3925517Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
       "Files": [
         {
@@ -1139,8 +1239,8 @@
       "VenueId": "CultuurhuisMerelbeke",
       "VenueName": "Cultuurhuis Merelbeke",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.241489Z",
-      "FinishedAt": "2026-06-17T10:00:21.9953888Z",
+      "StartedAt": "2026-06-17T14:00:03.7108584Z",
+      "FinishedAt": "2026-06-17T14:00:19.190382Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
       "Files": [
         {
@@ -1189,8 +1289,8 @@
       "VenueId": "DeCasino",
       "VenueName": "De Casino",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3078943Z",
-      "FinishedAt": "2026-06-17T10:00:09.9534056Z",
+      "StartedAt": "2026-06-17T14:00:03.8588934Z",
+      "FinishedAt": "2026-06-17T14:00:08.3329377Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
       "Files": [
         {
@@ -1299,8 +1399,8 @@
       "VenueId": "DeRoma",
       "VenueName": "De Roma",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3080325Z",
-      "FinishedAt": "2026-06-17T10:00:15.3374034Z",
+      "StartedAt": "2026-06-17T14:00:03.8597427Z",
+      "FinishedAt": "2026-06-17T14:00:11.9499713Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
       "Files": [
         {
@@ -1419,8 +1519,8 @@
       "VenueId": "DeSpil",
       "VenueName": "De Spil, Roeselare",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.3034223Z",
-      "FinishedAt": "2026-06-17T10:00:09.7440362Z",
+      "StartedAt": "2026-06-17T14:00:03.8437191Z",
+      "FinishedAt": "2026-06-17T14:00:08.3727089Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1469,8 +1569,8 @@
       "VenueId": "Steenoven",
       "VenueName": "De Steenoven, Herzele",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.3116637Z",
-      "FinishedAt": "2026-06-17T10:00:10.2772482Z",
+      "StartedAt": "2026-06-17T14:00:03.860308Z",
+      "FinishedAt": "2026-06-17T14:00:08.213162Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
       "Files": [
         {
@@ -1589,8 +1689,8 @@
       "VenueId": "DeZwerver",
       "VenueName": "De Zwerver",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3118008Z",
-      "FinishedAt": "2026-06-17T10:00:09.1355956Z",
+      "StartedAt": "2026-06-17T14:00:03.8605792Z",
+      "FinishedAt": "2026-06-17T14:00:08.0582669Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
       "Files": [
         {
@@ -1619,8 +1719,8 @@
       "VenueId": "Democrazy",
       "VenueName": "Democrazy, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3079637Z",
-      "FinishedAt": "2026-06-17T10:00:09.7610923Z",
+      "StartedAt": "2026-06-17T14:00:03.8593959Z",
+      "FinishedAt": "2026-06-17T14:00:08.3862905Z",
       "FaviconUrl": "https://www.democrazy.be/favicon.ico",
       "Files": [
         {
@@ -1719,8 +1819,8 @@
       "VenueId": "HaConcerts",
       "VenueName": "Ha Concerts, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3119542Z",
-      "FinishedAt": "2026-06-17T10:00:30.3119692Z",
+      "StartedAt": "2026-06-17T14:00:03.8609188Z",
+      "FinishedAt": "2026-06-17T14:00:28.6497447Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
       "Files": [
         {
@@ -1829,8 +1929,8 @@
       "VenueId": "HetDepot",
       "VenueName": "Het Depot, Leuven",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3120332Z",
-      "FinishedAt": "2026-06-17T10:00:49.4046297Z",
+      "StartedAt": "2026-06-17T14:00:03.8611427Z",
+      "FinishedAt": "2026-06-17T14:00:36.5862911Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
       "Files": [
         {
@@ -1898,7 +1998,7 @@
           "Year": 2027,
           "FileName": "hetdepot-02-2027.json",
           "FilePath": "events/concerts/hetdepot/hetdepot-02-2027.json",
-          "Hash": "87cac1ac7bcd662af90657d00cfb9262c95f835f3fb9081e4376073c36269d88",
+          "Hash": "86e1618849a2e2cac3d48ca0c587be03e625324a2aeb15143e2d6a969f1179c3",
           "EventCount": 10,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1918,7 +2018,7 @@
           "Year": 2027,
           "FileName": "hetdepot-04-2027.json",
           "FilePath": "events/concerts/hetdepot/hetdepot-04-2027.json",
-          "Hash": "6810d2eb274ce4f56eb90449eb36dd4815cbf96cd917d8f1f73087cda781cac1",
+          "Hash": "6dd6e687bf6a8d26a72574adefe78af160fd8a636afffea19223af435efc00b8",
           "EventCount": 4,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1929,8 +2029,8 @@
       "VenueId": "Leietheater",
       "VenueName": "Leietheater, Deinze",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-06-17T10:00:04.3039938Z",
-      "FinishedAt": "2026-06-17T10:00:15.4019516Z",
+      "StartedAt": "2026-06-17T14:00:03.8538503Z",
+      "FinishedAt": "2026-06-17T14:00:11.2430092Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1958,8 +2058,8 @@
           "Year": 2026,
           "FileName": "leietheater-09-2026.json",
           "FilePath": "events/cultuurcentra/leietheater/leietheater-09-2026.json",
-          "Hash": "9bf483728d5005225a64b04518a2c70b71938ce33744bb83deb8031daf6ee430",
-          "EventCount": 13,
+          "Hash": "c46ab60d1ade4770b4db9a01d608cb84afc23d2765565f35db347618eb5eeb99",
+          "EventCount": 14,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -1968,8 +2068,8 @@
           "Year": 2026,
           "FileName": "leietheater-10-2026.json",
           "FilePath": "events/cultuurcentra/leietheater/leietheater-10-2026.json",
-          "Hash": "4d421f8168dcd2fbecb81dd07d6475887a6b1e75e56799cbb892bd9baae853cf",
-          "EventCount": 20,
+          "Hash": "3bc49f2b1bf84ccbcaa5c0d06c702f50569b9c2717ae91126494cd5856c876d2",
+          "EventCount": 21,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -2059,8 +2159,8 @@
       "VenueId": "N9",
       "VenueName": "N9, Eeklo",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3121374Z",
-      "FinishedAt": "2026-06-17T10:00:09.7093396Z",
+      "StartedAt": "2026-06-17T14:00:03.8613387Z",
+      "FinishedAt": "2026-06-17T14:00:08.393519Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
       "Files": [
         {
@@ -2149,8 +2249,8 @@
       "VenueId": "Rivierenhof",
       "VenueName": "OLT Rivierenhof",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3122049Z",
-      "FinishedAt": "2026-06-17T10:00:15.9860904Z",
+      "StartedAt": "2026-06-17T14:00:03.862046Z",
+      "FinishedAt": "2026-06-17T14:00:11.4901004Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
       "Files": [
         {
@@ -2169,8 +2269,8 @@
       "VenueId": "Pukkelpop",
       "VenueName": "Pukkelpop",
       "Category": "Festival",
-      "StartedAt": "2026-06-17T10:00:04.1811919Z",
-      "FinishedAt": "2026-06-17T10:00:11.7135359Z",
+      "StartedAt": "2026-06-17T14:00:03.6748311Z",
+      "FinishedAt": "2026-06-17T14:00:09.9787139Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2189,8 +2289,8 @@
       "VenueId": "Werchter",
       "VenueName": "Rock Werchter",
       "Category": "Festival",
-      "StartedAt": "2026-06-17T10:00:04.1814472Z",
-      "FinishedAt": "2026-06-17T10:00:11.2069898Z",
+      "StartedAt": "2026-06-17T14:00:03.675934Z",
+      "FinishedAt": "2026-06-17T14:00:08.4594953Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2209,8 +2309,8 @@
       "VenueId": "Toneelhuis",
       "VenueName": "Toneelhuis, Antwerpen",
       "Category": "Theatre",
-      "StartedAt": "2026-06-17T10:00:04.1799598Z",
-      "FinishedAt": "2026-06-17T10:00:45.3148589Z",
+      "StartedAt": "2026-06-17T14:00:03.6734744Z",
+      "FinishedAt": "2026-06-17T14:00:42.037711Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
       "Files": [
         {
@@ -2349,8 +2449,8 @@
       "VenueId": "Trix",
       "VenueName": "Trix",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3122726Z",
-      "FinishedAt": "2026-06-17T10:00:14.8144498Z",
+      "StartedAt": "2026-06-17T14:00:03.8622734Z",
+      "FinishedAt": "2026-06-17T14:00:11.9079533Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
       "Files": [
         {
@@ -2398,8 +2498,18 @@
           "Year": 2026,
           "FileName": "trix-10-2026.json",
           "FilePath": "events/concerts/trix/trix-10-2026.json",
-          "Hash": "d101c800aaafee7d0bae0b3a45dd8eea30cc5f3347d50d1ee1add75dda71d411",
-          "EventCount": 22,
+          "Hash": "9630b7daf0ec0e04e2f92615d95d9a17afc11a793b659f74708cf98fc405bf0a",
+          "EventCount": 24,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "trix-11-2026.json",
+          "FilePath": "events/concerts/trix/trix-11-2026.json",
+          "Hash": "3cf0679005bba52d8156c4b043c1237a65b4c0c57e60391534d912439e6ddf4e",
+          "EventCount": 13,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -2409,8 +2519,8 @@
       "VenueId": "VaartKapoen",
       "VenueName": "Vaartkapoen",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.312352Z",
-      "FinishedAt": "2026-06-17T10:00:13.1587518Z",
+      "StartedAt": "2026-06-17T14:00:03.8624726Z",
+      "FinishedAt": "2026-06-17T14:00:10.4591896Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
       "Files": [
         {
@@ -2438,7 +2548,7 @@
           "Year": 2026,
           "FileName": "vaartkapoen-09-2026.json",
           "FilePath": "events/concerts/vaartkapoen/vaartkapoen-09-2026.json",
-          "Hash": "1c36efefe5097e8a3c2ff59a5e7a00bee3fd683567166080254b30ffb1a5027d",
+          "Hash": "86f76027f47354012a7b9267a88f93aaa98254dd898bb3339fbb0119ee80d752",
           "EventCount": 2,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -2489,8 +2599,8 @@
       "VenueId": "WildeWesten",
       "VenueName": "Wilde Westen, Kortrijk",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3124326Z",
-      "FinishedAt": "2026-06-17T10:01:47.2195428Z",
+      "StartedAt": "2026-06-17T14:00:03.8632699Z",
+      "FinishedAt": "2026-06-17T14:01:45.4306957Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
       "Files": [
         {
@@ -2609,8 +2719,8 @@
       "VenueId": "Wintercircus",
       "VenueName": "Wintercircus, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-06-17T10:00:04.3125136Z",
-      "FinishedAt": "2026-06-17T10:00:11.4634499Z",
+      "StartedAt": "2026-06-17T14:00:03.8636142Z",
+      "FinishedAt": "2026-06-17T14:00:08.4244592Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
       "Files": [
         {
