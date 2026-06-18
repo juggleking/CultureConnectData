@@ -4,7 +4,7 @@
     "VenueId": "Cecilia",
     "VenueName": "Compagnie Cecilia, Gent",
     "Category": "Theatre",
-    "TotalEventsFound": 151,
+    "TotalEventsFound": 155,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -41,8 +41,8 @@
         "Year": 2026,
         "FileName": "cecilia-09-2026.json",
         "FilePath": "events/theatre/cecilia/cecilia-09-2026.json",
-        "Hash": "88d5a272f4aa3fd6a4fff7bb2c63892c01d8f80fc19c1fed21d680738386c91c",
-        "EventCount": 27,
+        "Hash": "7d5290b206b7d8e545bad990c8ba4d15f1580e70c1f372827a5a62afa560227d",
+        "EventCount": 31,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -119,11 +119,60 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:01:58.4400843Z",
-    "StartedAt": "2026-06-18T10:00:00.3089731Z",
-    "FinishedAt": "2026-06-18T10:01:58.4400807Z",
+    "RunTime": "2026-06-18T14:01:59.7848137Z",
+    "StartedAt": "2026-06-18T14:00:00.5139475Z",
+    "FinishedAt": "2026-06-18T14:01:59.7848113Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Steegske",
+        "DateString": "2026-09-02T20:00:00",
+        "Url": "https://compagnie-cecilia.be/nl/programma/steegske",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_43397.jpg%3Fv%3D1781474450?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=2e1a90e25f609662a028955c0698a4e2",
+        "Location": "Compagnie Cecilia, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0657",
+        "Longitude": "3.7306"
+      },
+      {
+        "Title": "Steegske",
+        "DateString": "2026-09-03T20:00:00",
+        "Url": "https://compagnie-cecilia.be/nl/programma/steegske",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_43397.jpg%3Fv%3D1781474450?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=2e1a90e25f609662a028955c0698a4e2",
+        "Location": "Compagnie Cecilia, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0657",
+        "Longitude": "3.7306"
+      },
+      {
+        "Title": "Steegske",
+        "DateString": "2026-09-04T20:00:00",
+        "Url": "https://compagnie-cecilia.be/nl/programma/steegske",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_43397.jpg%3Fv%3D1781474450?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=2e1a90e25f609662a028955c0698a4e2",
+        "Location": "Compagnie Cecilia, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0657",
+        "Longitude": "3.7306"
+      },
+      {
+        "Title": "Steegske",
+        "DateString": "2026-09-05T20:00:00",
+        "Url": "https://compagnie-cecilia.be/nl/programma/steegske",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_43397.jpg%3Fv%3D1781474450?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=2e1a90e25f609662a028955c0698a4e2",
+        "Location": "Compagnie Cecilia, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0657",
+        "Longitude": "3.7306"
+      }
+    ]
   },
   {
     "ScraperName": "ToneelhuisScraper",
@@ -265,9 +314,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:34.8238931Z",
-    "StartedAt": "2026-06-18T10:00:00.309867Z",
-    "FinishedAt": "2026-06-18T10:00:34.8238902Z",
+    "RunTime": "2026-06-18T14:00:35.6049294Z",
+    "StartedAt": "2026-06-18T14:00:00.5163229Z",
+    "FinishedAt": "2026-06-18T14:00:35.6049257Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -291,9 +340,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:01.2010995Z",
-    "StartedAt": "2026-06-18T10:00:00.3102172Z",
-    "FinishedAt": "2026-06-18T10:00:01.2010977Z",
+    "RunTime": "2026-06-18T14:00:01.3732961Z",
+    "StartedAt": "2026-06-18T14:00:00.5176166Z",
+    "FinishedAt": "2026-06-18T14:00:01.3732944Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -317,9 +366,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:01.1330086Z",
-    "StartedAt": "2026-06-18T10:00:00.3103988Z",
-    "FinishedAt": "2026-06-18T10:00:01.1330055Z",
+    "RunTime": "2026-06-18T14:00:01.3399647Z",
+    "StartedAt": "2026-06-18T14:00:00.5182354Z",
+    "FinishedAt": "2026-06-18T14:00:01.3399617Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -443,9 +492,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:08.5728872Z",
-    "StartedAt": "2026-06-18T10:00:00.3105714Z",
-    "FinishedAt": "2026-06-18T10:00:08.5728834Z",
+    "RunTime": "2026-06-18T14:00:09.133346Z",
+    "StartedAt": "2026-06-18T14:00:00.5192594Z",
+    "FinishedAt": "2026-06-18T14:00:09.1333432Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -569,9 +618,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:03.6227625Z",
-    "StartedAt": "2026-06-18T10:00:00.3107676Z",
-    "FinishedAt": "2026-06-18T10:00:03.6227594Z",
+    "RunTime": "2026-06-18T14:00:04.8200319Z",
+    "StartedAt": "2026-06-18T14:00:00.5198889Z",
+    "FinishedAt": "2026-06-18T14:00:04.8198797Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -625,24 +674,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:11.7885612Z",
-    "StartedAt": "2026-06-18T10:00:00.3109262Z",
-    "FinishedAt": "2026-06-18T10:00:11.7885593Z",
+    "RunTime": "2026-06-18T14:00:13.5093484Z",
+    "StartedAt": "2026-06-18T14:00:00.5205795Z",
+    "FinishedAt": "2026-06-18T14:00:13.5093456Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
-    "NewEvents": [
-      {
-        "Title": "Unknown Title",
-        "DateString": "2026-10-05",
-        "Url": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/creatief-met-materialen-uit-de-natuur-tuin",
-        "ImageUrl": "",
-        "Location": "Merelbeke",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9943",
-        "Longitude": "3.7459"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CultuurKnokkeHeistScraper",
@@ -754,9 +790,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:02.2475908Z",
-    "StartedAt": "2026-06-18T10:00:00.3111098Z",
-    "FinishedAt": "2026-06-18T10:00:02.2475879Z",
+    "RunTime": "2026-06-18T14:00:02.318905Z",
+    "StartedAt": "2026-06-18T14:00:00.5215503Z",
+    "FinishedAt": "2026-06-18T14:00:02.3189022Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -769,9 +805,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:04.8074636Z",
-    "StartedAt": "2026-06-18T10:00:00.3113012Z",
-    "FinishedAt": "2026-06-18T10:00:04.8074613Z",
+    "RunTime": "2026-06-18T14:00:05.7293709Z",
+    "StartedAt": "2026-06-18T14:00:00.5221158Z",
+    "FinishedAt": "2026-06-18T14:00:05.729368Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -784,9 +820,9 @@
     "MonthlyFiles": [],
     "Status": "Failed",
     "ErrorMessage": "Response status code does not indicate success: 404 (Not Found).",
-    "RunTime": "2026-06-18T10:00:02.3721541Z",
-    "StartedAt": "2026-06-18T10:00:00.3115078Z",
-    "FinishedAt": "2026-06-18T10:00:02.3721545Z",
+    "RunTime": "2026-06-18T14:00:03.1670082Z",
+    "StartedAt": "2026-06-18T14:00:00.5228568Z",
+    "FinishedAt": "2026-06-18T14:00:03.1670086Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -830,9 +866,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:02.0202425Z",
-    "StartedAt": "2026-06-18T10:00:00.3118624Z",
-    "FinishedAt": "2026-06-18T10:00:02.0202396Z",
+    "RunTime": "2026-06-18T14:00:02.7668796Z",
+    "StartedAt": "2026-06-18T14:00:00.5244298Z",
+    "FinishedAt": "2026-06-18T14:00:02.7668767Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -926,24 +962,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:07.1379732Z",
-    "StartedAt": "2026-06-18T10:00:00.3121581Z",
-    "FinishedAt": "2026-06-18T10:00:07.137971Z",
+    "RunTime": "2026-06-18T14:00:08.2338594Z",
+    "StartedAt": "2026-06-18T14:00:00.5252759Z",
+    "FinishedAt": "2026-06-18T14:00:08.2338565Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
-    "NewEvents": [
-      {
-        "Title": "Huis van het Kind Aalst",
-        "DateString": "2026-11-12",
-        "Url": "https://www.dewerfcultuurhuis.be/nl/programma/detail/huis-van-het-kind-aalst/10131/",
-        "ImageUrl": "https://www.dewerfcultuurhuis.be/images/og-image/filmpostermama-mag-ik-naar-huis-toeweb.jpg",
-        "Location": "Aalst",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9383",
-        "Longitude": "4.0392"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "EmotiaScraper",
@@ -1075,9 +1098,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:04.248139Z",
-    "StartedAt": "2026-06-18T10:00:00.3123932Z",
-    "FinishedAt": "2026-06-18T10:00:04.2481361Z",
+    "RunTime": "2026-06-18T14:00:04.2840107Z",
+    "StartedAt": "2026-06-18T14:00:00.5254656Z",
+    "FinishedAt": "2026-06-18T14:00:04.2840075Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1211,9 +1234,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:03.9701237Z",
-    "StartedAt": "2026-06-18T10:00:00.3126096Z",
-    "FinishedAt": "2026-06-18T10:00:03.9701207Z",
+    "RunTime": "2026-06-18T14:00:04.1198164Z",
+    "StartedAt": "2026-06-18T14:00:00.5255536Z",
+    "FinishedAt": "2026-06-18T14:00:04.1198018Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1277,9 +1300,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:03.5224302Z",
-    "StartedAt": "2026-06-18T10:00:00.3128495Z",
-    "FinishedAt": "2026-06-18T10:00:03.5224267Z",
+    "RunTime": "2026-06-18T14:00:03.7932647Z",
+    "StartedAt": "2026-06-18T14:00:00.5256304Z",
+    "FinishedAt": "2026-06-18T14:00:03.7932616Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1288,7 +1311,7 @@
     "VenueId": "AbConcerts",
     "VenueName": "Anspachlaan 110, 1000 Brussel",
     "Category": "Concerts",
-    "TotalEventsFound": 172,
+    "TotalEventsFound": 170,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1355,8 +1378,8 @@
         "Year": 2026,
         "FileName": "abconcerts-12-2026.json",
         "FilePath": "events/concerts/abconcerts/abconcerts-12-2026.json",
-        "Hash": "b01cfd8ae6332bf54d0bb5abf64eb7eae11d1dd059c1d9acab1bf45e36e551ac",
-        "EventCount": 22,
+        "Hash": "319a5aff4e41b2e913b08aad7e3f88ada5d9c9161bc387e5c1aee19ffe2393d4",
+        "EventCount": 21,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1375,8 +1398,8 @@
         "Year": 2027,
         "FileName": "abconcerts-02-2027.json",
         "FilePath": "events/concerts/abconcerts/abconcerts-02-2027.json",
-        "Hash": "94dbd37d5bcf58f5d84ef59bdf6bd1dc317747b99e09f55c3b598723fe194c5b",
-        "EventCount": 11,
+        "Hash": "266987da66a280745981ff8beb009892d6a57e527c9da96b3cdecb6222126e10",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1423,24 +1446,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:09.2292056Z",
-    "StartedAt": "2026-06-18T10:00:00.3131568Z",
-    "FinishedAt": "2026-06-18T10:00:09.229203Z",
+    "RunTime": "2026-06-18T14:00:06.4662646Z",
+    "StartedAt": "2026-06-18T14:00:00.5257037Z",
+    "FinishedAt": "2026-06-18T14:00:06.4662615Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
-    "NewEvents": [
-      {
-        "Title": "Bury Tomorrow \u002B Stick To Your Guns, Elwood Stray, Windwaker",
-        "DateString": "2027-02-14T00:00:00.0000000",
-        "Url": "https://www.abconcerts.be/en/agenda/bury-tomorrow/a10Qw0000082KxJIAU",
-        "ImageUrl": "https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000Op6LhMAJ_1240x720.jpg",
-        "Location": "AB Concerts, Brussels",
-        "Description": "First class British metalcore",
-        "Room": "",
-        "Address": "Anspachlaan 110, 1000 Brussel",
-        "Latitude": "50.8473",
-        "Longitude": "4.3488"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "AffScraper",
@@ -1522,9 +1532,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:09.6195705Z",
-    "StartedAt": "2026-06-18T10:00:00.3134158Z",
-    "FinishedAt": "2026-06-18T10:00:09.6195674Z",
+    "RunTime": "2026-06-18T14:00:07.6201703Z",
+    "StartedAt": "2026-06-18T14:00:00.5257823Z",
+    "FinishedAt": "2026-06-18T14:00:07.6201668Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -1628,24 +1638,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:29.2629773Z",
-    "StartedAt": "2026-06-18T10:00:00.313656Z",
-    "FinishedAt": "2026-06-18T10:00:29.262975Z",
+    "RunTime": "2026-06-18T14:00:27.6320837Z",
+    "StartedAt": "2026-06-18T14:00:00.5258614Z",
+    "FinishedAt": "2026-06-18T14:00:27.6320812Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": [
-      {
-        "Title": "Hippotraktor - PIGZ",
-        "DateString": "2026-12-16T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/hippotraktor-pigz-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-05/Hippotraktor_Cathedral_24_V2_-5.jpg?itok=d8keU0VR",
-        "Location": "Botanique, Brussels",
-        "Description": "Release | Een massieve vorm van progressieve metal, waarin overweldigende grooves, sfeervolle spanning en labyrintische composities samenkomen",
-        "Room": "Rotonde",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -1737,9 +1734,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:02.2722802Z",
-    "StartedAt": "2026-06-18T10:00:00.3138749Z",
-    "FinishedAt": "2026-06-18T10:00:02.2722774Z",
+    "RunTime": "2026-06-18T14:00:01.9168542Z",
+    "StartedAt": "2026-06-18T14:00:00.5259415Z",
+    "FinishedAt": "2026-06-18T14:00:01.9168512Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -1755,7 +1752,7 @@
         "Year": 2026,
         "FileName": "decasino-06-2026.json",
         "FilePath": "events/concerts/decasino/decasino-06-2026.json",
-        "Hash": "106eec8964e2133d0bc057b9b764c51784faee946e1dde6fad3754ddc70e0462",
+        "Hash": "58ad790d9f20cdce19d4fed945a51ab90bca0091032f14c10b72c1fb00c1bb7e",
         "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
@@ -1853,9 +1850,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:02.2580584Z",
-    "StartedAt": "2026-06-18T10:00:00.3140477Z",
-    "FinishedAt": "2026-06-18T10:00:02.2580559Z",
+    "RunTime": "2026-06-18T14:00:01.9152177Z",
+    "StartedAt": "2026-06-18T14:00:00.5260088Z",
+    "FinishedAt": "2026-06-18T14:00:01.9152147Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -1864,7 +1861,7 @@
     "VenueId": "Democrazy",
     "VenueName": "Democrazy, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 70,
+    "TotalEventsFound": 71,
     "MonthlyFiles": [
       {
         "Month": 6,
@@ -1901,8 +1898,8 @@
         "Year": 2026,
         "FileName": "democrazy-10-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-10-2026.json",
-        "Hash": "91d2b734335d988f5277fc99829bb43b456334f16e2516723ab45d57c61943eb",
-        "EventCount": 21,
+        "Hash": "a2baee42a50f599b1e44ad5c631653a28d2acc17239468e7b2292baaed4ed4ca",
+        "EventCount": 22,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1959,11 +1956,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:02.0710872Z",
-    "StartedAt": "2026-06-18T10:00:00.3143017Z",
-    "FinishedAt": "2026-06-18T10:00:02.0710838Z",
+    "RunTime": "2026-06-18T14:00:01.6814672Z",
+    "StartedAt": "2026-06-18T14:00:00.5285576Z",
+    "FinishedAt": "2026-06-18T14:00:01.6814649Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Humo\u0027s Rock Rally \u002726: Halve Finale",
+        "DateString": "2026-10-16",
+        "Url": "https://www.democrazy.be/agenda/3231-humo-s-rock-rally/",
+        "ImageUrl": "https://www.democrazy.be/media/thumb/35623-humos-rock-rally.jpg",
+        "Location": "Club Wintercircus",
+        "Description": "Tijdens de eerste halve finale van de 25ste jubileumeditie van Humo\u2019s Rock Rally transformeren we Club Wintercircus in de ultieme arena van de rock-\u2019n-roll, hiphop, elektronica en alles daartussenin.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0487",
+        "Longitude": "3.7283"
+      }
+    ]
   },
   {
     "ScraperName": "DeRomaScraper",
@@ -2085,9 +2095,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:05.520381Z",
-    "StartedAt": "2026-06-18T10:00:00.3145109Z",
-    "FinishedAt": "2026-06-18T10:00:05.5203777Z",
+    "RunTime": "2026-06-18T14:00:04.6404652Z",
+    "StartedAt": "2026-06-18T14:00:00.5287439Z",
+    "FinishedAt": "2026-06-18T14:00:04.6404622Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -2096,13 +2106,124 @@
     "VenueId": "Steenoven",
     "VenueName": "De Steenoven, Herzele",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 0,
-    "MonthlyFiles": [],
+    "TotalEventsFound": 70,
+    "MonthlyFiles": [
+      {
+        "Month": 6,
+        "Year": 2026,
+        "FileName": "steenoven-06-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-06-2026.json",
+        "Hash": "00a095762ce92cec32a618db289feb35af04ef2be5e8ccb787ea99f46c759cf4",
+        "EventCount": 8,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 7,
+        "Year": 2026,
+        "FileName": "steenoven-07-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-07-2026.json",
+        "Hash": "41569dca344bb9a022e39642064fe5ecd4423cad0df1a76f448303d5701c90ec",
+        "EventCount": 2,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 9,
+        "Year": 2026,
+        "FileName": "steenoven-09-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-09-2026.json",
+        "Hash": "7f7ee3d35611bed1729531db62aa700e58ff22eca93ae7effe56889fbfc027bf",
+        "EventCount": 4,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 10,
+        "Year": 2026,
+        "FileName": "steenoven-10-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-10-2026.json",
+        "Hash": "0d75d9295473084e1c23b9f2d065d491705ed250bbadccf719a95c22071cd82c",
+        "EventCount": 9,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 11,
+        "Year": 2026,
+        "FileName": "steenoven-11-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-11-2026.json",
+        "Hash": "8ad7b0d732cd236cd2fbdef8e94aaf6c8677a1fa611232737db18e76e75644f2",
+        "EventCount": 7,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 12,
+        "Year": 2026,
+        "FileName": "steenoven-12-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-12-2026.json",
+        "Hash": "0fa7fda8896ef429ef5b9698004e90719a4f20a4383c39a3db1336cad5bda4ae",
+        "EventCount": 8,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 1,
+        "Year": 2027,
+        "FileName": "steenoven-01-2027.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-01-2027.json",
+        "Hash": "313be3e1ff0e0a2fa8f08f8a5f24266b763dfb597765acca1fddc047e99773b0",
+        "EventCount": 7,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 2,
+        "Year": 2027,
+        "FileName": "steenoven-02-2027.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-02-2027.json",
+        "Hash": "6b1da54fcd2e6022aa7f40b19979606f8f331c730a3b2e383b569fcad172889a",
+        "EventCount": 3,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 3,
+        "Year": 2027,
+        "FileName": "steenoven-03-2027.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-03-2027.json",
+        "Hash": "98a1cb7b12ba672d11dcf51885eaca7163bf69763071a1e740504729f44531fc",
+        "EventCount": 6,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 4,
+        "Year": 2026,
+        "FileName": "steenoven-04-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-04-2026.json",
+        "Hash": "f28f33e86ee299655f74175b0fb3a88b80ec1cd07269e9df999f2a2d0f7b7c8b",
+        "EventCount": 11,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 5,
+        "Year": 2026,
+        "FileName": "steenoven-05-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-05-2026.json",
+        "Hash": "bcd33fc784d033249c5f3838dbf473b1545238d7b9d06965847eddd51a94e3a7",
+        "EventCount": 5,
+        "Status": "Success",
+        "ErrorMessage": null
+      }
+    ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:01:39.5704879Z",
-    "StartedAt": "2026-06-18T10:00:00.3147366Z",
-    "FinishedAt": "2026-06-18T10:01:39.5704848Z",
+    "RunTime": "2026-06-18T14:00:01.7391075Z",
+    "StartedAt": "2026-06-18T14:00:00.5288389Z",
+    "FinishedAt": "2026-06-18T14:00:01.7391033Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -2136,9 +2257,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:01.313282Z",
-    "StartedAt": "2026-06-18T10:00:00.3149721Z",
-    "FinishedAt": "2026-06-18T10:00:01.3132793Z",
+    "RunTime": "2026-06-18T14:00:01.37035Z",
+    "StartedAt": "2026-06-18T14:00:00.5340083Z",
+    "FinishedAt": "2026-06-18T14:00:01.3703477Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -2212,9 +2333,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:01.4442452Z",
-    "StartedAt": "2026-06-18T10:00:00.315168Z",
-    "FinishedAt": "2026-06-18T10:00:01.444242Z",
+    "RunTime": "2026-06-18T14:00:01.7117593Z",
+    "StartedAt": "2026-06-18T14:00:00.5348001Z",
+    "FinishedAt": "2026-06-18T14:00:01.7117559Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -2328,9 +2449,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:24.686988Z",
-    "StartedAt": "2026-06-18T10:00:00.3153554Z",
-    "FinishedAt": "2026-06-18T10:00:24.686985Z",
+    "RunTime": "2026-06-18T14:00:26.552279Z",
+    "StartedAt": "2026-06-18T14:00:00.5359027Z",
+    "FinishedAt": "2026-06-18T14:00:26.5522758Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -2434,9 +2555,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:46.168694Z",
-    "StartedAt": "2026-06-18T10:00:00.3155829Z",
-    "FinishedAt": "2026-06-18T10:00:46.1686909Z",
+    "RunTime": "2026-06-18T14:00:37.6878724Z",
+    "StartedAt": "2026-06-18T14:00:00.536776Z",
+    "FinishedAt": "2026-06-18T14:00:37.687869Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -2530,9 +2651,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:01.2087947Z",
-    "StartedAt": "2026-06-18T10:00:00.315812Z",
-    "FinishedAt": "2026-06-18T10:00:01.2087919Z",
+    "RunTime": "2026-06-18T14:00:01.2184063Z",
+    "StartedAt": "2026-06-18T14:00:00.5375571Z",
+    "FinishedAt": "2026-06-18T14:00:01.2184029Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -2566,9 +2687,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:04.4844426Z",
-    "StartedAt": "2026-06-18T10:00:00.3160294Z",
-    "FinishedAt": "2026-06-18T10:00:04.4844396Z",
+    "RunTime": "2026-06-18T14:00:06.0722668Z",
+    "StartedAt": "2026-06-18T14:00:00.5378847Z",
+    "FinishedAt": "2026-06-18T14:00:06.0722642Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -2624,7 +2745,7 @@
         "Year": 2026,
         "FileName": "trix-10-2026.json",
         "FilePath": "events/concerts/trix/trix-10-2026.json",
-        "Hash": "5968330897a47986ad7abaf1a2db4db1133dbeceb30dbaa0f8e04f5d31ec1880",
+        "Hash": "8ddbfca2a7780f2eed47ef0fa30d6a8a027c9a4a4d23d6b71ac84b955e12d23c",
         "EventCount": 22,
         "Status": "Success",
         "ErrorMessage": null
@@ -2632,18 +2753,42 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:03.9269391Z",
-    "StartedAt": "2026-06-18T10:00:00.3163446Z",
-    "FinishedAt": "2026-06-18T10:00:03.9269351Z",
+    "RunTime": "2026-06-18T14:00:04.3049501Z",
+    "StartedAt": "2026-06-18T14:00:00.537967Z",
+    "FinishedAt": "2026-06-18T14:00:04.3049472Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
     "NewEvents": [
       {
-        "Title": "Infinity Knives \u0026 Brian Ennals / HIFIVE CONCERT",
-        "DateString": "2026-10-01T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/infinity-knives-brian-ennals/4196/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/infinity-knives-hifive-580x1200-site.png",
+        "Title": "K\u00E4\u00E4rij\u00E4 / Little Sis Nora",
+        "DateString": "2026-10-15T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/kaarija/4060/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/kaarijawebsite.png",
         "Location": "Trix",
-        "Description": "Hiphopduo Infinity Knives en Brian Ennals combineert harde, gelaagde beats met neoklassieke invloeden en vlijmscherpe, maatschappijkritische teksten.",
+        "Description": "De Finse sensatie K\u00E4\u00E4rij\u00E4, bekend van zijn wereldhit \u0022Cha Cha Cha\u0022 en tweede plaats op het Eurovisie Songfestival 2023, brengt zijn EURODISKO TOUR 2026 naar Trix!",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      },
+      {
+        "Title": "Maha / HIFIVE CONCERT",
+        "DateString": "2026-10-15T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/maha/4197/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/maha-hifive-580x1200-site.png",
+        "Location": "Trix",
+        "Description": "MAHA maakt felle, minimalistische post-punk in de lijn van Amyl \u0026 the Sniffers. Met protestsongs als \u0022No Profit\u0022 gaat ze rechtstreeks de strijd aan met onrecht, oorlog en onderdrukking.",
+        "Room": "",
+        "Address": "Noordersingel 28-30, 2140 Antwerpen",
+        "Latitude": "51.2255",
+        "Longitude": "4.4437"
+      },
+      {
+        "Title": "Plainhead / HIFIVE CONCERT",
+        "DateString": "2026-10-21T20:00:00.0000000",
+        "Url": "https://www.trixonline.be/nl/programma/plainhead/4198/",
+        "ImageUrl": "https://www.trixonline.be/images/events/detail/plainhead-hifive-580x1200-site.png",
+        "Location": "Trix",
+        "Description": "Plainhead evolueerde van loeiharde 90s shoegaze naar een breekbaar universum waarin gitaarloops, klarinet en elektronica samensmelten als een donkere onweerslucht.",
         "Room": "",
         "Address": "Noordersingel 28-30, 2140 Antwerpen",
         "Latitude": "51.2255",
@@ -2723,7 +2868,7 @@
         "Year": 2027,
         "FileName": "vaartkapoen-04-2027.json",
         "FilePath": "events/concerts/vaartkapoen/vaartkapoen-04-2027.json",
-        "Hash": "ceb90dd9e167539b98f50438d214ea3e0bdb33d4cd7277aa1ae5649ad638aaf7",
+        "Hash": "2863ffe21582fcb6628c71a203b2e43ff6b0aea0e48722101d629e2acb17be55",
         "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
@@ -2731,11 +2876,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:02.0814404Z",
-    "StartedAt": "2026-06-18T10:00:00.3202516Z",
-    "FinishedAt": "2026-06-18T10:00:02.0814376Z",
+    "RunTime": "2026-06-18T14:00:03.4193126Z",
+    "StartedAt": "2026-06-18T14:00:00.5380562Z",
+    "FinishedAt": "2026-06-18T14:00:03.4193101Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Dyna, Lewis \u0026 The Soul Caravan",
+        "DateString": "2027-04-09T22:00:00Z",
+        "Url": "https://www.vaartkapoen.be/activiteiten/dyna-lewis-soul-caravan",
+        "ImageUrl": "",
+        "Location": "Molenbeek, Brussels",
+        "Description": "Soulmuziek die levendiger en tijdlozer klinkt dan ooit.",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.3511"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -2857,9 +3015,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:01:44.7334869Z",
-    "StartedAt": "2026-06-18T10:00:00.3205352Z",
-    "FinishedAt": "2026-06-18T10:01:44.7334843Z",
+    "RunTime": "2026-06-18T14:01:40.6033558Z",
+    "StartedAt": "2026-06-18T14:00:00.5393236Z",
+    "FinishedAt": "2026-06-18T14:01:40.6033527Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -2993,83 +3151,10 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-06-18T10:00:00.8358465Z",
-    "StartedAt": "2026-06-18T10:00:00.3207644Z",
-    "FinishedAt": "2026-06-18T10:00:00.8358442Z",
+    "RunTime": "2026-06-18T14:00:01.3883335Z",
+    "StartedAt": "2026-06-18T14:00:00.5394152Z",
+    "FinishedAt": "2026-06-18T14:00:01.3883306Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
-    "NewEvents": [
-      {
-        "Title": "OverMorgen: Onderwijs in tijden van AI",
-        "DateString": "2026-09-02T20:00:00",
-        "Url": "https://portal.wintercircus.be/event/overmorgen-onderwijs-in-tijden-van-ai-665",
-        "ImageUrl": "https://portal.wintercircus.be/web/image/200640-531aac2d/Overmorgen_AI_%26_Onderwijs.png",
-        "Location": "Wintercircus, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0481",
-        "Longitude": "3.728"
-      },
-      {
-        "Title": "GHOST Fire Walk With Me Party",
-        "DateString": "2026-09-05T23:00:00",
-        "Url": "https://www.viernulvier.gent/nl/agenda/ghost-fire-walk-with-me-party-45d4",
-        "ImageUrl": "https://images.uitdatabank.be/242568c5-b3b8-4ab4-8264-a3726968738f.png",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0487",
-        "Longitude": "3.7283"
-      },
-      {
-        "Title": "Lippstick - fall in love",
-        "DateString": "2026-09-25T22:00:00",
-        "Url": "https://www.viernulvier.gent/nl/agenda/lippstick-flyt",
-        "ImageUrl": "https://images.uitdatabank.be/5b12117b-016f-4ddb-9a25-6203c1155c99.png",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0487",
-        "Longitude": "3.7283"
-      },
-      {
-        "Title": "Circuit Des Yeux feat. Alan Sparhawk x \u2018Nosferatu\u0027 - Videodroom 2026",
-        "DateString": "2026-10-29T20:00:00",
-        "Url": "https://www.viernulvier.gent/nl/agenda/circuit-des-yeux-feat-alan-sparhawk-x-nosferatu-14hf",
-        "ImageUrl": "https://images.uitdatabank.be/18b3b978-1b12-4ac1-90ad-095e283c62dc.jpeg",
-        "Location": "Wintercircus - Club, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0487",
-        "Longitude": "3.7283"
-      },
-      {
-        "Title": "OverMorgen: AI in de gezondheidszorg",
-        "DateString": "2026-11-05T20:00:00",
-        "Url": "https://portal.wintercircus.be/event/overmorgen-ai-in-de-gezondheidszorg-666",
-        "ImageUrl": "https://portal.wintercircus.be/web/image/200660-a60ef17d/Overmorgen_AI_%26_Gezondheidszorg.png",
-        "Location": "Wintercircus, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0481",
-        "Longitude": "3.728"
-      },
-      {
-        "Title": "OverMorgen: Wat kost AI aan de planeet?",
-        "DateString": "2027-02-17T20:00:00",
-        "Url": "https://portal.wintercircus.be/event/overmorgen-wat-kost-ai-aan-de-planeet-668",
-        "ImageUrl": "https://portal.wintercircus.be/web/image/200693-6be9bf5c/Event%20%27OverMorgen%3A%20Wat%20kost%20AI%20aan%20de%20planeet%3F%27%20cover%20image.webp",
-        "Location": "Wintercircus, Gent",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.0481",
-        "Longitude": "3.728"
-      }
-    ]
+    "NewEvents": []
   }
 ]
