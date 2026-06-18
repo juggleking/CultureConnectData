@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-17T05:00:00.3511655Z",
-  "ValidatedAt": "2026-06-17T05:00:00.3511656Z",
+  "GeneratedAt": "2026-06-18T05:00:00.4001417Z",
+  "ValidatedAt": "2026-06-18T05:00:00.4001418Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2366,
+  "TotalEvents": 2373,
   "TotalErrors": 0,
-  "TotalWarnings": 852,
+  "TotalWarnings": 861,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 172,
+      "TotalEvents": 171,
       "ErrorCount": 0,
-      "WarningCount": 172,
+      "WarningCount": 171,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
-          "EventDate": "2026-06-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-wblck-mamba-dj-workshop-intermediate/a10Qw00000FqD2BIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Jack White + Lézard",
-          "EventDate": "2026-06-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jack-white/a10Qw00000EQHN1IAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tinlicker + Lamírla",
           "EventDate": "2026-06-19T00:00:00.0000000",
@@ -793,6 +767,19 @@
           ]
         },
         {
+          "EventTitle": "Echoes of Zoo presents Collective Intelligence",
+          "EventDate": "2026-10-14T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/echoes-of-zoo-presents-collective-intelligence/a10Qw00000GgtDNIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Benjamin Biolay",
           "EventDate": "2026-10-15T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/benjamin-biolay/a10Qw00000AqemoIAB",
@@ -806,9 +793,9 @@
           ]
         },
         {
-          "EventTitle": "New date: MICHA",
+          "EventTitle": "Lake Street Dive + John Splithoff",
           "EventDate": "2026-10-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-micha/a10Qw00000E8tYjIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lake-street-dive/a10Qw000004mV2RIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -819,9 +806,9 @@
           ]
         },
         {
-          "EventTitle": "Lake Street Dive + John Splithoff",
+          "EventTitle": "New date: MICHA",
           "EventDate": "2026-10-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lake-street-dive/a10Qw000004mV2RIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-micha/a10Qw00000E8tYjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2267,7 +2254,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 166,
+      "TotalEvents": 167,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2570,7 +2557,7 @@
           ]
         },
         {
-          "EventTitle": "Cory Hanson",
+          "EventTitle": "Cory Hanson + Cole Berliner",
           "EventDate": "2026-09-23T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cory-hanson-23-09",
           "Issues": [
@@ -3095,7 +3082,7 @@
       "ScraperId": "CcBrugge",
       "ScraperName": "CcBruggeScraper",
       "VenueName": "CC Brugge",
-      "TotalEvents": 112,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3115,9 +3102,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 86,
+      "TotalEvents": 87,
       "ErrorCount": 0,
-      "WarningCount": 86,
+      "WarningCount": 87,
       "Issues": [],
       "EventDetails": [
         {
@@ -4174,6 +4161,19 @@
           ]
         },
         {
+          "EventTitle": "Kommil Foo - BABEL",
+          "EventDate": "2027-04-28",
+          "EventUrl": "https://cczoetegem.be/programma/kommil-foo-babel-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-28'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-28"
+            }
+          ]
+        },
+        {
           "EventTitle": "Kommil Foo - BABEL - UITVERKOCHT!",
           "EventDate": "2027-04-29",
           "EventUrl": "https://cczoetegem.be/programma/kommil-foo-babel.aspx",
@@ -4960,6 +4960,19 @@
           "EventTitle": "Günther Lesage",
           "EventDate": "2026-11-04",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/gunther-lesage/9861/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Jan Hutsebaut",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-jan-hutsebaut/10108/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6060,19 +6073,6 @@
               "ActualValue": "2027-03-13"
             }
           ]
-        },
-        {
-          "EventTitle": "Ruth Beeckmans, Robrecht Vanden Thoren & Tim Van Aelst",
-          "EventDate": "2027-03-14",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/ruth-beeckmans-robrecht-vanden-thoren-tim-van-aelst/9906/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-14'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-14"
-            }
-          ]
         }
       ]
     },
@@ -6184,19 +6184,6 @@
       "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / 't Hof van Commerce + C-RHYMS",
-          "EventDate": "2026-06-17T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-t-hof-van-commerce/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Mike D",
           "EventDate": "2026-06-19T00:00:00",
@@ -6679,6 +6666,19 @@
           ]
         },
         {
+          "EventTitle": "John Coffey",
+          "EventDate": "2026-11-14T00:00:00",
+          "EventUrl": "https://decasino.be/concert/john-coffey/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-14T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-14T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Flamenco INSPIRACIÓN by Patricio Grande",
           "EventDate": "2026-11-15T00:00:00",
           "EventUrl": "https://decasino.be/concert/flamenco-inspiracion-by-patricio-grande/",
@@ -6941,9 +6941,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 13,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
         {
@@ -7021,6 +7021,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-08-19T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-08-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Openluchtfilm",
+          "EventDate": "2026-08-20T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/openluchtfilm-nrl9",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-20T00:00:00.0000000"
             }
           ]
         }
@@ -8027,9 +8040,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 68,
+      "TotalEvents": 70,
       "ErrorCount": 0,
-      "WarningCount": 68,
+      "WarningCount": 70,
       "Issues": [],
       "EventDetails": [
         {
@@ -8163,6 +8176,19 @@
           ]
         },
         {
+          "EventTitle": "GHOST Fire Walk With Me Party",
+          "EventDate": "2026-09-05",
+          "EventUrl": "https://www.democrazy.be/agenda/3230-ghost-fire-walk-with-me-party/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-05"
+            }
+          ]
+        },
+        {
           "EventTitle": "AZ - 30 YEARS OF DOE OR DIE + DJ DOO WOP",
           "EventDate": "2026-09-08",
           "EventUrl": "https://www.democrazy.be/agenda/3218-az/",
@@ -8224,6 +8250,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
               "Severity": 1,
               "ActualValue": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lippstick - fall in love",
+          "EventDate": "2026-09-25",
+          "EventUrl": "https://www.democrazy.be/agenda/3229-lippstick/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-25"
             }
           ]
         },
@@ -8922,9 +8961,9 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 63,
+      "TotalEvents": 68,
       "ErrorCount": 0,
-      "WarningCount": 63,
+      "WarningCount": 68,
       "Issues": [],
       "EventDetails": [
         {
@@ -9106,6 +9145,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-23T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-23T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Allez, Chantez! * september",
+          "EventDate": "2026-09-24T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-september-24-09-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-24T00:00:00.0000000"
             }
           ]
         },
@@ -9604,6 +9656,19 @@
           ]
         },
         {
+          "EventTitle": "Allez, Chantez! * december",
+          "EventDate": "2026-12-17T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-december-17-12-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Selecter",
           "EventDate": "2026-12-18T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/the-selecter-18-12-26",
@@ -9695,6 +9760,19 @@
           ]
         },
         {
+          "EventTitle": "Allez, Chantez! * februari",
+          "EventDate": "2027-02-25T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-februari-25-02-27",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-25T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Tiny Tunes: Sara Salvérius met ADEM",
           "EventDate": "2027-02-26T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/tiny-tunes-sara-salverius-met-adem-26-02-27",
@@ -9717,6 +9795,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-26T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-02-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Allez, Chantez! * april",
+          "EventDate": "2027-04-22T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-april-22-04-27",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-22T00:00:00.0000000"
             }
           ]
         },
@@ -9745,6 +9836,19 @@
               "ActualValue": "2027-05-02T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Allez, Chantez! * mei",
+          "EventDate": "2027-05-20T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-mei-20-05-27",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-20T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -9752,7 +9856,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 72,
+      "TotalEvents": 74,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9762,7 +9866,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 152,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9772,7 +9876,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 25,
+      "TotalEvents": 26,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9782,9 +9886,9 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 1,
+      "TotalEvents": 2,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 2,
       "Issues": [],
       "EventDetails": [
         {
@@ -9799,6 +9903,19 @@
               "ActualValue": "2026-06-26"
             }
           ]
+        },
+        {
+          "EventTitle": "Ão, ECHT!, Lander & Adriaan",
+          "EventDate": "2026-07-19",
+          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/ao-echt-lander-adriaan/a0NP500000NtrHsMAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-19"
+            }
+          ]
         }
       ]
     },
@@ -9806,7 +9923,7 @@
       "ScraperId": "Pukkelpop",
       "ScraperName": "PukkelpopScraper",
       "VenueName": "Pukkelpop",
-      "TotalEvents": 129,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11127,7 +11244,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 251,
+      "TotalEvents": 250,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11177,7 +11294,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
