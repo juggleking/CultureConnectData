@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-06-19T05:00:00.4061874Z",
-  "ValidatedAt": "2026-06-19T05:00:00.4061875Z",
+  "GeneratedAt": "2026-06-20T05:00:00.435812Z",
+  "ValidatedAt": "2026-06-20T05:00:00.4358121Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2393,
+  "TotalEvents": 2376,
   "TotalErrors": 0,
   "TotalWarnings": 864,
   "Results": [
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 174,
+      "TotalEvents": 173,
       "ErrorCount": 0,
-      "WarningCount": 174,
+      "WarningCount": 173,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tinlicker + Lamírla",
-          "EventDate": "2026-06-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tinlicker/a10Qw00000EWGBFIA5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-19T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Oklou + Vickie Cherie",
           "EventDate": "2026-06-20T00:00:00.0000000",
@@ -832,9 +819,9 @@
           ]
         },
         {
-          "EventTitle": "Allie X",
+          "EventTitle": "GoldFord",
           "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/goldford/a10Qw00000JPsiDIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -845,9 +832,9 @@
           ]
         },
         {
-          "EventTitle": "GoldFord",
+          "EventTitle": "Allie X",
           "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/goldford/a10Qw00000JPsiDIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -897,7 +884,7 @@
           ]
         },
         {
-          "EventTitle": "Beast in Black",
+          "EventTitle": "Beast in Black + Sonata Arctica, Frozen Crown",
           "EventDate": "2026-10-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/beast-in-black/a10Qw000006iQeTIAU",
           "Issues": [
@@ -2080,9 +2067,9 @@
           ]
         },
         {
-          "EventTitle": "French 79",
+          "EventTitle": "Green Crow Collective",
           "EventDate": "2027-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/french-79/a10Qw00000HKfwTIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/green-crow-collective/a10Qw00000Fr8q1IAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2093,9 +2080,9 @@
           ]
         },
         {
-          "EventTitle": "Green Crow Collective",
+          "EventTitle": "French 79",
           "EventDate": "2027-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/green-crow-collective/a10Qw00000Fr8q1IAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/french-79/a10Qw00000HKfwTIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -2293,7 +2280,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 165,
+      "TotalEvents": 164,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3121,7 +3108,7 @@
       "ScraperId": "CcBrugge",
       "ScraperName": "CcBruggeScraper",
       "VenueName": "CC Brugge",
-      "TotalEvents": 114,
+      "TotalEvents": 115,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3141,9 +3128,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 87,
+      "TotalEvents": 90,
       "ErrorCount": 0,
-      "WarningCount": 87,
+      "WarningCount": 90,
       "Issues": [],
       "EventDetails": [
         {
@@ -4131,6 +4118,45 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-25'.",
               "Severity": 1,
               "ActualValue": "2027-03-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Parelkerke",
+          "EventDate": "2027-04-01",
+          "EventUrl": "https://cczoetegem.be/programma/parelkerke.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-01'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Parelkerke",
+          "EventDate": "2027-04-02",
+          "EventUrl": "https://cczoetegem.be/programma/parelkerke-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Parelkerke",
+          "EventDate": "2027-04-03",
+          "EventUrl": "https://cczoetegem.be/programma/parelkerke-3.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-03'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-03"
             }
           ]
         },
@@ -6231,24 +6257,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Mike D + Bamao Yendé",
-          "EventDate": "2026-06-19T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-mike-d/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-19T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-19T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Lloyd Cole + Aqua Riyaz",
           "EventDate": "2026-06-20T00:00:00",
@@ -6983,7 +6996,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 96,
+      "TotalEvents": 95,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7082,24 +7095,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 70,
+      "TotalEvents": 69,
       "ErrorCount": 0,
-      "WarningCount": 70,
+      "WarningCount": 69,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Steven Mahieu | Stabieler",
-          "EventDate": "2026-06-19T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/steven-mahieu--stabieler-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-19T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Bert Gabriëls | Live vanuit de Wetstraat",
           "EventDate": "2026-06-20T00:00:00.0000000",
@@ -9918,7 +9918,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 154,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9928,7 +9928,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 26,
+      "TotalEvents": 25,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11296,7 +11296,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 248,
+      "TotalEvents": 247,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11346,7 +11346,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11536,7 +11536,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 60,
+      "TotalEvents": 59,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
