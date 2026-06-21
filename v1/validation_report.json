@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-20T05:00:00.435812Z",
-  "ValidatedAt": "2026-06-20T05:00:00.4358121Z",
+  "GeneratedAt": "2026-06-21T05:00:00.4241951Z",
+  "ValidatedAt": "2026-06-21T05:00:00.4241952Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2376,
+  "TotalEvents": 2373,
   "TotalErrors": 0,
-  "TotalWarnings": 864,
+  "TotalWarnings": 858,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 173,
+      "TotalEvents": 172,
       "ErrorCount": 0,
-      "WarningCount": 173,
+      "WarningCount": 172,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Oklou + Vickie Cherie",
-          "EventDate": "2026-06-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/oklou/a10Qw00000EvHDlIAN",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "George Thorogood & the Destroyers + Jared James Nichols",
           "EventDate": "2026-06-21T00:00:00.0000000",
@@ -2280,7 +2267,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 164,
+      "TotalEvents": 163,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3108,7 +3095,7 @@
       "ScraperId": "CcBrugge",
       "ScraperName": "CcBruggeScraper",
       "VenueName": "CC Brugge",
-      "TotalEvents": 115,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4554,7 +4541,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 155,
+      "TotalEvents": 150,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6257,24 +6244,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Lloyd Cole + Aqua Riyaz",
-          "EventDate": "2026-06-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-lloyd-cole/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "België - Iran",
           "EventDate": "2026-06-21T00:00:00",
@@ -7008,22 +6982,9 @@
       "VenueName": "De Spil, Roeselare",
       "TotalEvents": 13,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 5,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Burlycious presenteert",
-          "EventDate": "2026-06-20T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/burlycious-presenteert-f7ys",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "zomerkamp",
           "EventDate": "2026-07-06T00:00:00.0000000",
@@ -7095,24 +7056,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
-      "WarningCount": 69,
+      "WarningCount": 68,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Bert Gabriëls | Live vanuit de Wetstraat",
-          "EventDate": "2026-06-20T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/bert-gabriels--live-vanuit-de-wetstraat-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "BATU NIOSO",
           "EventDate": "2026-06-23T00:00:00.0000000",
@@ -8079,24 +8027,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 71,
+      "TotalEvents": 70,
       "ErrorCount": 0,
-      "WarningCount": 71,
+      "WarningCount": 70,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Inhaler - + Tom Rowley",
-          "EventDate": "2026-06-20",
-          "EventUrl": "https://www.democrazy.be/agenda/3171-inhaler/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20"
-            }
-          ]
-        },
         {
           "EventTitle": "Palmarium: Fenne Kuppens + Laura De Jongh",
           "EventDate": "2026-06-25",
@@ -9013,24 +8948,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 68,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "De Kortste Nacht met Elisabeth Klinck",
-          "EventDate": "2026-06-20T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/de-kortste-nacht-met-elisabeth-klinck-20-06-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Mastersounds",
           "EventDate": "2026-06-22T00:00:00.0000000",
@@ -9928,7 +9850,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 25,
+      "TotalEvents": 24,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11296,7 +11218,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 247,
+      "TotalEvents": 244,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11346,7 +11268,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11536,7 +11458,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
