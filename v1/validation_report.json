@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-21T05:00:00.4241951Z",
-  "ValidatedAt": "2026-06-21T05:00:00.4241952Z",
+  "GeneratedAt": "2026-06-22T05:00:04.1473548Z",
+  "ValidatedAt": "2026-06-22T05:00:04.1474891Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2373,
+  "TotalEvents": 2259,
   "TotalErrors": 0,
-  "TotalWarnings": 858,
+  "TotalWarnings": 853,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 172,
+      "TotalEvents": 171,
       "ErrorCount": 0,
-      "WarningCount": 172,
+      "WarningCount": 171,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "George Thorogood & the Destroyers + Jared James Nichols",
-          "EventDate": "2026-06-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/george-thorogood-the-destroyers/a10Qw00000FXyHhIAL",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-21T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "The Streets + ILA",
           "EventDate": "2026-06-22T00:00:00.0000000",
@@ -2267,9 +2254,9 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 163,
+      "TotalEvents": 75,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 1,
       "Issues": [],
       "EventDetails": [
         {
@@ -2282,19 +2269,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
             }
           ]
         }
@@ -3115,24 +3089,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 90,
+      "TotalEvents": 89,
       "ErrorCount": 0,
-      "WarningCount": 90,
+      "WarningCount": 89,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Cultuurkaravaan: familiefestival in Godveerdegem",
-          "EventDate": "2026-06-21",
-          "EventUrl": "https://cczoetegem.be/programma/cultuurkaravaan-familiefestival-in-godveerdegem.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Infoavond Cyberveiligheid - Klik niet in de val!",
           "EventDate": "2026-06-24",
@@ -4296,24 +4257,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 18,
+      "TotalEvents": 17,
       "ErrorCount": 0,
-      "WarningCount": 18,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Wereldvluchtelingendag",
-          "EventDate": "2026-06-20",
-          "EventUrl": "https://aff.be/events/wereldvluchtelingendag/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-20'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-20"
-            }
-          ]
-        },
         {
           "EventTitle": "AFF '26",
           "EventDate": "2026-08-07",
@@ -6244,24 +6192,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 55,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "België - Iran",
-          "EventDate": "2026-06-21T00:00:00",
-          "EventUrl": "https://decasino.be/concert/belgie-iran/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-21T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-21T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Tropical Fuck Storm + Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
           "EventDate": "2026-06-23T00:00:00",
@@ -6970,7 +6905,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 95,
+      "TotalEvents": 94,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9830,7 +9765,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 74,
+      "TotalEvents": 73,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9840,7 +9775,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 156,
+      "TotalEvents": 155,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9850,7 +9785,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 24,
+      "TotalEvents": 23,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11218,7 +11153,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 244,
+      "TotalEvents": 242,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11268,7 +11203,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11458,7 +11393,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
