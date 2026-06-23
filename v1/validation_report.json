@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-22T05:00:04.1473548Z",
-  "ValidatedAt": "2026-06-22T05:00:04.1474891Z",
-  "TotalScrapers": 31,
-  "TotalEvents": 2259,
+  "GeneratedAt": "2026-06-23T05:00:00.4282338Z",
+  "ValidatedAt": "2026-06-23T05:00:00.4282339Z",
+  "TotalScrapers": 30,
+  "TotalEvents": 2193,
   "TotalErrors": 0,
-  "TotalWarnings": 853,
+  "TotalWarnings": 860,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 171,
+      "TotalEvents": 172,
       "ErrorCount": 0,
-      "WarningCount": 171,
+      "WarningCount": 172,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Streets + ILA",
-          "EventDate": "2026-06-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-streets/a10Qw00000Ey7D3IAJ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "The Streets + ILA",
           "EventDate": "2026-06-23T00:00:00.0000000",
@@ -65,7 +52,7 @@
           ]
         },
         {
-          "EventTitle": "New date: KYLE DIXON & MICHAEL STEIN PERFORMING THE MUSIC OF 'STRANGER THINGS'",
+          "EventTitle": "New date: KYLE DIXON & MICHAEL STEIN PERFORMING THE MUSIC OF 'STRANGER THINGS' + Marc Melià",
           "EventDate": "2026-06-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-kyle-dixon-michael-stein-performing-the-music-of-stranger-things/a10Qw00000Ga48jIAB",
           "Issues": [
@@ -871,6 +858,19 @@
           ]
         },
         {
+          "EventTitle": "Tomoki Sanders",
+          "EventDate": "2026-10-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tomoki-sanders/a10Qw00000JewVNIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "47ter",
           "EventDate": "2026-10-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/47ter/a10Qw00000C36d4IAB",
@@ -913,6 +913,19 @@
           "EventTitle": "Elmer",
           "EventDate": "2026-10-30T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/elmer/a10Qw000008tjnvIAA",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Bausa",
+          "EventDate": "2026-10-30T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-bausa/a10Qw00000JongvIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1144,9 +1157,9 @@
           ]
         },
         {
-          "EventTitle": "JeanJass",
+          "EventTitle": "Ice Sealed Eyes",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1157,9 +1170,9 @@
           ]
         },
         {
-          "EventTitle": "Ice Sealed Eyes",
+          "EventTitle": "JeanJass",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -2251,36 +2264,12 @@
       ]
     },
     {
-      "ScraperId": "Botanique",
-      "ScraperName": "BotaniqueScraper",
-      "VenueName": "Botanique, Brussels",
-      "TotalEvents": 75,
-      "ErrorCount": 0,
-      "WarningCount": 1,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Chinese American Bear",
-          "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-22T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 60,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
         {
@@ -3021,6 +3010,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-07T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-12-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "DUYSTER. festival - Sophia + Jake Xerxes Fussell + Camille Camille + more tba",
+          "EventDate": "2026-12-13T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/duyster-festival",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ILA",
+          "EventDate": "2027-02-24T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/ila",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-24T00:00:00.0000000"
             }
           ]
         },
@@ -4257,9 +4272,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 17,
+      "TotalEvents": 19,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 19,
       "Issues": [],
       "EventDetails": [
         {
@@ -4305,6 +4320,19 @@
           "EventTitle": "High Hi",
           "EventDate": "2026-10-17",
           "EventUrl": "https://aff.be/events/highhi/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "EventTitle": "THE 5678'S",
+          "EventDate": "2026-10-17",
+          "EventUrl": "https://aff.be/events/the-5678s/",
           "Issues": [
             {
               "Field": "DateString",
@@ -4480,6 +4508,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-11'.",
               "Severity": 1,
               "ActualValue": "2027-02-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ILA",
+          "EventDate": "2027-02-27",
+          "EventUrl": "https://aff.be/events/ila27/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-27"
             }
           ]
         }
@@ -4788,9 +4829,9 @@
           ]
         },
         {
-          "EventTitle": "Arthur Decock",
+          "EventTitle": "Arthur Decock & Lasse Geudens",
           "EventDate": "2026-10-09",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/arthur-decock/9850/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/arthur-decock-lasse-geudens/9850/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6192,9 +6233,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 54,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
         {
@@ -6354,6 +6395,19 @@
           ]
         },
         {
+          "EventTitle": "Knaldrang",
+          "EventDate": "2026-09-18T00:00:00",
+          "EventUrl": "https://decasino.be/concert/knaldrang-2/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-18T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Fun Lovin' Criminals live with The DiFontaine Orchestra",
           "EventDate": "2026-09-20T00:00:00",
           "EventUrl": "https://decasino.be/concert/fun-lovin-criminals-live-with-the-difontaine-orchestra/",
@@ -6409,6 +6463,19 @@
           "EventTitle": "Hooverphonic & Noémie Wolfs / 30 Years Anniversary Tour",
           "EventDate": "2026-10-01T00:00:00",
           "EventUrl": "https://decasino.be/concert/hooverphonic-noemie-wolfs-30-years-anniversary-tour/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nacht van de Leerkracht",
+          "EventDate": "2026-10-01T00:00:00",
+          "EventUrl": "https://decasino.be/concert/nacht-van-de-leerkracht-3/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6905,7 +6972,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 94,
+      "TotalEvents": 95,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7962,9 +8029,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 70,
+      "TotalEvents": 71,
       "ErrorCount": 0,
-      "WarningCount": 70,
+      "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
         {
@@ -8852,6 +8919,19 @@
           ]
         },
         {
+          "EventTitle": "Heideroosjes",
+          "EventDate": "2027-03-19",
+          "EventUrl": "https://www.democrazy.be/agenda/3228-heideroosjes/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-19'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-19"
+            }
+          ]
+        },
+        {
           "EventTitle": "Daniel Norgren",
           "EventDate": "2027-04-21",
           "EventUrl": "https://www.democrazy.be/agenda/3187-daniel-norgren/",
@@ -8883,24 +8963,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Mastersounds",
-          "EventDate": "2026-06-22T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/mastersounds-22-06-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Allez, Chantez! * juni",
           "EventDate": "2026-06-25T00:00:00.0000000",
@@ -9765,7 +9832,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 73,
+      "TotalEvents": 74,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11213,9 +11280,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 13,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 13,
+      "WarningCount": 14,
       "Issues": [],
       "EventDetails": [
         {
@@ -11375,6 +11442,19 @@
           ]
         },
         {
+          "EventTitle": "Joshua Idehen",
+          "EventDate": "2026-12-09T23:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/joshua-idehen",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-09T23:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-09T23:00:00Z"
+            }
+          ]
+        },
+        {
           "EventTitle": "Dyna, Lewis & The Soul Caravan",
           "EventDate": "2027-04-09T22:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/dyna-lewis-soul-caravan",
@@ -11393,7 +11473,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
