@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-06-23T05:00:00.4282338Z",
-  "ValidatedAt": "2026-06-23T05:00:00.4282339Z",
-  "TotalScrapers": 30,
-  "TotalEvents": 2193,
+  "GeneratedAt": "2026-06-24T05:00:00.4001508Z",
+  "ValidatedAt": "2026-06-24T05:00:00.4001508Z",
+  "TotalScrapers": 31,
+  "TotalEvents": 2369,
   "TotalErrors": 0,
-  "TotalWarnings": 860,
+  "TotalWarnings": 867,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 172,
+      "TotalEvents": 173,
       "ErrorCount": 0,
-      "WarningCount": 172,
+      "WarningCount": 173,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Streets + ILA",
-          "EventDate": "2026-06-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-streets/a10Qw00000Ey7HtIAJ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-23T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-23T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
           "EventDate": "2026-06-24T00:00:00.0000000",
@@ -809,6 +796,19 @@
           "EventTitle": "Miki",
           "EventDate": "2026-10-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/miki/a10Qw00000BBfUYIA1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MAQUINA.",
+          "EventDate": "2026-10-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/maquina/a10Qw00000GkdI5IAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2106,6 +2106,19 @@
           ]
         },
         {
+          "EventTitle": "NTO",
+          "EventDate": "2027-03-13T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nto/a10Qw00000HyV3xIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Sniper",
           "EventDate": "2027-03-14T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/sniper/a10Qw00000ItkflIAB",
@@ -2264,12 +2277,49 @@
       ]
     },
     {
+      "ScraperId": "Botanique",
+      "ScraperName": "BotaniqueScraper",
+      "VenueName": "Botanique, Brussels",
+      "TotalEvents": 166,
+      "ErrorCount": 0,
+      "WarningCount": 2,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Chinese American Bear",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 62,
+      "TotalEvents": 63,
       "ErrorCount": 0,
-      "WarningCount": 62,
+      "WarningCount": 63,
       "Issues": [],
       "EventDetails": [
         {
@@ -3049,6 +3099,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-27T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-02-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pokey Lafarge",
+          "EventDate": "2027-03-27T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/pokey-lafarge",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-27T00:00:00.0000000"
             }
           ]
         },
@@ -6233,24 +6296,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 56,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Tropical Fuck Storm + Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "EventDate": "2026-06-23T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-tropical-fuck-storm-pigs-pigs-pigs-pigs-pigs-pigs-pigs/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-23T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-23T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Raymond van het Groenewoud + Jokke",
           "EventDate": "2026-06-24T00:00:00",
@@ -6391,6 +6441,45 @@
               "Description": "Event has no start time — only a date was scraped: '2026-08-18T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-08-18T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kabaal",
+          "EventDate": "2026-09-04T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-kabaal/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-04T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-04T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kabaal",
+          "EventDate": "2026-09-05T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-kabaal-zaterdag/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-05T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-05T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kabaal",
+          "EventDate": "2026-09-06T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-kabaal-zondag/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-06T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-06T00:00:00"
             }
           ]
         },
@@ -7065,14 +7154,14 @@
       "EventDetails": [
         {
           "EventTitle": "BATU NIOSO",
-          "EventDate": "2026-06-23T00:00:00.0000000",
+          "EventDate": "2026-06-24T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/batu-nioso?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-23T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-24T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-23T00:00:00.0000000"
+              "ActualValue": "2026-06-24T00:00:00.0000000"
             }
           ]
         },
@@ -7959,7 +8048,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "GREET DEATH + The Bernadettes Maries",
+          "EventTitle": "GREET DEATH + The Bernadette Maries",
           "EventDate": "2026-06-25T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/252-greet-death/",
           "Issues": [
@@ -8963,9 +9052,9 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 66,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 66,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
         {
@@ -9825,6 +9914,19 @@
               "ActualValue": "2027-05-20T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Allez, Chantez! * juni",
+          "EventDate": "2027-06-24T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-juni-24-06-27",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-06-24T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -9832,7 +9934,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 74,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9852,7 +9954,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 23,
+      "TotalEvents": 24,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11220,7 +11322,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 242,
+      "TotalEvents": 246,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11473,7 +11575,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 56,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11483,7 +11585,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 52,
+      "TotalEvents": 51,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
