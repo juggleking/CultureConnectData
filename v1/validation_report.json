@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-24T05:00:00.4001508Z",
-  "ValidatedAt": "2026-06-24T05:00:00.4001508Z",
+  "GeneratedAt": "2026-06-25T05:00:01.5365168Z",
+  "ValidatedAt": "2026-06-25T05:00:01.5365169Z",
   "TotalScrapers": 31,
   "TotalEvents": 2369,
   "TotalErrors": 0,
-  "TotalWarnings": 867,
+  "TotalWarnings": 865,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -25,19 +25,6 @@
       "WarningCount": 173,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Nightlab w/BLCK Mamba DJ workshop: intermediate",
-          "EventDate": "2026-06-24T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-wblck-mamba-dj-workshop-intermediate/a10Qw00000FqD2CIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-24T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "New date: KYLE DIXON & MICHAEL STEIN PERFORMING THE MUSIC OF 'STRANGER THINGS' + Marc Melià",
           "EventDate": "2026-06-28T00:00:00.0000000",
@@ -65,7 +52,7 @@
           ]
         },
         {
-          "EventTitle": "Burning Spear",
+          "EventTitle": "Burning Spear + Roots Warriors",
           "EventDate": "2026-07-02T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/burning-spear/a10Qw00000FBLTZIA5",
           "Issues": [
@@ -74,6 +61,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-02T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-07-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Impro 'Night Aladar",
+          "EventDate": "2026-07-03T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/impro-night-aladar/a10Qw00000HkEhJIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-03T00:00:00.0000000"
             }
           ]
         },
@@ -728,6 +728,19 @@
           ]
         },
         {
+          "EventTitle": "Regan Bowering",
+          "EventDate": "2026-10-15T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/regan-bowering/a10Qw00000IZd49IAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Lake Street Dive + John Splithoff",
           "EventDate": "2026-10-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/lake-street-dive/a10Qw000004mV2RIAU",
@@ -767,19 +780,6 @@
           ]
         },
         {
-          "EventTitle": "GoldFord",
-          "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/goldford/a10Qw00000JPsiDIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Allie X",
           "EventDate": "2026-10-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
@@ -793,22 +793,22 @@
           ]
         },
         {
-          "EventTitle": "Miki",
-          "EventDate": "2026-10-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/miki/a10Qw00000BBfUYIA1",
+          "EventTitle": "GoldFord",
+          "EventDate": "2026-10-18T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/goldford/a10Qw00000JPsiDIAT",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-22T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-10-22T00:00:00.0000000"
+              "ActualValue": "2026-10-18T00:00:00.0000000"
             }
           ]
         },
         {
-          "EventTitle": "MAQUINA.",
+          "EventTitle": "Miki",
           "EventDate": "2026-10-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/maquina/a10Qw00000GkdI5IAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/miki/a10Qw00000BBfUYIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -2280,7 +2280,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 166,
+      "TotalEvents": 170,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -3167,24 +3167,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 89,
+      "TotalEvents": 88,
       "ErrorCount": 0,
-      "WarningCount": 89,
+      "WarningCount": 88,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Infoavond Cyberveiligheid - Klik niet in de val!",
-          "EventDate": "2026-06-24",
-          "EventUrl": "https://cczoetegem.be/programma/online-oplichting-klik-niet-in-de-val.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-24'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-24"
-            }
-          ]
-        },
         {
           "EventTitle": "Feest van de Vlaamse Gemeenschap - Aaron Blommaert",
           "EventDate": "2026-07-09",
@@ -4593,7 +4580,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 150,
+      "TotalEvents": 149,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6296,24 +6283,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Raymond van het Groenewoud + Jokke",
-          "EventDate": "2026-06-24T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-raymond-van-het-groenewoud-2/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-24T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-24T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Sun Kil Moon + Blum",
           "EventDate": "2026-06-25T00:00:00",
@@ -7061,7 +7035,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 95,
+      "TotalEvents": 94,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7147,89 +7121,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 68,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "BATU NIOSO",
-          "EventDate": "2026-06-24T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/batu-nioso?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-24T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Rudi Vranckx - De wereld in chaos",
-          "EventDate": "2026-06-03T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/rudi-vranckx---de-wereld-in-chaos-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dries Heyneman | Voor normale mensen",
-          "EventDate": "2026-06-04T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/dries-heyneman--voor-normale-mensen?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mother Mercury - 50 jaar Bohemian Rhapsody",
-          "EventDate": "2026-06-10T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/mother-mercury---50-jaar-bohemian-rhapsody-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yves Segers | Bedankt Rob",
-          "EventDate": "2026-06-11T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/yves-segers--bedankt-rob-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "William Boeva - Drift",
-          "EventDate": "2026-06-17T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/william-boeva---drift-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Vernieuwd Gents Volkstoneel | Bambi [Try-out]",
           "EventDate": "2026-07-11T00:00:00.0000000",
@@ -8035,6 +7931,71 @@
               "ActualValue": "2026-05-29T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Rudi Vranckx - De wereld in chaos",
+          "EventDate": "2026-06-03T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/rudi-vranckx---de-wereld-in-chaos-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dries Heyneman | Voor normale mensen",
+          "EventDate": "2026-06-04T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/dries-heyneman--voor-normale-mensen?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mother Mercury - 50 jaar Bohemian Rhapsody",
+          "EventDate": "2026-06-10T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/mother-mercury---50-jaar-bohemian-rhapsody-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Yves Segers | Bedankt Rob",
+          "EventDate": "2026-06-11T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/yves-segers--bedankt-rob-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "William Boeva - Drift",
+          "EventDate": "2026-06-17T00:00:00.0000000",
+          "EventUrl": "https://steenoven.herzele.be/william-boeva---drift-te-gast?th=4047",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-06-17T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -8123,19 +8084,6 @@
       "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Palmarium: Fenne Kuppens + Laura De Jongh",
-          "EventDate": "2026-06-25",
-          "EventUrl": "https://www.democrazy.be/agenda/3160-palmarium-fenne-kuppens/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-25'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-25"
-            }
-          ]
-        },
         {
           "EventTitle": "Boomtown: Brussels Salsa Project",
           "EventDate": "2026-07-18",
@@ -8250,6 +8198,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-08'.",
               "Severity": 1,
               "ActualValue": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Palmarium: Fenne Kuppens + Laura De Jongh",
+          "EventDate": "2026-09-09",
+          "EventUrl": "https://www.democrazy.be/agenda/3160-palmarium-fenne-kuppens/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-09'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-09"
             }
           ]
         },
@@ -11322,7 +11283,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 246,
+      "TotalEvents": 247,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11382,9 +11343,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 14,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
         {
@@ -11449,6 +11410,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-01T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-10-01T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Secrètes Sessions",
+          "EventDate": "2026-10-06T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/secretes-sessions",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-06T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-06T22:00:00Z"
             }
           ]
         },
@@ -11575,7 +11549,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
