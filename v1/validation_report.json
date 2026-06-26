@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-06-25T05:00:01.5365168Z",
-  "ValidatedAt": "2026-06-25T05:00:01.5365169Z",
+  "GeneratedAt": "2026-06-26T05:00:00.6864635Z",
+  "ValidatedAt": "2026-06-26T05:00:00.6864635Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2369,
+  "TotalEvents": 2411,
   "TotalErrors": 0,
-  "TotalWarnings": 865,
+  "TotalWarnings": 873,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 16,
+      "TotalEvents": 15,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 173,
+      "TotalEvents": 180,
       "ErrorCount": 0,
-      "WarningCount": 173,
+      "WarningCount": 180,
       "Issues": [],
       "EventDetails": [
         {
@@ -104,9 +104,9 @@
           ]
         },
         {
-          "EventTitle": "Floris Francis Arthur (Band)",
+          "EventTitle": "De Kleine Boterhammen presenteert Floris Francis Arthur (Band)",
           "EventDate": "2026-07-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/floris-francis-arthur-band/a10Qw00000K3JDvIAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/de-kleine-boterhammen-presenteert-floris-francis-arthur-band/a10Qw00000K3JDvIAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -338,6 +338,19 @@
           ]
         },
         {
+          "EventTitle": "De Kleine Boterhammen presenteert FULCO",
+          "EventDate": "2026-09-24T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/de-kleine-boterhammen-presenteert-fulco/a10Qw00000HSSSdIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "(John) Coltrane 100: Flat Earth Society - The Coltrane Mutations",
           "EventDate": "2026-09-24T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-flat-earth-society-the-coltrane-mutations/a10Qw00000JcwWHIAZ",
@@ -373,6 +386,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-26T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "20 YRS Humpty Dumpty Records + Half Asleep, Coraline Gaye, YÔKAÏ, Maniac Maison",
+          "EventDate": "2026-09-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/20-yrs-humpty-dumpty-records/a10Qw00000IiAniIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27T00:00:00.0000000"
             }
           ]
         },
@@ -845,9 +871,9 @@
           ]
         },
         {
-          "EventTitle": "Beast in Black + Sonata Arctica, Frozen Crown",
+          "EventTitle": "Tomoki Sanders",
           "EventDate": "2026-10-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/beast-in-black/a10Qw000006iQeTIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tomoki-sanders/a10Qw00000JewVNIAZ",
           "Issues": [
             {
               "Field": "DateString",
@@ -858,9 +884,9 @@
           ]
         },
         {
-          "EventTitle": "Tomoki Sanders",
+          "EventTitle": "Beast in Black + Sonata Arctica, Frozen Crown",
           "EventDate": "2026-10-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tomoki-sanders/a10Qw00000JewVNIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/beast-in-black/a10Qw000006iQeTIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -880,6 +906,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Kleine Boterhammen presenteert Frans Kalf",
+          "EventDate": "2026-10-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/de-kleine-boterhammen-presenteert-frans-kalf/a10Qw00000HSSSeIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29T00:00:00.0000000"
             }
           ]
         },
@@ -1023,6 +1062,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Isaiah Falls + RAAHiiM",
+          "EventDate": "2026-11-05T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/isaiah-falls/a10Qw00000Hc5XyIAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-05T00:00:00.0000000"
             }
           ]
         },
@@ -1335,6 +1387,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-25T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-25T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Kleine Boterhammen presenteert Camilo Donoso",
+          "EventDate": "2026-11-26T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/de-kleine-boterhammen-presenteert-camilo-donoso/a10Qw00000HSSSfIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-26T00:00:00.0000000"
             }
           ]
         },
@@ -1703,6 +1768,19 @@
           ]
         },
         {
+          "EventTitle": "De Kleine Boterhammen presenteert Michiel Libberecht (Mooneye)",
+          "EventDate": "2026-12-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/de-kleine-boterhammen-presenteert-michiel-libberecht-mooneye/a10Qw00000HSSSgIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Plain Jane",
           "EventDate": "2026-12-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/plain-jane/a10Qw00000IAirpIAD",
@@ -1888,6 +1966,19 @@
           "EventTitle": "Marguerite",
           "EventDate": "2027-02-02T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/marguerite/a10Qw00000IGXIbIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-02T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Iztok Koren & Raphael Roginski",
+          "EventDate": "2027-02-02T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/iztok-koren-raphael-roginski/a10Qw00000JyfuzIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2280,7 +2371,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 170,
+      "TotalEvents": 172,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2317,9 +2408,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 63,
+      "TotalEvents": 65,
       "ErrorCount": 0,
-      "WarningCount": 63,
+      "WarningCount": 65,
       "Issues": [],
       "EventDetails": [
         {
@@ -2339,6 +2430,19 @@
           "EventTitle": "Cactusfestival 2026",
           "EventDate": "2026-07-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Cactusfestival-2026-10-07",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tommy Sunshine",
+          "EventDate": "2026-07-10T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be",
           "Issues": [
             {
               "Field": "DateString",
@@ -2466,9 +2570,9 @@
           ]
         },
         {
-          "EventTitle": "Rooftop Street Food #5: RØK",
+          "EventTitle": "Benenwerk",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
           "Issues": [
             {
               "Field": "DateString",
@@ -2479,9 +2583,9 @@
           ]
         },
         {
-          "EventTitle": "Benenwerk",
+          "EventTitle": "Rooftop Street Food #5: RØK",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
           "Issues": [
             {
               "Field": "DateString",
@@ -2826,6 +2930,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-27T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kirk Fletcher",
+          "EventDate": "2026-10-28T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/kirk-fletcher",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28T00:00:00.0000000"
             }
           ]
         },
@@ -4406,7 +4523,7 @@
           ]
         },
         {
-          "EventTitle": "Personal Trainer",
+          "EventTitle": "Personal Trainer + Tracey Nelson + Stoop Kid + Tin Fingers",
           "EventDate": "2026-10-29",
           "EventUrl": "https://aff.be/events/personaltrainer/",
           "Issues": [
@@ -4580,7 +4697,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 149,
+      "TotalEvents": 148,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6283,24 +6400,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Sun Kil Moon + Blum",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-sun-kil-moon/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-25T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-25T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Turbonegro + Sha-La-Lees",
           "EventDate": "2026-06-26T00:00:00",
@@ -8009,19 +8113,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "GREET DEATH + The Bernadette Maries",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/252-greet-death/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-25T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-25T00:00:00"
-            }
-          ]
-        },
-        {
           "EventTitle": "POISON RUÏN + Sportweekend",
           "EventDate": "2026-06-30T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/256-poison-ruin/",
@@ -8072,6 +8163,19 @@
               "ActualValue": "2026-08-30T00:00:00"
             }
           ]
+        },
+        {
+          "EventTitle": "LEFFINGELEUREN 2026",
+          "EventDate": "2026-09-11T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/leffingeleuren/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-11T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-11T00:00:00"
+            }
+          ]
         }
       ]
     },
@@ -8079,9 +8183,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 71,
+      "TotalEvents": 72,
       "ErrorCount": 0,
-      "WarningCount": 71,
+      "WarningCount": 72,
       "Issues": [],
       "EventDetails": [
         {
@@ -8592,6 +8696,19 @@
           ]
         },
         {
+          "EventTitle": "BIG NEXT: Tracey Nelson",
+          "EventDate": "2026-10-28",
+          "EventUrl": "https://www.democrazy.be/agenda/3233-big-next-tracey-nelson/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28"
+            }
+          ]
+        },
+        {
           "EventTitle": "Danko Jones - + Split Dogs",
           "EventDate": "2026-10-28",
           "EventUrl": "https://www.democrazy.be/agenda/3165-danko-jones/",
@@ -8800,7 +8917,7 @@
           ]
         },
         {
-          "EventTitle": "Lost in Kyiv",
+          "EventTitle": "Lost in Kyiv - + Årabrot + Aufhebung",
           "EventDate": "2026-11-24",
           "EventUrl": "https://www.democrazy.be/agenda/3209-lost-in-kyiv/",
           "Issues": [
@@ -9013,24 +9130,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Allez, Chantez! * juni",
-          "EventDate": "2026-06-25T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-juni-25-06-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-25T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Jazz Camp for Girls (10-14 jaar)",
           "EventDate": "2026-07-06T00:00:00.0000000",
@@ -11333,7 +11437,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11549,7 +11653,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11559,7 +11663,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 51,
+      "TotalEvents": 56,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
