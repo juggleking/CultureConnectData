@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-06-26T05:00:00.6864635Z",
-  "ValidatedAt": "2026-06-26T05:00:00.6864635Z",
+  "GeneratedAt": "2026-06-27T05:00:00.4740183Z",
+  "ValidatedAt": "2026-06-27T05:00:00.4740184Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2411,
+  "TotalEvents": 2384,
   "TotalErrors": 0,
-  "TotalWarnings": 873,
+  "TotalWarnings": 875,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 180,
+      "TotalEvents": 181,
       "ErrorCount": 0,
-      "WarningCount": 180,
+      "WarningCount": 181,
       "Issues": [],
       "EventDetails": [
         {
@@ -442,6 +442,19 @@
           ]
         },
         {
+          "EventTitle": "All Things Sdban presents Jazz Cats w/ Kuna Maze Live Band + ᖴOᑌTᒪOOᔕ + ...",
+          "EventDate": "2026-09-30T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/all-things-sdban-presents-jazz-cats-w-kuna-maze-live-band-otoo/a10Qw00000GuKVxIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: Last Train",
           "EventDate": "2026-10-01T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-last-train/a10Qw000007txl1IAA",
@@ -507,9 +520,9 @@
           ]
         },
         {
-          "EventTitle": "Judith",
+          "EventTitle": "Dushime presents INZOZI ZANJYE ft Cortex Ensemble",
           "EventDate": "2026-10-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/judith/a10Qw00000DReLFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dushime-presents-inzozi-zanjye-ft-cortex-ensemble/a10Qw00000C60fxIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -520,9 +533,9 @@
           ]
         },
         {
-          "EventTitle": "Dushime presents INZOZI ZANJYE ft Cortex Ensemble",
+          "EventTitle": "Judith",
           "EventDate": "2026-10-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dushime-presents-inzozi-zanjye-ft-cortex-ensemble/a10Qw00000C60fxIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/judith/a10Qw00000DReLFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1144,9 +1157,9 @@
           ]
         },
         {
-          "EventTitle": "Bonnie 'Prince' Billy",
+          "EventTitle": "Sunday Charmers",
           "EventDate": "2026-11-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bonnie-prince-billy/a10Qw00000CnRMoIAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-charmers/a10Qw00000GpdSjIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1157,9 +1170,9 @@
           ]
         },
         {
-          "EventTitle": "Sunday Charmers",
+          "EventTitle": "Bonnie 'Prince' Billy",
           "EventDate": "2026-11-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-charmers/a10Qw00000GpdSjIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bonnie-prince-billy/a10Qw00000CnRMoIAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -2371,7 +2384,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 172,
+      "TotalEvents": 174,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -4697,7 +4710,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 148,
+      "TotalEvents": 147,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6400,24 +6413,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Turbonegro + Sha-La-Lees",
-          "EventDate": "2026-06-26T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-turbonegro/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-26T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-26T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Nieuw-Zeeland - België",
           "EventDate": "2026-06-27T00:00:00",
@@ -7139,7 +7139,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 94,
+      "TotalEvents": 95,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9130,9 +9130,9 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 66,
+      "TotalEvents": 69,
       "ErrorCount": 0,
-      "WarningCount": 66,
+      "WarningCount": 69,
       "Issues": [],
       "EventDetails": [
         {
@@ -9643,6 +9643,19 @@
           ]
         },
         {
+          "EventTitle": "Re:Context met Fred Wesley",
+          "EventDate": "2026-11-14T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/re-context-met-fred-wesley-14-11-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Fred Wesley Generations",
           "EventDate": "2026-11-14T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/fred-wesley-generations-14-11-26",
@@ -9799,6 +9812,19 @@
           ]
         },
         {
+          "EventTitle": "Re:Context met Pauline Black",
+          "EventDate": "2026-12-18T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/re-context-met-pauline-black-18-12-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Selecter",
           "EventDate": "2026-12-18T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/the-selecter-18-12-26",
@@ -9821,6 +9847,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-12-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ward Dhoore (releaseconcert)",
+          "EventDate": "2027-01-14T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/ward-dhoore-releaseconcert-14-01-27",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-14T00:00:00.0000000"
             }
           ]
         },
@@ -10029,24 +10068,11 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 2,
+      "TotalEvents": 1,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 1,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Froukje: Solo Tour",
-          "EventDate": "2026-06-26",
-          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/froukje-solo-tour/a0NP500000LYUArMAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-26'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-26"
-            }
-          ]
-        },
         {
           "EventTitle": "Ão, ECHT!, Lander & Adriaan",
           "EventDate": "2026-07-19",
@@ -11387,7 +11413,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 247,
+      "TotalEvents": 246,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11437,7 +11463,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11653,7 +11679,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 55,
+      "TotalEvents": 54,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
