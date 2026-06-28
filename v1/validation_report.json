@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-27T05:00:00.4740183Z",
-  "ValidatedAt": "2026-06-27T05:00:00.4740184Z",
+  "GeneratedAt": "2026-06-28T05:00:02.9607285Z",
+  "ValidatedAt": "2026-06-28T05:00:02.9607285Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2384,
+  "TotalEvents": 2377,
   "TotalErrors": 0,
-  "TotalWarnings": 875,
+  "TotalWarnings": 872,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -4710,7 +4710,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 147,
+      "TotalEvents": 146,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6413,37 +6413,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 55,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Nieuw-Zeeland - België",
-          "EventDate": "2026-06-27T00:00:00",
-          "EventUrl": "https://decasino.be/concert/nieuw-zeeland-belgie/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-27T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-27T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Great Gigs in the Park / The Paranoiacs (try-out) + Cesar Sun",
-          "EventDate": "2026-06-27T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-the-paranoiacs-try-out/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-27T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-27T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Monza (try-out) + Camilo Donoso",
           "EventDate": "2026-06-29T00:00:00",
@@ -10038,7 +10012,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 75,
+      "TotalEvents": 74,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11413,7 +11387,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 246,
+      "TotalEvents": 245,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11473,24 +11447,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 14,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "[Cancelled] Festival de Junio",
-          "EventDate": "2026-06-26T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/cancelled-festival-de-junio",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-26T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-26T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "End of Season | Floris Francis Arthur (solo) + Baertman",
           "EventDate": "2026-07-09T22:00:00Z",
@@ -11679,7 +11640,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
