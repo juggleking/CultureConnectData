@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-28T05:00:02.9607285Z",
-  "ValidatedAt": "2026-06-28T05:00:02.9607285Z",
-  "TotalScrapers": 31,
-  "TotalEvents": 2377,
+  "GeneratedAt": "2026-06-29T05:00:04.3187542Z",
+  "ValidatedAt": "2026-06-29T05:00:04.3187543Z",
+  "TotalScrapers": 30,
+  "TotalEvents": 2244,
   "TotalErrors": 0,
-  "TotalWarnings": 872,
+  "TotalWarnings": 870,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 181,
+      "TotalEvents": 180,
       "ErrorCount": 0,
-      "WarningCount": 181,
+      "WarningCount": 180,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "New date: KYLE DIXON & MICHAEL STEIN PERFORMING THE MUSIC OF 'STRANGER THINGS' + Marc Melià",
-          "EventDate": "2026-06-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-kyle-dixon-michael-stein-performing-the-music-of-stranger-things/a10Qw00000Ga48jIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-28T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Elvis Costello & The Imposters with Charlie Sexton",
           "EventDate": "2026-06-29T00:00:00.0000000",
@@ -2375,43 +2362,6 @@
               "Description": "Event has no start time — only a date was scraped: '2027-06-12T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-06-12T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ScraperId": "Botanique",
-      "ScraperName": "BotaniqueScraper",
-      "VenueName": "Botanique, Brussels",
-      "TotalEvents": 174,
-      "ErrorCount": 0,
-      "WarningCount": 2,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Chinese American Bear",
-          "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
             }
           ]
         }
@@ -7123,9 +7073,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 13,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -7190,6 +7140,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-08-20T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-08-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "People are Strage",
+          "EventDate": "2026-09-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/people-are-strage-j46q",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-18T00:00:00.0000000"
             }
           ]
         }
@@ -11387,7 +11350,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 245,
+      "TotalEvents": 244,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11437,7 +11400,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11640,7 +11603,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
