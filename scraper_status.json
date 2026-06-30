@@ -4,7 +4,7 @@
     "VenueId": "Cecilia",
     "VenueName": "Compagnie Cecilia, Gent",
     "Category": "Theatre",
-    "TotalEventsFound": 146,
+    "TotalEventsFound": 147,
     "MonthlyFiles": [
       {
         "Month": 8,
@@ -67,6 +67,16 @@
         "ErrorMessage": null
       },
       {
+        "Month": 6,
+        "Year": 2027,
+        "FileName": "cecilia-06-2027.json",
+        "FilePath": "events/theatre/cecilia/cecilia-06-2027.json",
+        "Hash": "2f62b537af9b01406a72f5ed08669ff0bdf74d92020cbcad1492ffb5be1c3b72",
+        "EventCount": 11,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
         "Month": 12,
         "Year": 2026,
         "FileName": "cecilia-12-2026.json",
@@ -95,25 +105,28 @@
         "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
-      },
-      {
-        "Month": 6,
-        "Year": 2027,
-        "FileName": "cecilia-06-2027.json",
-        "FilePath": "events/theatre/cecilia/cecilia-06-2027.json",
-        "Hash": "da44288cf408808db7913fcbd301edaabfcb974138031c3c8fe4c862467d84c8",
-        "EventCount": 10,
-        "Status": "Success",
-        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:02:04.3226575Z",
-    "StartedAt": "2026-06-30T14:00:00.3253843Z",
-    "FinishedAt": "2026-06-30T14:02:04.322655Z",
+    "RunTime": "2026-06-30T18:01:21.8416878Z",
+    "StartedAt": "2026-06-30T18:00:00.3541439Z",
+    "FinishedAt": "2026-06-30T18:01:21.8416854Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Testament",
+        "DateString": "2027-06-30T20:00:00",
+        "Url": "https://compagnie-cecilia.be/nl/programma/testament",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_30437.jpg%3Fv%3D1782770431?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=ac58dc380ae3824298ab4840378396f5",
+        "Location": "Compagnie Cecilia, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0657",
+        "Longitude": "3.7306"
+      }
+    ]
   },
   {
     "ScraperName": "ToneelhuisScraper",
@@ -245,9 +258,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:33.4716521Z",
-    "StartedAt": "2026-06-30T14:00:00.3270389Z",
-    "FinishedAt": "2026-06-30T14:00:33.4711934Z",
+    "RunTime": "2026-06-30T18:00:34.3067401Z",
+    "StartedAt": "2026-06-30T18:00:00.3550354Z",
+    "FinishedAt": "2026-06-30T18:00:34.3067364Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -271,9 +284,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:02.7412267Z",
-    "StartedAt": "2026-06-30T14:00:00.3277763Z",
-    "FinishedAt": "2026-06-30T14:00:02.741223Z",
+    "RunTime": "2026-06-30T18:00:01.2735124Z",
+    "StartedAt": "2026-06-30T18:00:00.3563495Z",
+    "FinishedAt": "2026-06-30T18:00:01.2735085Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -297,9 +310,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:01.576029Z",
-    "StartedAt": "2026-06-30T14:00:00.3278659Z",
-    "FinishedAt": "2026-06-30T14:00:01.5760243Z",
+    "RunTime": "2026-06-30T18:00:01.2611492Z",
+    "StartedAt": "2026-06-30T18:00:00.356503Z",
+    "FinishedAt": "2026-06-30T18:00:01.2611443Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -413,9 +426,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:09.4107309Z",
-    "StartedAt": "2026-06-30T14:00:00.3279411Z",
-    "FinishedAt": "2026-06-30T14:00:09.4107271Z",
+    "RunTime": "2026-06-30T18:00:08.1272329Z",
+    "StartedAt": "2026-06-30T18:00:00.356594Z",
+    "FinishedAt": "2026-06-30T18:00:08.1272297Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -529,9 +542,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:03.9940596Z",
-    "StartedAt": "2026-06-30T14:00:00.3280228Z",
-    "FinishedAt": "2026-06-30T14:00:03.9940556Z",
+    "RunTime": "2026-06-30T18:00:02.9036229Z",
+    "StartedAt": "2026-06-30T18:00:00.3568508Z",
+    "FinishedAt": "2026-06-30T18:00:02.9036049Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -585,9 +598,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:13.9305547Z",
-    "StartedAt": "2026-06-30T14:00:00.3324061Z",
-    "FinishedAt": "2026-06-30T14:00:13.930551Z",
+    "RunTime": "2026-06-30T18:00:13.0175019Z",
+    "StartedAt": "2026-06-30T18:00:00.3569525Z",
+    "FinishedAt": "2026-06-30T18:00:13.0174809Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -701,9 +714,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:02.5142922Z",
-    "StartedAt": "2026-06-30T14:00:00.3324777Z",
-    "FinishedAt": "2026-06-30T14:00:02.514289Z",
+    "RunTime": "2026-06-30T18:00:01.7568641Z",
+    "StartedAt": "2026-06-30T18:00:00.3570457Z",
+    "FinishedAt": "2026-06-30T18:00:01.7568605Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -716,9 +729,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:05.5099954Z",
-    "StartedAt": "2026-06-30T14:00:00.3325731Z",
-    "FinishedAt": "2026-06-30T14:00:05.509992Z",
+    "RunTime": "2026-06-30T18:00:05.2734839Z",
+    "StartedAt": "2026-06-30T18:00:00.3571983Z",
+    "FinishedAt": "2026-06-30T18:00:05.2734786Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -731,9 +744,9 @@
     "MonthlyFiles": [],
     "Status": "Failed",
     "ErrorMessage": "Response status code does not indicate success: 404 (Not Found).",
-    "RunTime": "2026-06-30T14:00:02.7100349Z",
-    "StartedAt": "2026-06-30T14:00:00.3326476Z",
-    "FinishedAt": "2026-06-30T14:00:02.7100352Z",
+    "RunTime": "2026-06-30T18:00:02.057787Z",
+    "StartedAt": "2026-06-30T18:00:00.3585178Z",
+    "FinishedAt": "2026-06-30T18:00:02.0577874Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -769,7 +782,7 @@
         "Year": 2026,
         "FileName": "despil-09-2026.json",
         "FilePath": "events/cultuurcentra/despil/despil-09-2026.json",
-        "Hash": "5279af3138882686a2dd495e2e4193d53269999dda134f558046e06b54c2fd4a",
+        "Hash": "0e409577e072900ffcd0fc26cd310bd036cb59b0652052d2955320f37a81f035",
         "EventCount": 4,
         "Status": "Success",
         "ErrorMessage": null
@@ -787,11 +800,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:02.2526683Z",
-    "StartedAt": "2026-06-30T14:00:00.3329141Z",
-    "FinishedAt": "2026-06-30T14:00:02.2526633Z",
+    "RunTime": "2026-06-30T18:00:01.5746686Z",
+    "StartedAt": "2026-06-30T18:00:00.3599029Z",
+    "FinishedAt": "2026-06-30T18:00:01.5746663Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "People are Strange",
+        "DateString": "2026-09-18T00:00:00.0000000",
+        "Url": "https://www.despil.be/agenda/people-are-strange-j46q",
+        "ImageUrl": "https://img.despil.be/nJ0huZPBfDch9d_FZasgeRnkBH5g5x9MZABVfove6tg/c:1377:778:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZGVzcGlsLmJlLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMjQwOF9vcmlnLmpwZWc",
+        "Location": "De Spil, Roeselare",
+        "Description": "Craig Deyes",
+        "Room": "",
+        "Address": "Polenplein 1, 8800 Roeselare",
+        "Latitude": "50.9449",
+        "Longitude": "3.126"
+      }
+    ]
   },
   {
     "ScraperName": "DeWerfScraper",
@@ -883,9 +909,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:08.0638493Z",
-    "StartedAt": "2026-06-30T14:00:00.3330211Z",
-    "FinishedAt": "2026-06-30T14:00:08.0638453Z",
+    "RunTime": "2026-06-30T18:00:08.0233934Z",
+    "StartedAt": "2026-06-30T18:00:00.3602733Z",
+    "FinishedAt": "2026-06-30T18:00:08.0233896Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -1009,9 +1035,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:04.8299295Z",
-    "StartedAt": "2026-06-30T14:00:00.334802Z",
-    "FinishedAt": "2026-06-30T14:00:04.8295246Z",
+    "RunTime": "2026-06-30T18:00:04.5149119Z",
+    "StartedAt": "2026-06-30T18:00:00.3605354Z",
+    "FinishedAt": "2026-06-30T18:00:04.5149077Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1135,9 +1161,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:04.5319787Z",
-    "StartedAt": "2026-06-30T14:00:00.3349464Z",
-    "FinishedAt": "2026-06-30T14:00:04.5319583Z",
+    "RunTime": "2026-06-30T18:00:03.7588377Z",
+    "StartedAt": "2026-06-30T18:00:00.3608344Z",
+    "FinishedAt": "2026-06-30T18:00:03.7588219Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1201,9 +1227,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:03.7962923Z",
-    "StartedAt": "2026-06-30T14:00:00.335032Z",
-    "FinishedAt": "2026-06-30T14:00:03.7962793Z",
+    "RunTime": "2026-06-30T18:00:03.4433026Z",
+    "StartedAt": "2026-06-30T18:00:00.3610548Z",
+    "FinishedAt": "2026-06-30T18:00:03.4432982Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1337,9 +1363,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:10.5144574Z",
-    "StartedAt": "2026-06-30T14:00:00.3352435Z",
-    "FinishedAt": "2026-06-30T14:00:10.5144541Z",
+    "RunTime": "2026-06-30T18:00:10.0985848Z",
+    "StartedAt": "2026-06-30T18:00:00.361328Z",
+    "FinishedAt": "2026-06-30T18:00:10.0985826Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -1413,9 +1439,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:04.2377597Z",
-    "StartedAt": "2026-06-30T14:00:00.3353291Z",
-    "FinishedAt": "2026-06-30T14:00:04.2377555Z",
+    "RunTime": "2026-06-30T18:00:04.1646278Z",
+    "StartedAt": "2026-06-30T18:00:00.3615099Z",
+    "FinishedAt": "2026-06-30T18:00:04.1646237Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -1509,24 +1535,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:28.1945383Z",
-    "StartedAt": "2026-06-30T14:00:00.3354042Z",
-    "FinishedAt": "2026-06-30T14:00:28.1945352Z",
+    "RunTime": "2026-06-30T18:00:24.7933408Z",
+    "StartedAt": "2026-06-30T18:00:00.3616809Z",
+    "FinishedAt": "2026-06-30T18:00:24.7933381Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": [
-      {
-        "Title": "LVDV",
-        "DateString": "2026-10-15T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/lvdv-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-06/IMG_6134.jpeg?itok=xYsz3M7C",
-        "Location": "Botanique, Brussels",
-        "Description": "Release |",
-        "Room": "Witloof Bar",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -1628,24 +1641,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:02.2898723Z",
-    "StartedAt": "2026-06-30T14:00:00.3354837Z",
-    "FinishedAt": "2026-06-30T14:00:02.2898702Z",
+    "RunTime": "2026-06-30T18:00:01.8228778Z",
+    "StartedAt": "2026-06-30T18:00:00.3618872Z",
+    "FinishedAt": "2026-06-30T18:00:01.822873Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
-    "NewEvents": [
-      {
-        "Title": "John Carroll Kirby",
-        "DateString": "2026-09-22T00:00:00.0000000",
-        "Url": "https://www.cactusmusic.be/NL/Concerten/Kalender/john-carroll-kirby",
-        "ImageUrl": "",
-        "Location": "Cactus Cafe",
-        "Description": "Jazz/funk componist stelt Piano Works 2016-2026 voor - solo in Cactus Caf\u00E9!",
-        "Room": "",
-        "Address": null,
-        "Latitude": "51.1966",
-        "Longitude": "3.2262"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeCasinoScraper",
@@ -1747,9 +1747,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:02.1539245Z",
-    "StartedAt": "2026-06-30T14:00:00.3355514Z",
-    "FinishedAt": "2026-06-30T14:00:02.1539205Z",
+    "RunTime": "2026-06-30T18:00:02.0445057Z",
+    "StartedAt": "2026-06-30T18:00:00.3620451Z",
+    "FinishedAt": "2026-06-30T18:00:02.0445016Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -1853,9 +1853,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:01.5368641Z",
-    "StartedAt": "2026-06-30T14:00:00.3356224Z",
-    "FinishedAt": "2026-06-30T14:00:01.5368601Z",
+    "RunTime": "2026-06-30T18:00:01.8672615Z",
+    "StartedAt": "2026-06-30T18:00:00.362221Z",
+    "FinishedAt": "2026-06-30T18:00:01.8672161Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -1864,7 +1864,7 @@
     "VenueId": "DeRoma",
     "VenueName": "De Roma",
     "Category": "Concerts",
-    "TotalEventsFound": 96,
+    "TotalEventsFound": 95,
     "MonthlyFiles": [
       {
         "Month": 8,
@@ -1881,8 +1881,8 @@
         "Year": 2026,
         "FileName": "deroma-09-2026.json",
         "FilePath": "events/concerts/deroma/deroma-09-2026.json",
-        "Hash": "6a073d082fd261b05cb7dac626c730c135639c7c002bb67f93fd3d6dbeb94fc2",
-        "EventCount": 21,
+        "Hash": "881cf344187dd9b228a5a10fbaac429b433aaf96e6e7284951bc332a53ceb3a1",
+        "EventCount": 20,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -1979,9 +1979,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:05.4658559Z",
-    "StartedAt": "2026-06-30T14:00:00.3356905Z",
-    "FinishedAt": "2026-06-30T14:00:05.4658534Z",
+    "RunTime": "2026-06-30T18:00:04.3370047Z",
+    "StartedAt": "2026-06-30T18:00:00.3623855Z",
+    "FinishedAt": "2026-06-30T18:00:04.3369872Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -2105,9 +2105,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:01.9372583Z",
-    "StartedAt": "2026-06-30T14:00:00.3357706Z",
-    "FinishedAt": "2026-06-30T14:00:01.9372545Z",
+    "RunTime": "2026-06-30T18:00:01.5789521Z",
+    "StartedAt": "2026-06-30T18:00:00.362631Z",
+    "FinishedAt": "2026-06-30T18:00:01.5789473Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -2161,9 +2161,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:01.3841346Z",
-    "StartedAt": "2026-06-30T14:00:00.3358465Z",
-    "FinishedAt": "2026-06-30T14:00:01.3841326Z",
+    "RunTime": "2026-06-30T18:00:01.181577Z",
+    "StartedAt": "2026-06-30T18:00:00.3628338Z",
+    "FinishedAt": "2026-06-30T18:00:01.1815751Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -2227,9 +2227,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:02.1015422Z",
-    "StartedAt": "2026-06-30T14:00:00.3359144Z",
-    "FinishedAt": "2026-06-30T14:00:02.1015389Z",
+    "RunTime": "2026-06-30T18:00:01.7565865Z",
+    "StartedAt": "2026-06-30T18:00:00.3629951Z",
+    "FinishedAt": "2026-06-30T18:00:01.7565818Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -2343,9 +2343,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:26.7759181Z",
-    "StartedAt": "2026-06-30T14:00:00.3359901Z",
-    "FinishedAt": "2026-06-30T14:00:26.7759136Z",
+    "RunTime": "2026-06-30T18:00:30.1291863Z",
+    "StartedAt": "2026-06-30T18:00:00.363261Z",
+    "FinishedAt": "2026-06-30T18:00:30.1291831Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -2401,7 +2401,7 @@
         "Year": 2026,
         "FileName": "hetdepot-12-2026.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-12-2026.json",
-        "Hash": "67b5fa2bf79eba1d7a39a639e98332f43e780c2cf11a3d7bc90599e34ea07ae0",
+        "Hash": "136f8a62dc1cbd072cb6bacf29c8ace2f924784cfea823340bd06960d8ae9f3e",
         "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
@@ -2459,9 +2459,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:24.9228912Z",
-    "StartedAt": "2026-06-30T14:00:00.3360859Z",
-    "FinishedAt": "2026-06-30T14:00:24.9228875Z",
+    "RunTime": "2026-06-30T18:00:42.7884927Z",
+    "StartedAt": "2026-06-30T18:00:00.3634059Z",
+    "FinishedAt": "2026-06-30T18:00:42.788489Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -2545,9 +2545,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:01.4440085Z",
-    "StartedAt": "2026-06-30T14:00:00.3361687Z",
-    "FinishedAt": "2026-06-30T14:00:01.4440048Z",
+    "RunTime": "2026-06-30T18:00:01.3713745Z",
+    "StartedAt": "2026-06-30T18:00:00.3658372Z",
+    "FinishedAt": "2026-06-30T18:00:01.3713697Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -2571,9 +2571,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:05.8590601Z",
-    "StartedAt": "2026-06-30T14:00:00.3362363Z",
-    "FinishedAt": "2026-06-30T14:00:05.8590454Z",
+    "RunTime": "2026-06-30T18:00:05.0053186Z",
+    "StartedAt": "2026-06-30T18:00:00.3665275Z",
+    "FinishedAt": "2026-06-30T18:00:05.0047485Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -2582,7 +2582,7 @@
     "VenueId": "Trix",
     "VenueName": "Trix",
     "Category": "Concerts",
-    "TotalEventsFound": 45,
+    "TotalEventsFound": 30,
     "MonthlyFiles": [
       {
         "Month": 7,
@@ -2619,42 +2619,19 @@
         "Year": 2026,
         "FileName": "trix-10-2026.json",
         "FilePath": "events/concerts/trix/trix-10-2026.json",
-        "Hash": "fe3fb85b5831741841021c8647c6d0f2321bcde387767190e575a8cf2af78352",
-        "EventCount": 30,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
-        "Month": 11,
-        "Year": 2026,
-        "FileName": "trix-11-2026.json",
-        "FilePath": "events/concerts/trix/trix-11-2026.json",
-        "Hash": "a9eccf135c573888906a5a612e7ede1fc60da98a245bbd8ea42a696d3c62e70b",
-        "EventCount": 8,
+        "Hash": "2b33affe5472c576305025ec9ff786fa63197ecc9fb5f11359ea92d8a55e0383",
+        "EventCount": 23,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:06.0913953Z",
-    "StartedAt": "2026-06-30T14:00:00.3363038Z",
-    "FinishedAt": "2026-06-30T14:00:06.0913928Z",
+    "RunTime": "2026-06-30T18:00:04.2944509Z",
+    "StartedAt": "2026-06-30T18:00:00.3666785Z",
+    "FinishedAt": "2026-06-30T18:00:04.2944485Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
-    "NewEvents": [
-      {
-        "Title": "K\u00E4\u00E4rij\u00E4 / Little Sis Nora",
-        "DateString": "2026-10-15T20:00:00.0000000",
-        "Url": "https://www.trixonline.be/nl/programma/kaarija/4060/",
-        "ImageUrl": "https://www.trixonline.be/images/events/detail/kaarijawebsite.png",
-        "Location": "Trix",
-        "Description": "De Finse sensatie K\u00E4\u00E4rij\u00E4, bekend van zijn wereldhit \u0022Cha Cha Cha\u0022 en tweede plaats op het Eurovisie Songfestival 2023, brengt zijn EURODISKO TOUR 2026 naar Trix!",
-        "Room": "",
-        "Address": "Noordersingel 28-30, 2140 Antwerpen",
-        "Latitude": "51.2255",
-        "Longitude": "4.4437"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "VaartKapoenScraper",
@@ -2726,9 +2703,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:04.8913256Z",
-    "StartedAt": "2026-06-30T14:00:00.3390018Z",
-    "FinishedAt": "2026-06-30T14:00:04.8913218Z",
+    "RunTime": "2026-06-30T18:00:05.4148682Z",
+    "StartedAt": "2026-06-30T18:00:00.3667693Z",
+    "FinishedAt": "2026-06-30T18:00:05.4148642Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -2842,9 +2819,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:01:28.2571749Z",
-    "StartedAt": "2026-06-30T14:00:00.3391035Z",
-    "FinishedAt": "2026-06-30T14:01:28.2571708Z",
+    "RunTime": "2026-06-30T18:01:28.1637418Z",
+    "StartedAt": "2026-06-30T18:00:00.3668459Z",
+    "FinishedAt": "2026-06-30T18:01:28.1637382Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -2968,9 +2945,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-06-30T14:00:01.4132598Z",
-    "StartedAt": "2026-06-30T14:00:00.339189Z",
-    "FinishedAt": "2026-06-30T14:00:01.4132557Z",
+    "RunTime": "2026-06-30T18:00:01.1649444Z",
+    "StartedAt": "2026-06-30T18:00:00.3669295Z",
+    "FinishedAt": "2026-06-30T18:00:01.1649399Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   }
