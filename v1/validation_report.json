@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-29T05:00:04.3187542Z",
-  "ValidatedAt": "2026-06-29T05:00:04.3187543Z",
-  "TotalScrapers": 30,
-  "TotalEvents": 2244,
+  "GeneratedAt": "2026-06-30T05:00:00.5517988Z",
+  "ValidatedAt": "2026-06-30T05:00:00.5517988Z",
+  "TotalScrapers": 31,
+  "TotalEvents": 2378,
   "TotalErrors": 0,
-  "TotalWarnings": 870,
+  "TotalWarnings": 874,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 180,
+      "TotalEvents": 181,
       "ErrorCount": 0,
-      "WarningCount": 180,
+      "WarningCount": 181,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Elvis Costello & The Imposters with Charlie Sexton",
-          "EventDate": "2026-06-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/elvis-costello-the-imposters-with-charlie-sexton/a10Qw00000H7cQ9IAJ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-29T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Burning Spear + Roots Warriors",
           "EventDate": "2026-07-02T00:00:00.0000000",
@@ -598,19 +585,6 @@
           ]
         },
         {
-          "EventTitle": "gala dragot",
-          "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-08T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Courtney Barnett + Body Type",
           "EventDate": "2026-10-08T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
@@ -624,9 +598,22 @@
           ]
         },
         {
-          "EventTitle": "Ultra Vomit",
+          "EventTitle": "gala dragot",
+          "EventDate": "2026-10-08T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-08T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nectar Woode",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -637,9 +624,9 @@
           ]
         },
         {
-          "EventTitle": "Nectar Woode",
+          "EventTitle": "Ultra Vomit",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
           "Issues": [
             {
               "Field": "DateString",
@@ -949,6 +936,19 @@
           ]
         },
         {
+          "EventTitle": "Lane 8",
+          "EventDate": "2026-10-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lane-8/a10Qw00000IzS53IAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Elmer",
           "EventDate": "2026-10-30T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/elmer/a10Qw000008tjnvIAA",
@@ -1079,9 +1079,9 @@
           ]
         },
         {
-          "EventTitle": "Water Damage",
+          "EventTitle": "Peet",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -1092,9 +1092,9 @@
           ]
         },
         {
-          "EventTitle": "Peet",
+          "EventTitle": "Water Damage + Christina Carter & Jeffrey Alexander",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1807,6 +1807,19 @@
           ]
         },
         {
+          "EventTitle": "Passi & Neg' Marrons",
+          "EventDate": "2026-12-19T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/passi-neg-marrons/a10Qw00000HQ1rWIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Suzane",
           "EventDate": "2027-01-14T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/suzane/a10Qw00000G0L1hIAF",
@@ -2362,6 +2375,43 @@
               "Description": "Event has no start time — only a date was scraped: '2027-06-12T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-06-12T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScraperId": "Botanique",
+      "ScraperName": "BotaniqueScraper",
+      "VenueName": "Botanique, Brussels",
+      "TotalEvents": 175,
+      "ErrorCount": 0,
+      "WarningCount": 2,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Chinese American Bear",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
             }
           ]
         }
@@ -6369,15 +6419,15 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Great Gigs in the Park / Monza (try-out) + Camilo Donoso",
-          "EventDate": "2026-06-29T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-monza-try-out/",
+          "EventTitle": "België - Senegal",
+          "EventDate": "2026-07-01T00:00:00",
+          "EventUrl": "https://decasino.be/concert/belgie-senegal/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-29T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-01T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-06-29T00:00:00"
+              "ActualValue": "2026-07-01T00:00:00"
             }
           ]
         },
@@ -7063,7 +7113,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 95,
+      "TotalEvents": 96,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8120,9 +8170,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 72,
+      "TotalEvents": 73,
       "ErrorCount": 0,
-      "WarningCount": 72,
+      "WarningCount": 73,
       "Issues": [],
       "EventDetails": [
         {
@@ -8668,6 +8718,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-29'.",
               "Severity": 1,
               "ActualValue": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jamie Woon Solo",
+          "EventDate": "2026-11-03",
+          "EventUrl": "https://www.democrazy.be/agenda/3234-jamie-woon-solo/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03"
             }
           ]
         },
@@ -9975,7 +10038,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 74,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11400,7 +11463,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 75,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11468,9 +11531,9 @@
           ]
         },
         {
-          "EventTitle": "Secrètes Sessions",
+          "EventTitle": "Secrètes Sessions | FrancoFaune",
           "EventDate": "2026-10-06T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/secretes-sessions",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/secretes-sessions-francofaune",
           "Issues": [
             {
               "Field": "DateString",
