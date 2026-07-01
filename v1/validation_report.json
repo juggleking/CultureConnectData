@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-06-30T05:00:00.5517988Z",
-  "ValidatedAt": "2026-06-30T05:00:00.5517988Z",
+  "GeneratedAt": "2026-07-01T05:00:00.6841972Z",
+  "ValidatedAt": "2026-07-01T05:00:00.6841972Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2378,
+  "TotalEvents": 2398,
   "TotalErrors": 0,
-  "TotalWarnings": 874,
+  "TotalWarnings": 876,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 181,
+      "TotalEvents": 182,
       "ErrorCount": 0,
-      "WarningCount": 181,
+      "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
         {
@@ -2236,6 +2236,19 @@
           ]
         },
         {
+          "EventTitle": "Izïa",
+          "EventDate": "2027-03-16T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/izia/a10Qw00000IX4bxIAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: Hatik",
           "EventDate": "2027-03-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-hatik/a10Qw00000620DQIAY",
@@ -2384,7 +2397,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 175,
+      "TotalEvents": 176,
       "ErrorCount": 0,
       "WarningCount": 2,
       "Issues": [],
@@ -2421,9 +2434,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 65,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
         {
@@ -2583,9 +2596,9 @@
           ]
         },
         {
-          "EventTitle": "Benenwerk",
+          "EventTitle": "Rooftop Street Food #5: RØK",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
           "Issues": [
             {
               "Field": "DateString",
@@ -2596,9 +2609,9 @@
           ]
         },
         {
-          "EventTitle": "Rooftop Street Food #5: RØK",
+          "EventTitle": "Benenwerk",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
           "Issues": [
             {
               "Field": "DateString",
@@ -2696,6 +2709,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-03T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "John Carroll Kirby",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/john-carroll-kirby",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
             }
           ]
         },
@@ -4710,7 +4736,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 146,
+      "TotalEvents": 147,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7113,7 +7139,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 96,
+      "TotalEvents": 95,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7194,9 +7220,9 @@
           ]
         },
         {
-          "EventTitle": "People are Strage",
+          "EventTitle": "People are Strange",
           "EventDate": "2026-09-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/people-are-strage-j46q",
+          "EventUrl": "https://www.despil.be/agenda/people-are-strange-j46q",
           "Issues": [
             {
               "Field": "DateString",
@@ -7817,144 +7843,144 @@
         },
         {
           "EventTitle": "Els De Schepper | (B)ENGEL",
-          "EventDate": "2026-04-02T00:00:00.0000000",
+          "EventDate": "2027-04-02T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/els-de-schepper--bengel?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-02T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-02T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-02T00:00:00.0000000"
+              "ActualValue": "2027-04-02T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Dottermans, Dex & Croonenberghs - Vrouwen zingen Tura",
-          "EventDate": "2026-04-03T00:00:00.0000000",
+          "EventDate": "2027-04-03T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/dottermans-dex-and-croonenberghs---vrouwen-zingen-tura?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-03T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-03T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-03T00:00:00.0000000"
+              "ActualValue": "2027-04-03T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "FILM - PARELKERKE",
-          "EventDate": "2026-04-08T00:00:00.0000000",
+          "EventDate": "2027-04-08T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/film---parelkerke?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-08T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-08T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-08T00:00:00.0000000"
+              "ActualValue": "2027-04-08T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Filip Peeters & tourneuse de pages An Miller | Van van Beethoven",
-          "EventDate": "2026-04-09T00:00:00.0000000",
+          "EventDate": "2027-04-09T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/filip-peeters-and-tourneuse-de-pages-an-miller--van-van-beethoven?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-09T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-09T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-09T00:00:00.0000000"
+              "ActualValue": "2027-04-09T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "FILM - PARELKERKE",
-          "EventDate": "2026-04-10T00:00:00.0000000",
+          "EventDate": "2027-04-10T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/activiteiten/detail/10249/film-parelkerke?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-10T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-10T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-10T00:00:00.0000000"
+              "ActualValue": "2027-04-10T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Raymond van het Groenewoud | ARCHIVARIS",
-          "EventDate": "2026-04-16T00:00:00.0000000",
+          "EventDate": "2027-04-16T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/raymond-van-het-groenewoud--archivaris?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-16T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-16T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-16T00:00:00.0000000"
+              "ActualValue": "2027-04-16T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Fanny Oplinus & Daan Hugaert - Parle Moi D'Amour",
-          "EventDate": "2026-04-20T00:00:00.0000000",
+          "EventDate": "2027-04-20T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/fanny-oplinus-and-daan-hugaert---parle-moi-damour?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-20T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-20T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-20T00:00:00.0000000"
+              "ActualValue": "2027-04-20T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Han Solo | Psycho Solo - Lof der zotheid",
-          "EventDate": "2026-04-22T00:00:00.0000000",
+          "EventDate": "2027-04-22T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/han-solo--psycho-solo---lof-der-zotheid?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-22T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-22T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-22T00:00:00.0000000"
+              "ActualValue": "2027-04-22T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Pieter Verelst | Altijd Aan",
-          "EventDate": "2026-04-24T00:00:00.0000000",
+          "EventDate": "2027-04-24T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/pieter-verelst--altijd-aan-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-24T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-24T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-24T00:00:00.0000000"
+              "ActualValue": "2027-04-24T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Will Tura by El Bandido - 85 jaar Will Tura",
-          "EventDate": "2026-04-29T00:00:00.0000000",
+          "EventDate": "2027-04-29T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/will-tura-by-el-bandido---85-jaar-will-tura-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-29T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-29T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-29T00:00:00.0000000"
+              "ActualValue": "2027-04-29T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "MARS 2064",
-          "EventDate": "2026-04-30T00:00:00.0000000",
+          "EventDate": "2027-04-30T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/mars-2064?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-04-30T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-30T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-04-30T00:00:00.0000000"
+              "ActualValue": "2027-04-30T00:00:00.0000000"
             }
           ]
         },
@@ -8094,24 +8120,11 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 5,
+      "TotalEvents": 4,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 4,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "POISON RUÏN + Sportweekend",
-          "EventDate": "2026-06-30T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/256-poison-ruin/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-30T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-06-30T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "DRESSED LIKE BOYS",
           "EventDate": "2026-07-01T00:00:00",
@@ -8170,9 +8183,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 73,
+      "TotalEvents": 74,
       "ErrorCount": 0,
-      "WarningCount": 73,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
         {
@@ -8436,7 +8449,7 @@
           ]
         },
         {
-          "EventTitle": "YAELOKRE",
+          "EventTitle": "YAELOKRE - + Ben Caplan",
           "EventDate": "2026-10-07",
           "EventUrl": "https://www.democrazy.be/agenda/3219-yaelokre/",
           "Issues": [
@@ -8445,6 +8458,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
               "Severity": 1,
               "ActualValue": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Skeler",
+          "EventDate": "2026-10-08",
+          "EventUrl": "https://www.democrazy.be/agenda/3235-skeler/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-08"
             }
           ]
         },
@@ -10038,7 +10064,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 75,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11463,7 +11489,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
