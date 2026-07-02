@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-01T05:00:00.6841972Z",
-  "ValidatedAt": "2026-07-01T05:00:00.6841972Z",
-  "TotalScrapers": 31,
-  "TotalEvents": 2398,
+  "GeneratedAt": "2026-07-02T05:00:00.3867561Z",
+  "ValidatedAt": "2026-07-02T05:00:00.3867562Z",
+  "TotalScrapers": 30,
+  "TotalEvents": 2253,
   "TotalErrors": 0,
-  "TotalWarnings": 876,
+  "TotalWarnings": 874,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -559,9 +559,9 @@
           ]
         },
         {
-          "EventTitle": "Jalen Ngonda + Brooke Combe",
+          "EventTitle": "Cory Hanson + Cole Berliner",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -572,9 +572,9 @@
           ]
         },
         {
-          "EventTitle": "Cory Hanson + Cole Berliner",
+          "EventTitle": "Jalen Ngonda + Brooke Combe",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -2394,53 +2394,16 @@
       ]
     },
     {
-      "ScraperId": "Botanique",
-      "ScraperName": "BotaniqueScraper",
-      "VenueName": "Botanique, Brussels",
-      "TotalEvents": 176,
-      "ErrorCount": 0,
-      "WarningCount": 2,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Chinese American Bear",
-          "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 66,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 66,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Rooftop Street Food #1: Wuakmole",
+          "EventTitle": "Rooftop Street Food #1: Wuakmole + Dj Fallos",
           "EventDate": "2026-07-04T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/wuakmole",
           "Issues": [
@@ -2709,6 +2672,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-03T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Humo's Rock Rally 2026 - Voorronde West-Vlaanderen",
+          "EventDate": "2026-09-18T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/humos-rock-rally-2026-voorronde-wv",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-18T00:00:00.0000000"
             }
           ]
         },
@@ -3323,9 +3299,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 88,
+      "TotalEvents": 89,
       "ErrorCount": 0,
-      "WarningCount": 88,
+      "WarningCount": 89,
       "Issues": [],
       "EventDetails": [
         {
@@ -3988,6 +3964,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-28'.",
               "Severity": 1,
               "ActualValue": "2027-01-28"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Preuteleute - V (try-out)",
+          "EventDate": "2027-01-30",
+          "EventUrl": "https://cczoetegem.be/programma/preuteleute-v-tryout.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-30'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-30"
             }
           ]
         },
@@ -4736,7 +4725,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 147,
+      "TotalEvents": 148,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6439,24 +6428,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "België - Senegal",
-          "EventDate": "2026-07-01T00:00:00",
-          "EventUrl": "https://decasino.be/concert/belgie-senegal/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-01T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-01T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / The Sheila Divine + Lightspeed",
           "EventDate": "2026-07-02T00:00:00",
@@ -6497,7 +6473,7 @@
           ]
         },
         {
-          "EventTitle": "Great Gigs in the Park / Steppin' Tone + Dub-Up HiFi Soundsystem",
+          "EventTitle": "Great Gigs in the Park / Steppin' Tone + Dub-Up HiFi",
           "EventDate": "2026-07-05T00:00:00",
           "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-steppin-tone-2/",
           "Issues": [
@@ -8120,24 +8096,11 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 4,
+      "TotalEvents": 3,
       "ErrorCount": 0,
-      "WarningCount": 4,
+      "WarningCount": 3,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "DRESSED LIKE BOYS",
-          "EventDate": "2026-07-01T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/260-dressed-like-boys/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-01T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-01T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "CAMILO DONOSO",
           "EventDate": "2026-07-30T00:00:00",
@@ -10064,7 +10027,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 77,
+      "TotalEvents": 76,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10074,7 +10037,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 155,
+      "TotalEvents": 157,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10186,9 +10149,9 @@
           ]
         },
         {
-          "EventTitle": "Elvis Costello & The Imposters with Charlie Sexton",
+          "EventTitle": "Triggerfinger",
           "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/elvis-costello-the-imposters-with-charlie-sexton",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/triggerfinger",
           "Issues": [
             {
               "Field": "DateString",
@@ -11439,7 +11402,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 244,
+      "TotalEvents": 243,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11489,7 +11452,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
