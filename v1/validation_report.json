@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-02T05:00:00.3867561Z",
-  "ValidatedAt": "2026-07-02T05:00:00.3867562Z",
-  "TotalScrapers": 30,
-  "TotalEvents": 2253,
+  "GeneratedAt": "2026-07-03T05:00:00.3800264Z",
+  "ValidatedAt": "2026-07-03T05:00:00.3800265Z",
+  "TotalScrapers": 31,
+  "TotalEvents": 2386,
   "TotalErrors": 0,
-  "TotalWarnings": 874,
+  "TotalWarnings": 875,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 182,
+      "TotalEvents": 181,
       "ErrorCount": 0,
-      "WarningCount": 182,
+      "WarningCount": 181,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Burning Spear + Roots Warriors",
-          "EventDate": "2026-07-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/burning-spear/a10Qw00000FBLTZIA5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Impro 'Night Aladar",
           "EventDate": "2026-07-03T00:00:00.0000000",
@@ -2394,6 +2381,43 @@
       ]
     },
     {
+      "ScraperId": "Botanique",
+      "ScraperName": "BotaniqueScraper",
+      "VenueName": "Botanique, Brussels",
+      "TotalEvents": 177,
+      "ErrorCount": 0,
+      "WarningCount": 2,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Chinese American Bear",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
@@ -4725,7 +4749,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 148,
+      "TotalEvents": 149,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5661,9 +5685,9 @@
           ]
         },
         {
-          "EventTitle": "Roiteklasjen voor kinderen (voormiddag)",
+          "EventTitle": "Roiteklasjen voor kinderen (namiddag)",
           "EventDate": "2027-01-09",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-voormiddag/8590/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-namiddag/7764/",
           "Issues": [
             {
               "Field": "DateString",
@@ -5674,9 +5698,22 @@
           ]
         },
         {
-          "EventTitle": "Roiteklasjen voor kinderen (namiddag)",
+          "EventTitle": "Pop-up expo Anja Deilgat",
+          "EventDate": "2027-01-05",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Roiteklasjen voor kinderen (voormiddag)",
           "EventDate": "2027-01-09",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-namiddag/7764/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-voormiddag/8590/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6296,19 +6333,6 @@
               "ActualValue": "2027-03-10"
             }
           ]
-        },
-        {
-          "EventTitle": "Not Standing / Alexander Vantournhout",
-          "EventDate": "2027-03-11",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/not-standing-alexander-vantournhout/9904/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-11'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-11"
-            }
-          ]
         }
       ]
     },
@@ -6434,19 +6458,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Great Gigs in the Park / The Sheila Divine + Lightspeed",
-          "EventDate": "2026-07-02T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-the-sheila-divine/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02T00:00:00"
-            }
-          ]
-        },
-        {
           "EventTitle": "Great Gigs in the Park / Danny Vera + Jan Bas",
           "EventDate": "2026-07-03T00:00:00",
           "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-danny-vera/",
@@ -6482,6 +6493,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-05T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-07-05T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Verenigde Staten - België",
+          "EventDate": "2026-07-07T00:00:00",
+          "EventUrl": "https://decasino.be/concert/verenigde-staten-belgie/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-07T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-07T00:00:00"
             }
           ]
         },
@@ -8997,7 +9021,7 @@
           ]
         },
         {
-          "EventTitle": "The Selecter",
+          "EventTitle": "The Selecter + Mise En Scene - Voor fans van The Specials, Madness, The Beat en Bad Manners",
           "EventDate": "2026-12-18",
           "EventUrl": "https://www.democrazy.be/agenda/3174-the-selecter/",
           "Issues": [
@@ -10027,7 +10051,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 76,
+      "TotalEvents": 78,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11402,7 +11426,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 243,
+      "TotalEvents": 242,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11452,7 +11476,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 75,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
