@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-07-03T05:00:00.3800264Z",
-  "ValidatedAt": "2026-07-03T05:00:00.3800265Z",
+  "GeneratedAt": "2026-07-04T05:00:00.3911187Z",
+  "ValidatedAt": "2026-07-04T05:00:00.3911187Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2386,
+  "TotalEvents": 2419,
   "TotalErrors": 0,
-  "TotalWarnings": 875,
+  "TotalWarnings": 877,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 16,
+      "TotalEvents": 15,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -25,19 +25,6 @@
       "WarningCount": 181,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Impro 'Night Aladar",
-          "EventDate": "2026-07-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/impro-night-aladar/a10Qw00000HkEhJIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "New date: Ghinzu",
           "EventDate": "2026-07-07T00:00:00.0000000",
@@ -1248,7 +1235,7 @@
           ]
         },
         {
-          "EventTitle": "PRESIDENT",
+          "EventTitle": "PRESIDENT + Vianova, Dreamwake",
           "EventDate": "2026-11-16T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/president/a10Qw00000Fj5NtIAJ",
           "Issues": [
@@ -2050,6 +2037,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-14T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-02-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ezra Collective + Joy Anonymous",
+          "EventDate": "2027-02-16T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ezra-collective/a10Qw00000Fd1LNIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-16T00:00:00.0000000"
             }
           ]
         },
@@ -4491,9 +4491,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 19,
+      "TotalEvents": 20,
       "ErrorCount": 0,
-      "WarningCount": 19,
+      "WarningCount": 20,
       "Issues": [],
       "EventDetails": [
         {
@@ -4532,6 +4532,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-09'.",
               "Severity": 1,
               "ActualValue": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Fence + Bed Rugs",
+          "EventDate": "2026-10-16",
+          "EventUrl": "https://aff.be/events/fence/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16"
             }
           ]
         },
@@ -4749,7 +4762,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 149,
+      "TotalEvents": 150,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6458,19 +6471,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Great Gigs in the Park / Danny Vera + Jan Bas",
-          "EventDate": "2026-07-03T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-danny-vera/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03T00:00:00"
-            }
-          ]
-        },
-        {
           "EventTitle": "Great Gigs in the Park / Prins S. en De Geit + Willy Organ (Farewell gig)",
           "EventDate": "2026-07-04T00:00:00",
           "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-prins-s-en-de-geit/",
@@ -6497,7 +6497,7 @@
           ]
         },
         {
-          "EventTitle": "Verenigde Staten - België",
+          "EventTitle": "USA - België",
           "EventDate": "2026-07-07T00:00:00",
           "EventUrl": "https://decasino.be/concert/verenigde-staten-belgie/",
           "Issues": [
@@ -6805,6 +6805,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-10-28T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Sheila Divine + Lightspeed",
+          "EventDate": "2026-10-29T00:00:00",
+          "EventUrl": "https://decasino.be/concert/the-sheila-divine-lightspeed/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29T00:00:00"
             }
           ]
         },
@@ -10051,7 +10064,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 78,
+      "TotalEvents": 79,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10071,7 +10084,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 24,
+      "TotalEvents": 25,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10693,9 +10706,9 @@
           ]
         },
         {
-          "EventTitle": "The Warning",
+          "EventTitle": "Alice Mae",
           "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-warning",
+          "EventUrl": "https://www.rockwerchter.be/nl/acts/alice-mae",
           "Issues": [
             {
               "Field": "DateString",
@@ -11426,7 +11439,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 242,
+      "TotalEvents": 241,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11476,7 +11489,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11486,9 +11499,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 14,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
         {
@@ -11566,6 +11579,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-13T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-10-13T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MC Luanna",
+          "EventDate": "2026-10-22T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/mc-luanna",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22T22:00:00Z"
             }
           ]
         },
