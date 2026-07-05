@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-07-04T05:00:00.3911187Z",
-  "ValidatedAt": "2026-07-04T05:00:00.3911187Z",
+  "GeneratedAt": "2026-07-05T05:00:00.3965077Z",
+  "ValidatedAt": "2026-07-05T05:00:00.3965077Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2419,
+  "TotalEvents": 2416,
   "TotalErrors": 0,
-  "TotalWarnings": 877,
+  "TotalWarnings": 876,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6465,24 +6465,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 52,
+      "TotalEvents": 51,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 51,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Prins S. en De Geit + Willy Organ (Farewell gig)",
-          "EventDate": "2026-07-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-prins-s-en-de-geit/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-04T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-04T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Great Gigs in the Park / Steppin' Tone + Dub-Up HiFi",
           "EventDate": "2026-07-05T00:00:00",
@@ -11439,7 +11426,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 241,
+      "TotalEvents": 240,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
