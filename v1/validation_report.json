@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-05T05:00:00.3965077Z",
-  "ValidatedAt": "2026-07-05T05:00:00.3965077Z",
+  "GeneratedAt": "2026-07-06T05:00:00.429911Z",
+  "ValidatedAt": "2026-07-06T05:00:00.429911Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2416,
+  "TotalEvents": 2383,
   "TotalErrors": 0,
-  "TotalWarnings": 876,
+  "TotalWarnings": 875,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2421,24 +2421,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Rooftop Street Food #1: Wuakmole + Dj Fallos",
-          "EventDate": "2026-07-04T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/wuakmole",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-04T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Cactusfestival 2026",
           "EventDate": "2026-07-10T00:00:00.0000000",
@@ -3420,7 +3407,7 @@
           ]
         },
         {
-          "EventTitle": "Michael Van Peel - Farce Majeure - LAATSTE KAARTEN!",
+          "EventTitle": "Michael Van Peel - Farce Majeure - UITVERKOCHT!",
           "EventDate": "2026-10-08",
           "EventUrl": "https://cczoetegem.be/programma/michael-van-peel-farce-majeure.aspx",
           "Issues": [
@@ -6353,7 +6340,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 92,
+      "TotalEvents": 91,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6465,24 +6452,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 51,
+      "TotalEvents": 50,
       "ErrorCount": 0,
-      "WarningCount": 51,
+      "WarningCount": 50,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Great Gigs in the Park / Steppin' Tone + Dub-Up HiFi",
-          "EventDate": "2026-07-05T00:00:00",
-          "EventUrl": "https://decasino.be/concert/great-gigs-in-the-park-steppin-tone-2/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-05T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-05T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "USA - België",
           "EventDate": "2026-07-07T00:00:00",
@@ -11426,7 +11400,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 240,
+      "TotalEvents": 239,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11476,7 +11450,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11486,9 +11460,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
         {
@@ -11501,6 +11475,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-07-09T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-07-09T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Os Garotin",
+          "EventDate": "2026-09-14T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/os-garotin",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-14T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-14T22:00:00Z"
             }
           ]
         },
