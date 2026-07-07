@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-07-06T05:00:00.429911Z",
-  "ValidatedAt": "2026-07-06T05:00:00.429911Z",
+  "GeneratedAt": "2026-07-07T05:00:00.7765112Z",
+  "ValidatedAt": "2026-07-07T05:00:00.7765113Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2383,
+  "TotalEvents": 2387,
   "TotalErrors": 0,
   "TotalWarnings": 875,
   "Results": [
@@ -2421,9 +2421,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 66,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 66,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
         {
@@ -2735,6 +2735,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-24T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Only The Poets",
+          "EventDate": "2026-09-27T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27T00:00:00.0000000"
             }
           ]
         },
@@ -9117,24 +9130,11 @@
       "ScraperId": "HaConcerts",
       "ScraperName": "HaConcertsScraper",
       "VenueName": "Ha Concerts, Gent",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
-      "WarningCount": 69,
+      "WarningCount": 68,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jazz Camp for Girls (10-14 jaar)",
-          "EventDate": "2026-07-06T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/jazz-camp-for-girls-10-14-jaar-06-07-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-06T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Boomtown: Tiny Salsa",
           "EventDate": "2026-07-18T00:00:00.0000000",
@@ -11689,7 +11689,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 56,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
