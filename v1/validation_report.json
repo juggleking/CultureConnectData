@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-07-08T05:00:00.3878854Z",
-  "ValidatedAt": "2026-07-08T05:00:00.3878855Z",
-  "TotalScrapers": 31,
-  "TotalEvents": 2409,
+  "GeneratedAt": "2026-07-09T05:00:06.0171565Z",
+  "ValidatedAt": "2026-07-09T05:00:06.0171566Z",
+  "TotalScrapers": 30,
+  "TotalEvents": 2274,
   "TotalErrors": 0,
-  "TotalWarnings": 879,
+  "TotalWarnings": 877,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 14,
+      "TotalEvents": 13,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -1040,9 +1040,9 @@
           ]
         },
         {
-          "EventTitle": "Peet",
+          "EventTitle": "Water Damage + Christina Carter & Jeffrey Alexander",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1053,9 +1053,9 @@
           ]
         },
         {
-          "EventTitle": "Water Damage + Christina Carter & Jeffrey Alexander",
+          "EventTitle": "Peet",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -2375,43 +2375,6 @@
               "Description": "Event has no start time — only a date was scraped: '2027-06-12T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-06-12T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ScraperId": "Botanique",
-      "ScraperName": "BotaniqueScraper",
-      "VenueName": "Botanique, Brussels",
-      "TotalEvents": 180,
-      "ErrorCount": 0,
-      "WarningCount": 2,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Chinese American Bear",
-          "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/chinese-american-bear-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
             }
           ]
         }
@@ -4762,7 +4725,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 151,
+      "TotalEvents": 152,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11439,7 +11402,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 239,
+      "TotalEvents": 238,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11489,7 +11452,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11731,7 +11694,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 53,
+      "TotalEvents": 54,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
