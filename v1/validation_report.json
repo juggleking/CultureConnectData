@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-09T05:00:06.0171565Z",
-  "ValidatedAt": "2026-07-09T05:00:06.0171566Z",
-  "TotalScrapers": 30,
-  "TotalEvents": 2274,
+  "GeneratedAt": "2026-07-10T05:00:00.5304082Z",
+  "ValidatedAt": "2026-07-10T05:00:00.5304082Z",
+  "TotalScrapers": 31,
+  "TotalEvents": 2461,
   "TotalErrors": 0,
-  "TotalWarnings": 877,
+  "TotalWarnings": 878,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 181,
+      "TotalEvents": 182,
       "ErrorCount": 0,
-      "WarningCount": 181,
+      "WarningCount": 182,
       "Issues": [],
       "EventDetails": [
         {
@@ -191,6 +191,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-19T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Street Sounds met Bankra Bike Sound System & Sound of Brussels Orchestra",
+          "EventDate": "2026-09-20T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/street-sounds-met-bankra-bike-sound-system-sound-of-brussels-orchestra/a10Qw000000VkBRIA0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-20T00:00:00.0000000"
             }
           ]
         },
@@ -2381,6 +2394,30 @@
       ]
     },
     {
+      "ScraperId": "Botanique",
+      "ScraperName": "BotaniqueScraper",
+      "VenueName": "Botanique, Brussels",
+      "TotalEvents": 184,
+      "ErrorCount": 0,
+      "WarningCount": 1,
+      "Issues": [],
+      "EventDetails": [
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
@@ -3286,24 +3323,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 89,
+      "TotalEvents": 88,
       "ErrorCount": 0,
-      "WarningCount": 89,
+      "WarningCount": 88,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Feest van de Vlaamse Gemeenschap - Aaron Blommaert",
-          "EventDate": "2026-07-09",
-          "EventUrl": "https://cczoetegem.be/programma/feest-van-de-vlaamse-gemeenschap-aaron-blommaert.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-09'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-09"
-            }
-          ]
-        },
         {
           "EventTitle": "Openingsfilm Ciné Local - Dust",
           "EventDate": "2026-09-22",
@@ -4725,7 +4749,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 152,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10037,7 +10061,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 157,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11402,7 +11426,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 238,
+      "TotalEvents": 237,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
