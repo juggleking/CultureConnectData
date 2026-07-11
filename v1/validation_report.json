@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-10T05:00:00.5304082Z",
-  "ValidatedAt": "2026-07-10T05:00:00.5304082Z",
+  "GeneratedAt": "2026-07-11T05:00:05.090621Z",
+  "ValidatedAt": "2026-07-11T05:00:05.0906211Z",
   "TotalScrapers": 31,
-  "TotalEvents": 2461,
+  "TotalEvents": 2448,
   "TotalErrors": 0,
-  "TotalWarnings": 878,
+  "TotalWarnings": 880,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 182,
+      "TotalEvents": 186,
       "ErrorCount": 0,
-      "WarningCount": 182,
+      "WarningCount": 186,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Showcase Artist in Residence: All-Turn",
-          "EventDate": "2026-07-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/showcase-artist-in-residence-all-turn/a10Qw00000Ig3NKIAZ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "De Kleine Boterhammen presenteert Floris Francis Arthur (Band)",
           "EventDate": "2026-07-11T00:00:00.0000000",
@@ -702,6 +689,19 @@
           ]
         },
         {
+          "EventTitle": "BCUC",
+          "EventDate": "2026-10-14T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bcuc/a10Qw00000J6HODIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Benjamin Biolay",
           "EventDate": "2026-10-15T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/benjamin-biolay/a10Qw00000AqemoIAB",
@@ -793,9 +793,35 @@
           ]
         },
         {
+          "EventTitle": "NUPS3E",
+          "EventDate": "2026-10-20T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nups3e/a10Qw00000FyL7NIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Miki",
           "EventDate": "2026-10-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/miki/a10Qw00000BBfUYIA1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MAQUINA.",
+          "EventDate": "2026-10-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/maquina/a10Qw00000GkdI5IAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1218,6 +1244,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-14T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "KETCLUB: JEN",
+          "EventDate": "2026-11-15T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ketclub-jen/a10Qw000001hckeIAA",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15T00:00:00.0000000"
             }
           ]
         },
@@ -2067,6 +2106,19 @@
           ]
         },
         {
+          "EventTitle": "Ezra Collective + Joy Anonymous",
+          "EventDate": "2027-02-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ezra-collective/a10Qw00000Fd1LOIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Alice Mae",
           "EventDate": "2027-02-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/alice-mae/a10Qw00000FRfw6IAD",
@@ -2421,41 +2473,28 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
         {
           "EventTitle": "Cactusfestival 2026",
-          "EventDate": "2026-07-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Cactusfestival-2026-10-07",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tommy Sunshine",
-          "EventDate": "2026-07-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Cactusfestival 2026",
           "EventDate": "2026-07-11T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Cactusfestival-2026-11.07",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Soulmotion DJ + Oh Deer",
+          "EventDate": "2026-07-11T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be",
           "Issues": [
             {
               "Field": "DateString",
@@ -4749,7 +4788,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 153,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6452,24 +6491,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 52,
+      "TotalEvents": 51,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 51,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Spanje - België",
-          "EventDate": "2026-07-10T00:00:00",
-          "EventUrl": "https://decasino.be/concert/spanje-belgie/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-10T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Dikke (try-out)",
           "EventDate": "2026-08-18T00:00:00",
@@ -7155,32 +7181,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "zomerkamp",
-          "EventDate": "2026-07-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/zomerkamp-q87d",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "zomerkamp",
-          "EventDate": "2026-07-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/zomerkamp-lp3s",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Openluchtfilm",
           "EventDate": "2026-08-18T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/openluchtfilm-nrlb",
@@ -7242,6 +7242,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-08T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "An evening with Alex Agnew",
+          "EventDate": "2026-09-09T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/an-evening-with-alex-agnew-m9v5",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Andere Film",
+          "EventDate": "2026-09-15T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/de-andere-film-nrg5",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-15T00:00:00.0000000"
             }
           ]
         }
@@ -10051,7 +10077,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 79,
+      "TotalEvents": 78,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10061,7 +10087,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 160,
+      "TotalEvents": 161,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11426,7 +11452,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 237,
+      "TotalEvents": 236,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11476,7 +11502,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 75,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
