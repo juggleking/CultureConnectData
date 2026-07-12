@@ -1,16 +1,16 @@
 {
-  "Version": "2026.07.12.1401",
-  "GeneratedAt": "2026-07-12T14:01:31.9690565Z",
-  "StartedAt": "2026-07-12T14:00:00.8815707Z",
-  "FinishedAt": "2026-07-12T14:01:31.7322727Z",
-  "LastUploadAt": "2026-07-12T14:01:31.9787706Z",
+  "Version": "2026.07.12.1655",
+  "GeneratedAt": "2026-07-12T15:09:01.9125128Z",
+  "StartedAt": "2026-07-12T15:07:30.9670535Z",
+  "FinishedAt": "2026-07-12T15:09:01.2559756Z",
+  "LastUploadAt": "2026-07-12T15:09:01.9476381Z",
   "Venues": [
     {
       "VenueId": "FourAD",
       "VenueName": "4AD, Diksmuide",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8864512Z",
-      "FinishedAt": "2026-07-12T14:00:02.1078512Z",
+      "StartedAt": "2026-07-12T15:07:31.5161688Z",
+      "FinishedAt": "2026-07-12T15:07:35.545307Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
       "Files": [
         {
@@ -69,8 +69,8 @@
       "VenueId": "AbConcerts",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8851783Z",
-      "FinishedAt": "2026-07-12T14:00:09.9314722Z",
+      "StartedAt": "2026-07-12T15:07:31.4354804Z",
+      "FinishedAt": "2026-07-12T15:07:41.7642166Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
       "Files": [
         {
@@ -189,8 +189,8 @@
       "VenueId": "Botanique",
       "VenueName": "Botanique, Brussels",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8854867Z",
-      "FinishedAt": "2026-07-12T14:00:06.4177871Z",
+      "StartedAt": "2026-07-12T15:07:31.4524283Z",
+      "FinishedAt": "2026-07-12T15:07:41.4695459Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
       "Files": [
         {
@@ -269,8 +269,8 @@
       "VenueId": "CactusMusic",
       "VenueName": "Cactus Muziekcentrum, Brugge",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8856244Z",
-      "FinishedAt": "2026-07-12T14:00:02.9541768Z",
+      "StartedAt": "2026-07-12T15:07:31.4611687Z",
+      "FinishedAt": "2026-07-12T15:07:34.4757234Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
       "Files": [
         {
@@ -366,11 +366,121 @@
       ]
     },
     {
+      "VenueId": "CcBrugge",
+      "VenueName": "CC Brugge",
+      "Category": "CultuurCentra",
+      "StartedAt": "2026-07-12T15:07:31.1175639Z",
+      "FinishedAt": "2026-07-12T15:07:53.8475414Z",
+      "FaviconUrl": null,
+      "Files": [
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "ccbrugge-08-2026.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-08-2026.json",
+          "Hash": "d172a0caed59048e8bf482da716a61062a06ad75e0b9142b9d5fac49599b9481",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "ccbrugge-09-2026.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-09-2026.json",
+          "Hash": "c755f53acf0677547a0b5112e68ebe3472658750f8d365a2f79a1a70adc39e8f",
+          "EventCount": 17,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "ccbrugge-10-2026.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-10-2026.json",
+          "Hash": "c7ae05f9e9c8280d3a8c92e2bf7a1f70cf604906b0ed1861af23d7c5cb8a1ff9",
+          "EventCount": 31,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "ccbrugge-11-2026.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-11-2026.json",
+          "Hash": "5eeb448d556e04cac0ac3e5f378accf17974620115c7c6ad9485ec150f03f717",
+          "EventCount": 21,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "ccbrugge-12-2026.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-12-2026.json",
+          "Hash": "f92bf3f507ce6c3c003a863267e1cb4c20c4f29727e65e56e57d0de95c9199cb",
+          "EventCount": 26,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "ccbrugge-01-2027.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-01-2027.json",
+          "Hash": "0d246bb1450a674ab658d4213579a7596ea8e2603c95479d8ff15f6dec667b14",
+          "EventCount": 19,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "ccbrugge-02-2027.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-02-2027.json",
+          "Hash": "d7b4e501306a2d7e6fa634c910f90e5d9dead22722e297664c93cada0d41e5d0",
+          "EventCount": 18,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "ccbrugge-03-2027.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-03-2027.json",
+          "Hash": "51fc84ffbe4b0e4552da5a2c13c2839a7b65538036be7bc814c35c7033959125",
+          "EventCount": 18,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "ccbrugge-04-2027.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-04-2027.json",
+          "Hash": "b8eccf0f56da23c04449a1704fe81a6a1807cd003f8d3db0d8f5ee1217377b5a",
+          "EventCount": 19,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 5,
+          "Year": 2027,
+          "FileName": "ccbrugge-05-2027.json",
+          "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-05-2027.json",
+          "Hash": "acb2e9ced8392ddc94c4491c2ddd55d0344f2c7d73c7ef5840fd9ef31e241ab6",
+          "EventCount": 10,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
       "VenueId": "SintLievensHoutem",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.8849998Z",
-      "FinishedAt": "2026-07-12T14:00:03.7991472Z",
+      "StartedAt": "2026-07-12T15:07:31.4281202Z",
+      "FinishedAt": "2026-07-12T15:07:37.6638532Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
       "Files": [
         {
@@ -429,8 +539,8 @@
       "VenueId": "CcZoetegem",
       "VenueName": "CC Zoetegem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.883212Z",
-      "FinishedAt": "2026-07-12T14:00:04.1585271Z",
+      "StartedAt": "2026-07-12T15:07:31.1268344Z",
+      "FinishedAt": "2026-07-12T15:07:36.8849856Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
       "Files": [
         {
@@ -529,8 +639,8 @@
       "VenueId": "Aff",
       "VenueName": "Club AFF / Absolutely Free Festival",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8853281Z",
-      "FinishedAt": "2026-07-12T14:00:04.9319202Z",
+      "StartedAt": "2026-07-12T15:07:31.4431751Z",
+      "FinishedAt": "2026-07-12T15:07:37.7139711Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
       "Files": [
         {
@@ -596,11 +706,131 @@
       ]
     },
     {
+      "VenueId": "Cecilia",
+      "VenueName": "Compagnie Cecilia, Gent",
+      "Category": "Theatre",
+      "StartedAt": "2026-07-12T15:07:30.9670535Z",
+      "FinishedAt": "2026-07-12T15:08:50.2672007Z",
+      "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
+      "Files": [
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "cecilia-08-2026.json",
+          "FilePath": "events/theatre/cecilia/cecilia-08-2026.json",
+          "Hash": "305cb6ad4f65e15c1356e192f8deefe7b61c253b20b6182e4be104620e592ae5",
+          "EventCount": 6,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "cecilia-11-2026.json",
+          "FilePath": "events/theatre/cecilia/cecilia-11-2026.json",
+          "Hash": "6d5bc31b7b116131eaae9540f03e032e29a2ff3828a2ba6acc97909f5a5dd770",
+          "EventCount": 21,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "cecilia-09-2026.json",
+          "FilePath": "events/theatre/cecilia/cecilia-09-2026.json",
+          "Hash": "c0c504c501ce81e09fad2a867b5947c8fc5977f30518b73016ce43d5d6c4c613",
+          "EventCount": 27,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "cecilia-10-2026.json",
+          "FilePath": "events/theatre/cecilia/cecilia-10-2026.json",
+          "Hash": "4f33a038547a8c4f7494ae175cab2fbea5ecb85dd5608e1402f7df6bd454b4ee",
+          "EventCount": 29,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "cecilia-01-2027.json",
+          "FilePath": "events/theatre/cecilia/cecilia-01-2027.json",
+          "Hash": "deed22bab1786a3554404b2b82b833814de5db9afee88c4284a06169e40c31bd",
+          "EventCount": 13,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "cecilia-02-2027.json",
+          "FilePath": "events/theatre/cecilia/cecilia-02-2027.json",
+          "Hash": "15f372fe68dbe9edb9d9fb64a75d417f2c4183412f65c8d1bf656fd35ca9dd7b",
+          "EventCount": 13,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 6,
+          "Year": 2027,
+          "FileName": "cecilia-06-2027.json",
+          "FilePath": "events/theatre/cecilia/cecilia-06-2027.json",
+          "Hash": "bd316b0df82a14669ebb4ef271807e0b1caeb8770383a6595de323e31262fe43",
+          "EventCount": 11,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 7,
+          "Year": 2027,
+          "FileName": "cecilia-07-2027.json",
+          "FilePath": "events/theatre/cecilia/cecilia-07-2027.json",
+          "Hash": "5a4d07b0372c8d4b06cc6bf00c373bfd13b3d6bccd0832fb670410f06af29af9",
+          "EventCount": 7,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "cecilia-12-2026.json",
+          "FilePath": "events/theatre/cecilia/cecilia-12-2026.json",
+          "Hash": "ddef0b53f26237b6dde8abad4b5a2ab8608dd094948bee6c97da92d570baa6b3",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "cecilia-03-2027.json",
+          "FilePath": "events/theatre/cecilia/cecilia-03-2027.json",
+          "Hash": "1d5c081516bbb7ca4a9706d326f3de92b018663ee3461b1177223e72d424ea82",
+          "EventCount": 13,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "cecilia-04-2027.json",
+          "FilePath": "events/theatre/cecilia/cecilia-04-2027.json",
+          "Hash": "77eb0820432a8faf2fb43bfd623e7222f4c57427a7eb49c68be31dd8f50e115d",
+          "EventCount": 9,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
       "VenueId": "CultuurKnokkeHeist",
       "VenueName": "Cultuur Knokke-Heist",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.8835006Z",
-      "FinishedAt": "2026-07-12T14:00:03.1155771Z",
+      "StartedAt": "2026-07-12T15:07:31.1452579Z",
+      "FinishedAt": "2026-07-12T15:07:35.3724082Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -699,8 +929,8 @@
       "VenueId": "DeWerf",
       "VenueName": "Cultuurhuis De Werf",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.8845516Z",
-      "FinishedAt": "2026-07-12T14:00:07.7212303Z",
+      "StartedAt": "2026-07-12T15:07:31.401598Z",
+      "FinishedAt": "2026-07-12T15:07:41.0950209Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
       "Files": [
         {
@@ -789,8 +1019,8 @@
       "VenueId": "Emotia",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.8846988Z",
-      "FinishedAt": "2026-07-12T14:00:04.9719522Z",
+      "StartedAt": "2026-07-12T15:07:31.409525Z",
+      "FinishedAt": "2026-07-12T15:07:38.8536205Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
       "Files": [
         {
@@ -899,8 +1129,8 @@
       "VenueId": "CultuurhuisMerelbeke",
       "VenueName": "Cultuurhuis Merelbeke",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.8833441Z",
-      "FinishedAt": "2026-07-12T14:00:27.5658321Z",
+      "StartedAt": "2026-07-12T15:07:31.1352467Z",
+      "FinishedAt": "2026-07-12T15:07:59.7100137Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
       "Files": [
         {
@@ -949,8 +1179,8 @@
       "VenueId": "DeCasino",
       "VenueName": "De Casino",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8857495Z",
-      "FinishedAt": "2026-07-12T14:00:02.8677551Z",
+      "StartedAt": "2026-07-12T15:07:31.4692138Z",
+      "FinishedAt": "2026-07-12T15:07:34.9315054Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
       "Files": [
         {
@@ -1036,11 +1266,251 @@
       ]
     },
     {
+      "VenueId": "DeRoma",
+      "VenueName": "De Roma",
+      "Category": "Concerts",
+      "StartedAt": "2026-07-12T15:07:31.4851734Z",
+      "FinishedAt": "2026-07-12T15:07:37.131408Z",
+      "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
+      "Files": [
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "deroma-08-2026.json",
+          "FilePath": "events/concerts/deroma/deroma-08-2026.json",
+          "Hash": "9798f533243a5a27c15fac89cc74171aa90ff46e4641176bface0f46c04bca6f",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "deroma-09-2026.json",
+          "FilePath": "events/concerts/deroma/deroma-09-2026.json",
+          "Hash": "9cd78b524b9bcc20779bd9d4b1ca041bd99bdb353002bd345baabb54e63ca707",
+          "EventCount": 37,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "deroma-10-2026.json",
+          "FilePath": "events/concerts/deroma/deroma-10-2026.json",
+          "Hash": "694c9338cfd6443cb9814be830d33a8b818fab869f2232c71007243564f6ae10",
+          "EventCount": 31,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "deroma-11-2026.json",
+          "FilePath": "events/concerts/deroma/deroma-11-2026.json",
+          "Hash": "676f2b87dd0a8f62c2e8520f11337d937ff7623d5d90df97c18c6d3c84b6617c",
+          "EventCount": 16,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "deroma-12-2026.json",
+          "FilePath": "events/concerts/deroma/deroma-12-2026.json",
+          "Hash": "125f92e9ad82322bc65825086c83683237ae0695ccb4731dbcf42bce10c605de",
+          "EventCount": 11,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "deroma-01-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-01-2027.json",
+          "Hash": "a4f2c415dfc349e4694304b7ecf02ede55111921eac0ec31b52560853956fcc3",
+          "EventCount": 8,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "deroma-02-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-02-2027.json",
+          "Hash": "cacf27a9ecd3ffa468c4896ff9d72ba2d4a842980c68316512cd0ed0cae5dabf",
+          "EventCount": 7,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "deroma-03-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-03-2027.json",
+          "Hash": "b46b8e2d92722095467f76d2cdba997816b8015529c7ce1ddc5516850edb1ca9",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "deroma-04-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-04-2027.json",
+          "Hash": "a2eaaf7e5bf429aad900cca9366afd42fb3e847db2e3681060b84e1827ce3a52",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 5,
+          "Year": 2027,
+          "FileName": "deroma-05-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-05-2027.json",
+          "Hash": "3906fb1d458046a93663176d50fa8d04386809a82e9c16b5e2905c52fa0670b8",
+          "EventCount": 3,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 6,
+          "Year": 2027,
+          "FileName": "deroma-06-2027.json",
+          "FilePath": "events/concerts/deroma/deroma-06-2027.json",
+          "Hash": "ed5c52a8b9fa3b33b620cb6f229e54df368e781601b66a81c9d375e3797711a8",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
+      "VenueId": "DeSpil",
+      "VenueName": "De Spil, Roeselare",
+      "Category": "CultuurCentra",
+      "StartedAt": "2026-07-12T15:07:31.3931456Z",
+      "FinishedAt": "2026-07-12T15:07:42.3539754Z",
+      "FaviconUrl": null,
+      "Files": [
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "despil-08-2026.json",
+          "FilePath": "events/cultuurcentra/despil/despil-08-2026.json",
+          "Hash": "cf18dc222534ec5f02a7f5caf98365409b573a5afce4a1873356edcd2f059464",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "despil-09-2026.json",
+          "FilePath": "events/cultuurcentra/despil/despil-09-2026.json",
+          "Hash": "44fcfd417fb2d0449fa5f2cf58261ca7a84e16669900bf565915e594fdce209d",
+          "EventCount": 17,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "despil-10-2026.json",
+          "FilePath": "events/cultuurcentra/despil/despil-10-2026.json",
+          "Hash": "9361e0d9568d8ae2b28b0af7cc01132390490df692d012caf31a58603b3107e5",
+          "EventCount": 27,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "despil-11-2026.json",
+          "FilePath": "events/cultuurcentra/despil/despil-11-2026.json",
+          "Hash": "f949a0e8ee301410bd47b82fd934bf4950c26d588776b19a19001d4f07e5d397",
+          "EventCount": 34,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "despil-12-2026.json",
+          "FilePath": "events/cultuurcentra/despil/despil-12-2026.json",
+          "Hash": "822f885ed9dfe406bcc92cddaf5014163d8c7fa6874848ed079d56bdb3a48c1d",
+          "EventCount": 14,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "despil-01-2027.json",
+          "FilePath": "events/cultuurcentra/despil/despil-01-2027.json",
+          "Hash": "29136ca9698c865a0b942e1ad3f60d4540fb048aa0be46180ba6b25b8c63b34d",
+          "EventCount": 10,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "despil-02-2027.json",
+          "FilePath": "events/cultuurcentra/despil/despil-02-2027.json",
+          "Hash": "338560c2a4125104e69f7827c68eeaaee910306bd4380ef0b6123bb49312bb98",
+          "EventCount": 14,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "despil-03-2027.json",
+          "FilePath": "events/cultuurcentra/despil/despil-03-2027.json",
+          "Hash": "44ee4446d1e66660eb2ee7727133b4e71897075504538d7bde66c00844b5bdd4",
+          "EventCount": 20,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "despil-04-2027.json",
+          "FilePath": "events/cultuurcentra/despil/despil-04-2027.json",
+          "Hash": "35842e25f100d6187b22fc25d61be7398c2b422b77106712f4f3a9bfdf39320f",
+          "EventCount": 8,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 5,
+          "Year": 2027,
+          "FileName": "despil-05-2027.json",
+          "FilePath": "events/cultuurcentra/despil/despil-05-2027.json",
+          "Hash": "3b970e57aac93ec2839c809e17352792b91950d93b2e205f546f7db438265803",
+          "EventCount": 4,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 6,
+          "Year": 2027,
+          "FileName": "despil-06-2027.json",
+          "FilePath": "events/cultuurcentra/despil/despil-06-2027.json",
+          "Hash": "f8d128b636d1c5fe0786b1da868223d57ce4096217fdedf73f8fdf7d28526bb0",
+          "EventCount": 9,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
       "VenueId": "Steenoven",
       "VenueName": "De Steenoven, Herzele",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.8861809Z",
-      "FinishedAt": "2026-07-12T14:00:02.4863197Z",
+      "StartedAt": "2026-07-12T15:07:31.4992444Z",
+      "FinishedAt": "2026-07-12T15:07:34.0950443Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
       "Files": [
         {
@@ -1156,11 +1626,151 @@
       ]
     },
     {
+      "VenueId": "DeZwerver",
+      "VenueName": "De Zwerver",
+      "Category": "Concerts",
+      "StartedAt": "2026-07-12T15:07:31.5079444Z",
+      "FinishedAt": "2026-07-12T15:07:33.960266Z",
+      "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
+      "Files": [
+        {
+          "Month": 7,
+          "Year": 2026,
+          "FileName": "dezwerver-07-2026.json",
+          "FilePath": "events/concerts/dezwerver/dezwerver-07-2026.json",
+          "Hash": "6535a987e4c53e8daa37035fb6c8a0806bb482bfe82cf41381398d3e29e50528",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "dezwerver-08-2026.json",
+          "FilePath": "events/concerts/dezwerver/dezwerver-08-2026.json",
+          "Hash": "9f82eb11059d251485bcc0aa2d75a84b8a34a2ea637c1d6d8666aa68440faa19",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "dezwerver-09-2026.json",
+          "FilePath": "events/concerts/dezwerver/dezwerver-09-2026.json",
+          "Hash": "5833095483f836775e6d1929edbd1cfb8125c6ed5a4649ad272224ce826b1c75",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
+      "VenueId": "Democrazy",
+      "VenueName": "Democrazy, Gent",
+      "Category": "Concerts",
+      "StartedAt": "2026-07-12T15:07:31.4767255Z",
+      "FinishedAt": "2026-07-12T15:07:57.7101897Z",
+      "FaviconUrl": "https://www.democrazy.be/favicon.ico",
+      "Files": [
+        {
+          "Month": 7,
+          "Year": 2026,
+          "FileName": "democrazy-07-2026.json",
+          "FilePath": "events/concerts/democrazy/democrazy-07-2026.json",
+          "Hash": "ff8c03bebbfd9cc7f1b7b87040b68ccbc2c1d9ab956c7f6a929eacff4d4c6f3b",
+          "EventCount": 6,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "democrazy-09-2026.json",
+          "FilePath": "events/concerts/democrazy/democrazy-09-2026.json",
+          "Hash": "91ac27fc84c81debb7657f43e547d708f2e30ff05e348ee99fb675da6e14c913",
+          "EventCount": 11,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "democrazy-10-2026.json",
+          "FilePath": "events/concerts/democrazy/democrazy-10-2026.json",
+          "Hash": "fd7347bf0aca8d6f764f2add6d426b1b4e52675d24da1205fca4090e8cd5548f",
+          "EventCount": 25,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "democrazy-11-2026.json",
+          "FilePath": "events/concerts/democrazy/democrazy-11-2026.json",
+          "Hash": "bab9d563b66700c763b113ae7531862ea577bf6e758bc5ba809a2cfa5c50858c",
+          "EventCount": 16,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "democrazy-12-2026.json",
+          "FilePath": "events/concerts/democrazy/democrazy-12-2026.json",
+          "Hash": "a7da738df052980eb6aaa417b563411dafd02495649b977273bb27b65e2079df",
+          "EventCount": 8,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "democrazy-01-2027.json",
+          "FilePath": "events/concerts/democrazy/democrazy-01-2027.json",
+          "Hash": "a71878106c4946ed57cba4b70e35f53ef8cd6e636110fb196fb5e9f65a1479e0",
+          "EventCount": 3,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "democrazy-02-2027.json",
+          "FilePath": "events/concerts/democrazy/democrazy-02-2027.json",
+          "Hash": "5ec9f5078a7c41f059972e939c7280162db9313c43e747dcc127905aee08caa8",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "democrazy-03-2027.json",
+          "FilePath": "events/concerts/democrazy/democrazy-03-2027.json",
+          "Hash": "6a4a29529d774c830caef6914dbb200c3215f35923a2023f52e19e730edda962",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "democrazy-04-2027.json",
+          "FilePath": "events/concerts/democrazy/democrazy-04-2027.json",
+          "Hash": "0ea59ecc53197ace1a14452ec61c9092c64fa5ab3bb290c55f5eec890828c2a7",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
       "VenueId": "Dour",
       "VenueName": "Dour Festival",
       "Category": "Festival",
-      "StartedAt": "2026-07-12T14:00:00.8821546Z",
-      "FinishedAt": "2026-07-12T14:00:02.4044571Z",
+      "StartedAt": "2026-07-12T15:07:31.0668196Z",
+      "FinishedAt": "2026-07-12T15:07:34.2402092Z",
       "FaviconUrl": "https://www.dourfestival.eu/favicon.ico",
       "Files": [
         {
@@ -1179,8 +1789,8 @@
       "VenueId": "Fonnefeesten",
       "VenueName": "Fonnefeesten",
       "Category": "Festival",
-      "StartedAt": "2026-07-12T14:00:00.8823014Z",
-      "FinishedAt": "2026-07-12T14:00:01.5723102Z",
+      "StartedAt": "2026-07-12T15:07:31.0757221Z",
+      "FinishedAt": "2026-07-12T15:07:33.6613312Z",
       "FaviconUrl": "https://fonnefeesten.be/favicon.ico",
       "Files": [
         {
@@ -1188,7 +1798,7 @@
           "Year": 2026,
           "FileName": "fonnefeesten-08-2026.json",
           "FilePath": "events/festival/fonnefeesten/fonnefeesten-08-2026.json",
-          "Hash": "956c547e6e803e33cddb69b04ce04a02ab2e558ce6da46251ffdc5e8477c3497",
+          "Hash": "aef1c4adb5dca11d1b0a2686ba2f56763f017af420bf66f602c912bfafa12671",
           "EventCount": 36,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1206,11 +1816,231 @@
       ]
     },
     {
+      "VenueId": "DeKluize",
+      "VenueName": "GC De Kluize, Oosterzele",
+      "Category": "CultuurCentra",
+      "StartedAt": "2026-07-12T15:07:31.1539473Z",
+      "FinishedAt": "2026-07-12T15:07:36.1996794Z",
+      "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
+      "Files": [
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "dekluize-08-2026.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-08-2026.json",
+          "Hash": "a431f81bf0d158120b88685a3f8234e854ffd9b9c7ee5cbba9da03c6715aa909",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "dekluize-09-2026.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-09-2026.json",
+          "Hash": "e379a2360a028e5b2fc5e7e3bea252834111a0a5f1ae53911b61d147335b5c12",
+          "EventCount": 4,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "dekluize-10-2026.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-10-2026.json",
+          "Hash": "cebc367bbedb5392c449ab7a98ceab2a9f29d047df7d48d254970539cc47a404",
+          "EventCount": 14,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "dekluize-11-2026.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-11-2026.json",
+          "Hash": "d8a0ad2ec248786322f48579a8472ec1edf2d49946030fc7e2dd64ff6b58c40a",
+          "EventCount": 9,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "dekluize-12-2026.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-12-2026.json",
+          "Hash": "82a8ccf9f9438b06a7167ebaeb7b86d192c6e8372c838bc5be12a6faa05c3693",
+          "EventCount": 10,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "dekluize-01-2027.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-01-2027.json",
+          "Hash": "80bd3a4cb739c02fbcf7f9107eb26207bc99d91109839a675476ca2800cd1127",
+          "EventCount": 13,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "dekluize-02-2027.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-02-2027.json",
+          "Hash": "1f3c4b2474df7243e61391aa3b246b2966659bf0760708ff144889330945dd37",
+          "EventCount": 9,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "dekluize-03-2027.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-03-2027.json",
+          "Hash": "6f66b211f907f8c1e9124f23bcbbb5c53667aa1d65bdd83bf45c2a853f2d7ae5",
+          "EventCount": 8,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "dekluize-04-2027.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-04-2027.json",
+          "Hash": "5b8449ffe9932185c2f1d5dccc9c599da0af241686752a68956c59d2c220a3ab",
+          "EventCount": 4,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 5,
+          "Year": 2027,
+          "FileName": "dekluize-05-2027.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-05-2027.json",
+          "Hash": "e9992a838dd77f6231f40157f5937b763c0842cc63616c40b9a63002fbf83788",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 6,
+          "Year": 2027,
+          "FileName": "dekluize-06-2027.json",
+          "FilePath": "events/cultuurcentra/dekluize/dekluize-06-2027.json",
+          "Hash": "d2513621484abfad5d4d9aadc3761187a5c9434ee6f61390b466f7c1f867feba",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
+      "VenueId": "DeMeent",
+      "VenueName": "GC De Meent",
+      "Category": "CultuurCentra",
+      "StartedAt": "2026-07-12T15:07:31.1618432Z",
+      "FinishedAt": "2026-07-12T15:07:43.7882846Z",
+      "FaviconUrl": null,
+      "Files": [
+        {
+          "Month": 9,
+          "Year": 2026,
+          "FileName": "demeent-09-2026.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-09-2026.json",
+          "Hash": "b47c936f1ae2561d8fb6ce6b2b0473aa0925b583f5743ae6c965965968f1afa2",
+          "EventCount": 33,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2026,
+          "FileName": "demeent-10-2026.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-10-2026.json",
+          "Hash": "f89c7e79ca25debbfe0afd4c01cc8e50221b40295171138a6d6415a8b62952e6",
+          "EventCount": 36,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "demeent-11-2026.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-11-2026.json",
+          "Hash": "f7112f5bccccb49094cc0c15c82cd9b6befa413a83b07195ba4da0020a132103",
+          "EventCount": 20,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "demeent-12-2026.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-12-2026.json",
+          "Hash": "3b8724e0df68fc2fe56d6f9579b7a0fb246ef3be4011c02b26716c4334cd5a9c",
+          "EventCount": 18,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "demeent-01-2027.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-01-2027.json",
+          "Hash": "5f7fa3f72b401213fcfad3f478fec754dc3b754d1a98d20cf0a209fbb7278127",
+          "EventCount": 34,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "demeent-02-2027.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-02-2027.json",
+          "Hash": "0da1aa9981ed695bdd6db5dda827717debf2662ef21b70bc9c7cad5506ddd820",
+          "EventCount": 20,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "demeent-04-2027.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-04-2027.json",
+          "Hash": "8c51795025bf4f3f1886276b128518a5d1c09f84be98c16704be44794fa435e8",
+          "EventCount": 20,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 5,
+          "Year": 2027,
+          "FileName": "demeent-05-2027.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-05-2027.json",
+          "Hash": "869918f01260927dca206ce4d3478da8ffe61e54b2dc7029f64e12d0ac39f0a3",
+          "EventCount": 6,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 6,
+          "Year": 2027,
+          "FileName": "demeent-06-2027.json",
+          "FilePath": "events/cultuurcentra/demeent/demeent-06-2027.json",
+          "Hash": "df4b61b9e6ef27eaf5f2c0ace401c1f6534e3a711dafcf10b565ca074aac8c7d",
+          "EventCount": 4,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        }
+      ]
+    },
+    {
       "VenueId": "HaConcerts",
       "VenueName": "Ha Concerts, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8866122Z",
-      "FinishedAt": "2026-07-12T14:00:04.2625775Z",
+      "StartedAt": "2026-07-12T15:07:31.5231961Z",
+      "FinishedAt": "2026-07-12T15:07:36.7580176Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
       "Files": [
         {
@@ -1229,8 +2059,8 @@
       "VenueId": "HetDepot",
       "VenueName": "Het Depot, Leuven",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8867779Z",
-      "FinishedAt": "2026-07-12T14:00:26.3549982Z",
+      "StartedAt": "2026-07-12T15:07:31.5345716Z",
+      "FinishedAt": "2026-07-12T15:07:58.1097931Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
       "Files": [
         {
@@ -1329,8 +2159,8 @@
       "VenueId": "Leietheater",
       "VenueName": "Leietheater, Deinze",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-07-12T14:00:00.884858Z",
-      "FinishedAt": "2026-07-12T14:00:04.1323934Z",
+      "StartedAt": "2026-07-12T15:07:31.4200357Z",
+      "FinishedAt": "2026-07-12T15:07:38.1966199Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1449,8 +2279,8 @@
       "VenueId": "LokerseFeesten",
       "VenueName": "Lokerse Feesten",
       "Category": "Festival",
-      "StartedAt": "2026-07-12T14:00:00.8824067Z",
-      "FinishedAt": "2026-07-12T14:00:01.6767803Z",
+      "StartedAt": "2026-07-12T15:07:31.084516Z",
+      "FinishedAt": "2026-07-12T15:07:33.6714909Z",
       "FaviconUrl": "https://www.lokersefeesten.be/assets/website/components/favicon/images/favicon-96x96.09a85558.png",
       "Files": [
         {
@@ -1479,8 +2309,8 @@
       "VenueId": "N9",
       "VenueName": "N9, Eeklo",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8869414Z",
-      "FinishedAt": "2026-07-12T14:00:02.184212Z",
+      "StartedAt": "2026-07-12T15:07:31.5432687Z",
+      "FinishedAt": "2026-07-12T15:07:33.6862821Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
       "Files": [
         {
@@ -1569,8 +2399,8 @@
       "VenueId": "Rivierenhof",
       "VenueName": "OLT Rivierenhof",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8870844Z",
-      "FinishedAt": "2026-07-12T14:00:04.9250205Z",
+      "StartedAt": "2026-07-12T15:07:31.5502814Z",
+      "FinishedAt": "2026-07-12T15:07:38.7699883Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
       "Files": [
         {
@@ -1589,8 +2419,8 @@
       "VenueId": "OstendBeach",
       "VenueName": "Ostend Beach",
       "Category": "Festival",
-      "StartedAt": "2026-07-12T14:00:00.8825335Z",
-      "FinishedAt": "2026-07-12T14:00:02.785812Z",
+      "StartedAt": "2026-07-12T15:07:31.0926841Z",
+      "FinishedAt": "2026-07-12T15:07:33.6585694Z",
       "FaviconUrl": "https://www.ostendbeach.be/components/favicon/images/favicon-96x96.png",
       "Files": [
         {
@@ -1609,8 +2439,8 @@
       "VenueId": "Pukkelpop",
       "VenueName": "Pukkelpop",
       "Category": "Festival",
-      "StartedAt": "2026-07-12T14:00:00.8827113Z",
-      "FinishedAt": "2026-07-12T14:00:02.9965523Z",
+      "StartedAt": "2026-07-12T15:07:31.101815Z",
+      "FinishedAt": "2026-07-12T15:07:35.7191903Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1629,8 +2459,8 @@
       "VenueId": "Werchter",
       "VenueName": "Rock Werchter",
       "Category": "Festival",
-      "StartedAt": "2026-07-12T14:00:00.8828827Z",
-      "FinishedAt": "2026-07-12T14:00:03.1277337Z",
+      "StartedAt": "2026-07-12T15:07:31.109668Z",
+      "FinishedAt": "2026-07-12T15:07:35.1637967Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1649,8 +2479,8 @@
       "VenueId": "Toneelhuis",
       "VenueName": "Toneelhuis, Antwerpen",
       "Category": "Theatre",
-      "StartedAt": "2026-07-12T14:00:00.8818917Z",
-      "FinishedAt": "2026-07-12T14:00:30.7033153Z",
+      "StartedAt": "2026-07-12T15:07:31.0413239Z",
+      "FinishedAt": "2026-07-12T15:08:05.5676953Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
       "Files": [
         {
@@ -1779,8 +2609,8 @@
       "VenueId": "Trix",
       "VenueName": "Trix",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8872233Z",
-      "FinishedAt": "2026-07-12T14:00:04.2420967Z",
+      "StartedAt": "2026-07-12T15:07:31.5576375Z",
+      "FinishedAt": "2026-07-12T15:07:38.4889219Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
       "Files": [
         {
@@ -1808,8 +2638,18 @@
           "Year": 2026,
           "FileName": "trix-10-2026.json",
           "FilePath": "events/concerts/trix/trix-10-2026.json",
-          "Hash": "fb6a38592185d3a9b9229d74e89eea4e26d05977d5724ce49e46b84b3cce2634",
-          "EventCount": 24,
+          "Hash": "f4e5fab4f6b4ff5db0ee3da7b3c7d67d4999b19e042e215a16f07b85880825f8",
+          "EventCount": 32,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "trix-11-2026.json",
+          "FilePath": "events/concerts/trix/trix-11-2026.json",
+          "Hash": "a6cf20e717ed47cbf6951756e2bb4a0ce72d50b1acb28d4a50e0acb9e886562e",
+          "EventCount": 7,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -1819,8 +2659,8 @@
       "VenueId": "VaartKapoen",
       "VenueName": "Vaartkapoen",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.8873666Z",
-      "FinishedAt": "2026-07-12T14:00:02.8588687Z",
+      "StartedAt": "2026-07-12T15:07:31.5693896Z",
+      "FinishedAt": "2026-07-12T15:07:34.9638688Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
       "Files": [
         {
@@ -1879,8 +2719,8 @@
       "VenueId": "WildeWesten",
       "VenueName": "Wilde Westen, Kortrijk",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.88753Z",
-      "FinishedAt": "2026-07-12T14:01:31.7322727Z",
+      "StartedAt": "2026-07-12T15:07:31.5772053Z",
+      "FinishedAt": "2026-07-12T15:09:01.2559756Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
       "Files": [
         {
@@ -1989,8 +2829,8 @@
       "VenueId": "Wintercircus",
       "VenueName": "Wintercircus, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-07-12T14:00:00.887671Z",
-      "FinishedAt": "2026-07-12T14:00:02.1787674Z",
+      "StartedAt": "2026-07-12T15:07:31.5918281Z",
+      "FinishedAt": "2026-07-12T15:07:33.7557411Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
       "Files": [
         {
