@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-07-12T12:25:35.6455697Z
+**Generated At:** 2026-07-12T13:14:28.8126698Z
 **Total Scrapers Run:** 37
 
 ## ⚠️ Failed Scrapers
@@ -13,7 +13,7 @@
 - **DourScraper**: Found 354 events across 1 monthly files.
 - **FonnefeestenScraper**: Found 37 events across 2 monthly files.
 - **LokerseFeestenScraper**: Found 100 events across 2 monthly files.
-- **OstendBeachScraper**: Found 100 events across 1 monthly files.
+- **OstendBeachScraper**: Found 99 events across 1 monthly files.
 - **PukkelpopScraper**: Found 153 events across 1 monthly files.
 - **RockWerchterScraper**: Found 100 events across 1 monthly files.
 - **CcBruggeScraper**: Found 0 events across 0 monthly files.
