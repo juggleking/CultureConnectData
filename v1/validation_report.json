@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-14T05:00:09.2942721Z",
-  "ValidatedAt": "2026-07-14T05:00:09.29438Z",
+  "GeneratedAt": "2026-07-15T05:00:01.1463167Z",
+  "ValidatedAt": "2026-07-15T05:00:01.1463168Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3334,
+  "TotalEvents": 3335,
   "TotalErrors": 0,
-  "TotalWarnings": 1145,
+  "TotalWarnings": 1146,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2609,7 +2609,7 @@
           ]
         },
         {
-          "EventTitle": "HoT Stuff #2: Fenne Cuppens",
+          "EventTitle": "HoT Stuff #2: Fenne Kuppens",
           "EventDate": "2026-08-14T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/fenne-kuppens",
           "Issues": [
@@ -10688,9 +10688,9 @@
       "ScraperId": "Dour",
       "ScraperName": "DourScraper",
       "VenueName": "Dour Festival",
-      "TotalEvents": 210,
+      "TotalEvents": 211,
       "ErrorCount": 0,
-      "WarningCount": 210,
+      "WarningCount": 211,
       "Issues": [],
       "EventDetails": [
         {
@@ -12283,6 +12283,19 @@
           "EventTitle": "Boys Noize",
           "EventDate": "2026-07-18T00:00:00.0000000",
           "EventUrl": "https://www.dourfestival.eu/en/artiste/306-boys-noize/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Brutalismus 3000",
+          "EventDate": "2026-07-18T00:00:00.0000000",
+          "EventUrl": "https://www.dourfestival.eu/en/artiste/4-brutalismus-3000/",
           "Issues": [
             {
               "Field": "DateString",
