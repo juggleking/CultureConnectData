@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-07-15T05:00:01.1463167Z",
-  "ValidatedAt": "2026-07-15T05:00:01.1463168Z",
+  "GeneratedAt": "2026-07-16T05:00:08.125266Z",
+  "ValidatedAt": "2026-07-16T05:00:08.1252661Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3335,
+  "TotalEvents": 3374,
   "TotalErrors": 0,
-  "TotalWarnings": 1146,
+  "TotalWarnings": 1155,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 13,
+      "TotalEvents": 12,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 185,
+      "TotalEvents": 191,
       "ErrorCount": 0,
-      "WarningCount": 185,
+      "WarningCount": 191,
       "Issues": [],
       "EventDetails": [
         {
@@ -169,6 +169,19 @@
           ]
         },
         {
+          "EventTitle": "Sunday Morning Concert: Gwen Sainte-Rose",
+          "EventDate": "2026-09-20T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-morning-concert-gwen-sainte-rose/a10Qw00000L9GCkIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Street Sounds met Bankra Bike Sound System & Sound of Brussels Orchestra",
           "EventDate": "2026-09-20T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/street-sounds-met-bankra-bike-sound-system-sound-of-brussels-orchestra/a10Qw000000VkBRIA0",
@@ -224,6 +237,19 @@
           "EventTitle": "6LACK + Johnny Venus",
           "EventDate": "2026-09-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/6lack/a10Qw00000EnDnFIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Laundromat Chicks + Topsy Turvy + Tropen @ Super Fourchette + Tropen",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/laundromat-chicks-topsy-turvy-tropen-super-fourchette/a10Qw00000MAbfzIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -1027,6 +1053,19 @@
           ]
         },
         {
+          "EventTitle": "Moving As A Giant + Tuesday Violence @ Super Fourchette + Tuesday Violence",
+          "EventDate": "2026-11-03T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/moving-as-a-giant-tuesday-violence-super-fourchette/a10Qw00000Jt6OUIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Bel Cobain",
           "EventDate": "2026-11-04T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/bel-cobain/a10Qw00000GnyHxIAJ",
@@ -1231,6 +1270,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-14T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sunday Morning concert: Daimon (Eric Thielemans & Jozef Dumoulin)",
+          "EventDate": "2026-11-15T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-morning-concert-daimon-eric-thielemans-jozef-dumoulin/a10Qw00000GbN2rIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15T00:00:00.0000000"
             }
           ]
         },
@@ -1524,6 +1576,19 @@
           "EventTitle": "Pierre de Maere",
           "EventDate": "2026-12-01T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/pierre-de-maere/a10Qw00000CiJRTIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-01T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Unsafe Space Garden + Bubba @Super Fourchette + Bubba",
+          "EventDate": "2026-12-01T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/unsafe-space-garden-bubba-super-fourchette/a10Qw00000MBTZtIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -1849,6 +1914,19 @@
           "EventTitle": "Imminence",
           "EventDate": "2027-01-15T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/imminence/a10Qw00000FCUrJIAX",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bellaire",
+          "EventDate": "2027-01-15T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bellaire/a10Qw00000HoT6fIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -2436,7 +2514,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 185,
+      "TotalEvents": 187,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -7254,7 +7332,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 130,
+      "TotalEvents": 131,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9728,9 +9806,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 73,
+      "TotalEvents": 74,
       "ErrorCount": 0,
-      "WarningCount": 73,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
         {
@@ -10527,6 +10605,19 @@
           ]
         },
         {
+          "EventTitle": "Primate presents STICKS & STONES",
+          "EventDate": "2026-12-05",
+          "EventUrl": "https://www.democrazy.be/agenda/3236-primate/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05"
+            }
+          ]
+        },
+        {
           "EventTitle": "Nausca",
           "EventDate": "2026-12-10",
           "EventUrl": "https://www.democrazy.be/agenda/3185-nausca-the-story-of-lung-ta/",
@@ -10688,9 +10779,9 @@
       "ScraperId": "Dour",
       "ScraperName": "DourScraper",
       "VenueName": "Dour Festival",
-      "TotalEvents": 211,
+      "TotalEvents": 213,
       "ErrorCount": 0,
-      "WarningCount": 211,
+      "WarningCount": 213,
       "Issues": [],
       "EventDetails": [
         {
@@ -11256,6 +11347,19 @@
           "EventTitle": "Alpha Steppa Feat. Nai-Jah",
           "EventDate": "2026-07-16T00:00:00.0000000",
           "EventUrl": "https://www.dourfestival.eu/en/artiste/389-alpha-steppa-feat-nai-jah/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "alster",
+          "EventDate": "2026-07-16T00:00:00.0000000",
+          "EventUrl": "https://www.dourfestival.eu/en/artiste/431-alster/",
           "Issues": [
             {
               "Field": "DateString",
@@ -12813,6 +12917,19 @@
           ]
         },
         {
+          "EventTitle": "Scat Cat",
+          "EventDate": "2026-07-18T00:00:00.0000000",
+          "EventUrl": "https://www.dourfestival.eu/en/artiste/432-scat-cat/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-07-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Sinai & Abzu Feat. Aziza Jaye",
           "EventDate": "2026-07-18T00:00:00.0000000",
           "EventUrl": "https://www.dourfestival.eu/en/artiste/372-sinai-abzu-feat-aziza-jaye/",
@@ -13442,7 +13559,7 @@
       "ScraperId": "Fonnefeesten",
       "ScraperName": "FonnefeestenScraper",
       "VenueName": "Fonnefeesten",
-      "TotalEvents": 37,
+      "TotalEvents": 38,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -13677,7 +13794,7 @@
       "ScraperId": "Pukkelpop",
       "ScraperName": "PukkelpopScraper",
       "VenueName": "Pukkelpop",
-      "TotalEvents": 153,
+      "TotalEvents": 180,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14998,7 +15115,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 234,
+      "TotalEvents": 233,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15277,7 +15394,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 54,
+      "TotalEvents": 55,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
