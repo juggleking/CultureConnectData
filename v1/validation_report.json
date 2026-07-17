@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-07-16T05:00:08.125266Z",
-  "ValidatedAt": "2026-07-16T05:00:08.1252661Z",
+  "GeneratedAt": "2026-07-17T05:00:02.0381463Z",
+  "ValidatedAt": "2026-07-17T05:00:02.0381464Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3374,
+  "TotalEvents": 3365,
   "TotalErrors": 0,
-  "TotalWarnings": 1155,
+  "TotalWarnings": 1158,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 12,
+      "TotalEvents": 13,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 191,
+      "TotalEvents": 192,
       "ErrorCount": 0,
-      "WarningCount": 191,
+      "WarningCount": 192,
       "Issues": [],
       "EventDetails": [
         {
@@ -1352,6 +1352,19 @@
           ]
         },
         {
+          "EventTitle": "Au Pairs",
+          "EventDate": "2026-11-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/au-pairs/a10Qw00000J5WdpIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Luther",
           "EventDate": "2026-11-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/luther/a10Qw0000097A8jIAE",
@@ -2514,7 +2527,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 187,
+      "TotalEvents": 188,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -4684,9 +4697,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 20,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 20,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
         {
@@ -4706,6 +4719,19 @@
           "EventTitle": "Omar Souleyman",
           "EventDate": "2026-09-11",
           "EventUrl": "https://aff.be/events/omarsouleyman/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MONZA",
+          "EventDate": "2026-09-11",
+          "EventUrl": "https://aff.be/events/monza/",
           "Issues": [
             {
               "Field": "DateString",
@@ -4894,6 +4920,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
               "Severity": 1,
               "ActualValue": "2026-11-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "TERROR + BANE + START TODAY + PEACE OF MIND",
+          "EventDate": "2026-12-03",
+          "EventUrl": "https://aff.be/events/terror/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-03"
             }
           ]
         },
@@ -15115,7 +15154,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 233,
+      "TotalEvents": 232,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15165,7 +15204,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15394,7 +15433,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 55,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
