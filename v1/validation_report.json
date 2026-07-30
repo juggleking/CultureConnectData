@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-07-29T05:00:00.0804626Z",
-  "ValidatedAt": "2026-07-29T05:00:00.0804627Z",
+  "GeneratedAt": "2026-07-30T05:00:04.0001841Z",
+  "ValidatedAt": "2026-07-30T05:00:04.0003189Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3400,
+  "TotalEvents": 3374,
   "TotalErrors": 0,
-  "TotalWarnings": 1155,
+  "TotalWarnings": 1154,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2579,7 +2579,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 194,
+      "TotalEvents": 196,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -13546,25 +13546,11 @@
       "ScraperId": "Fonnefeesten",
       "ScraperName": "FonnefeestenScraper",
       "VenueName": "Fonnefeesten",
-      "TotalEvents": 39,
+      "TotalEvents": 38,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "STAHLZEIT",
-          "EventDate": "2026-08-04T00:00:00.0000000",
-          "EventUrl": "https://fonnefeesten.be/line-up/2026-08-04/stahlzeit/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-04T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "DeKluize",
@@ -13710,7 +13696,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 26,
+      "TotalEvents": 27,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13781,7 +13767,7 @@
       "ScraperId": "Pukkelpop",
       "ScraperName": "PukkelpopScraper",
       "VenueName": "Pukkelpop",
-      "TotalEvents": 184,
+      "TotalEvents": 185,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15102,7 +15088,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 224,
+      "TotalEvents": 223,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15152,7 +15138,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15404,7 +15390,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 73,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
