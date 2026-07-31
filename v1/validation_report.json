@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-07-30T05:00:04.0001841Z",
-  "ValidatedAt": "2026-07-30T05:00:04.0003189Z",
+  "GeneratedAt": "2026-07-31T05:00:00.6514021Z",
+  "ValidatedAt": "2026-07-31T05:00:00.6514022Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3374,
+  "TotalEvents": 3409,
   "TotalErrors": 0,
-  "TotalWarnings": 1154,
+  "TotalWarnings": 1155,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 13,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -1963,9 +1963,9 @@
           ]
         },
         {
-          "EventTitle": "Imminence",
+          "EventTitle": "Bellaire",
           "EventDate": "2027-01-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/imminence/a10Qw00000FCUrJIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bellaire/a10Qw00000HoT6fIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -1976,9 +1976,9 @@
           ]
         },
         {
-          "EventTitle": "Bellaire",
+          "EventTitle": "Imminence + House of Protection",
           "EventDate": "2027-01-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bellaire/a10Qw00000HoT6fIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/imminence/a10Qw00000FCUrJIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -5033,7 +5033,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 152,
+      "TotalEvents": 157,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9847,21 +9847,21 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 3,
+      "TotalEvents": 4,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 4,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "CAMILO DONOSO",
-          "EventDate": "2026-07-30T00:00:00",
+          "EventTitle": "PRECIOUS MASCARINA",
+          "EventDate": "2026-07-31T00:00:00",
           "EventUrl": "https://www.dezwerver.be/event/jong-muziek/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-30T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-07-31T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-07-30T00:00:00"
+              "ActualValue": "2026-07-31T00:00:00"
             }
           ]
         },
@@ -9888,6 +9888,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-11T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-09-11T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "THE MAGIC NUMBERS",
+          "EventDate": "2026-10-13T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/253-the-magic-numbers/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13T00:00:00"
             }
           ]
         }
@@ -13546,7 +13559,7 @@
       "ScraperId": "Fonnefeesten",
       "ScraperName": "FonnefeestenScraper",
       "VenueName": "Fonnefeesten",
-      "TotalEvents": 38,
+      "TotalEvents": 39,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13696,7 +13709,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 27,
+      "TotalEvents": 26,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15088,7 +15101,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 223,
+      "TotalEvents": 221,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15138,7 +15151,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
