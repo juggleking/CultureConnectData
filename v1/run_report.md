@@ -1,11 +1,15 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-08-01T18:02:58.5213726Z
+**Generated At:** 2026-08-01T22:02:49.1636744Z
 **Total Scrapers Run:** 38
+
+## ⚠️ Failed Scrapers
+- **SintLievensHoutemScraper** (`SintLievensHoutem`)
+  - **Status:** Failed
 
 ## ✅ Successful Scrapers
 - **CeciliaScraper**: Found 157 events across 11 monthly files.
-- **ToneelhuisScraper**: Found 219 events across 11 monthly files.
+- **ToneelhuisScraper**: Found 217 events across 11 monthly files.
 - **DourScraper**: Found 211 events across 1 monthly files.
 - **FonnefeestenScraper**: Found 39 events across 2 monthly files.
 - **LokerseFeestenScraper**: Found 103 events across 2 monthly files.
@@ -23,7 +27,6 @@
 - **DeWerfScraper**: Found 120 events across 8 monthly files.
 - **EmotiaScraper**: Found 91 events across 10 monthly files.
 - **LeietheaterScraper**: Found 161 events across 11 monthly files.
-- **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 196 events across 11 monthly files.
 - **AffScraper**: Found 22 events across 6 monthly files.
 - **BotaniqueScraper**: Found 196 events across 7 monthly files.
@@ -32,13 +35,13 @@
 - **DemocrazyScraper**: Found 68 events across 8 monthly files.
 - **DeRomaScraper**: Found 133 events across 11 monthly files.
 - **DeSteenovenScraper**: Found 66 events across 10 monthly files.
-- **DeZwerverScraper**: Found 5 events across 3 monthly files.
+- **DeZwerverScraper**: Found 6 events across 3 monthly files.
 - **FourAdScraper**: Found 13 events across 4 monthly files.
 - **HaConcertsScraper**: Found 3 events across 2 monthly files.
 - **HetDepotScraper**: Found 80 events across 9 monthly files.
-- **N9Scraper**: Found 25 events across 7 monthly files.
-- **RivierenhofScraper**: Found 1 events across 1 monthly files.
-- **TrixScraper**: Found 60 events across 4 monthly files.
+- **N9Scraper**: Found 24 events across 7 monthly files.
+- **RivierenhofScraper**: Found 2 events across 2 monthly files.
+- **TrixScraper**: Found 15 events across 3 monthly files.
 - **VaartKapoenScraper**: Found 17 events across 5 monthly files.
 - **WildeWestenScraper**: Found 57 events across 10 monthly files.
 - **WintercircusScraper**: Found 75 events across 11 monthly files.
