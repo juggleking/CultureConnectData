@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-01T05:00:04.6670981Z",
-  "ValidatedAt": "2026-08-01T05:00:04.6670981Z",
+  "GeneratedAt": "2026-08-02T05:00:00.88342Z",
+  "ValidatedAt": "2026-08-02T05:00:00.8834201Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3375,
+  "TotalEvents": 3390,
   "TotalErrors": 0,
-  "TotalWarnings": 1155,
+  "TotalWarnings": 1157,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -572,9 +572,9 @@
           ]
         },
         {
-          "EventTitle": "gala dragot",
+          "EventTitle": "Courtney Barnett + Body Type",
           "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -585,9 +585,9 @@
           ]
         },
         {
-          "EventTitle": "Courtney Barnett + Body Type",
+          "EventTitle": "gala dragot",
           "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/courtney-barnett/a10Qw00000DkymWIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gala-dragot/a10Qw00000GYORlIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -9834,21 +9834,21 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 5,
+      "TotalEvents": 6,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "EDOUARD VAN PRAET",
-          "EventDate": "2026-08-01T00:00:00",
+          "EventTitle": "MORGEN DE KNOOP",
+          "EventDate": "2026-08-02T00:00:00",
           "EventUrl": "https://www.dezwerver.be/event/jong-muziek/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-01T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-02T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-08-01T00:00:00"
+              "ActualValue": "2026-08-02T00:00:00"
             }
           ]
         },
@@ -9901,6 +9901,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-21T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-10-21T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "THE SUBWAYS + Cheap Cult",
+          "EventDate": "2026-10-23T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/273-the-subways-cheap-cult/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-23T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-23T00:00:00"
             }
           ]
         }
@@ -13639,7 +13652,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 79,
+      "TotalEvents": 80,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13709,7 +13722,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 25,
+      "TotalEvents": 24,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13719,9 +13732,9 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 1,
+      "TotalEvents": 2,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 2,
       "Issues": [],
       "EventDetails": [
         {
@@ -13734,6 +13747,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-02-07'.",
               "Severity": 1,
               "ActualValue": "2026-02-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sylvie Kreusch",
+          "EventDate": "2026-08-29",
+          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/sylvie-kreusch/a0NP500000LnYCYMA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-08-29"
             }
           ]
         }
@@ -15101,7 +15127,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 219,
+      "TotalEvents": 217,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15151,7 +15177,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
