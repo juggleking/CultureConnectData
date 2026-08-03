@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-08-02T05:00:00.88342Z",
-  "ValidatedAt": "2026-08-02T05:00:00.8834201Z",
+  "GeneratedAt": "2026-08-03T05:00:04.1265969Z",
+  "ValidatedAt": "2026-08-03T05:00:04.126597Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3390,
+  "TotalEvents": 3371,
   "TotalErrors": 0,
   "TotalWarnings": 1157,
   "Results": [
@@ -2603,24 +2603,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 61,
+      "TotalEvents": 60,
       "ErrorCount": 0,
-      "WarningCount": 61,
+      "WarningCount": 60,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Rooftop Street Food #4: Diek",
-          "EventDate": "2026-08-01T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/diek",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-01T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Raymond van het Groenewoud",
           "EventDate": "2026-08-05T00:00:00.0000000",
@@ -2661,9 +2648,9 @@
           ]
         },
         {
-          "EventTitle": "Benenwerk",
+          "EventTitle": "Rooftop Street Food #5: RØK",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
           "Issues": [
             {
               "Field": "DateString",
@@ -2674,9 +2661,9 @@
           ]
         },
         {
-          "EventTitle": "Rooftop Street Food #5: RØK",
+          "EventTitle": "Benenwerk",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
           "Issues": [
             {
               "Field": "DateString",
@@ -5020,7 +5007,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 157,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9834,21 +9821,21 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 6,
+      "TotalEvents": 7,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "MORGEN DE KNOOP",
-          "EventDate": "2026-08-02T00:00:00",
+          "EventTitle": "LINDY VERSYCK",
+          "EventDate": "2026-08-04T00:00:00",
           "EventUrl": "https://www.dezwerver.be/event/jong-muziek/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-02T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-04T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-08-02T00:00:00"
+              "ActualValue": "2026-08-04T00:00:00"
             }
           ]
         },
@@ -9914,6 +9901,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-23T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-10-23T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "BLOODSPORTS + support",
+          "EventDate": "2026-11-02T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/261-bloodsports/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-02T00:00:00"
             }
           ]
         }
@@ -13722,7 +13722,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 24,
+      "TotalEvents": 23,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15127,7 +15127,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 217,
+      "TotalEvents": 215,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15177,7 +15177,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
