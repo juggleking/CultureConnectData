@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-08-03T05:00:04.1265969Z",
-  "ValidatedAt": "2026-08-03T05:00:04.126597Z",
+  "GeneratedAt": "2026-08-04T05:00:00.5770825Z",
+  "ValidatedAt": "2026-08-04T05:00:00.5770826Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3371,
+  "TotalEvents": 3374,
   "TotalErrors": 0,
-  "TotalWarnings": 1157,
+  "TotalWarnings": 1158,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 13,
+      "TotalEvents": 12,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "EventTitle": "Yebba",
+          "EventTitle": "Yebba + Astyn",
           "EventDate": "2026-09-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/yebba/a10Qw00000GTKoXIAX",
           "Issues": [
@@ -2579,7 +2579,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 196,
+      "TotalEvents": 199,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -5007,7 +5007,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 156,
+      "TotalEvents": 155,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15187,9 +15187,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 17,
+      "TotalEvents": 18,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 18,
       "Issues": [],
       "EventDetails": [
         {
@@ -15202,6 +15202,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-14T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-09-14T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "DAOUAR Bokskampioenschap",
+          "EventDate": "2026-09-18T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/daouar-bokskampioenschap",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-18T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-18T22:00:00Z"
             }
           ]
         },
@@ -15429,7 +15442,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 75,
+      "TotalEvents": 76,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
