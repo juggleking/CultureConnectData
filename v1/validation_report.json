@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-04T05:00:00.5770825Z",
-  "ValidatedAt": "2026-08-04T05:00:00.5770826Z",
+  "GeneratedAt": "2026-08-05T05:00:04.7277535Z",
+  "ValidatedAt": "2026-08-05T05:00:04.7277536Z",
   "TotalScrapers": 38,
   "TotalEvents": 3374,
   "TotalErrors": 0,
-  "TotalWarnings": 1158,
+  "TotalWarnings": 1159,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -195,19 +195,6 @@
           ]
         },
         {
-          "EventTitle": "New date: Lute + K.Z",
-          "EventDate": "2026-09-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-lute/a10Qw00000B1wEwIAJ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
           "EventDate": "2026-09-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
@@ -221,15 +208,15 @@
           ]
         },
         {
-          "EventTitle": "Lime Garden",
-          "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lime-garden/a10Qw00000GLNGZIA5",
+          "EventTitle": "New date: Lute + K.Z",
+          "EventDate": "2026-09-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-lute/a10Qw00000B1wEwIAJ",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-09-22T00:00:00.0000000"
+              "ActualValue": "2026-09-21T00:00:00.0000000"
             }
           ]
         },
@@ -250,6 +237,19 @@
           "EventTitle": "Laundromat Chicks + Topsy Turvy + Tropen @ Super Fourchette + Tropen",
           "EventDate": "2026-09-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/laundromat-chicks-topsy-turvy-tropen-super-fourchette/a10Qw00000MAbfzIAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lime Garden",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lime-garden/a10Qw00000GLNGZIA5",
           "Issues": [
             {
               "Field": "DateString",
@@ -390,19 +390,6 @@
           ]
         },
         {
-          "EventTitle": "I Prevail + Polaris, Amira Elfeky, Gore.",
-          "EventDate": "2026-09-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/i-prevail/a10Qw00000CI0icIAD",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-30T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-30T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "All Things Sdban presents Jazz Cats w/ Kuna Maze Live Band + ᖴOᑌTᒪOOᔕ + ...",
           "EventDate": "2026-09-30T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/all-things-sdban-presents-jazz-cats-w-kuna-maze-live-band-otoo/a10Qw00000GuKVxIAN",
@@ -416,9 +403,22 @@
           ]
         },
         {
-          "EventTitle": "New date: Last Train",
+          "EventTitle": "I Prevail + Polaris, Amira Elfeky, Gore.",
+          "EventDate": "2026-09-30T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/i-prevail/a10Qw00000CI0icIAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "(John) Coltrane 100: Aaron Parks & Walter Smith III",
           "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-last-train/a10Qw000007txl1IAA",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-aaron-parks-walter-smith-iii/a10Qw00000Jd6qbIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -429,9 +429,9 @@
           ]
         },
         {
-          "EventTitle": "(John) Coltrane 100: Aaron Parks & Walter Smith III",
+          "EventTitle": "New date: Last Train",
           "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-aaron-parks-walter-smith-iii/a10Qw00000Jd6qbIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-last-train/a10Qw000007txl1IAA",
           "Issues": [
             {
               "Field": "DateString",
@@ -455,9 +455,9 @@
           ]
         },
         {
-          "EventTitle": "Lemon Straw",
+          "EventTitle": "(John) Coltrane 100: Harmony Holiday meets John Coltrane",
           "EventDate": "2026-10-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lemon-straw/a10Qw00000AS2KaIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-harmony-holiday-meets-john-coltrane/a10Qw00000JkMllIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -468,9 +468,9 @@
           ]
         },
         {
-          "EventTitle": "(John) Coltrane 100: Harmony Holiday meets John Coltrane",
+          "EventTitle": "Lemon Straw",
           "EventDate": "2026-10-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-harmony-holiday-meets-john-coltrane/a10Qw00000JkMllIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lemon-straw/a10Qw00000AS2KaIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -520,19 +520,6 @@
           ]
         },
         {
-          "EventTitle": "Simple Plan + Neck Deep",
-          "EventDate": "2026-10-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/simple-plan/a10Qw000008x19xIAA",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "The Afghan Whigs 'Soft Control' Tour + Ed Harcourt",
           "EventDate": "2026-10-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/the-afghan-whigs-soft-control-tour/a10Qw00000FtWWTIA3",
@@ -546,9 +533,22 @@
           ]
         },
         {
-          "EventTitle": "Jalen Ngonda + Brooke Combe",
+          "EventTitle": "Simple Plan + Neck Deep",
+          "EventDate": "2026-10-05T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/simple-plan/a10Qw000008x19xIAA",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cory Hanson + Cole Berliner",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -559,9 +559,9 @@
           ]
         },
         {
-          "EventTitle": "Cory Hanson + Cole Berliner",
+          "EventTitle": "Jalen Ngonda + Brooke Combe",
           "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cory-hanson/a10Qw00000GpJiXIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jalen-ngonda/a10Qw000007fA4EIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -598,9 +598,9 @@
           ]
         },
         {
-          "EventTitle": "Ultra Vomit",
+          "EventTitle": "Nectar Woode",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -611,9 +611,9 @@
           ]
         },
         {
-          "EventTitle": "Nectar Woode",
+          "EventTitle": "Ultra Vomit",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
           "Issues": [
             {
               "Field": "DateString",
@@ -663,19 +663,6 @@
           ]
         },
         {
-          "EventTitle": "The Sisters Of Mercy",
-          "EventDate": "2026-10-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjCIAX",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-12T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "corto.alto",
           "EventDate": "2026-10-12T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/cortoalto/a10Qw00000HlaxWIAR",
@@ -689,15 +676,15 @@
           ]
         },
         {
-          "EventTitle": "The HU + SKÁLD",
-          "EventDate": "2026-10-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-hu/a10Qw00000GNhnpIAD",
+          "EventTitle": "The Sisters Of Mercy",
+          "EventDate": "2026-10-12T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjCIAX",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-12T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-10-14T00:00:00.0000000"
+              "ActualValue": "2026-10-12T00:00:00.0000000"
             }
           ]
         },
@@ -718,6 +705,19 @@
           "EventTitle": "Echoes of Zoo presents Collective Intelligence",
           "EventDate": "2026-10-14T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/echoes-of-zoo-presents-collective-intelligence/a10Qw00000GgtDNIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The HU + SKÁLD",
+          "EventDate": "2026-10-14T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-hu/a10Qw00000GNhnpIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -832,9 +832,9 @@
           ]
         },
         {
-          "EventTitle": "Miki",
+          "EventTitle": "MAQUINA.",
           "EventDate": "2026-10-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/miki/a10Qw00000BBfUYIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/maquina/a10Qw00000GkdI5IAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -845,9 +845,9 @@
           ]
         },
         {
-          "EventTitle": "MAQUINA.",
+          "EventTitle": "Miki",
           "EventDate": "2026-10-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/maquina/a10Qw00000GkdI5IAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/miki/a10Qw00000BBfUYIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -884,9 +884,9 @@
           ]
         },
         {
-          "EventTitle": "Beast in Black + Sonata Arctica, Frozen Crown",
+          "EventTitle": "Tomoki Sanders",
           "EventDate": "2026-10-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/beast-in-black/a10Qw000006iQeTIAU",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tomoki-sanders/a10Qw00000JewVNIAZ",
           "Issues": [
             {
               "Field": "DateString",
@@ -897,9 +897,9 @@
           ]
         },
         {
-          "EventTitle": "Tomoki Sanders",
+          "EventTitle": "Beast in Black + Sonata Arctica, Frozen Crown",
           "EventDate": "2026-10-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tomoki-sanders/a10Qw00000JewVNIAZ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/beast-in-black/a10Qw000006iQeTIAU",
           "Issues": [
             {
               "Field": "DateString",
@@ -936,6 +936,19 @@
           ]
         },
         {
+          "EventTitle": "Lane 8",
+          "EventDate": "2026-10-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lane-8/a10Qw00000IzS53IAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "IJSLAND",
           "EventDate": "2026-10-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ijsland/a10Qw00000GcJq1IAF",
@@ -952,19 +965,6 @@
           "EventTitle": "Double bill: Glenn Jones & Liam Grant",
           "EventDate": "2026-10-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-glenn-jones-liam-grant/a10Qw00000GsCz3IAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lane 8",
-          "EventDate": "2026-10-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lane-8/a10Qw00000IzS53IAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -1001,9 +1001,9 @@
           ]
         },
         {
-          "EventTitle": "Les Truttes",
+          "EventTitle": "Greg Mendez",
           "EventDate": "2026-10-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/les-truttes/a10Qw00000CAlzdIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/greg-mendez/a10Qw00000I3ZIDIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -1014,9 +1014,9 @@
           ]
         },
         {
-          "EventTitle": "Greg Mendez",
+          "EventTitle": "Les Truttes",
           "EventDate": "2026-10-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/greg-mendez/a10Qw00000I3ZIDIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/les-truttes/a10Qw00000CAlzdIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -1183,9 +1183,9 @@
           ]
         },
         {
-          "EventTitle": "Artist talk / Q&A: Craig Leon - Ramones",
+          "EventTitle": "Enter Shikari + Holding Absence, The Callous Daoboys",
           "EventDate": "2026-11-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-talk-qa-craig-leon-ramones/a10Qw00000ETS8vIAH",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/enter-shikari/a10Qw00000IRNPZIA5",
           "Issues": [
             {
               "Field": "DateString",
@@ -1196,9 +1196,9 @@
           ]
         },
         {
-          "EventTitle": "Enter Shikari + Holding Absence, The Callous Daoboys",
+          "EventTitle": "Artist talk / Q&A: Craig Leon - Ramones",
           "EventDate": "2026-11-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/enter-shikari/a10Qw00000IRNPZIA5",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/artist-talk-qa-craig-leon-ramones/a10Qw00000ETS8vIAH",
           "Issues": [
             {
               "Field": "DateString",
@@ -1365,9 +1365,9 @@
           ]
         },
         {
-          "EventTitle": "Eluveitie + Pain, WOLFHEART",
+          "EventTitle": "Au Pairs",
           "EventDate": "2026-11-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/eluveitie/a10Qw00000CUGYJIA5",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/au-pairs/a10Qw00000J5WdpIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -1378,9 +1378,9 @@
           ]
         },
         {
-          "EventTitle": "Au Pairs",
+          "EventTitle": "Eluveitie + Pain, WOLFHEART",
           "EventDate": "2026-11-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/au-pairs/a10Qw00000J5WdpIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/eluveitie/a10Qw00000CUGYJIA5",
           "Issues": [
             {
               "Field": "DateString",
@@ -1508,9 +1508,9 @@
           ]
         },
         {
-          "EventTitle": "Kodaline",
+          "EventTitle": "Juste Shani",
           "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kodaline/a10Qw000009l2FhIAI",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/juste-shani/a10Qw00000GLJPqIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -1521,9 +1521,9 @@
           ]
         },
         {
-          "EventTitle": "Juste Shani",
+          "EventTitle": "Kodaline",
           "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/juste-shani/a10Qw00000GLJPqIAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kodaline/a10Qw000009l2FhIAI",
           "Issues": [
             {
               "Field": "DateString",
@@ -1963,9 +1963,9 @@
           ]
         },
         {
-          "EventTitle": "Bellaire",
+          "EventTitle": "Imminence + House of Protection",
           "EventDate": "2027-01-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bellaire/a10Qw00000HoT6fIAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/imminence/a10Qw00000FCUrJIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -1976,9 +1976,9 @@
           ]
         },
         {
-          "EventTitle": "Imminence + House of Protection",
+          "EventTitle": "Bellaire",
           "EventDate": "2027-01-15T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/imminence/a10Qw00000FCUrJIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bellaire/a10Qw00000HoT6fIAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -5007,7 +5007,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 155,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9821,21 +9821,21 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 7,
+      "TotalEvents": 8,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 8,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "LINDY VERSYCK",
-          "EventDate": "2026-08-04T00:00:00",
+          "EventTitle": "COMPETITION",
+          "EventDate": "2026-08-05T00:00:00",
           "EventUrl": "https://www.dezwerver.be/event/jong-muziek/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-04T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-05T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-08-04T00:00:00"
+              "ActualValue": "2026-08-05T00:00:00"
             }
           ]
         },
@@ -9914,6 +9914,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-11-02T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "GRACE CUMMINGS",
+          "EventDate": "2026-11-16T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/272-grace-cummings/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-16T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-16T00:00:00"
             }
           ]
         }
