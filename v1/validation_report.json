@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-06T05:00:00.3688221Z",
-  "ValidatedAt": "2026-08-06T05:00:00.3688222Z",
+  "GeneratedAt": "2026-08-07T05:00:05.7515777Z",
+  "ValidatedAt": "2026-08-07T05:00:05.7515778Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3405,
+  "TotalEvents": 3253,
   "TotalErrors": 0,
-  "TotalWarnings": 1158,
+  "TotalWarnings": 1156,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2579,48 +2579,21 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 200,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Tom McRae",
-          "EventDate": "2026-08-06T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-tom-mcrae",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-06T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Kraantje Pappie, 't Hof Van Commerce, S10, NAFT & BLU SAMU",
           "EventDate": "2026-08-07T00:00:00.0000000",
@@ -2635,9 +2608,9 @@
           ]
         },
         {
-          "EventTitle": "Rooftop Street Food #5: RØK",
+          "EventTitle": "Benenwerk",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
           "Issues": [
             {
               "Field": "DateString",
@@ -2648,9 +2621,9 @@
           ]
         },
         {
-          "EventTitle": "Benenwerk",
+          "EventTitle": "Rooftop Street Food #5: RØK",
           "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-benenwerk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/rok",
           "Issues": [
             {
               "Field": "DateString",
@@ -2804,9 +2777,9 @@
           ]
         },
         {
-          "EventTitle": "Only The Poets",
+          "EventTitle": "Sergeant + Klein Volk",
           "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
           "Issues": [
             {
               "Field": "DateString",
@@ -2817,9 +2790,9 @@
           ]
         },
         {
-          "EventTitle": "Sergeant + Klein Volk",
+          "EventTitle": "Only The Poets",
           "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
           "Issues": [
             {
               "Field": "DateString",
@@ -4994,7 +4967,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 154,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9814,15 +9787,15 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "ALICE GEORGE PEREZ",
-          "EventDate": "2026-08-06T00:00:00",
+          "EventTitle": "AGHOGHO",
+          "EventDate": "2026-08-07T00:00:00",
           "EventUrl": "https://www.dezwerver.be/event/jong-muziek/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-06T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-08-07T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-08-06T00:00:00"
+              "ActualValue": "2026-08-07T00:00:00"
             }
           ]
         },
@@ -15127,7 +15100,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 214,
+      "TotalEvents": 213,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15177,7 +15150,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15207,21 +15180,21 @@
         },
         {
           "EventTitle": "Dawar Bokskampioenschap",
-          "EventDate": "2026-09-17T22:00:00Z",
+          "EventDate": "2026-09-18T22:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/dawar-bokskampioenschap",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-17T22:00:00Z'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-18T22:00:00Z'.",
               "Severity": 1,
-              "ActualValue": "2026-09-17T22:00:00Z"
+              "ActualValue": "2026-09-18T22:00:00Z"
             }
           ]
         },
         {
-          "EventTitle": "Festival Estelles V.",
+          "EventTitle": "[SOLD OUT] Festival Estelles V.",
           "EventDate": "2026-09-25T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/festival-estelles-v",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/sold-out-festival-estelles-v",
           "Issues": [
             {
               "Field": "DateString",
