@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-08-07T05:00:05.7515777Z",
-  "ValidatedAt": "2026-08-07T05:00:05.7515778Z",
+  "GeneratedAt": "2026-08-08T05:00:00.4048851Z",
+  "ValidatedAt": "2026-08-08T05:00:00.4048852Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3253,
+  "TotalEvents": 3411,
   "TotalErrors": 0,
   "TotalWarnings": 1156,
   "Results": [
@@ -2579,34 +2579,35 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 66,
+      "TotalEvents": 200,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 1,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kraantje Pappie, 't Hof Van Commerce, S10, NAFT & BLU SAMU",
-          "EventDate": "2026-08-07T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-open-air",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-07T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Benenwerk",
           "EventDate": "2026-08-08T00:00:00.0000000",
@@ -2777,9 +2778,9 @@
           ]
         },
         {
-          "EventTitle": "Sergeant + Klein Volk",
+          "EventTitle": "Only The Poets",
           "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
           "Issues": [
             {
               "Field": "DateString",
@@ -2790,9 +2791,9 @@
           ]
         },
         {
-          "EventTitle": "Only The Poets",
+          "EventTitle": "Sergeant + Klein Volk",
           "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
           "Issues": [
             {
               "Field": "DateString",
@@ -3716,7 +3717,7 @@
           ]
         },
         {
-          "EventTitle": "Club Kapel: Frans Kalf en Johannes Is Zijn Naam",
+          "EventTitle": "Club Kapel: Frans Kalf en Johannes Is Zijn Naam - UITVERKOCHT!",
           "EventDate": "2026-10-30",
           "EventUrl": "https://cczoetegem.be/programma/club-kapel-frans-kalf-en-johannes-is-zijn-naam.aspx",
           "Issues": [
@@ -4967,7 +4968,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 153,
+      "TotalEvents": 152,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9781,24 +9782,11 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 8,
+      "TotalEvents": 7,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "AGHOGHO",
-          "EventDate": "2026-08-07T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/event/jong-muziek/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-07T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-07T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "MOVING MOTION: Expo 50 Jaar Leffingeleuren",
           "EventDate": "2026-08-30T00:00:00",
@@ -13695,7 +13683,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13705,9 +13693,9 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 2,
+      "TotalEvents": 3,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 3,
       "Issues": [],
       "EventDetails": [
         {
@@ -13733,6 +13721,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-08-29'.",
               "Severity": 1,
               "ActualValue": "2026-08-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Waterboys ft. Steve Earle Fisherman`s Blues Revue",
+          "EventDate": "2026-09-11",
+          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/the-waterboys-ft-steve-earle-fisherman-s-blues-revue/a0NP500000IRlDOMA1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-11"
             }
           ]
         }
@@ -15100,7 +15101,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 213,
+      "TotalEvents": 211,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15150,7 +15151,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15415,7 +15416,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 77,
+      "TotalEvents": 76,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
