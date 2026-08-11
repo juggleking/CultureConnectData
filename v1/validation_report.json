@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-08-10T05:00:02.9537457Z",
-  "ValidatedAt": "2026-08-10T05:00:02.9537458Z",
+  "GeneratedAt": "2026-08-11T05:00:06.2458443Z",
+  "ValidatedAt": "2026-08-11T05:00:06.2458443Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3371,
+  "TotalEvents": 3242,
   "TotalErrors": 0,
-  "TotalWarnings": 1153,
+  "TotalWarnings": 1152,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 13,
+      "TotalEvents": 12,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -949,9 +949,9 @@
           ]
         },
         {
-          "EventTitle": "IJSLAND",
+          "EventTitle": "Double bill: Glenn Jones & Liam Grant",
           "EventDate": "2026-10-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ijsland/a10Qw00000GcJq1IAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-glenn-jones-liam-grant/a10Qw00000GsCz3IAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -962,9 +962,9 @@
           ]
         },
         {
-          "EventTitle": "Double bill: Glenn Jones & Liam Grant",
+          "EventTitle": "IJSLAND",
           "EventDate": "2026-10-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-glenn-jones-liam-grant/a10Qw00000GsCz3IAF",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ijsland/a10Qw00000GcJq1IAF",
           "Issues": [
             {
               "Field": "DateString",
@@ -2579,25 +2579,11 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 200,
+      "TotalEvents": 72,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "CactusMusic",
@@ -6138,19 +6124,6 @@
           ]
         },
         {
-          "EventTitle": "Voil jeanet voor beginners",
-          "EventDate": "2027-01-30",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/voil-jeanet-voor-beginners/7935/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-30'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-30"
-            }
-          ]
-        },
-        {
           "EventTitle": "Ward Dhoore",
           "EventDate": "2027-01-30",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/ward-dhoore/9893/",
@@ -6177,6 +6150,19 @@
           ]
         },
         {
+          "EventTitle": "Voil jeanet voor beginners",
+          "EventDate": "2025-10-08",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/voil-jeanet-voor-beginners/7935/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2025-10-08'.",
+              "Severity": 1,
+              "ActualValue": "2025-10-08"
+            }
+          ]
+        },
+        {
           "EventTitle": "Academie voor Podiumkunsten vestiging Denderleeuw",
           "EventDate": "2027-02-03",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/academie-voor-podiumkunsten-vestiging-denderleeuw/9937/",
@@ -6186,6 +6172,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-03'.",
               "Severity": 1,
               "ActualValue": "2027-02-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Stuft",
+          "EventDate": "2027-02-02",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-02"
             }
           ]
         },
@@ -6500,19 +6499,6 @@
               "ActualValue": "2027-03-08"
             }
           ]
-        },
-        {
-          "EventTitle": "Pruiken uit foam",
-          "EventDate": "2027-03-10",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pruiken-uit-foam/8874/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-10'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-10"
-            }
-          ]
         }
       ]
     },
@@ -6632,9 +6618,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 51,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 51,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
         {
@@ -6738,6 +6724,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-09-20T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ão (try-out)",
+          "EventDate": "2026-09-23T00:00:00",
+          "EventUrl": "https://decasino.be/concert/ao-try-out/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-23T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-23T00:00:00"
             }
           ]
         },
@@ -7158,9 +7157,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7171,9 +7170,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7210,7 +7209,7 @@
           ]
         },
         {
-          "EventTitle": "Dylan LeBlanc",
+          "EventTitle": "Dylan LeBlanc + Barbara Forstner",
           "EventDate": "2026-12-10T00:00:00",
           "EventUrl": "https://decasino.be/concert/dylan-leblanc-2/",
           "Issues": [
@@ -10740,9 +10739,9 @@
       "ScraperId": "Dour",
       "ScraperName": "DourScraper",
       "VenueName": "Dour Festival",
-      "TotalEvents": 211,
+      "TotalEvents": 210,
       "ErrorCount": 0,
-      "WarningCount": 211,
+      "WarningCount": 210,
       "Issues": [],
       "EventDetails": [
         {
@@ -11685,19 +11684,6 @@
           "EventTitle": "VICIOSA Presents : NMSS, Vera Moro, Ricky Corazón",
           "EventDate": "2026-07-16T00:00:00.0000000",
           "EventUrl": "https://www.dourfestival.eu/en/artiste/374-viciosa-presents-nmss-vera-moro-ricky-corazon/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yin Yin",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/323-yin-yin/",
           "Issues": [
             {
               "Field": "DateString",
@@ -13504,7 +13490,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 76,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15062,7 +15048,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 207,
+      "TotalEvents": 206,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
