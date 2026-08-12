@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-11T05:00:06.2458443Z",
-  "ValidatedAt": "2026-08-11T05:00:06.2458443Z",
+  "GeneratedAt": "2026-08-12T05:00:00.4536126Z",
+  "ValidatedAt": "2026-08-12T05:00:00.4536127Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3242,
+  "TotalEvents": 3383,
   "TotalErrors": 0,
-  "TotalWarnings": 1152,
+  "TotalWarnings": 1156,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -442,7 +442,7 @@
           ]
         },
         {
-          "EventTitle": "Yard Act",
+          "EventTitle": "Yard Act + Do Nothing",
           "EventDate": "2026-10-02T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/yard-act/a10Qw000003bULeIAM",
           "Issues": [
@@ -1001,9 +1001,9 @@
           ]
         },
         {
-          "EventTitle": "Greg Mendez",
+          "EventTitle": "Les Truttes",
           "EventDate": "2026-10-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/greg-mendez/a10Qw00000I3ZIDIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/les-truttes/a10Qw00000CAlzdIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -1014,9 +1014,9 @@
           ]
         },
         {
-          "EventTitle": "Les Truttes",
+          "EventTitle": "Greg Mendez + Lily Seabird",
           "EventDate": "2026-10-31T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/les-truttes/a10Qw00000CAlzdIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/greg-mendez/a10Qw00000I3ZIDIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -2579,19 +2579,33 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 72,
+      "TotalEvents": 202,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 1,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Bianca Costa",
+          "EventDate": "2026-10-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 55,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
         {
@@ -3098,6 +3112,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Shaki Tavi + Honey I'm Home",
+          "EventDate": "2026-11-16T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/shaki-tavi-honey-im-home",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-16T00:00:00.0000000"
             }
           ]
         },
@@ -13490,7 +13517,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 77,
+      "TotalEvents": 84,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15048,7 +15075,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 206,
+      "TotalEvents": 205,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15108,9 +15135,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 18,
+      "TotalEvents": 20,
       "ErrorCount": 0,
-      "WarningCount": 18,
+      "WarningCount": 20,
       "Issues": [],
       "EventDetails": [
         {
@@ -15136,6 +15163,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-18T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-09-18T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "[NIEUWE DATUM] Seizoensopener | Floris Francis Arthur (solo) + Baertman",
+          "EventDate": "2026-09-19T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/nieuwe-datum-seizoensopener-floris-francis-arthur-solo-baertman",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-19T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-19T22:00:00Z"
             }
           ]
         },
@@ -15335,6 +15375,19 @@
           ]
         },
         {
+          "EventTitle": "Siloé",
+          "EventDate": "2026-12-18T23:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/siloe",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-18T23:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-18T23:00:00Z"
+            }
+          ]
+        },
+        {
           "EventTitle": "Dyna, Lewis & The Soul Caravan",
           "EventDate": "2027-04-09T22:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/dyna-lewis-soul-caravan",
@@ -15363,7 +15416,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 76,
+      "TotalEvents": 78,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
