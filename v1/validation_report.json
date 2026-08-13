@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-08-12T05:00:00.4536126Z",
-  "ValidatedAt": "2026-08-12T05:00:00.4536127Z",
+  "GeneratedAt": "2026-08-13T05:00:07.2238842Z",
+  "ValidatedAt": "2026-08-13T05:00:07.2238843Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3383,
+  "TotalEvents": 3402,
   "TotalErrors": 0,
-  "TotalWarnings": 1156,
+  "TotalWarnings": 1155,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 12,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -2579,7 +2579,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 202,
+      "TotalEvents": 203,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -2603,24 +2603,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 56,
+      "TotalEvents": 55,
       "ErrorCount": 0,
-      "WarningCount": 56,
+      "WarningCount": 55,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Emmy d'Arc",
-          "EventDate": "2026-08-12T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-emmy-darc",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-12T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Alfa Mist",
           "EventDate": "2026-08-13T00:00:00.0000000",
@@ -2752,9 +2739,9 @@
           ]
         },
         {
-          "EventTitle": "Only The Poets",
+          "EventTitle": "Sergeant + Klein Volk",
           "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
           "Issues": [
             {
               "Field": "DateString",
@@ -2765,9 +2752,9 @@
           ]
         },
         {
-          "EventTitle": "Sergeant + Klein Volk",
+          "EventTitle": "Only The Poets",
           "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
           "Issues": [
             {
               "Field": "DateString",
@@ -4952,7 +4939,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 47,
+      "TotalEvents": 48,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13657,7 +13644,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 20,
+      "TotalEvents": 22,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15075,7 +15062,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 205,
+      "TotalEvents": 204,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15125,7 +15112,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
