@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-13T05:00:07.2238842Z",
-  "ValidatedAt": "2026-08-13T05:00:07.2238843Z",
+  "GeneratedAt": "2026-08-14T05:00:00.5161873Z",
+  "ValidatedAt": "2026-08-14T05:00:00.5161873Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3402,
+  "TotalEvents": 3388,
   "TotalErrors": 0,
-  "TotalWarnings": 1155,
+  "TotalWarnings": 1157,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -273,7 +273,7 @@
           ]
         },
         {
-          "EventTitle": "Gans",
+          "EventTitle": "Gans + Max Forage",
           "EventDate": "2026-09-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/gans/a10Qw00000IRSSTIA5",
           "Issues": [
@@ -2603,24 +2603,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 55,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Alfa Mist",
-          "EventDate": "2026-08-13T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bc-alfa-mist",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "HoT Stuff #2: Fenne Kuppens",
           "EventDate": "2026-08-14T00:00:00.0000000",
@@ -2739,19 +2726,6 @@
           ]
         },
         {
-          "EventTitle": "Sergeant + Klein Volk",
-          "EventDate": "2026-09-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Only The Poets",
           "EventDate": "2026-09-27T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/only-the-poets",
@@ -2765,7 +2739,20 @@
           ]
         },
         {
-          "EventTitle": "W.E.R.F. Records Night - Compro Oro + Helena Casella + KUNDE + re#encounter + bààn + Margitte + DJ Fallujah",
+          "EventTitle": "Sergeant + Klein Volk",
+          "EventDate": "2026-09-27T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sergeant-klein-volk",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "W.E.R.F. Records Night - Compro Oro + Helena Casella + KUNDE + re#encounter + bààn + Margitte",
           "EventDate": "2026-10-02T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/werf-records-night",
           "Issues": [
@@ -2960,7 +2947,7 @@
           ]
         },
         {
-          "EventTitle": "Bruges Is Doomed Festival #2 - Wolves In The Throne Room + Oranssi Pazuzu + Worm + Mur + Final Dose + Primitive Warfare",
+          "EventTitle": "Wolves In The Throne Room + Oranssi Pazuzu + Worm + Mur + Final Dose + Primitive Warfare",
           "EventDate": "2026-10-25T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bruges-is-doomed-festival",
           "Issues": [
@@ -3490,9 +3477,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 88,
+      "TotalEvents": 89,
       "ErrorCount": 0,
-      "WarningCount": 88,
+      "WarningCount": 89,
       "Issues": [],
       "EventDetails": [
         {
@@ -3811,6 +3798,19 @@
           "EventTitle": "Kunstendag voor Kinderen - Sprookjes enzo - Sssstt!",
           "EventDate": "2026-11-15",
           "EventUrl": "https://cczoetegem.be/programma/kunstendag-voor-kinderen-sprookjes-enzo-sssstt-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Emmy d'Arc",
+          "EventDate": "2026-11-15",
+          "EventUrl": "https://cczoetegem.be/programma/emmy-darc.aspx",
           "Issues": [
             {
               "Field": "DateString",
@@ -6520,7 +6520,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 91,
+      "TotalEvents": 90,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6632,9 +6632,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 52,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
         {
@@ -6768,6 +6768,19 @@
           ]
         },
         {
+          "EventTitle": "Club RiRi (by Goestink)",
+          "EventDate": "2026-09-26T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-riri-by-goestink-11/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Welcome to the Jazzclub / Echoes Of Zoo",
           "EventDate": "2026-09-27T00:00:00",
           "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-echoes-of-zoo/",
@@ -6885,7 +6898,7 @@
           ]
         },
         {
-          "EventTitle": "Future Palace",
+          "EventTitle": "Future Palace + As Everything Unfolds + Luna Kills",
           "EventDate": "2026-10-11T00:00:00",
           "EventUrl": "https://decasino.be/concert/future-palace/",
           "Issues": [
@@ -7171,9 +7184,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7184,9 +7197,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -15062,7 +15075,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 204,
+      "TotalEvents": 203,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15112,7 +15125,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15122,9 +15135,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 20,
+      "TotalEvents": 21,
       "ErrorCount": 0,
-      "WarningCount": 20,
+      "WarningCount": 21,
       "Issues": [],
       "EventDetails": [
         {
@@ -15163,6 +15176,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-19T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-09-19T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SKAI",
+          "EventDate": "2026-09-23T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/skai",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-23T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-23T22:00:00Z"
             }
           ]
         },
@@ -15403,7 +15429,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 78,
+      "TotalEvents": 79,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
