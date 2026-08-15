@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-14T05:00:00.5161873Z",
-  "ValidatedAt": "2026-08-14T05:00:00.5161873Z",
+  "GeneratedAt": "2026-08-15T05:00:07.2780925Z",
+  "ValidatedAt": "2026-08-15T05:00:07.2780926Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3388,
+  "TotalEvents": 3386,
   "TotalErrors": 0,
-  "TotalWarnings": 1157,
+  "TotalWarnings": 1155,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2603,24 +2603,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "HoT Stuff #2: Fenne Kuppens",
-          "EventDate": "2026-08-14T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/fenne-kuppens",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-14T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Rooftop Street Food #6: Tou.Gou",
           "EventDate": "2026-08-15T00:00:00.0000000",
@@ -6520,7 +6507,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 90,
+      "TotalEvents": 91,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13657,7 +13644,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 22,
+      "TotalEvents": 23,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13667,24 +13654,11 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 3,
+      "TotalEvents": 2,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 2,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ebo Taylor Celebrations",
-          "EventDate": "2026-02-07",
-          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/ebo-taylor-celebrations/a0NP500000ODjuLMAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-02-07'.",
-              "Severity": 1,
-              "ActualValue": "2026-02-07"
-            }
-          ]
-        },
         {
           "EventTitle": "Sylvie Kreusch",
           "EventDate": "2026-08-29",
@@ -15075,7 +15049,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 203,
+      "TotalEvents": 202,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15429,7 +15403,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 79,
+      "TotalEvents": 78,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
