@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-16T05:00:01.2382203Z",
-  "ValidatedAt": "2026-08-16T05:00:01.2382203Z",
+  "GeneratedAt": "2026-08-17T05:00:04.1865556Z",
+  "ValidatedAt": "2026-08-17T05:00:04.1865557Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3386,
+  "TotalEvents": 3399,
   "TotalErrors": 0,
-  "TotalWarnings": 1155,
+  "TotalWarnings": 1154,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2603,24 +2603,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Rooftop Street Food #6: Tou.Gou",
-          "EventDate": "2026-08-15T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/tou-gou",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Rooftop Street Food #7: Patrick Devos",
           "EventDate": "2026-08-22T00:00:00.0000000",
@@ -15049,7 +15036,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 201,
+      "TotalEvents": 200,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15099,7 +15086,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
