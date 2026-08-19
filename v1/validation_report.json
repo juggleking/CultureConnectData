@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-08-18T05:00:00.4645506Z",
-  "ValidatedAt": "2026-08-18T05:00:00.4645506Z",
+  "GeneratedAt": "2026-08-19T05:00:06.1887506Z",
+  "ValidatedAt": "2026-08-19T05:00:06.1887506Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3369,
+  "TotalEvents": 3416,
   "TotalErrors": 0,
   "TotalWarnings": 1154,
   "Results": [
@@ -10,7 +10,7 @@
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 14,
+      "TotalEvents": 13,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -2579,7 +2579,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 203,
+      "TotalEvents": 204,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -2603,9 +2603,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 52,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
         {
@@ -2791,7 +2791,7 @@
           ]
         },
         {
-          "EventTitle": "Benenwerk Indoor - Classix Edition ft VJ Alex Van Oostrom",
+          "EventTitle": "Benenwerk Indoor - Classix Edition ft. VJ Alex van Oostrom",
           "EventDate": "2026-10-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/benenwerk-indoor-classix",
           "Issues": [
@@ -2982,6 +2982,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-30T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ICOON 'Like a prayer' - Halloween edition",
+          "EventDate": "2026-10-31T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/icoon-halloween",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-31T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-31T00:00:00.0000000"
             }
           ]
         },
@@ -5020,6 +5033,19 @@
           ]
         },
         {
+          "EventTitle": "Andries Beckers",
+          "EventDate": "2026-09-23",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/andries-beckers/9842/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-23'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-23"
+            }
+          ]
+        },
+        {
           "EventTitle": "Koppen in piepschuim (niv 4)",
           "EventDate": "2026-09-24",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koppen-in-piepschuim-niv-4/8880/",
@@ -5036,19 +5062,6 @@
           "EventTitle": "Koppen in piepschuim (niv 3)",
           "EventDate": "2026-09-24",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koppen-in-piepschuim-niv-3/9194/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-24"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Andries Beckers",
-          "EventDate": "2026-09-24",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/andries-beckers/9842/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6606,24 +6619,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Dikke (try-out)",
-          "EventDate": "2026-08-18T00:00:00",
-          "EventUrl": "https://decasino.be/concert/dikke-try-out/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-18T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Club Kabaal",
           "EventDate": "2026-09-04T00:00:00",
@@ -7158,9 +7158,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7171,9 +7171,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7321,19 +7321,6 @@
       "WarningCount": 119,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Openluchtfilm",
-          "EventDate": "2026-08-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/openluchtfilm-nrlb",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Openluchtfilm",
           "EventDate": "2026-08-19T00:00:00.0000000",
@@ -8865,6 +8852,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-06-09T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-06-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stabieler (Herneming)",
+          "EventDate": "2027-06-19T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/stabieler-herneming-ts2h",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-06-19T00:00:00.0000000"
             }
           ]
         }
@@ -13571,7 +13571,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 162,
+      "TotalEvents": 163,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13631,7 +13631,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 23,
+      "TotalEvents": 24,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15086,7 +15086,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
