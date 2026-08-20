@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-19T05:00:06.1887506Z",
-  "ValidatedAt": "2026-08-19T05:00:06.1887506Z",
+  "GeneratedAt": "2026-08-20T05:00:00.4782717Z",
+  "ValidatedAt": "2026-08-20T05:00:00.4782718Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3416,
+  "TotalEvents": 3389,
   "TotalErrors": 0,
-  "TotalWarnings": 1154,
+  "TotalWarnings": 1155,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 196,
+      "TotalEvents": 197,
       "ErrorCount": 0,
-      "WarningCount": 196,
+      "WarningCount": 197,
       "Issues": [],
       "EventDetails": [
         {
@@ -598,9 +598,9 @@
           ]
         },
         {
-          "EventTitle": "Nectar Woode",
+          "EventTitle": "Ultra Vomit",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
           "Issues": [
             {
               "Field": "DateString",
@@ -611,9 +611,9 @@
           ]
         },
         {
-          "EventTitle": "Ultra Vomit",
+          "EventTitle": "Nectar Woode",
           "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nectar-woode/a10Qw00000IRMlFIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -1056,6 +1056,19 @@
           "EventTitle": "Davina Michelle",
           "EventDate": "2026-11-03T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/davina-michelle/a10Qw00000GcHoEIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ibex Band: 50th Anniversary of Stereo Instrumental Music",
+          "EventDate": "2026-11-03T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ibex-band-50th-anniversary-of-stereo-instrumental-music/a10Qw00000Ialu8IAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2579,7 +2592,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 204,
+      "TotalEvents": 205,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -2603,9 +2616,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 53,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
         {
@@ -3038,6 +3051,19 @@
           ]
         },
         {
+          "EventTitle": "Horse Jumper of Love - Playing their self titled debut in its entirety",
+          "EventDate": "2026-11-09T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/horse-jumper-of-love",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Spike and The Gimme Gimmes",
           "EventDate": "2026-11-10T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/spike-and-the-gimme-gimmes",
@@ -3064,7 +3090,7 @@
           ]
         },
         {
-          "EventTitle": "Club Cactus: line-up TBA!",
+          "EventTitle": "Felix da Housecat",
           "EventDate": "2026-11-13T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/club-cactus",
           "Issues": [
@@ -3509,7 +3535,7 @@
           ]
         },
         {
-          "EventTitle": "Hetty Helsmoortel - Missie 2026 (try-out)",
+          "EventTitle": "Hetty Helsmoortel - Missie 2026 (try-out) - LAATSTE KAARTEN!",
           "EventDate": "2026-10-03",
           "EventUrl": "https://cczoetegem.be/programma/hetty-helsmoortel-missie-2026-tryout.aspx",
           "Issues": [
@@ -7316,24 +7342,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 164,
+      "TotalEvents": 163,
       "ErrorCount": 0,
-      "WarningCount": 119,
+      "WarningCount": 118,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Openluchtfilm",
-          "EventDate": "2026-08-19T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/openluchtfilm-51yb",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-19T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Openluchtfilm",
           "EventDate": "2026-08-20T00:00:00.0000000",
@@ -15036,7 +15049,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 200,
+      "TotalEvents": 199,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15086,7 +15099,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 75,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15380,7 +15393,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 57,
+      "TotalEvents": 58,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15390,7 +15403,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 78,
+      "TotalEvents": 79,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
