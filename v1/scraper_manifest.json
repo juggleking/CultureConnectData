@@ -1,16 +1,16 @@
 {
   "Version": "2026.07.29.1315",
-  "GeneratedAt": "2026-08-21T14:01:51.9998521Z",
-  "StartedAt": "2026-08-21T14:00:00.4538913Z",
-  "FinishedAt": "2026-08-21T14:01:51.7810804Z",
-  "LastUploadAt": "2026-08-21T14:01:52.011076Z",
+  "GeneratedAt": "2026-08-21T18:01:38.6619789Z",
+  "StartedAt": "2026-08-21T18:00:00.3050316Z",
+  "FinishedAt": "2026-08-21T18:01:38.4136367Z",
+  "LastUploadAt": "2026-08-21T18:01:38.6829606Z",
   "Venues": [
     {
       "VenueId": "FourAD",
       "VenueName": "4AD, Diksmuide",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4577781Z",
-      "FinishedAt": "2026-08-21T14:00:03.3037185Z",
+      "StartedAt": "2026-08-21T18:00:00.3086253Z",
+      "FinishedAt": "2026-08-21T18:00:01.6729232Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
       "Files": [
         {
@@ -59,8 +59,8 @@
       "VenueId": "AbConcerts",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.456934Z",
-      "FinishedAt": "2026-08-21T14:00:03.4307756Z",
+      "StartedAt": "2026-08-21T18:00:00.3077559Z",
+      "FinishedAt": "2026-08-21T18:00:05.3678769Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
       "Files": [
         {
@@ -78,8 +78,8 @@
           "Year": 2026,
           "FileName": "abconcerts-09-2026.json",
           "FilePath": "events/concerts/abconcerts/abconcerts-09-2026.json",
-          "Hash": "897920a5836b5689e79d3134c9d4f0da38c0b78204e75d8604151ee1a08fa869",
-          "EventCount": 30,
+          "Hash": "fa1c4876c066d20c335d973446838391e2222ed565b6e64957cfc2ed1be8b71b",
+          "EventCount": 31,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -128,8 +128,8 @@
           "Year": 2027,
           "FileName": "abconcerts-02-2027.json",
           "FilePath": "events/concerts/abconcerts/abconcerts-02-2027.json",
-          "Hash": "086d8374c3e67176a6ad54699ef8772467aef2e353a3342a330a5b4d83e9b00e",
-          "EventCount": 14,
+          "Hash": "5aca57d7b704686d97389de3b3b86b7e4edbc79357c9c2e5c841157620b9e467",
+          "EventCount": 15,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -179,8 +179,8 @@
       "VenueId": "Botanique",
       "VenueName": "Botanique, Brussels",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4571147Z",
-      "FinishedAt": "2026-08-21T14:00:19.3911139Z",
+      "StartedAt": "2026-08-21T18:00:00.3079388Z",
+      "FinishedAt": "2026-08-21T18:00:28.5355726Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
       "Files": [
         {
@@ -198,8 +198,58 @@
           "Year": 2026,
           "FileName": "botanique-10-2026.json",
           "FilePath": "events/concerts/botanique/botanique-10-2026.json",
-          "Hash": "b8d833927c20dabf69b0a2bfd567356e5470d400e4eca40ab6593dbce60c0444",
-          "EventCount": 33,
+          "Hash": "bc830d23a113f33717c5883d6c4f70001bf971e661365c4393737b1a6404d3bb",
+          "EventCount": 65,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 11,
+          "Year": 2026,
+          "FileName": "botanique-11-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-11-2026.json",
+          "Hash": "3b2c148f0a4a099b4a87d3db5d947222e6b2e472ce1815240403f2dd9a34e0d4",
+          "EventCount": 41,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 12,
+          "Year": 2026,
+          "FileName": "botanique-12-2026.json",
+          "FilePath": "events/concerts/botanique/botanique-12-2026.json",
+          "Hash": "bf09c0b50b251855b40fa3b19f7c7a39a3e2c553980cbeebffb1058e1c23a6b2",
+          "EventCount": 22,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "botanique-01-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-01-2027.json",
+          "Hash": "00ee22380d09edb58eb6b90ab88f6e18ab2193747992e9fd2ae5752590933a42",
+          "EventCount": 5,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "botanique-02-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-02-2027.json",
+          "Hash": "cd1d3abe5f80aa1968b585456e4cc26f5b7c057e5f5f7459ecf86a8df4b6a8ec",
+          "EventCount": 9,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "botanique-03-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-03-2027.json",
+          "Hash": "36ee8bc5603946e9c95172fb78767ac4b9c6be3c58eefbdbd2106669412802bb",
+          "EventCount": 3,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -209,8 +259,8 @@
       "VenueId": "CactusMusic",
       "VenueName": "Cactus Muziekcentrum, Brugge",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4572096Z",
-      "FinishedAt": "2026-08-21T14:00:02.0639137Z",
+      "StartedAt": "2026-08-21T18:00:00.3080337Z",
+      "FinishedAt": "2026-08-21T18:00:01.5281741Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
       "Files": [
         {
@@ -299,8 +349,8 @@
       "VenueId": "CcBrugge",
       "VenueName": "CC Brugge",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4548152Z",
-      "FinishedAt": "2026-08-21T14:00:11.6732307Z",
+      "StartedAt": "2026-08-21T18:00:00.3063666Z",
+      "FinishedAt": "2026-08-21T18:00:12.2591151Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -399,8 +449,8 @@
       "VenueId": "SintLievensHoutem",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4568417Z",
-      "FinishedAt": "2026-08-21T14:00:03.9911665Z",
+      "StartedAt": "2026-08-21T18:00:00.307666Z",
+      "FinishedAt": "2026-08-21T18:00:05.2936024Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
       "Files": [
         {
@@ -459,8 +509,8 @@
       "VenueId": "CCHetSpoor",
       "VenueName": "CC Het Spoor",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.454909Z",
-      "FinishedAt": "2026-08-21T14:00:02.7770541Z",
+      "StartedAt": "2026-08-21T18:00:00.3064628Z",
+      "FinishedAt": "2026-08-21T18:00:03.5534209Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -489,8 +539,8 @@
       "VenueId": "CcZoetegem",
       "VenueName": "CC Zoetegem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4549773Z",
-      "FinishedAt": "2026-08-21T14:00:03.0573042Z",
+      "StartedAt": "2026-08-21T18:00:00.306559Z",
+      "FinishedAt": "2026-08-21T18:00:04.0951549Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
       "Files": [
         {
@@ -589,8 +639,8 @@
       "VenueId": "Aff",
       "VenueName": "Club AFF / Absolutely Free Festival",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.457026Z",
-      "FinishedAt": "2026-08-21T14:00:04.7677862Z",
+      "StartedAt": "2026-08-21T18:00:00.3078508Z",
+      "FinishedAt": "2026-08-21T18:00:04.6719526Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
       "Files": [
         {
@@ -649,8 +699,8 @@
       "VenueId": "Cecilia",
       "VenueName": "Compagnie Cecilia, Gent",
       "Category": "Theatre",
-      "StartedAt": "2026-08-21T14:00:00.4538913Z",
-      "FinishedAt": "2026-08-21T14:01:51.7810804Z",
+      "StartedAt": "2026-08-21T18:00:00.3050316Z",
+      "FinishedAt": "2026-08-21T18:01:28.8024058Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
       "Files": [
         {
@@ -759,8 +809,8 @@
       "VenueId": "CultuurKnokkeHeist",
       "VenueName": "Cultuur Knokke-Heist",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.455134Z",
-      "FinishedAt": "2026-08-21T14:00:02.3299214Z",
+      "StartedAt": "2026-08-21T18:00:00.3067187Z",
+      "FinishedAt": "2026-08-21T18:00:03.5592982Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -859,8 +909,8 @@
       "VenueId": "DeWerf",
       "VenueName": "Cultuurhuis De Werf",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4562202Z",
-      "FinishedAt": "2026-08-21T14:00:07.6413375Z",
+      "StartedAt": "2026-08-21T18:00:00.307315Z",
+      "FinishedAt": "2026-08-21T18:00:09.0810685Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
       "Files": [
         {
@@ -959,8 +1009,8 @@
       "VenueId": "Emotia",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4564201Z",
-      "FinishedAt": "2026-08-21T14:00:04.990537Z",
+      "StartedAt": "2026-08-21T18:00:00.3074119Z",
+      "FinishedAt": "2026-08-21T18:00:05.5989401Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
       "Files": [
         {
@@ -1079,8 +1129,8 @@
       "VenueId": "CultuurhuisMerelbeke",
       "VenueName": "Cultuurhuis Merelbeke",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4550569Z",
-      "FinishedAt": "2026-08-21T14:00:30.520367Z",
+      "StartedAt": "2026-08-21T18:00:00.3066416Z",
+      "FinishedAt": "2026-08-21T18:00:30.7297193Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
       "Files": [
         {
@@ -1129,8 +1179,8 @@
       "VenueId": "DeCasino",
       "VenueName": "De Casino",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4572905Z",
-      "FinishedAt": "2026-08-21T14:00:02.7480909Z",
+      "StartedAt": "2026-08-21T18:00:00.3081173Z",
+      "FinishedAt": "2026-08-21T18:00:01.9539627Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
       "Files": [
         {
@@ -1209,8 +1259,8 @@
       "VenueId": "DeRoma",
       "VenueName": "De Roma",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T10:00:00.7113728Z",
-      "FinishedAt": "2026-08-21T10:00:02.870942Z",
+      "StartedAt": "2026-08-21T18:00:00.308323Z",
+      "FinishedAt": "2026-08-21T18:00:05.4077525Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
       "Files": [
         {
@@ -1228,7 +1278,7 @@
           "Year": 2026,
           "FileName": "deroma-09-2026.json",
           "FilePath": "events/concerts/deroma/deroma-09-2026.json",
-          "Hash": "4575186f76e9d2422eb6d7f8ebe6d7ff12ae03896739dd2de80a19fcb8257dfc",
+          "Hash": "2d52c6c20e22f57eed97f9fe3c6ef0dfac57ced2678faffafd7daf9112afe121",
           "EventCount": 37,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -1329,8 +1379,8 @@
       "VenueId": "DeSpil",
       "VenueName": "De Spil, Roeselare",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4556624Z",
-      "FinishedAt": "2026-08-21T14:00:12.228779Z",
+      "StartedAt": "2026-08-21T18:00:00.3071852Z",
+      "FinishedAt": "2026-08-21T18:00:11.1072291Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1449,8 +1499,8 @@
       "VenueId": "Steenoven",
       "VenueName": "De Steenoven, Herzele",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4576027Z",
-      "FinishedAt": "2026-08-21T14:00:01.884342Z",
+      "StartedAt": "2026-08-21T18:00:00.308425Z",
+      "FinishedAt": "2026-08-21T18:00:01.2240134Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
       "Files": [
         {
@@ -1559,8 +1609,8 @@
       "VenueId": "DeZwerver",
       "VenueName": "De Zwerver",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4576959Z",
-      "FinishedAt": "2026-08-21T14:00:01.6496962Z",
+      "StartedAt": "2026-08-21T18:00:00.3085447Z",
+      "FinishedAt": "2026-08-21T18:00:01.045123Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
       "Files": [
         {
@@ -1609,8 +1659,8 @@
       "VenueId": "Democrazy",
       "VenueName": "Democrazy, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4573779Z",
-      "FinishedAt": "2026-08-21T14:00:01.9280664Z",
+      "StartedAt": "2026-08-21T18:00:00.3081934Z",
+      "FinishedAt": "2026-08-21T18:00:01.4856932Z",
       "FaviconUrl": "https://www.democrazy.be/favicon.ico",
       "Files": [
         {
@@ -1699,8 +1749,8 @@
       "VenueId": "Dour",
       "VenueName": "Dour Festival",
       "Category": "Festival",
-      "StartedAt": "2026-08-21T14:00:00.454243Z",
-      "FinishedAt": "2026-08-21T14:00:02.0119575Z",
+      "StartedAt": "2026-08-21T18:00:00.3058476Z",
+      "FinishedAt": "2026-08-21T18:00:01.174087Z",
       "FaviconUrl": "https://www.dourfestival.eu/favicon.ico",
       "Files": [
         {
@@ -1719,27 +1769,27 @@
       "VenueId": "Fonnefeesten",
       "VenueName": "Fonnefeesten",
       "Category": "Festival",
-      "StartedAt": "2026-08-21T14:00:00.4543315Z",
-      "FinishedAt": "2026-08-21T14:00:01.0000974Z",
+      "StartedAt": "2026-08-21T18:00:00.3059423Z",
+      "FinishedAt": "2026-08-21T18:00:00.8234216Z",
       "FaviconUrl": "https://fonnefeesten.be/favicon.ico",
       "Files": [
-        {
-          "Month": 8,
-          "Year": 2026,
-          "FileName": "fonnefeesten-08-2026.json",
-          "FilePath": "events/festival/fonnefeesten/fonnefeesten-08-2026.json",
-          "Hash": "d348a1f253fdf6a168c77e3ce7cc6ec4f8246ae14572b3dec04a1d39dcb45235",
-          "EventCount": 38,
-          "Status": "Unknown",
-          "ErrorMessage": null
-        },
         {
           "Month": 7,
           "Year": 2026,
           "FileName": "fonnefeesten-07-2026.json",
           "FilePath": "events/festival/fonnefeesten/fonnefeesten-07-2026.json",
-          "Hash": "c566a362c1b4c5be675bc09aa4ea03023a2f9a0150ae848911dd3c815b80c596",
+          "Hash": "8237be5ee9a9e2ae97cd4cac5c0a37fac3282c18383d724b404b7de75add47ba",
           "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 8,
+          "Year": 2026,
+          "FileName": "fonnefeesten-08-2026.json",
+          "FilePath": "events/festival/fonnefeesten/fonnefeesten-08-2026.json",
+          "Hash": "aaf844989c437cda3967c274a97940fca867e2cec02414cee26fceb6c1f0c9b9",
+          "EventCount": 38,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -1749,8 +1799,8 @@
       "VenueId": "DeKluize",
       "VenueName": "GC De Kluize, Oosterzele",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4552162Z",
-      "FinishedAt": "2026-08-21T14:00:03.4133551Z",
+      "StartedAt": "2026-08-21T18:00:00.3068024Z",
+      "FinishedAt": "2026-08-21T18:00:04.4554519Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
       "Files": [
         {
@@ -1869,8 +1919,8 @@
       "VenueId": "DeMeent",
       "VenueName": "GC De Meent",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4553016Z",
-      "FinishedAt": "2026-08-21T14:00:02.454791Z",
+      "StartedAt": "2026-08-21T18:00:00.3069245Z",
+      "FinishedAt": "2026-08-21T18:00:02.1949511Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1969,8 +2019,8 @@
       "VenueId": "HaConcerts",
       "VenueName": "Ha Concerts, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4578672Z",
-      "FinishedAt": "2026-08-21T14:00:03.7349573Z",
+      "StartedAt": "2026-08-21T18:00:00.3087234Z",
+      "FinishedAt": "2026-08-21T18:00:04.3999714Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
       "Files": [
         {
@@ -1999,8 +2049,8 @@
       "VenueId": "HetDepot",
       "VenueName": "Het Depot, Leuven",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4579588Z",
-      "FinishedAt": "2026-08-21T14:00:36.6801275Z",
+      "StartedAt": "2026-08-21T18:00:00.3088165Z",
+      "FinishedAt": "2026-08-21T18:00:26.8991825Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
       "Files": [
         {
@@ -2099,8 +2149,8 @@
       "VenueId": "Leietheater",
       "VenueName": "Leietheater, Deinze",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-08-21T14:00:00.4567178Z",
-      "FinishedAt": "2026-08-21T14:00:03.7467869Z",
+      "StartedAt": "2026-08-21T18:00:00.3075634Z",
+      "FinishedAt": "2026-08-21T18:00:03.7661192Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2219,8 +2269,8 @@
       "VenueId": "LokerseFeesten",
       "VenueName": "Lokerse Feesten",
       "Category": "Festival",
-      "StartedAt": "2026-08-21T14:00:00.4544112Z",
-      "FinishedAt": "2026-08-21T14:00:01.1024753Z",
+      "StartedAt": "2026-08-21T18:00:00.3060254Z",
+      "FinishedAt": "2026-08-21T18:00:00.9533253Z",
       "FaviconUrl": "https://www.lokersefeesten.be/assets/website/components/favicon/images/favicon-96x96.09a85558.png",
       "Files": [
         {
@@ -2249,8 +2299,8 @@
       "VenueId": "N9",
       "VenueName": "N9, Eeklo",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4580539Z",
-      "FinishedAt": "2026-08-21T14:00:01.8190951Z",
+      "StartedAt": "2026-08-21T18:00:00.3089112Z",
+      "FinishedAt": "2026-08-21T18:00:01.0133792Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
       "Files": [
         {
@@ -2319,8 +2369,8 @@
       "VenueId": "Rivierenhof",
       "VenueName": "OLT Rivierenhof",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4581334Z",
-      "FinishedAt": "2026-08-21T14:00:04.1632003Z",
+      "StartedAt": "2026-08-21T18:00:00.3089922Z",
+      "FinishedAt": "2026-08-21T18:00:04.4083339Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
       "Files": [
         {
@@ -2349,8 +2399,8 @@
       "VenueId": "OstendBeach",
       "VenueName": "Ostend Beach",
       "Category": "Festival",
-      "StartedAt": "2026-08-21T14:00:00.4544933Z",
-      "FinishedAt": "2026-08-21T14:00:01.3323381Z",
+      "StartedAt": "2026-08-21T18:00:00.3061035Z",
+      "FinishedAt": "2026-08-21T18:00:01.007339Z",
       "FaviconUrl": "https://www.ostendbeach.be/components/favicon/images/favicon-96x96.png",
       "Files": [
         {
@@ -2369,8 +2419,8 @@
       "VenueId": "Pukkelpop",
       "VenueName": "Pukkelpop",
       "Category": "Festival",
-      "StartedAt": "2026-08-21T14:00:00.4546425Z",
-      "FinishedAt": "2026-08-21T14:00:03.9827583Z",
+      "StartedAt": "2026-08-21T18:00:00.3061873Z",
+      "FinishedAt": "2026-08-21T18:00:06.1544661Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2409,8 +2459,8 @@
       "VenueId": "Toneelhuis",
       "VenueName": "Toneelhuis, Antwerpen",
       "Category": "Theatre",
-      "StartedAt": "2026-08-21T14:00:00.4541314Z",
-      "FinishedAt": "2026-08-21T14:00:31.7281721Z",
+      "StartedAt": "2026-08-21T18:00:00.305632Z",
+      "FinishedAt": "2026-08-21T18:00:31.8541467Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
       "Files": [
         {
@@ -2529,8 +2579,8 @@
       "VenueId": "Trix",
       "VenueName": "Trix",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4582113Z",
-      "FinishedAt": "2026-08-21T14:00:04.1989131Z",
+      "StartedAt": "2026-08-21T18:00:00.3090747Z",
+      "FinishedAt": "2026-08-21T18:00:02.0087741Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
       "Files": [
         {
@@ -2548,8 +2598,8 @@
           "Year": 2026,
           "FileName": "trix-10-2026.json",
           "FilePath": "events/concerts/trix/trix-10-2026.json",
-          "Hash": "34b487e9fd6227d24bb428af95f12174935366c171e27628016aa09acccc6387",
-          "EventCount": 24,
+          "Hash": "1b86a8869b690b13e935a60096e81903ba9fae896b2e2f02fb49321f1bcbaf32",
+          "EventCount": 9,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -2559,8 +2609,8 @@
       "VenueId": "VaartKapoen",
       "VenueName": "Vaartkapoen",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4583068Z",
-      "FinishedAt": "2026-08-21T14:00:05.3963493Z",
+      "StartedAt": "2026-08-21T18:00:00.30917Z",
+      "FinishedAt": "2026-08-21T18:00:06.5064582Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
       "Files": [
         {
@@ -2619,8 +2669,8 @@
       "VenueId": "WildeWesten",
       "VenueName": "Wilde Westen, Kortrijk",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4583967Z",
-      "FinishedAt": "2026-08-21T14:01:37.720716Z",
+      "StartedAt": "2026-08-21T18:00:00.3092647Z",
+      "FinishedAt": "2026-08-21T18:01:38.4136367Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
       "Files": [
         {
@@ -2729,8 +2779,8 @@
       "VenueId": "Wintercircus",
       "VenueName": "Wintercircus, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-08-21T14:00:00.4584936Z",
-      "FinishedAt": "2026-08-21T14:00:01.3915223Z",
+      "StartedAt": "2026-08-21T18:00:00.3094225Z",
+      "FinishedAt": "2026-08-21T18:00:01.0418417Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
       "Files": [
         {
