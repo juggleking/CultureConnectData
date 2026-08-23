@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-22T05:00:00.4862423Z",
-  "ValidatedAt": "2026-08-22T05:00:00.4862423Z",
+  "GeneratedAt": "2026-08-23T05:00:07.424906Z",
+  "ValidatedAt": "2026-08-23T05:00:07.4249061Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3348,
+  "TotalEvents": 3349,
   "TotalErrors": 0,
-  "TotalWarnings": 1111,
+  "TotalWarnings": 1112,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 203,
+      "TotalEvents": 204,
       "ErrorCount": 0,
-      "WarningCount": 203,
+      "WarningCount": 204,
       "Issues": [],
       "EventDetails": [
         {
@@ -2466,6 +2466,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-06T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-03-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Aili & Orson",
+          "EventDate": "2027-03-10T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/aili-orson/a10Qw00000H3eiKIAR",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-10T00:00:00.0000000"
             }
           ]
         },
@@ -7410,7 +7423,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 133,
+      "TotalEvents": 134,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14477,7 +14490,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 197,
+      "TotalEvents": 196,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
