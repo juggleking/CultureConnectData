@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-23T05:00:07.424906Z",
-  "ValidatedAt": "2026-08-23T05:00:07.4249061Z",
+  "GeneratedAt": "2026-08-24T05:00:02.8892192Z",
+  "ValidatedAt": "2026-08-24T05:00:02.8892193Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3349,
+  "TotalEvents": 3346,
   "TotalErrors": 0,
-  "TotalWarnings": 1112,
+  "TotalWarnings": 1111,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -2707,24 +2707,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Rooftop Street Food #7: Patrick Devos",
-          "EventDate": "2026-08-22T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/patrick-devos",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-22T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Rooftop Street Food #8: Streetfood by Nata x Orfeo",
           "EventDate": "2026-08-29T00:00:00.0000000",
@@ -7423,7 +7410,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 134,
+      "TotalEvents": 135,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7433,7 +7420,7 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 162,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 117,
       "Issues": [],
@@ -14490,7 +14477,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 196,
+      "TotalEvents": 195,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
