@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-24T05:00:02.8892192Z",
-  "ValidatedAt": "2026-08-24T05:00:02.8892193Z",
+  "GeneratedAt": "2026-08-25T05:00:06.4546537Z",
+  "ValidatedAt": "2026-08-25T05:00:06.4546538Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3346,
+  "TotalEvents": 3339,
   "TotalErrors": 0,
-  "TotalWarnings": 1111,
+  "TotalWarnings": 1115,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 204,
+      "TotalEvents": 207,
       "ErrorCount": 0,
-      "WarningCount": 204,
+      "WarningCount": 207,
       "Issues": [],
       "EventDetails": [
         {
@@ -1534,6 +1534,19 @@
           ]
         },
         {
+          "EventTitle": "Finale Humo's Rock Rally 2026",
+          "EventDate": "2026-11-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/finale-humos-rock-rally-2026/a10Qw00000EoR3NIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Sarah Julia",
           "EventDate": "2026-11-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/sarah-julia/a10Qw00000F3m97IAB",
@@ -1612,19 +1625,6 @@
           ]
         },
         {
-          "EventTitle": "Gotu Jim",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gotu-jim/a10Qw00000GLMQvIAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Froukje - 'Kijk Je Naar Mij?' Albumtour 2026 + Jaïr Faria",
           "EventDate": "2026-11-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/froukje-kijk-je-naar-mij-albumtour-2026/a10Qw000009zet0IAA",
@@ -1641,6 +1641,19 @@
           "EventTitle": "Stefan Maier",
           "EventDate": "2026-11-27T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/stefan-maier/a10Qw00000IXJpWIAX",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gotu Jim",
+          "EventDate": "2026-11-27T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gotu-jim/a10Qw00000GLMQvIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -2236,6 +2249,19 @@
           ]
         },
         {
+          "EventTitle": "Basement + Fleshwater, Béton Armé",
+          "EventDate": "2027-02-04T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/basement/a10Qw00000J6Qw9IAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Eosine",
           "EventDate": "2027-02-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/eosine/a10Qw00000GZBaTIAX",
@@ -2470,6 +2496,19 @@
           ]
         },
         {
+          "EventTitle": "Helena Casella",
+          "EventDate": "2027-03-06T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/helena-casella/a10Qw00000GkNhyIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Aili & Orson",
           "EventDate": "2027-03-10T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/aili-orson/a10Qw00000H3eiKIAR",
@@ -2683,7 +2722,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 205,
+      "TotalEvents": 207,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -6723,9 +6762,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 52,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
         {
@@ -6794,9 +6833,9 @@
           ]
         },
         {
-          "EventTitle": "The Jayhawks",
+          "EventTitle": "Fun Lovin' Criminals live with The DiFontaine Orchestra",
           "EventDate": "2026-09-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/the-jayhawks/",
+          "EventUrl": "https://decasino.be/concert/fun-lovin-criminals-live-with-the-difontaine-orchestra/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6807,9 +6846,9 @@
           ]
         },
         {
-          "EventTitle": "Fun Lovin' Criminals live with The DiFontaine Orchestra",
+          "EventTitle": "The Jayhawks",
           "EventDate": "2026-09-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/fun-lovin-criminals-live-with-the-difontaine-orchestra/",
+          "EventUrl": "https://decasino.be/concert/the-jayhawks/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6872,9 +6911,9 @@
           ]
         },
         {
-          "EventTitle": "Nacht van de Leerkracht",
+          "EventTitle": "Hooverphonic & Noémie Wolfs / 30 Years Anniversary Tour",
           "EventDate": "2026-10-01T00:00:00",
-          "EventUrl": "https://decasino.be/concert/nacht-van-de-leerkracht-3/",
+          "EventUrl": "https://decasino.be/concert/hooverphonic-noemie-wolfs-30-years-anniversary-tour/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6885,9 +6924,9 @@
           ]
         },
         {
-          "EventTitle": "Hooverphonic & Noémie Wolfs / 30 Years Anniversary Tour",
+          "EventTitle": "Nacht van de Leerkracht",
           "EventDate": "2026-10-01T00:00:00",
-          "EventUrl": "https://decasino.be/concert/hooverphonic-noemie-wolfs-30-years-anniversary-tour/",
+          "EventUrl": "https://decasino.be/concert/nacht-van-de-leerkracht-3/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7392,6 +7431,19 @@
           ]
         },
         {
+          "EventTitle": "DC Rocks! / The Monsters",
+          "EventDate": "2027-02-27T00:00:00",
+          "EventUrl": "https://decasino.be/concert/dc-rocks-the-monsters/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-27T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-27T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "De Zwaarste Band",
           "EventDate": "2027-03-19T00:00:00",
           "EventUrl": "https://decasino.be/concert/de-zwaarste-band/",
@@ -7410,7 +7462,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 135,
+      "TotalEvents": 136,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13652,7 +13704,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 81,
+      "TotalEvents": 82,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14527,7 +14579,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 30,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
