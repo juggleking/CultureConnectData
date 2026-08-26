@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-25T05:00:06.4546537Z",
-  "ValidatedAt": "2026-08-25T05:00:06.4546538Z",
+  "GeneratedAt": "2026-08-26T05:00:00.5037131Z",
+  "ValidatedAt": "2026-08-26T05:00:00.5037131Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3339,
+  "TotalEvents": 3239,
   "TotalErrors": 0,
-  "TotalWarnings": 1115,
+  "TotalWarnings": 1117,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 207,
+      "TotalEvents": 210,
       "ErrorCount": 0,
-      "WarningCount": 207,
+      "WarningCount": 210,
       "Issues": [],
       "EventDetails": [
         {
@@ -55,6 +55,19 @@
           "EventTitle": "Bedouine",
           "EventDate": "2026-09-04T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/bedouine/a10Qw00000HoTGLIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ca7riel & Paco Amoroso",
+          "EventDate": "2026-09-04T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ca7riel-paco-amoroso/a10Qw00000KEtnWIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -143,6 +156,32 @@
           ]
         },
         {
+          "EventTitle": "Vernissage Back/Stage",
+          "EventDate": "2026-09-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/vernissage-backstage/a10Qw00000Ii3flIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gaminconnu",
+          "EventDate": "2026-09-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gaminconnu/a10Qw00000GqIHQIA3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "(John) Coltrane 100: A Love Supreme - Salva Sanchis & Anne Teresa De Keersmaeker",
           "EventDate": "2026-09-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-a-love-supreme-salva-sanchis-anne-teresa-de-keersmaeker/a10Qw0000060EkIIAU",
@@ -221,19 +260,6 @@
           ]
         },
         {
-          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
-          "EventDate": "2026-09-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "New date: Lute + K.Z",
           "EventDate": "2026-09-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-lute/a10Qw00000B1wEwIAJ",
@@ -247,15 +273,15 @@
           ]
         },
         {
-          "EventTitle": "6LACK + Johnny Venus",
-          "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/6lack/a10Qw00000EnDnFIAV",
+          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
+          "EventDate": "2026-09-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-09-22T00:00:00.0000000"
+              "ActualValue": "2026-09-21T00:00:00.0000000"
             }
           ]
         },
@@ -276,6 +302,19 @@
           "EventTitle": "Lime Garden",
           "EventDate": "2026-09-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/lime-garden/a10Qw00000GLNGZIA5",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "6LACK + Johnny Venus",
+          "EventDate": "2026-09-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/6lack/a10Qw00000EnDnFIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -429,7 +468,7 @@
           ]
         },
         {
-          "EventTitle": "I Prevail + Polaris, Amira Elfeky, Gore.",
+          "EventTitle": "I Prevail + Polaris, Gore.",
           "EventDate": "2026-09-30T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/i-prevail/a10Qw00000CI0icIAD",
           "Issues": [
@@ -442,9 +481,9 @@
           ]
         },
         {
-          "EventTitle": "(John) Coltrane 100: Aaron Parks & Walter Smith III",
+          "EventTitle": "New date: Last Train",
           "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-aaron-parks-walter-smith-iii/a10Qw00000Jd6qbIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-last-train/a10Qw000007txl1IAA",
           "Issues": [
             {
               "Field": "DateString",
@@ -455,9 +494,9 @@
           ]
         },
         {
-          "EventTitle": "New date: Last Train",
+          "EventTitle": "(John) Coltrane 100: Aaron Parks & Walter Smith III",
           "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-last-train/a10Qw000007txl1IAA",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-aaron-parks-walter-smith-iii/a10Qw00000Jd6qbIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1300,9 +1339,9 @@
           ]
         },
         {
-          "EventTitle": "(John) Coltrane 100: Joe Lovano x Melissa Aldana x Nduduzo Makhathini x ...",
+          "EventTitle": "Montell Fish",
           "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-joe-lovano-x-melissa-aldana-x-nduduzo-makhathini-x/a10Qw00000JgqP4IAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/montell-fish/a10Qw00000MH3WIIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1313,9 +1352,9 @@
           ]
         },
         {
-          "EventTitle": "Montell Fish",
+          "EventTitle": "(John) Coltrane 100: Joe Lovano x Melissa Aldana x Nduduzo Makhathini x ...",
           "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/montell-fish/a10Qw00000MH3WIIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-joe-lovano-x-melissa-aldana-x-nduduzo-makhathini-x/a10Qw00000JgqP4IAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2132,9 +2171,9 @@
           ]
         },
         {
-          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We zijn er mee bezig’-tour",
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
           "EventDate": "2027-01-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-er-mee-bezig-tour/a10Qw00000ENyMnIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENyMnIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -2145,9 +2184,9 @@
           ]
         },
         {
-          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We zijn er mee bezig’-tour",
+          "EventTitle": "Hollywood Porn Stars",
           "EventDate": "2027-01-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-er-mee-bezig-tour/a10Qw00000ENyMoIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/hollywood-porn-stars/a10Qw00000Hf53dIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -2158,9 +2197,9 @@
           ]
         },
         {
-          "EventTitle": "Hollywood Porn Stars",
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
           "EventDate": "2027-01-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/hollywood-porn-stars/a10Qw00000Hf53dIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENyMoIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -2722,25 +2761,11 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 207,
+      "TotalEvents": 75,
       "ErrorCount": 0,
-      "WarningCount": 1,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Bianca Costa",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/bianca-costa-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "CactusMusic",
@@ -13774,7 +13799,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 26,
+      "TotalEvents": 27,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14579,7 +14604,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 30,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14873,7 +14898,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 59,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14883,7 +14908,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 79,
+      "TotalEvents": 76,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
