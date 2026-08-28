@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-08-28T06:03:14.1214277Z
+**Generated At:** 2026-08-28T10:03:08.9786411Z
 **Total Scrapers Run:** 38
 
 ## ✅ Successful Scrapers
@@ -17,7 +17,7 @@
 - **CcZoetegemScraper**: Found 90 events across 9 monthly files.
 - **CultuurhuisMerelbekeScraper**: Found 7 events across 4 monthly files.
 - **CultuurKnokkeHeistScraper**: Found 48 events across 9 monthly files.
-- **DeKluizeScraper**: Found 84 events across 11 monthly files.
+- **DeKluizeScraper**: Found 85 events across 11 monthly files.
 - **DeMeentScraper**: Found 191 events across 9 monthly files.
 - **DeSpilScraper**: Found 162 events across 10 monthly files.
 - **DeWerfScraper**: Found 120 events across 9 monthly files.
@@ -26,16 +26,16 @@
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 211 events across 11 monthly files.
 - **AffScraper**: Found 21 events across 5 monthly files.
-- **BotaniqueScraper**: Found 212 events across 8 monthly files.
+- **BotaniqueScraper**: Found 214 events across 8 monthly files.
 - **CactusMusicScraper**: Found 53 events across 8 monthly files.
-- **DeCasinoScraper**: Found 55 events across 7 monthly files.
+- **DeCasinoScraper**: Found 58 events across 7 monthly files.
 - **DemocrazyScraper**: Found 68 events across 8 monthly files.
-- **DeRomaScraper**: Found 137 events across 11 monthly files.
+- **DeRomaScraper**: Found 140 events across 11 monthly files.
 - **DeSteenovenScraper**: Found 67 events across 10 monthly files.
 - **DeZwerverScraper**: Found 8 events across 4 monthly files.
 - **FourAdScraper**: Found 15 events across 4 monthly files.
 - **HaConcertsScraper**: Found 3 events across 1 monthly files.
-- **HetDepotScraper**: Found 82 events across 9 monthly files.
+- **HetDepotScraper**: Found 83 events across 9 monthly files.
 - **N9Scraper**: Found 27 events across 6 monthly files.
 - **RivierenhofScraper**: Found 2 events across 2 monthly files.
 - **TrixScraper**: Found 30 events across 2 monthly files.
