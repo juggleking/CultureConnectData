@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-28T05:00:08.2114757Z",
-  "ValidatedAt": "2026-08-28T05:00:08.2114758Z",
+  "GeneratedAt": "2026-08-29T05:00:05.748336Z",
+  "ValidatedAt": "2026-08-29T05:00:05.7483361Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3376,
+  "TotalEvents": 3406,
   "TotalErrors": 0,
-  "TotalWarnings": 1124,
+  "TotalWarnings": 1132,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 211,
+      "TotalEvents": 212,
       "ErrorCount": 0,
-      "WarningCount": 211,
+      "WarningCount": 212,
       "Issues": [],
       "EventDetails": [
         {
@@ -276,6 +276,19 @@
           "EventTitle": "New date: Lute + K.Z",
           "EventDate": "2026-09-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-lute/a10Qw00000B1wEwIAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Listening Session: echofarmer presents Tiny Big Much",
+          "EventDate": "2026-09-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/listening-session-echofarmer-presents-tiny-big-much/a10Qw00000J9rzpIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1339,9 +1352,9 @@
           ]
         },
         {
-          "EventTitle": "Montell Fish",
+          "EventTitle": "(John) Coltrane 100: Joe Lovano x Melissa Aldana x Nduduzo Makhathini x ...",
           "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/montell-fish/a10Qw00000MH3WIIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-joe-lovano-x-melissa-aldana-x-nduduzo-makhathini-x/a10Qw00000JgqP4IAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1352,9 +1365,9 @@
           ]
         },
         {
-          "EventTitle": "(John) Coltrane 100: Joe Lovano x Melissa Aldana x Nduduzo Makhathini x ...",
+          "EventTitle": "Montell Fish",
           "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-joe-lovano-x-melissa-aldana-x-nduduzo-makhathini-x/a10Qw00000JgqP4IAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/montell-fish/a10Qw00000MH3WIIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -2774,7 +2787,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 212,
+      "TotalEvents": 214,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -6827,9 +6840,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 55,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
         {
@@ -6881,6 +6894,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-14T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-09-14T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Carte Blanche / Pat Riské invites",
+          "EventDate": "2026-09-16T00:00:00",
+          "EventUrl": "https://decasino.be/concert/carte-blanche-pat-riske-invites/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-16T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-16T00:00:00"
             }
           ]
         },
@@ -7093,6 +7119,19 @@
           ]
         },
         {
+          "EventTitle": "Sin City Burning / West Coast Caravan",
+          "EventDate": "2026-10-13T00:00:00",
+          "EventUrl": "https://decasino.be/concert/sin-city-burning-west-coast-caravan/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "DeVotchKa + Sons of Town Hall",
           "EventDate": "2026-10-14T00:00:00",
           "EventUrl": "https://decasino.be/concert/devotchka-2/",
@@ -7102,6 +7141,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-10-14T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Carte Blanche / Sem Cappaert invites",
+          "EventDate": "2026-10-15T00:00:00",
+          "EventUrl": "https://decasino.be/concert/carte-blanche-sem-cappaert-invites/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15T00:00:00"
             }
           ]
         },
@@ -7288,6 +7340,19 @@
           ]
         },
         {
+          "EventTitle": "Sin City Burning / Get Well",
+          "EventDate": "2026-11-17T00:00:00",
+          "EventUrl": "https://decasino.be/concert/sin-city-burning-get-well/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-17T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Douwe Bob",
           "EventDate": "2026-11-18T00:00:00",
           "EventUrl": "https://decasino.be/concert/douwe-bob/",
@@ -7366,6 +7431,19 @@
           ]
         },
         {
+          "EventTitle": "Carte Blanche / Irina Ladik invites",
+          "EventDate": "2026-12-02T00:00:00",
+          "EventUrl": "https://decasino.be/concert/carte-blanche-irina-ladik-invites/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-02T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-02T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "EMF",
           "EventDate": "2026-12-03T00:00:00",
           "EventUrl": "https://decasino.be/concert/emf/",
@@ -7379,9 +7457,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7392,9 +7470,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7453,6 +7531,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-11T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-12-11T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sin City Burning / My Lennis",
+          "EventDate": "2026-12-15T00:00:00",
+          "EventUrl": "https://decasino.be/concert/sin-city-burning-my-lennis/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-15T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-15T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Carte Blanche / Andreas Smet invites",
+          "EventDate": "2026-12-16T00:00:00",
+          "EventUrl": "https://decasino.be/concert/carte-blanche-andreas-smet-invites/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16T00:00:00"
             }
           ]
         },
@@ -7553,7 +7657,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 137,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13738,7 +13842,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 84,
+      "TotalEvents": 85,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13808,7 +13912,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 82,
+      "TotalEvents": 83,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13818,7 +13922,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 162,
+      "TotalEvents": 161,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14633,7 +14737,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 193,
+      "TotalEvents": 192,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -14683,7 +14787,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 60,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14990,7 +15094,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 68,
+      "TotalEvents": 69,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
