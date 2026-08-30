@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-08-29T05:00:05.748336Z",
-  "ValidatedAt": "2026-08-29T05:00:05.7483361Z",
+  "GeneratedAt": "2026-08-30T05:00:06.3003038Z",
+  "ValidatedAt": "2026-08-30T05:00:06.3003039Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3406,
+  "TotalEvents": 3414,
   "TotalErrors": 0,
-  "TotalWarnings": 1132,
+  "TotalWarnings": 1131,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7657,7 +7657,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 141,
+      "TotalEvents": 140,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13922,7 +13922,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 161,
+      "TotalEvents": 159,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13992,24 +13992,11 @@
       "ScraperId": "Rivierenhof",
       "ScraperName": "RivierenhofScraper",
       "VenueName": "OLT Rivierenhof",
-      "TotalEvents": 2,
+      "TotalEvents": 1,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 1,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sylvie Kreusch",
-          "EventDate": "2026-08-29",
-          "EventUrl": "https://www.oltrivierenhof.be/nl/programma/sylvie-kreusch/a0NP500000LnYCYMA3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-29'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-29"
-            }
-          ]
-        },
         {
           "EventTitle": "The Waterboys ft. Steve Earle Fisherman`s Blues Revue",
           "EventDate": "2026-09-11",
@@ -14737,7 +14724,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 192,
+      "TotalEvents": 191,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -14787,7 +14774,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 75,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15094,7 +15081,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
