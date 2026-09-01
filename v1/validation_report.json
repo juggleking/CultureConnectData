@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-08-31T05:00:06.1153252Z",
-  "ValidatedAt": "2026-08-31T05:00:06.1153253Z",
+  "GeneratedAt": "2026-09-01T05:00:06.5091889Z",
+  "ValidatedAt": "2026-09-01T05:00:06.509189Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3374,
+  "TotalEvents": 3382,
   "TotalErrors": 0,
-  "TotalWarnings": 1128,
+  "TotalWarnings": 1133,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 211,
+      "TotalEvents": 212,
       "ErrorCount": 0,
-      "WarningCount": 211,
+      "WarningCount": 212,
       "Issues": [],
       "EventDetails": [
         {
@@ -247,19 +247,6 @@
           ]
         },
         {
-          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
-          "EventDate": "2026-09-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "New date: Lute + K.Z",
           "EventDate": "2026-09-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-lute/a10Qw00000B1wEwIAJ",
@@ -286,6 +273,19 @@
           ]
         },
         {
+          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
+          "EventDate": "2026-09-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Laundromat Chicks + Topsy Turvy + Tropen @ Super Fourchette + Tropen",
           "EventDate": "2026-09-22T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/laundromat-chicks-topsy-turvy-tropen-super-fourchette/a10Qw00000MAbfzIAD",
@@ -299,9 +299,9 @@
           ]
         },
         {
-          "EventTitle": "Lime Garden",
+          "EventTitle": "6LACK + Johnny Venus",
           "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lime-garden/a10Qw00000GLNGZIA5",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/6lack/a10Qw00000EnDnFIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -312,9 +312,9 @@
           ]
         },
         {
-          "EventTitle": "6LACK + Johnny Venus",
+          "EventTitle": "Lime Garden",
           "EventDate": "2026-09-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/6lack/a10Qw00000EnDnFIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lime-garden/a10Qw00000GLNGZIA5",
           "Issues": [
             {
               "Field": "DateString",
@@ -2743,6 +2743,19 @@
           ]
         },
         {
+          "EventTitle": "uwase",
+          "EventDate": "2027-04-30T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/uwase/a10Qw00000GR3bkIAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Marka solo",
           "EventDate": "2027-05-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/marka-solo/a10Qw00000J3yRKIAZ",
@@ -2774,7 +2787,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 214,
+      "TotalEvents": 215,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -2798,9 +2811,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 52,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
         {
@@ -3190,6 +3203,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-05T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "MAD PROFESSOR with SISTER AISHA + CRUCIAL ALPHONSO with REFLEXIAN Meets FORWARD FEVER with KOLOGNE",
+          "EventDate": "2026-11-06T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/mad-professor",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-06T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-06T00:00:00.0000000"
             }
           ]
         },
@@ -3646,9 +3672,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 90,
+      "TotalEvents": 91,
       "ErrorCount": 0,
-      "WarningCount": 90,
+      "WarningCount": 91,
       "Issues": [],
       "EventDetails": [
         {
@@ -3713,6 +3739,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-06'.",
               "Severity": 1,
               "ActualValue": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Michael Van Peel - Farce Majeure - EXTRA VOORSTELLING!",
+          "EventDate": "2026-10-07",
+          "EventUrl": "https://cczoetegem.be/programma/michael-van-peel-farce-majeure-2.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-07"
             }
           ]
         },
@@ -4827,9 +4866,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 21,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 21,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
         {
@@ -4959,6 +4998,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-30'.",
               "Severity": 1,
               "ActualValue": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jeffrey Lewis & The Voltage",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://aff.be/events/jeffreylewis/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
             }
           ]
         },
@@ -9986,66 +10038,66 @@
         },
         {
           "EventTitle": "Rudi Vranckx - De wereld in chaos",
-          "EventDate": "2026-06-03T00:00:00.0000000",
+          "EventDate": "2027-06-03T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/rudi-vranckx---de-wereld-in-chaos-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-03T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-03T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-03T00:00:00.0000000"
+              "ActualValue": "2027-06-03T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Dries Heyneman | Voor normale mensen",
-          "EventDate": "2026-06-04T00:00:00.0000000",
+          "EventDate": "2027-06-04T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/dries-heyneman--voor-normale-mensen?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-04T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-04T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-04T00:00:00.0000000"
+              "ActualValue": "2027-06-04T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Mother Mercury - 50 jaar Bohemian Rhapsody",
-          "EventDate": "2026-06-10T00:00:00.0000000",
+          "EventDate": "2027-06-10T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/mother-mercury---50-jaar-bohemian-rhapsody-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-10T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-10T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-10T00:00:00.0000000"
+              "ActualValue": "2027-06-10T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "Yves Segers | Bedankt Rob",
-          "EventDate": "2026-06-11T00:00:00.0000000",
+          "EventDate": "2027-06-11T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/yves-segers--bedankt-rob-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-11T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-11T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-11T00:00:00.0000000"
+              "ActualValue": "2027-06-11T00:00:00.0000000"
             }
           ]
         },
         {
           "EventTitle": "William Boeva - Drift",
-          "EventDate": "2026-06-17T00:00:00.0000000",
+          "EventDate": "2027-06-17T00:00:00.0000000",
           "EventUrl": "https://steenoven.herzele.be/william-boeva---drift-te-gast?th=4047",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-06-17T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-17T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-06-17T00:00:00.0000000"
+              "ActualValue": "2027-06-17T00:00:00.0000000"
             }
           ]
         }
@@ -13803,7 +13855,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 84,
+      "TotalEvents": 85,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14685,7 +14737,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 190,
+      "TotalEvents": 191,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -14745,9 +14797,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 22,
+      "TotalEvents": 23,
       "ErrorCount": 0,
-      "WarningCount": 22,
+      "WarningCount": 23,
       "Issues": [],
       "EventDetails": [
         {
@@ -14942,6 +14994,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-11T23:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-11-11T23:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Angel Bat Dawid",
+          "EventDate": "2026-11-12T23:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/angel-bat-dawid",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-12T23:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-12T23:00:00Z"
             }
           ]
         },
