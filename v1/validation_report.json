@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-01T05:00:06.5091889Z",
-  "ValidatedAt": "2026-09-01T05:00:06.509189Z",
+  "GeneratedAt": "2026-09-02T05:00:03.8153716Z",
+  "ValidatedAt": "2026-09-02T05:00:03.8153716Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3382,
+  "TotalEvents": 3400,
   "TotalErrors": 0,
-  "TotalWarnings": 1133,
+  "TotalWarnings": 1149,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 212,
+      "TotalEvents": 213,
       "ErrorCount": 0,
-      "WarningCount": 212,
+      "WarningCount": 213,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Waterboys Fisherman’s Blues Revue",
-          "EventDate": "2026-09-01T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-waterboys-fishermans-blues-revue/a10Qw00000HhUqgIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-01T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Bedouine",
           "EventDate": "2026-09-04T00:00:00.0000000",
@@ -260,9 +247,9 @@
           ]
         },
         {
-          "EventTitle": "Listening Session: echofarmer presents Tiny Big Much",
+          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
           "EventDate": "2026-09-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/listening-session-echofarmer-presents-tiny-big-much/a10Qw00000J9rzpIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -273,9 +260,9 @@
           ]
         },
         {
-          "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
+          "EventTitle": "Listening Session: echofarmer presents Tiny Big Much",
           "EventDate": "2026-09-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/beartooth/a10Qw00000B1e9yIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/listening-session-echofarmer-presents-tiny-big-much/a10Qw00000J9rzpIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -325,9 +312,9 @@
           ]
         },
         {
-          "EventTitle": "Gans + Max Forage",
+          "EventTitle": "(John) Coltrane 100: James Brandon Lewis & Chad Taylor duo + Elin Forkelid",
           "EventDate": "2026-09-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gans/a10Qw00000IRSSTIA5",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-james-brandon-lewis-chad-taylor-duo-elin-forkelid/a10Qw000001WEorIAG",
           "Issues": [
             {
               "Field": "DateString",
@@ -338,9 +325,9 @@
           ]
         },
         {
-          "EventTitle": "(John) Coltrane 100: James Brandon Lewis & Chad Taylor duo + Elin Forkelid",
+          "EventTitle": "Gans + Max Forage",
           "EventDate": "2026-09-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-james-brandon-lewis-chad-taylor-duo-elin-forkelid/a10Qw000001WEorIAG",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gans/a10Qw00000IRSSTIA5",
           "Issues": [
             {
               "Field": "DateString",
@@ -585,9 +572,9 @@
           ]
         },
         {
-          "EventTitle": "Alister Spence",
+          "EventTitle": "Double Bill: Alister Spence & Dorothy Carlos",
           "EventDate": "2026-10-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/alister-spence/a10Qw00000Gb8gXIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-alister-spence-dorothy-carlos/a10Qw00000Gb8gXIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -1027,19 +1014,6 @@
           ]
         },
         {
-          "EventTitle": "Double bill: Glenn Jones & Liam Grant",
-          "EventDate": "2026-10-29T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-glenn-jones-liam-grant/a10Qw00000GsCz3IAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "IJSLAND",
           "EventDate": "2026-10-29T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ijsland/a10Qw00000GcJq1IAF",
@@ -1066,9 +1040,22 @@
           ]
         },
         {
-          "EventTitle": "Elmer",
+          "EventTitle": "Double bill: Glenn Jones & Liam Grant",
+          "EventDate": "2026-10-29T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-glenn-jones-liam-grant/a10Qw00000GsCz3IAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Bausa",
           "EventDate": "2026-10-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/elmer/a10Qw000008tjnvIAA",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-bausa/a10Qw00000JongvIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1079,9 +1066,9 @@
           ]
         },
         {
-          "EventTitle": "The Bausa",
+          "EventTitle": "Elmer",
           "EventDate": "2026-10-30T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-bausa/a10Qw00000JongvIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/elmer/a10Qw000008tjnvIAA",
           "Issues": [
             {
               "Field": "DateString",
@@ -1235,9 +1222,9 @@
           ]
         },
         {
-          "EventTitle": "Water Damage + Christina Carter & Jeffrey Alexander",
+          "EventTitle": "Peet",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
           "Issues": [
             {
               "Field": "DateString",
@@ -1248,9 +1235,9 @@
           ]
         },
         {
-          "EventTitle": "Peet",
+          "EventTitle": "Water Damage + Christina Carter & Jeffrey Alexander",
           "EventDate": "2026-11-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/peet/a10Qw000009EoB3IAK",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/water-damage/a10Qw00000GViDFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -1833,7 +1820,7 @@
           ]
         },
         {
-          "EventTitle": "Kaat Van Stralen",
+          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
           "EventDate": "2026-12-03T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
           "Issues": [
@@ -2171,7 +2158,7 @@
           ]
         },
         {
-          "EventTitle": "Black Veil Brides",
+          "EventTitle": "Black Veil Brides + The Funeral Portrait, The Howling",
           "EventDate": "2027-01-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/black-veil-brides/a10Qw00000GiMrdIAF",
           "Issues": [
@@ -2349,6 +2336,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-06T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-02-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Uncle Acid & The Deadbeats + Conan, Earth Tongue",
+          "EventDate": "2027-02-12T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/uncle-acid-the-deadbeats/a10Qw00000FPW45IAH",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-12T00:00:00.0000000"
             }
           ]
         },
@@ -2613,6 +2613,19 @@
           ]
         },
         {
+          "EventTitle": "Getdown Services",
+          "EventDate": "2027-03-22T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/getdown-services/a10Qw00000I3JlKIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-22T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: Hatik",
           "EventDate": "2027-03-23T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-hatik/a10Qw00000620DQIAY",
@@ -2787,7 +2800,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 215,
+      "TotalEvents": 212,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -3672,9 +3685,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 91,
+      "TotalEvents": 106,
       "ErrorCount": 0,
-      "WarningCount": 91,
+      "WarningCount": 106,
       "Issues": [],
       "EventDetails": [
         {
@@ -3700,6 +3713,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-24'.",
               "Severity": 1,
               "ActualValue": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: Hamnet (actie Open Cinema 1+1)",
+          "EventDate": "2026-09-29",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-hamnet-actie-open-cinema-11-.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-29"
             }
           ]
         },
@@ -3743,6 +3769,19 @@
           ]
         },
         {
+          "EventTitle": "Ciné Local: The Secret Agent",
+          "EventDate": "2026-10-06",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-the-secret-agent.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-06'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-06"
+            }
+          ]
+        },
+        {
           "EventTitle": "Michael Van Peel - Farce Majeure - EXTRA VOORSTELLING!",
           "EventDate": "2026-10-07",
           "EventUrl": "https://cczoetegem.be/programma/michael-van-peel-farce-majeure-2.aspx",
@@ -3769,6 +3808,19 @@
           ]
         },
         {
+          "EventTitle": "Ciné Local in het bos: Le Chant des forêts",
+          "EventDate": "2026-10-09",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-in-het-bos-le-chant-des-forets.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-09'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-09"
+            }
+          ]
+        },
+        {
           "EventTitle": "Peter Adriaenssens - De flexgeneratie - UITVERKOCHT!",
           "EventDate": "2026-10-12",
           "EventUrl": "https://cczoetegem.be/programma/peter-adriaenssens-de-flexgeneratie.aspx",
@@ -3778,6 +3830,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-12'.",
               "Severity": 1,
               "ActualValue": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Film Fest Gent on Tour: La Gradiva",
+          "EventDate": "2026-10-13",
+          "EventUrl": "https://cczoetegem.be/programma/film-fest-gent-on-tour-la-gradiva-.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13"
             }
           ]
         },
@@ -3817,6 +3882,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-19'.",
               "Severity": 1,
               "ActualValue": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: I Swear",
+          "EventDate": "2026-10-20",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-i-swear.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-20'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-20"
             }
           ]
         },
@@ -3886,6 +3964,19 @@
           ]
         },
         {
+          "EventTitle": "Ciné Local: No Other Choice",
+          "EventDate": "2026-10-27",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-no-other-choice.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-27"
+            }
+          ]
+        },
+        {
           "EventTitle": "Club Kapel: Frans Kalf en Johannes Is Zijn Naam - UITVERKOCHT!",
           "EventDate": "2026-10-30",
           "EventUrl": "https://cczoetegem.be/programma/club-kapel-frans-kalf-en-johannes-is-zijn-naam.aspx",
@@ -3895,6 +3986,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-30'.",
               "Severity": 1,
               "ActualValue": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: La vita va così",
+          "EventDate": "2026-11-03",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-la-vita-va-cosi.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03"
             }
           ]
         },
@@ -3960,6 +4064,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-08'.",
               "Severity": 1,
               "ActualValue": "2026-11-08"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: Eat More Trees",
+          "EventDate": "2026-11-10",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-eat-more-trees.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-10"
             }
           ]
         },
@@ -4042,6 +4159,19 @@
           ]
         },
         {
+          "EventTitle": "Ciné Local: The Odyssey",
+          "EventDate": "2026-11-17",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-the-odyssey.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-17"
+            }
+          ]
+        },
+        {
           "EventTitle": "Lieven Scheire - Live in Nerdland",
           "EventDate": "2026-11-18",
           "EventUrl": "https://cczoetegem.be/programma/lieven-scheire-science--comedy-entertainment.aspx",
@@ -4077,6 +4207,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-21'.",
               "Severity": 1,
               "ActualValue": "2026-11-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: The Christophers",
+          "EventDate": "2026-11-24",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-the-christophers.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-24"
             }
           ]
         },
@@ -4120,6 +4263,32 @@
           ]
         },
         {
+          "EventTitle": "Zilverscherm: Calle Málaga",
+          "EventDate": "2026-11-30",
+          "EventUrl": "https://cczoetegem.be/programma/zilverscherm-calle-malaga.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: The Penguin Lessons",
+          "EventDate": "2026-12-01",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-the-penguin-lessons.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-01"
+            }
+          ]
+        },
+        {
           "EventTitle": "Mohsin Abbas - Moh?! - UITVERKOCHT!",
           "EventDate": "2026-12-03",
           "EventUrl": "https://cczoetegem.be/programma/mohsin-abbas-moh-2.aspx",
@@ -4129,6 +4298,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-03'.",
               "Severity": 1,
               "ActualValue": "2026-12-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: Marty Supreme",
+          "EventDate": "2026-12-08",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-marty-supreme.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-08"
             }
           ]
         },
@@ -4181,6 +4363,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-13'.",
               "Severity": 1,
               "ActualValue": "2026-12-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local: The History of Sound",
+          "EventDate": "2026-12-15",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-the-history-of-sound.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciné Local voor Kinderen: Shaun het schaap ‘Het Beest op de boerderij’",
+          "EventDate": "2026-12-16",
+          "EventUrl": "https://cczoetegem.be/programma/cin-local-voor-kinderen-shaun-het-schaap.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16"
             }
           ]
         },
@@ -4872,7 +5080,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Omar Souleyman",
+          "EventTitle": "Omar Souleyman + FC Buikdansen",
           "EventDate": "2026-09-11",
           "EventUrl": "https://aff.be/events/omarsouleyman/",
           "Issues": [
@@ -6754,7 +6962,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 91,
+      "TotalEvents": 92,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6866,9 +7074,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 62,
+      "TotalEvents": 63,
       "ErrorCount": 0,
-      "WarningCount": 62,
+      "WarningCount": 63,
       "Issues": [],
       "EventDetails": [
         {
@@ -7067,7 +7275,7 @@
           ]
         },
         {
-          "EventTitle": "The Deep Dark Woods",
+          "EventTitle": "The Deep Dark Woods + Stone Jack Jones",
           "EventDate": "2026-10-03T00:00:00",
           "EventUrl": "https://decasino.be/concert/the-deep-dark-woods-2/",
           "Issues": [
@@ -7340,7 +7548,7 @@
           ]
         },
         {
-          "EventTitle": "John Coffey",
+          "EventTitle": "John Coffey + Dad Magic",
           "EventDate": "2026-11-14T00:00:00",
           "EventUrl": "https://decasino.be/concert/john-coffey/",
           "Issues": [
@@ -7483,9 +7691,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7496,9 +7704,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7676,6 +7884,19 @@
               "ActualValue": "2027-03-19T00:00:00"
             }
           ]
+        },
+        {
+          "EventTitle": "The Mission",
+          "EventDate": "2027-10-15T00:00:00",
+          "EventUrl": "https://decasino.be/concert/the-mission-3/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-10-15T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-10-15T00:00:00"
+            }
+          ]
         }
       ]
     },
@@ -7683,7 +7904,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 139,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7693,24 +7914,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 162,
+      "TotalEvents": 161,
       "ErrorCount": 0,
-      "WarningCount": 117,
+      "WarningCount": 116,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Filmkus",
-          "EventDate": "2026-09-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-51ld",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-01T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Filmkus",
           "EventDate": "2026-09-08T00:00:00.0000000",
@@ -13865,7 +14073,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 191,
+      "TotalEvents": 189,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13925,7 +14133,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 83,
+      "TotalEvents": 85,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15107,7 +15315,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 68,
+      "TotalEvents": 69,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15117,7 +15325,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 76,
+      "TotalEvents": 77,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
