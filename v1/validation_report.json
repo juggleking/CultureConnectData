@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-03T05:00:05.9317387Z",
-  "ValidatedAt": "2026-09-03T05:00:05.9317388Z",
+  "GeneratedAt": "2026-09-04T05:00:05.7382517Z",
+  "ValidatedAt": "2026-09-04T05:00:05.7382517Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3413,
+  "TotalEvents": 3420,
   "TotalErrors": 0,
-  "TotalWarnings": 1156,
+  "TotalWarnings": 1166,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 216,
+      "TotalEvents": 224,
       "ErrorCount": 0,
-      "WarningCount": 216,
+      "WarningCount": 224,
       "Issues": [],
       "EventDetails": [
         {
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "EventTitle": "Ca7riel & Paco Amoroso",
+          "EventTitle": "Ca7riel & Paco Amoroso + siREn cAlls",
           "EventDate": "2026-09-04T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ca7riel-paco-amoroso/a10Qw00000KEtnWIAT",
           "Issues": [
@@ -195,6 +195,19 @@
           ]
         },
         {
+          "EventTitle": "OFA COLLECTIF TAKEOVER",
+          "EventDate": "2026-09-19T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ofa-collectif-takeover/a10Qw00000Ii4woIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: Chicos y Mendez + Renata Flores",
           "EventDate": "2026-09-19T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-chicos-y-mendez/a10Qw0000017ADNIA2",
@@ -237,6 +250,19 @@
           "EventTitle": "Qi Gong w/ Alessio Porcelli",
           "EventDate": "2026-09-20T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/qi-gong-w-alessio-porcelli/a10Qw00000PXt7RIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Soundscape & Painting w/ KULTURA",
+          "EventDate": "2026-09-20T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/soundscape-painting-w-kultura/a10Qw00000PYXOAIA5",
           "Issues": [
             {
               "Field": "DateString",
@@ -464,6 +490,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-29T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-29T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Group Atelier w/Julie Rens",
+          "EventDate": "2026-09-30T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wjulie-rens/a10Qw00000MQ4uYIAT",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30T00:00:00.0000000"
             }
           ]
         },
@@ -728,9 +767,9 @@
           ]
         },
         {
-          "EventTitle": "Finojet + Tom River",
+          "EventTitle": "The Sisters Of Mercy",
           "EventDate": "2026-10-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/finojet/a10Qw00000FdspVIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjBIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -741,9 +780,9 @@
           ]
         },
         {
-          "EventTitle": "The Sisters Of Mercy",
+          "EventTitle": "Finojet + Tom River",
           "EventDate": "2026-10-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjBIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/finojet/a10Qw00000FdspVIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -832,6 +871,19 @@
           ]
         },
         {
+          "EventTitle": "CREVETTE RECORDS x CARHARTT WIP: 10 YEARS OF DEALING RECORDS + Das Firmament, Rudi J, Noar",
+          "EventDate": "2026-10-15T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/crevette-records-x-carhartt-wip-10-years-of-dealing-records/a10Qw00000H0RmPIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "New date: MICHA",
           "EventDate": "2026-10-17T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-micha/a10Qw00000E8tYjIAJ",
@@ -871,9 +923,9 @@
           ]
         },
         {
-          "EventTitle": "Allie X",
+          "EventTitle": "GoldFord",
           "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/goldford/a10Qw00000JPsiDIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -884,9 +936,9 @@
           ]
         },
         {
-          "EventTitle": "GoldFord",
+          "EventTitle": "Allie X",
           "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/goldford/a10Qw00000JPsiDIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -1010,6 +1062,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-27T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Group Atelier w/Julie Rens",
+          "EventDate": "2026-10-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wjulie-rens/a10Qw00000MPxEkIAL",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28T00:00:00.0000000"
             }
           ]
         },
@@ -1651,6 +1716,19 @@
           ]
         },
         {
+          "EventTitle": "Group Atelier w/Paulo Rietjens (ASTROFISIKS)",
+          "EventDate": "2026-11-25T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wpaulo-rietjens-astrofisiks/a10Qw00000ONjt3IAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-25T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-25T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "José González",
           "EventDate": "2026-11-25T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/jose-gonzalez/a10Qw00000BmC8cIAF",
@@ -1946,6 +2024,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-08T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-12-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Group Atelier w/Paulo Rietjens (ASTROFISIKS)",
+          "EventDate": "2026-12-09T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/group-atelier-wpaulo-rietjens-astrofisiks/a10Qw00000ONIuUIAX",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-09T00:00:00.0000000"
             }
           ]
         },
@@ -2600,6 +2691,19 @@
           ]
         },
         {
+          "EventTitle": "Cult of Luna + BRUIT ≤, Youth Code",
+          "EventDate": "2027-03-07T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cult-of-luna/a10Qw00000HH0g9IAD",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Aili & Orson",
           "EventDate": "2027-03-10T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/aili-orson/a10Qw00000H3eiKIAR",
@@ -2839,9 +2943,9 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 214,
+      "TotalEvents": 215,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 3,
       "Issues": [],
       "EventDetails": [
         {
@@ -2869,6 +2973,19 @@
               "ActualValue": "2026-10-16T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Fanny + Kid Sophie",
+          "EventDate": "2026-12-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/fanny-kid-sophie-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -2876,24 +2993,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "HoT Stuff #3: Abel Ghekiere",
-          "EventDate": "2026-09-03T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/abel-ghekiere",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-03T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Humo's Rock Rally 2026 - Voorronde West-Vlaanderen",
           "EventDate": "2026-09-18T00:00:00.0000000",
@@ -3795,7 +3899,7 @@
           ]
         },
         {
-          "EventTitle": "Hetty Helsmoortel - Missie 2026 (try-out) - LAATSTE KAARTEN!",
+          "EventTitle": "Hetty Helsmoortel - Missie 2026 (try-out) - UITVERKOCHT!",
           "EventDate": "2026-10-03",
           "EventUrl": "https://cczoetegem.be/programma/hetty-helsmoortel-missie-2026-tryout.aspx",
           "Issues": [
@@ -3847,7 +3951,7 @@
           ]
         },
         {
-          "EventTitle": "Michael Van Peel - Farce Majeure - UITVERKOCHT!",
+          "EventTitle": "Michael Van Peel - Farce Majeure - LAATSTE KAARTEN!",
           "EventDate": "2026-10-08",
           "EventUrl": "https://cczoetegem.be/programma/michael-van-peel-farce-majeure.aspx",
           "Issues": [
@@ -5126,9 +5230,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 22,
+      "TotalEvents": 23,
       "ErrorCount": 0,
-      "WarningCount": 22,
+      "WarningCount": 23,
       "Issues": [],
       "EventDetails": [
         {
@@ -5258,6 +5362,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-30'.",
               "Severity": 1,
               "ActualValue": "2026-10-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "POTHAMUS + CROUCH + AUFHEBUNG",
+          "EventDate": "2026-10-31",
+          "EventUrl": "https://aff.be/events/pothamus/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-31'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-31"
             }
           ]
         },
@@ -7126,9 +7243,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 63,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 63,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
         {
@@ -7843,6 +7960,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-12-16T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kabaal x Family Rave",
+          "EventDate": "2026-12-19T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-kabaal-family-rave/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19T00:00:00"
             }
           ]
         },
@@ -10514,7 +10644,7 @@
           ]
         },
         {
-          "EventTitle": "AZ",
+          "EventTitle": "AZ • 30 YEARS OF DOE OR DIE",
           "EventDate": "2026-09-08",
           "EventUrl": "https://www.democrazy.be/agenda/3218-az/",
           "Issues": [
@@ -15023,7 +15153,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 190,
+      "TotalEvents": 188,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15406,7 +15536,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
