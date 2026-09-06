@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-05T05:00:07.0286972Z",
-  "ValidatedAt": "2026-09-05T05:00:07.0286973Z",
+  "GeneratedAt": "2026-09-06T05:00:06.1491571Z",
+  "ValidatedAt": "2026-09-06T05:00:06.1491572Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3447,
+  "TotalEvents": 3422,
   "TotalErrors": 0,
-  "TotalWarnings": 1172,
+  "TotalWarnings": 1169,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 228,
+      "TotalEvents": 227,
       "ErrorCount": 0,
-      "WarningCount": 228,
+      "WarningCount": 227,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Yebba + Astyn",
-          "EventDate": "2026-09-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/yebba/a10Qw00000GTKoXIAX",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-05T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "SYD",
           "EventDate": "2026-09-06T00:00:00.0000000",
@@ -2995,7 +2982,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 217,
+      "TotalEvents": 214,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -3784,32 +3771,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Lara Staal & NTGent - De blauw - Voorstelling 1",
-          "EventDate": "2026-09-05",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=c56be2d7-e5fc-4816-8cdc-01c53a59a3b3&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-05'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-05"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lara Staal & NTGent - De blauw - Voorstelling 2",
-          "EventDate": "2026-09-05",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=13ca89c2-5aa3-4ded-bc21-fbcb7a2af8d1&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-05'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-05"
-            }
-          ]
-        },
-        {
           "EventTitle": "Jan Jaap Van der Wal - Amor Fati, 10 jaar in Vlaanderen",
           "EventDate": "2026-09-12",
           "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=68014370-4766-4a55-9ac2-7ed44f7f7e88&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
@@ -3910,6 +3871,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
               "Severity": 1,
               "ActualValue": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Wannes Cappelle - Verstaanbaar",
+          "EventDate": "2026-10-17",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=b116fbb9-7453-4403-89ec-a2507d0ae384&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Campus Eilandstraat: Wim Rasschaert - De zoektocht naar De Rechtvaardige Rechters",
+          "EventDate": "2026-10-20",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=896249b8-447d-41c5-98df-d0cfb88fdb77&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-20'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-20"
             }
           ]
         }
@@ -5618,7 +5605,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 149,
+      "TotalEvents": 148,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7321,24 +7308,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 63,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 63,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Club Kabaal",
-          "EventDate": "2026-09-05T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-kabaal-zaterdag/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-05T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-05T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Club Kabaal",
           "EventDate": "2026-09-06T00:00:00",
@@ -7925,9 +7899,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7938,9 +7912,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -10703,24 +10677,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 68,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "GHOST Fire Walk With Me Party",
-          "EventDate": "2026-09-05",
-          "EventUrl": "https://www.democrazy.be/agenda/3230-ghost-fire-walk-with-me-party/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-05'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-05"
-            }
-          ]
-        },
         {
           "EventTitle": "AZ • 30 YEARS OF DOE OR DIE",
           "EventDate": "2026-09-08",
@@ -14429,7 +14390,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 155,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -14489,7 +14450,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 27,
+      "TotalEvents": 26,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15281,7 +15242,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 60,
+      "TotalEvents": 45,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15614,7 +15575,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
