@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-06T05:00:06.1491571Z",
-  "ValidatedAt": "2026-09-06T05:00:06.1491572Z",
+  "GeneratedAt": "2026-09-07T05:00:04.2683773Z",
+  "ValidatedAt": "2026-09-07T05:00:04.2683774Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3422,
+  "TotalEvents": 3473,
   "TotalErrors": 0,
-  "TotalWarnings": 1169,
+  "TotalWarnings": 1167,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,24 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 227,
+      "TotalEvents": 226,
       "ErrorCount": 0,
-      "WarningCount": 227,
+      "WarningCount": 226,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "SYD",
-          "EventDate": "2026-09-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/syd/a10Qw00000Ik0fNIAR",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-06T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Ecca Vandal + Freddy Forbidden",
           "EventDate": "2026-09-08T00:00:00.0000000",
@@ -2982,7 +2969,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 214,
+      "TotalEvents": 213,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -5605,7 +5592,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 148,
+      "TotalEvents": 147,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7308,24 +7295,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 62,
+      "TotalEvents": 61,
       "ErrorCount": 0,
-      "WarningCount": 62,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Club Kabaal",
-          "EventDate": "2026-09-06T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-kabaal-zondag/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-06T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-06T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Boeklancering Groot Vlaams liedboek van Peter Voskuil",
           "EventDate": "2026-09-14T00:00:00",
@@ -8125,7 +8099,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 149,
+      "TotalEvents": 148,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8135,7 +8109,7 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 162,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 117,
       "Issues": [],
@@ -14320,7 +14294,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 189,
+      "TotalEvents": 187,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15242,7 +15216,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 45,
+      "TotalEvents": 105,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
