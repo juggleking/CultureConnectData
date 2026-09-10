@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-09T05:00:08.0390228Z",
-  "ValidatedAt": "2026-09-09T05:00:08.0390229Z",
+  "GeneratedAt": "2026-09-10T05:00:04.7960589Z",
+  "ValidatedAt": "2026-09-10T05:00:04.7960589Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3454,
+  "TotalEvents": 3453,
   "TotalErrors": 0,
-  "TotalWarnings": 1179,
+  "TotalWarnings": 1174,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,9 +20,9 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 233,
+      "TotalEvents": 235,
       "ErrorCount": 0,
-      "WarningCount": 233,
+      "WarningCount": 235,
       "Issues": [],
       "EventDetails": [
         {
@@ -416,6 +416,19 @@
           ]
         },
         {
+          "EventTitle": "JH DE KUUB presents: Battle District",
+          "EventDate": "2026-09-26T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jh-de-kuub-presents-battle-district/a10Qw00000J9Z6rIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "(John) Coltrane 100: MiXMONK plays John Coltrane's Crescent + Raphael Roginski",
           "EventDate": "2026-09-26T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-mixmonk-plays-john-coltranes-crescent-raphael-roginski/a10Qw000001WEouIAG",
@@ -585,9 +598,9 @@
           ]
         },
         {
-          "EventTitle": "Dushime presents INZOZI ZANJYE ft Cortex Ensemble",
+          "EventTitle": "Judith",
           "EventDate": "2026-10-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dushime-presents-inzozi-zanjye-ft-cortex-ensemble/a10Qw00000C60fxIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/judith/a10Qw00000DReLFIA1",
           "Issues": [
             {
               "Field": "DateString",
@@ -598,9 +611,9 @@
           ]
         },
         {
-          "EventTitle": "Judith",
+          "EventTitle": "Dushime presents INZOZI ZANJYE ft Cortex Ensemble",
           "EventDate": "2026-10-04T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/judith/a10Qw00000DReLFIA1",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dushime-presents-inzozi-zanjye-ft-cortex-ensemble/a10Qw00000C60fxIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1560,7 +1573,7 @@
           ]
         },
         {
-          "EventTitle": "Coke Studio Sessions: JEN",
+          "EventTitle": "Coke Studio Sessions: JEN + FINN",
           "EventDate": "2026-11-15T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/coke-studio-sessions-jen/a10Qw00000GrL6jIAF",
           "Issues": [
@@ -2314,6 +2327,19 @@
           ]
         },
         {
+          "EventTitle": "Isaiah Rashad",
+          "EventDate": "2027-01-19T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/isaiah-rashad/a10Qw00000JzzmnIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Black Veil Brides + The Funeral Portrait, The Howling",
           "EventDate": "2027-01-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/black-veil-brides/a10Qw00000GiMrdIAF",
@@ -3060,9 +3086,9 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 216,
+      "TotalEvents": 219,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
         {
@@ -3142,6 +3168,19 @@
               "ActualValue": "2026-12-16T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "55ASKY",
+          "EventDate": "2027-02-05T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/55asky-2027",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-05T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -3149,9 +3188,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 53,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
         {
@@ -3814,6 +3853,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-27T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-03-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Saul Williams",
+          "EventDate": "2027-03-31T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/Saul-Williams",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-31T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-31T00:00:00.0000000"
             }
           ]
         },
@@ -5722,7 +5774,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 147,
+      "TotalEvents": 146,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5732,7 +5784,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 48,
+      "TotalEvents": 55,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8229,7 +8281,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 155,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8239,24 +8291,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 168,
+      "TotalEvents": 154,
       "ErrorCount": 0,
-      "WarningCount": 118,
+      "WarningCount": 109,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "An evening with Alex Agnew",
-          "EventDate": "2026-09-09T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/an-evening-with-alex-agnew-m9v5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-09T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "De Andere Film",
           "EventDate": "2026-09-15T00:00:00.0000000",
@@ -8267,19 +8306,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-15T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "People are Strange",
-          "EventDate": "2026-09-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/people-are-strange-j46q",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-18T00:00:00.0000000"
             }
           ]
         },
@@ -8362,19 +8388,6 @@
           ]
         },
         {
-          "EventTitle": "Stad Roeselare",
-          "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stad-roeselare-6frc",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Larie",
           "EventDate": "2026-10-02T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/larie-511p",
@@ -8384,19 +8397,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-02T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CINEMA IN CONCERT",
-          "EventDate": "2026-10-03T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/cinema-in-concert-ts3m",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-03T00:00:00.0000000"
             }
           ]
         },
@@ -8713,19 +8713,6 @@
           ]
         },
         {
-          "EventTitle": "HOMMAGE AAN GUIDO, DOOR JEROEN DEPRAETERE",
-          "EventDate": "2026-11-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/hommage-aan-guido-door-jeroen-depraetere-y3d1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "OnlyFans for Therapy",
           "EventDate": "2026-11-07T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/onlyfans-for-therapy-f72b",
@@ -8800,19 +8787,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Het Prethuis persenteert",
-          "EventDate": "2026-11-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/het-prethuis-persenteert-q8h8",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-18T00:00:00.0000000"
             }
           ]
         },
@@ -8947,19 +8921,6 @@
           ]
         },
         {
-          "EventTitle": "Backstage Producties",
-          "EventDate": "2026-12-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/backstage-producties-m58g",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "De Andere Film",
           "EventDate": "2026-12-08T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-andere-film-q842",
@@ -9047,19 +9008,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-12-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Een warme kerst met Ingeborg, Impact vocals en Vox Musica",
-          "EventDate": "2026-12-19T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/een-warme-kerst-met-ingeborg-impact-vocals-en-vox-musica-ts4v",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-19T00:00:00.0000000"
             }
           ]
         },
@@ -9636,19 +9584,6 @@
           ]
         },
         {
-          "EventTitle": "DDT houdt uitverkoop",
-          "EventDate": "2027-04-22T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ddt-houdt-uitverkoop-1jpf",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Liefde, verlangen en verlies",
           "EventDate": "2027-04-25T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/liefde-verlangen-en-verlies-m51j",
@@ -9727,19 +9662,6 @@
           ]
         },
         {
-          "EventTitle": "Zingt de grootste Nederlandstalige klassiekers",
-          "EventDate": "2027-06-05T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/zingt-de-grootste-nederlandstalige-klassiekers-6f28",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-06-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-06-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "WALD",
           "EventDate": "2027-06-06T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/wald-j4mn",
@@ -9775,6 +9697,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-06-09T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-06-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stabieler (Herneming)",
+          "EventDate": "2027-06-19T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/stabieler-herneming-ts2h",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-06-19T00:00:00.0000000"
             }
           ]
         }
@@ -10807,24 +10742,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Palmarium: Fenne Kuppens + Laura De Jongh",
-          "EventDate": "2026-09-09",
-          "EventUrl": "https://www.democrazy.be/agenda/3160-palmarium-fenne-kuppens/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-09'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-09"
-            }
-          ]
-        },
         {
           "EventTitle": "Fear Factory",
           "EventDate": "2026-09-11",
@@ -14520,7 +14442,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 157,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15322,7 +15244,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 187,
+      "TotalEvents": 188,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15382,9 +15304,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 24,
+      "TotalEvents": 25,
       "ErrorCount": 0,
-      "WarningCount": 24,
+      "WarningCount": 25,
       "Issues": [],
       "EventDetails": [
         {
@@ -15514,6 +15436,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-06T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-10-06T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "V-Kurated #18 - Ekany, Eddy Ape, Roxy Rose",
+          "EventDate": "2026-10-07T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/v-kurated-18-ekany-eddy-ape-roxy-rose",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-07T22:00:00Z"
             }
           ]
         },
@@ -15705,7 +15640,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 67,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15715,7 +15650,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 75,
+      "TotalEvents": 74,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
