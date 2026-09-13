@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-12T05:00:05.6210466Z",
-  "ValidatedAt": "2026-09-12T05:00:05.6210466Z",
+  "GeneratedAt": "2026-09-13T05:00:04.1078Z",
+  "ValidatedAt": "2026-09-13T05:00:04.1078001Z",
   "TotalScrapers": 38,
-  "TotalEvents": 3433,
+  "TotalEvents": 3421,
   "TotalErrors": 0,
-  "TotalWarnings": 1178,
+  "TotalWarnings": 1174,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3125,7 +3125,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 218,
+      "TotalEvents": 216,
       "ErrorCount": 0,
       "WarningCount": 7,
       "Issues": [],
@@ -3979,19 +3979,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Jan Jaap Van der Wal - Amor Fati, 10 jaar in Vlaanderen",
-          "EventDate": "2026-09-12",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=68014370-4766-4a55-9ac2-7ed44f7f7e88&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-12'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-12"
-            }
-          ]
-        },
-        {
           "EventTitle": "Campus Eilandstraat: Bernard Deneckere - De Leieslag in Harelbeke",
           "EventDate": "2026-09-22",
           "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=980899dd-ae6a-48ef-ab28-47067d1da218&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
@@ -4105,6 +4092,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-20'.",
               "Severity": 1,
               "ActualValue": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Leue met An Miller en Koen Vanmechelen - Ode aan de verwondering",
+          "EventDate": "2026-10-23",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=3803a60d-3fdf-47b3-9603-d0f9e91174ad&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-23'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-23"
             }
           ]
         }
@@ -5516,37 +5516,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 23,
+      "TotalEvents": 21,
       "ErrorCount": 0,
-      "WarningCount": 23,
+      "WarningCount": 21,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Omar Souleyman + FC Buikdansen",
-          "EventDate": "2026-09-11",
-          "EventUrl": "https://aff.be/events/omarsouleyman/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-11'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-11"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MONZA + Bushmen + Day Fever + Brakwater",
-          "EventDate": "2026-09-11",
-          "EventUrl": "https://aff.be/events/monza/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-11'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-11"
-            }
-          ]
-        },
         {
           "EventTitle": "Naomi Celis",
           "EventDate": "2026-10-09",
@@ -5826,7 +5800,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 144,
+      "TotalEvents": 143,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8333,7 +8307,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 154,
+      "TotalEvents": 152,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9797,24 +9771,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 68,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Les Folles de Gand & The Stardancers - Luxe Travestieshow",
-          "EventDate": "2026-09-12T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/les-folles-de-gand-and-the-stardancers---luxe-travestieshow-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-12T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Ellen Schoenaerts",
           "EventDate": "2026-09-18T00:00:00.0000000",
@@ -10699,14 +10660,14 @@
       "EventDetails": [
         {
           "EventTitle": "LEFFINGELEUREN 2026",
-          "EventDate": "2026-09-12T00:00:00",
+          "EventDate": "2026-09-13T00:00:00",
           "EventUrl": "https://www.dezwerver.be/event/leffingeleuren/",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-12T00:00:00'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-13T00:00:00'.",
               "Severity": 1,
-              "ActualValue": "2026-09-12T00:00:00"
+              "ActualValue": "2026-09-13T00:00:00"
             }
           ]
         },
@@ -10807,24 +10768,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 65,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Daft Funk Live",
-          "EventDate": "2026-09-12",
-          "EventUrl": "https://www.democrazy.be/agenda/3176-daft-funk-live/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-12'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-12"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciska Ciska",
           "EventDate": "2026-09-15",
@@ -14554,7 +14502,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 25,
+      "TotalEvents": 24,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -15296,7 +15244,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 186,
+      "TotalEvents": 185,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -15692,7 +15640,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 70,
+      "TotalEvents": 69,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
