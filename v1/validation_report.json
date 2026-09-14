@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-13T05:00:04.1078Z",
-  "ValidatedAt": "2026-09-13T05:00:04.1078001Z",
-  "TotalScrapers": 38,
-  "TotalEvents": 3421,
+  "GeneratedAt": "2026-09-14T05:00:05.5370562Z",
+  "ValidatedAt": "2026-09-14T05:00:05.5372462Z",
+  "TotalScrapers": 33,
+  "TotalEvents": 2958,
   "TotalErrors": 0,
-  "TotalWarnings": 1174,
+  "TotalWarnings": 907,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3122,12 +3122,22 @@
       ]
     },
     {
+      "ScraperId": "CcAntwerpen",
+      "ScraperName": "CcAntwerpenScraper",
+      "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
+      "TotalEvents": 232,
+      "ErrorCount": 0,
+      "WarningCount": 0,
+      "Issues": [],
+      "EventDetails": []
+    },
+    {
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 216,
+      "TotalEvents": 213,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -3166,19 +3176,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Imaina",
-          "EventDate": "2026-10-21T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/imaina-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21T00:00:00.0000000"
             }
           ]
         },
@@ -5839,19 +5836,6 @@
           ]
         },
         {
-          "EventTitle": "Theater in de Stad",
-          "EventDate": "2026-09-12",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/theater-in-de-stad/10201/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-12'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-12"
-            }
-          ]
-        },
-        {
           "EventTitle": "Latijnse Kring: Kronieken en kroniekschrijvers van de abdij van Ninove",
           "EventDate": "2026-09-15",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/latijnse-kring-kronieken-en-kroniekschrijvers-van-de-abdij-van-ninove/8602/",
@@ -5956,6 +5940,19 @@
           ]
         },
         {
+          "EventTitle": "BachPlus",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/bachplus/9844/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
           "EventTitle": "Pop-up expo Stedelijke woonzorgcentra Aalst",
           "EventDate": "2026-09-08",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stedelijke-woonzorgcentra-aalst/10203/",
@@ -5978,19 +5975,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-23'.",
               "Severity": 1,
               "ActualValue": "2026-09-23"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BachPlus",
-          "EventDate": "2026-09-27",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/bachplus/9844/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-27"
             }
           ]
         },
@@ -6281,19 +6265,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Jan Hutsebaut",
-          "EventDate": "2026-11-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-jan-hutsebaut/10108/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-04"
-            }
-          ]
-        },
-        {
           "EventTitle": "Hooverphonic with Noémie Wolfs",
           "EventDate": "2026-11-07",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/hooverphonic-with-noemie-wolfs/9934/",
@@ -6303,6 +6274,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-07'.",
               "Severity": 1,
               "ActualValue": "2026-11-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Jan Hutsebaut",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-jan-hutsebaut/10108/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
             }
           ]
         },
@@ -6749,19 +6733,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Anja Deilgat",
-          "EventDate": "2027-01-05",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-05"
-            }
-          ]
-        },
-        {
           "EventTitle": "Koninklijke Harmonie Concordia et Docilitas & Dé Danscompagnie",
           "EventDate": "2027-01-10",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koninklijke-harmonie-concordia-et-docilitas-de-danscompagnie/9933/",
@@ -6771,6 +6742,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-10'.",
               "Severity": 1,
               "ActualValue": "2027-01-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Anja Deilgat",
+          "EventDate": "2027-01-05",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-05"
             }
           ]
         },
@@ -7061,19 +7045,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Stuft",
-          "EventDate": "2027-02-02",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-02"
-            }
-          ]
-        },
-        {
           "EventTitle": "Daan",
           "EventDate": "2027-02-11",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/daan/9897/",
@@ -7083,6 +7054,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-11'.",
               "Severity": 1,
               "ActualValue": "2027-02-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Stuft",
+          "EventDate": "2027-02-02",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-02"
             }
           ]
         },
@@ -7369,6 +7353,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-10'.",
               "Severity": 1,
               "ActualValue": "2027-03-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Not Standing / Alexander Vantournhout",
+          "EventDate": "2027-03-11",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/not-standing-alexander-vantournhout/9904/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-11'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-11"
             }
           ]
         },
@@ -8307,7 +8304,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 152,
+      "TotalEvents": 149,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8323,7 +8320,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "De Andere Film",
+          "EventTitle": "De Andere Film - L'Attachement",
           "EventDate": "2026-09-15T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-andere-film-nrg5",
           "Issues": [
@@ -8336,7 +8333,7 @@
           ]
         },
         {
-          "EventTitle": "internationaal circus- en straattheaterfestival",
+          "EventTitle": "internationaal circus- en straattheaterfestival - de kleine stooringe",
           "EventDate": "2026-09-20T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/internationaal-circus-en-straattheaterfestival-q8zr",
           "Issues": [
@@ -8349,7 +8346,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - Per Te",
           "EventDate": "2026-09-22T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-y3bc",
           "Issues": [
@@ -8375,7 +8372,7 @@
           ]
         },
         {
-          "EventTitle": "KORROL",
+          "EventTitle": "KORROL - Grensgeval",
           "EventDate": "2026-09-27T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/korrol-51rw",
           "Issues": [
@@ -8388,7 +8385,7 @@
           ]
         },
         {
-          "EventTitle": "De Andere Film",
+          "EventTitle": "De Andere Film - Yellow Letters",
           "EventDate": "2026-09-29T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-andere-film-f7hf",
           "Issues": [
@@ -8401,7 +8398,7 @@
           ]
         },
         {
-          "EventTitle": "De Vader",
+          "EventTitle": "De Vader - één zee",
           "EventDate": "2026-09-30T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-vader-sh35",
           "Issues": [
@@ -8414,7 +8411,7 @@
           ]
         },
         {
-          "EventTitle": "Larie",
+          "EventTitle": "Larie - Gover Meit",
           "EventDate": "2026-10-02T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/larie-511p",
           "Issues": [
@@ -8427,7 +8424,7 @@
           ]
         },
         {
-          "EventTitle": "Punt, Komma, Andere lijn",
+          "EventTitle": "Punt, Komma, Andere lijn - Wim Claeys",
           "EventDate": "2026-10-03T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/punt-komma-andere-lijn-q8zs",
           "Issues": [
@@ -8440,7 +8437,7 @@
           ]
         },
         {
-          "EventTitle": "Bach Triple",
+          "EventTitle": "Bach Triple - Les Muffatti",
           "EventDate": "2026-10-04T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/bach-triple-6f71",
           "Issues": [
@@ -8453,7 +8450,7 @@
           ]
         },
         {
-          "EventTitle": "Liminal Tour",
+          "EventTitle": "Liminal Tour - Joep Beving",
           "EventDate": "2026-10-05T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/liminal-tour-tsgp",
           "Issues": [
@@ -8466,7 +8463,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - Amrum",
           "EventDate": "2026-10-06T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-xn83",
           "Issues": [
@@ -8479,7 +8476,7 @@
           ]
         },
         {
-          "EventTitle": "MAMA",
+          "EventTitle": "MAMA - Pascale Platel",
           "EventDate": "2026-10-07T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/mama-nr7v",
           "Issues": [
@@ -8544,7 +8541,7 @@
           ]
         },
         {
-          "EventTitle": "De Andere Film",
+          "EventTitle": "De Andere Film - Calle Málaga",
           "EventDate": "2026-10-13T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-andere-film-ryk8",
           "Issues": [
@@ -8557,7 +8554,7 @@
           ]
         },
         {
-          "EventTitle": "Being Britney",
+          "EventTitle": "Being Britney - Colette Goossens",
           "EventDate": "2026-10-14T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/being-britney-nrsv",
           "Issues": [
@@ -8570,7 +8567,7 @@
           ]
         },
         {
-          "EventTitle": "TRAUM",
+          "EventTitle": "TRAUM - Roeshoofd",
           "EventDate": "2026-10-16T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/traum-518v",
           "Issues": [
@@ -8596,7 +8593,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - Omaha",
           "EventDate": "2026-10-20T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-4mq9",
           "Issues": [
@@ -8635,7 +8632,7 @@
           ]
         },
         {
-          "EventTitle": "An Evening with",
+          "EventTitle": "An Evening with - Kristin Hersh",
           "EventDate": "2026-10-26T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/an-evening-with-dt88",
           "Issues": [
@@ -8648,7 +8645,7 @@
           ]
         },
         {
-          "EventTitle": "De Andere Film",
+          "EventTitle": "De Andere Film - Primavera",
           "EventDate": "2026-10-27T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-andere-film-51gt",
           "Issues": [
@@ -8661,7 +8658,7 @@
           ]
         },
         {
-          "EventTitle": "Pieter Coenaerts en Manmanman",
+          "EventTitle": "Pieter Coenaerts en Manmanman - CabaretBomToer",
           "EventDate": "2026-10-28T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/pieter-coenaerts-en-manmanman-sh49",
           "Issues": [
@@ -8674,7 +8671,7 @@
           ]
         },
         {
-          "EventTitle": "Lullabye",
+          "EventTitle": "Lullabye - Anneleen Keppens",
           "EventDate": "2026-10-29T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/lullabye-m5q8",
           "Issues": [
@@ -8700,7 +8697,7 @@
           ]
         },
         {
-          "EventTitle": "Le petit chaperon rouge / Roodkapje",
+          "EventTitle": "Le petit chaperon rouge / Roodkapje - Cie. Sylvain Huc",
           "EventDate": "2026-11-01T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/le-petit-chaperon-rouge-roodkapje-lpwj",
           "Issues": [
@@ -8713,7 +8710,7 @@
           ]
         },
         {
-          "EventTitle": "FEST",
+          "EventTitle": "FEST - Zonzo Compagnie",
           "EventDate": "2026-11-03T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/fest-hkm3",
           "Issues": [
@@ -8726,7 +8723,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - The Beloved",
           "EventDate": "2026-11-03T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-q847",
           "Issues": [
@@ -8739,7 +8736,7 @@
           ]
         },
         {
-          "EventTitle": "WEB",
+          "EventTitle": "WEB - ONAF",
           "EventDate": "2026-11-04T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/web-m5f7",
           "Issues": [
@@ -8752,7 +8749,7 @@
           ]
         },
         {
-          "EventTitle": "DE EXPLODERENDE WALVISMUSICAL",
+          "EventTitle": "DE EXPLODERENDE WALVISMUSICAL - Elsa van Dijk",
           "EventDate": "2026-11-04T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-exploderende-walvismusical-tsjz",
           "Issues": [
@@ -8765,7 +8762,7 @@
           ]
         },
         {
-          "EventTitle": "OnlyFans for Therapy",
+          "EventTitle": "OnlyFans for Therapy - Verona Verbakel",
           "EventDate": "2026-11-07T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/onlyfans-for-therapy-f72b",
           "Issues": [
@@ -8778,7 +8775,7 @@
           ]
         },
         {
-          "EventTitle": "De Andere Film",
+          "EventTitle": "De Andere Film - À Voix Basse",
           "EventDate": "2026-11-10T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-andere-film-lp9p",
           "Issues": [
@@ -8804,7 +8801,7 @@
           ]
         },
         {
-          "EventTitle": "Kerff",
+          "EventTitle": "Kerff - Compagnie Cecilia",
           "EventDate": "2026-11-12T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/kerff-ryhq",
           "Issues": [
@@ -8830,7 +8827,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - Broken English",
           "EventDate": "2026-11-17T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-shmc",
           "Issues": [
@@ -8843,7 +8840,7 @@
           ]
         },
         {
-          "EventTitle": "Farce Majeure",
+          "EventTitle": "Farce Majeure - Michael Van Peel",
           "EventDate": "2026-11-19T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/farce-majeure-4m6k",
           "Issues": [
@@ -8895,7 +8892,7 @@
           ]
         },
         {
-          "EventTitle": "Verstaanbaar",
+          "EventTitle": "Verstaanbaar - Wannes Cappelle",
           "EventDate": "2026-11-28T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/verstaanbaar-1jz9",
           "Issues": [
@@ -8921,7 +8918,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - No Other Choice",
           "EventDate": "2026-12-01T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-nrgd",
           "Issues": [
@@ -8934,7 +8931,7 @@
           ]
         },
         {
-          "EventTitle": "An Evening with",
+          "EventTitle": "An Evening with - Lambchop",
           "EventDate": "2026-12-03T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/an-evening-with-y3pd",
           "Issues": [
@@ -8947,7 +8944,7 @@
           ]
         },
         {
-          "EventTitle": "Tiramisu",
+          "EventTitle": "Tiramisu - theater arsenaal",
           "EventDate": "2026-12-04T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/tiramisu-518d",
           "Issues": [
@@ -8960,7 +8957,7 @@
           ]
         },
         {
-          "EventTitle": "Twee Procent",
+          "EventTitle": "Twee Procent - Bas Birker",
           "EventDate": "2026-12-05T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/twee-procent-7lgm",
           "Issues": [
@@ -8986,7 +8983,7 @@
           ]
         },
         {
-          "EventTitle": "Sieber Marly en Eva De Roovere",
+          "EventTitle": "Sieber Marly en Eva De Roovere - CabaretBomToer",
           "EventDate": "2026-12-09T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/sieber-marly-en-eva-de-roovere-nr8k",
           "Issues": [
@@ -8999,7 +8996,7 @@
           ]
         },
         {
-          "EventTitle": "DJ Loebas",
+          "EventTitle": "DJ Loebas - Piv Huvluv",
           "EventDate": "2026-12-11T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/dj-loebas-j4k9",
           "Issues": [
@@ -9025,7 +9022,7 @@
           ]
         },
         {
-          "EventTitle": "Filmkus",
+          "EventTitle": "Filmkus - Silent Friend",
           "EventDate": "2026-12-15T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/filmkus-9cl7",
           "Issues": [
@@ -9051,7 +9048,7 @@
           ]
         },
         {
-          "EventTitle": "Ben en Vero",
+          "EventTitle": "Ben en Vero - Benjamin Vandewalle",
           "EventDate": "2026-12-16T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/ben-en-vero-8g43",
           "Issues": [
@@ -9077,7 +9074,7 @@
           ]
         },
         {
-          "EventTitle": "Quand ça lâche",
+          "EventTitle": "Quand ça lâche - Cirque Emboîté",
           "EventDate": "2026-12-23T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/quand-ca-lache-m5nr",
           "Issues": [
@@ -9142,7 +9139,7 @@
           ]
         },
         {
-          "EventTitle": "TISOVERALIETS",
+          "EventTitle": "TISOVERALIETS - Günther Lesage",
           "EventDate": "2027-01-23T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/tisoveraliets-1jh7",
           "Issues": [
@@ -9155,7 +9152,7 @@
           ]
         },
         {
-          "EventTitle": "Missie 2026",
+          "EventTitle": "Missie 2026 - Hetty Helsmoortel",
           "EventDate": "2027-01-27T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/missie-2026-f78x",
           "Issues": [
@@ -9168,7 +9165,7 @@
           ]
         },
         {
-          "EventTitle": "A Huff and a Puff (and I blow your house in)",
+          "EventTitle": "A Huff and a Puff (and I blow your house in) - Three is a Crowd",
           "EventDate": "2027-01-29T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/a-huff-and-a-puff-and-i-blow-your-house-in-q8y1",
           "Issues": [
@@ -9207,7 +9204,7 @@
           ]
         },
         {
-          "EventTitle": "De Zwaarste Theatershow",
+          "EventTitle": "De Zwaarste Theatershow - Andries Beckers",
           "EventDate": "2027-02-04T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/de-zwaarste-theatershow-q8g7",
           "Issues": [
@@ -9220,7 +9217,7 @@
           ]
         },
         {
-          "EventTitle": "Petty Bison",
+          "EventTitle": "Petty Bison - Thomas Vantuycom",
           "EventDate": "2027-02-11T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/petty-bison-tsyh",
           "Issues": [
@@ -9246,7 +9243,7 @@
           ]
         },
         {
-          "EventTitle": "Je suis une Montagne",
+          "EventTitle": "Je suis une Montagne - Éric Arnal-Burtschy",
           "EventDate": "2027-02-14T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/je-suis-une-montagne-ry4z",
           "Issues": [
@@ -9285,7 +9282,7 @@
           ]
         },
         {
-          "EventTitle": "Wild Narcissus",
+          "EventTitle": "Wild Narcissus - Bavo Buys",
           "EventDate": "2027-02-18T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/wild-narcissus-hk6w",
           "Issues": [
@@ -9298,7 +9295,7 @@
           ]
         },
         {
-          "EventTitle": "Protpourri",
+          "EventTitle": "Protpourri - Gunter Lamoot",
           "EventDate": "2027-02-19T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/protpourri-6ftf",
           "Issues": [
@@ -9324,7 +9321,7 @@
           ]
         },
         {
-          "EventTitle": "VAAS",
+          "EventTitle": "VAAS - Rosalie Custers",
           "EventDate": "2027-02-24T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/vaas-rygl",
           "Issues": [
@@ -9337,7 +9334,7 @@
           ]
         },
         {
-          "EventTitle": "Psycho Solo",
+          "EventTitle": "Psycho Solo - Han Solo",
           "EventDate": "2027-02-27T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/psycho-solo-hk5x",
           "Issues": [
@@ -9350,7 +9347,7 @@
           ]
         },
         {
-          "EventTitle": "Kukeleku! De Grote Boerderijshow",
+          "EventTitle": "Kukeleku! De Grote Boerderijshow - Kapitein Winokio",
           "EventDate": "2027-02-28T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/kukeleku-de-grote-boerderijshow-f7s6",
           "Issues": [
@@ -9402,7 +9399,7 @@
           ]
         },
         {
-          "EventTitle": "Galapagos",
+          "EventTitle": "Galapagos - Abattoir Fermé",
           "EventDate": "2027-03-06T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/galapagos-f7j8",
           "Issues": [
@@ -9428,7 +9425,7 @@
           ]
         },
         {
-          "EventTitle": "Handle with Care",
+          "EventTitle": "Handle with Care - Ontroerend Goed",
           "EventDate": "2027-03-07T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/handle-with-care-ts4w",
           "Issues": [
@@ -9441,7 +9438,7 @@
           ]
         },
         {
-          "EventTitle": "en de Zeven Schlagers",
+          "EventTitle": "en de Zeven Schlagers - Nele Bauwens",
           "EventDate": "2027-03-09T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/en-de-zeven-schlagers-dt11",
           "Issues": [
@@ -9480,7 +9477,7 @@
           ]
         },
         {
-          "EventTitle": "Crooner",
+          "EventTitle": "Crooner - Daan",
           "EventDate": "2027-03-11T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/crooner-9c2c",
           "Issues": [
@@ -9493,7 +9490,7 @@
           ]
         },
         {
-          "EventTitle": "Surplace",
+          "EventTitle": "Surplace - Johnny Mus",
           "EventDate": "2027-03-17T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/surplace-ryzh",
           "Issues": [
@@ -9558,7 +9555,7 @@
           ]
         },
         {
-          "EventTitle": "Belachelijk!",
+          "EventTitle": "Belachelijk! - Henk Rijckaert",
           "EventDate": "2027-03-31T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/belachelijk-zvmj",
           "Issues": [
@@ -9584,7 +9581,7 @@
           ]
         },
         {
-          "EventTitle": "COPYRIOT",
+          "EventTitle": "COPYRIOT - KRAPP / KVS",
           "EventDate": "2027-04-08T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/copyriot-8g3p",
           "Issues": [
@@ -9597,7 +9594,7 @@
           ]
         },
         {
-          "EventTitle": "The Future Was Today",
+          "EventTitle": "The Future Was Today - SONICO",
           "EventDate": "2027-04-10T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/the-future-was-today-hkdv",
           "Issues": [
@@ -9610,7 +9607,7 @@
           ]
         },
         {
-          "EventTitle": "Angelina",
+          "EventTitle": "Angelina - Sibran Sampers",
           "EventDate": "2027-04-11T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/angelina-rygf",
           "Issues": [
@@ -9649,7 +9646,7 @@
           ]
         },
         {
-          "EventTitle": "Drift",
+          "EventTitle": "Drift - William Boeva",
           "EventDate": "2027-04-29T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/drift-lpky",
           "Issues": [
@@ -9675,7 +9672,7 @@
           ]
         },
         {
-          "EventTitle": "Vandaag",
+          "EventTitle": "Vandaag - Herman van Veen",
           "EventDate": "2027-05-25T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/vandaag-f7l2",
           "Issues": [
@@ -9688,7 +9685,7 @@
           ]
         },
         {
-          "EventTitle": "Machtig!",
+          "EventTitle": "Machtig! - Gili",
           "EventDate": "2027-05-26T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/machtig-c2jh",
           "Issues": [
@@ -9701,7 +9698,7 @@
           ]
         },
         {
-          "EventTitle": "Moortelvet (Première) - in 't Roeselaars",
+          "EventTitle": "Moortelvet (Première) - in 't Roeselaars - Dagmar Verfaillie",
           "EventDate": "2027-06-04T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/moortelvet-premiere-in-t-roeselaars-c2hp",
           "Issues": [
@@ -9714,7 +9711,7 @@
           ]
         },
         {
-          "EventTitle": "WALD",
+          "EventTitle": "WALD - Korpus Kwartet",
           "EventDate": "2027-06-06T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/wald-j4mn",
           "Issues": [
@@ -9727,7 +9724,7 @@
           ]
         },
         {
-          "EventTitle": "Voor Normale Mensen",
+          "EventTitle": "Voor Normale Mensen - Dries Heyneman",
           "EventDate": "2027-06-08T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/voor-normale-mensen-zvxy",
           "Issues": [
@@ -9740,7 +9737,7 @@
           ]
         },
         {
-          "EventTitle": "2027",
+          "EventTitle": "2027 - Stef Bos",
           "EventDate": "2027-06-09T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/2027-rywp",
           "Issues": [
@@ -9753,7 +9750,7 @@
           ]
         },
         {
-          "EventTitle": "Stabieler (Herneming)",
+          "EventTitle": "Stabieler (Herneming) - Steven Mahieu",
           "EventDate": "2027-06-19T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/stabieler-herneming-ts2h",
           "Issues": [
@@ -10653,24 +10650,11 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 8,
+      "TotalEvents": 7,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "LEFFINGELEUREN 2026",
-          "EventDate": "2026-09-13T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/event/leffingeleuren/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-13T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-13T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "THE MAGIC NUMBERS",
           "EventDate": "2026-10-13T00:00:00",
@@ -11608,2757 +11592,6 @@
       ]
     },
     {
-      "ScraperId": "Dour",
-      "ScraperName": "DourScraper",
-      "VenueName": "Dour Festival",
-      "TotalEvents": 210,
-      "ErrorCount": 0,
-      "WarningCount": 210,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Boys Noize F2F SPFDJ",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/291-boys-noize-f2f-spfdj/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DJ Gigola F2F PETERBLUE",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/375-dj-gigola-f2f-peterblue/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Durdenhauer F2F Mika Heggemann",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/295-durdenhauer-f2f-mika-heggemann/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fenrick F2F Emilija",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/296-fenrick-f2f-emilija/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ISHA & Limsa d'Aulnay",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/293-isha-limsa-daulnay/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yvnnis",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/298-yvnnis/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Agobun Soundsystem",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/309-agobun-soundsystem/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Barako Bahamas B2B DJ Cagna",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/193-barako-bahamas-b2b-dj-cagna/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Earl Sixteen",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/315-earl-sixteen/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GIGI",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/398-gigi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Grünt",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/320-grunt/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JauneOrange",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/289-jauneorange/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JEUNESAMBITIEUX",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/387-jeunesambitieux/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Jideh High Elements Feat Ras Ladji",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/317-jideh-high-elements-feat-ras-ladji/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "La Roue",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/335-la-roue/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "La Scarpetta",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/336-la-scarpetta/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Laure Croft F2F fumi",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/292-laure-croft-f2f-fumi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MALOKKIO",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/399-malokkio/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MAMBA",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/401-mamba/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MARASCHINO",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/400-maraschino/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nathachelet",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/337-nathachelet/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Niko Hoke F2F John Gilliot",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/297-niko-hoke-f2f-john-gilliot/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Reemshot",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/343-reemshot/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Relajadita F2F GIØ",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/294-relajadita-f2f-gio/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sherifflazone",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/324-sherifflazone/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Thomaslovefashionverviers",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/338-thomaslovefashionverviers/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Zinée",
-          "EventDate": "2026-07-15T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/161-zinee/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Alonzo",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/249-alonzo/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Amelie Lens",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/230-amelie-lens/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Caribou",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/261-caribou/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "HOLY PRIEST",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/227-holy-priest/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Vald x Vladimir Cauchemar x Todiefor",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/229-vald-x-vladimir-cauchemar-x-todiefor/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Zwangere Guy",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/271-zwangere-guy/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Charlie Sparks",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/263-charlie-sparks/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Hamdi",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/300-hamdi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ino Casablanca",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/251-ino-casablanca/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "KUKO",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/288-kuko/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Myd",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/286-myd/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Onlynumbers",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/272-onlynumbers/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Roland Cristal",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/87-roland-cristal/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Rudim3ntal",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/301-rudim3ntal/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Scylla & Furax",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/250-scylla-furax/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "10G X.I.T",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/409-10g-x-i-t/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ABSOLEM",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/433-absolem/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Alpha Steppa Feat. Nai-Jah",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/389-alpha-steppa-feat-nai-jah/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "alster",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/431-alster/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "AXEL BALDI B2B CELLAR",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/405-axel-baldi-b2b-cellar/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bclip",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/394-bclip/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Béesau",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/334-beesau/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BEN LOU",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/402-ben-lou/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Boko Yout",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/305-boko-yout/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BYORN",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/273-byorn/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CARAVEL",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/275-caravel/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CLAFER",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/403-clafer/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Coki Feat SGT Pokes",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/308-coki-feat-sgt-pokes/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DEEP IN THE LOVE B2B DANA",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/407-deep-in-the-love-b2b-dana/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Djaydub Feat. Dhazed & Daddy Cookiz",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/395-djaydub-feat-dhazed-daddy-cookiz/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ENZO POSTIGA",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/406-enzo-postiga/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GEA",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/348-gea/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "INYZIA B2B TILAA",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/404-inyzia-b2b-tilaa/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kaba & Hyas",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/339-kaba-hyas/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "King Alpha feat. Fikir Amlak",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/361-king-alpha-feat-fikir-amlak/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LESSSS",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/274-lessss/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LinLin",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/341-linlin/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LOTU MEETS SINAI",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/365-lotu-meets-sinai/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LVDV",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/366-lvdv/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Maissouille B2B Radium",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/370-maissouille-b2b-radium/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Marie-Julie",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/355-marie-julie/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "NUPS3E",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/377-nups3e/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sinai",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/114-sinai/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sköne",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/331-skone/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "STILNOXXX",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/408-stilnoxxx/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "VICIOSA Presents : NMSS, Vera Moro, Ricky Corazón",
-          "EventDate": "2026-07-16T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/374-viciosa-presents-nmss-vera-moro-ricky-corazon/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Apashe",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/270-apashe/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Biga*Ranx",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/228-bigaranx/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Chris Stussy",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/239-chris-stussy/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Guy2Bezbar",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/254-guy2bezbar/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Oklou",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/233-oklou/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Orelsan",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/225-orelsan/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sammy Virji",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/237-sammy-virji/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bambounou",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/242-bambounou/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Buraka Som Sistema",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/299-buraka-som-sistema/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Danyl",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/326-danyl/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Favé",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/255-fave/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "HAAi",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/311-haai/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mechatok",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/321-mechatok/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Miss Bashful",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/330-miss-bashful/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Peaches",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/280-peaches/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sama’ Abdulhadi",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/240-sama-abdulhadi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Swimming Paul",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/287-swimming-paul/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yoa",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/232-yoa/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ão",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/358-ao/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "AMRK b2b KUKI",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/413-amrk-b2b-kuki/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Camille Yembe",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/325-camille-yembe/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Clara D",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/166-clara-d/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DJ Schnake",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/327-dj-schnake/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FENNX",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/414-fennx/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Frost Children",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/310-frost-children/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GHOSTY",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/416-ghosty/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Godson",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/362-godson/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Hanamercy",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/363-hanamercy/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JAEL. & Telly*",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/344-jael-telly/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Jeune Morty",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/256-jeune-morty/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "keiyaA",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/313-keiyaa/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Khadija Al Hanafi",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/386-khadija-al-hanafi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kingstep Feat. Ramon Judah",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/350-kingstep-feat-ramon-judah/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Laura De Greef",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/352-laura-de-greef/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LEFTO EARLY BIRD",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/316-lefto-early-bird/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LEPLOMB b2b LM/RA",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/412-leplomb-b2b-lm-ra/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lewis Bennett",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/354-lewis-bennett/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LOW E",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/411-low-e/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MADDAM",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/410-maddam/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Magi Merlin",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/368-magi-merlin/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mathilde Fernandez",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/319-mathilde-fernandez/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MEDUSA",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/417-medusa/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Pili Pili Girls",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/384-pili-pili-girls/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "RETARD MENTAL",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/415-retard-mental/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sinai",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/388-sinai/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Skarra Mucci & Manudigital",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/393-skarra-mucci-manudigital/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tatyana Jane",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/392-tatyana-jane/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Urumi",
-          "EventDate": "2026-07-17T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/333-urumi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Boys Noize",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/306-boys-noize/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Brutalismus 3000",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/4-brutalismus-3000/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Damso",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/231-damso/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "disiz",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/267-disiz/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Funk Tribu",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/243-funk-tribu/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Meryl",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/277-meryl/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Original Koffee",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/276-original-koffee/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TOMORA",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/246-tomora/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ultra Vomit",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/248-ultra-vomit/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "2HOT2PLAY",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/266-2hot2play/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Benwal",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/247-benwal/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Blawan",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/304-blawan/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bob Vylan",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/281-bob-vylan/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Cobrah",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/307-cobrah/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fat Dog",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/235-fat-dog/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Goldie Feat Medic Mc",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/303-goldie-feat-medic-mc/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "horsegiirL",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/258-horsegiirl/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "PERCEVAL",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/252-perceval/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "R2",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/257-r2/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "RnBoi",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/397-rnboi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Adult DVD",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/234-adult-dvd/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "AINEX",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/419-ainex/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "AUNTY RAYZOR",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/396-aunty-rayzor/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "AYMYA",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/424-aymya/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "BIANKA",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/418-bianka/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ELLiS·D",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/236-ellis%c2%b7d/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Emilija",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/391-emilija/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FLKN",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/328-flkn/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Huntrill",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/290-huntrill/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Jahtari meets Speng Bond",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/364-jahtari-meets-speng-bond/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "KIRARA",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/351-kirara/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Le Motel",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/190-le-motel/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lézard",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/318-lezard/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LORA",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/420-lora/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LOTTIE",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/425-lottie/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MAELIE",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/423-maelie/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Marhu",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/329-marhu/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Marina P & Eeyun Purkins",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/356-marina-p-eeyun-purkins/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "NATT",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/421-natt/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Pretty Much Average",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/357-pretty-much-average/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Rrita Jashari",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/380-rrita-jashari/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Scat Cat",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/432-scat-cat/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sinai & Abzu Feat. Aziza Jaye",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/372-sinai-abzu-feat-aziza-jaye/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "SYNOXIS",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/422-synoxis/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "THÉA",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/332-thea/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TVOD",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/378-tvod/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Unicorn on K",
-          "EventDate": "2026-07-18T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/373-unicorn-on-k/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Honey Dijon",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/312-honey-dijon/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Interpol",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/283-interpol/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "L2B",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/244-l2b/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mau P",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/285-mau-p/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Pendulum",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/241-pendulum/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sean Paul",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/238-sean-paul/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TRYM",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/269-trym/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Alignment",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/264-alignment/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Amenra",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/226-amenra/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bu$HI",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/434-buhi/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ghinzu",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/284-ghinzu/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "High Vis",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/259-high-vis/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Hybrid Minds",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/302-hybrid-minds/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Odezenne",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/253-odezenne/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sleaford Mods",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/279-sleaford-mods/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Teki Latex b2b Neffa-T",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/385-teki-latex-b2b-neffa-t/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Young Miko",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/278-young-miko/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "a6el",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/342-a6el/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Aba Shanti-I",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/345-aba-shanti-i/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "AMALYSSA",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/427-amalyssa/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ARTEM",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/430-artem/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Azzi On The Beat",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/390-azzi-on-the-beat/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Betical",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/346-betical/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CUUURTIS",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/426-cuuurtis/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Elea",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/340-elea/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Elisethere & Maliman",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/360-elisethere-maliman/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Eosine",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/347-eosine/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GEO",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/428-geo/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "GOLDEN ZEBORA B2B ASLAY",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/429-golden-zebora-b2b-aslay/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Johannes Schuster",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/435-johannes-schuster/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kaat Van Stralen",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/349-kaat-van-stralen/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "La Sécurité",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/314-la-securite/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LAURAVIOLI",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/353-lauravioli/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "mad miran",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/367-mad-miran/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Maïcee",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/369-maicee/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mek'Dr'Dr",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/383-mekdrdr/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Militarie Gun",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/260-militarie-gun/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Roll & Record meets Alpha Pup",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/371-roll-record-meets-alpha-pup/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "sòn du maquís",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/382-son-du-maquis/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Experimental Tropic Blues Band",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/379-the-experimental-tropic-blues-band/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Violent Magic Orchestra",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/381-violent-magic-orchestra/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Weeding Dub",
-          "EventDate": "2026-07-19T00:00:00.0000000",
-          "EventUrl": "https://www.dourfestival.eu/en/artiste/376-weeding-dub/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-19T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ScraperId": "Fonnefeesten",
-      "ScraperName": "FonnefeestenScraper",
-      "VenueName": "Fonnefeesten",
-      "TotalEvents": 39,
-      "ErrorCount": 0,
-      "WarningCount": 0,
-      "Issues": [],
-      "EventDetails": []
-    },
-    {
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
@@ -14388,19 +11621,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Rondleiding gebouw",
-          "EventDate": "2026-09-13T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/rondleiding-gebouw-13-09-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Allez, Chantez! * september",
           "EventDate": "2026-09-24T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/allez-chantez-september-24-09-26",
@@ -14425,6 +11645,19 @@
               "ActualValue": "2026-09-27T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Nothing Bigger Than Humanity",
+          "EventDate": "2026-10-01T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/nothing-bigger-than-humanity-01-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -14447,56 +11680,6 @@
       "WarningCount": 0,
       "Issues": [],
       "EventDetails": []
-    },
-    {
-      "ScraperId": "LokerseFeesten",
-      "ScraperName": "LokerseFeestenScraper",
-      "VenueName": "Lokerse Feesten",
-      "TotalEvents": 103,
-      "ErrorCount": 0,
-      "WarningCount": 3,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "KOMPASS TRAXX",
-          "EventDate": "2026-08-09T00:00:00.0000000",
-          "EventUrl": "https://www.lokersefeesten.be/en/bands/kompass-traxx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MARCO BAILEY",
-          "EventDate": "2026-08-08T00:00:00.0000000",
-          "EventUrl": "https://www.lokersefeesten.be/en/bands/marco-bailey",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-08T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ZWANGERE GUY",
-          "EventDate": "2026-08-06T00:00:00.0000000",
-          "EventUrl": "https://www.lokersefeesten.be/en/bands/zwangere-guy",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-08-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-08-06T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
     },
     {
       "ScraperId": "N9",
@@ -14533,718 +11716,10 @@
       ]
     },
     {
-      "ScraperId": "OstendBeach",
-      "ScraperName": "OstendBeachScraper",
-      "VenueName": "Ostend Beach",
-      "TotalEvents": 99,
-      "ErrorCount": 0,
-      "WarningCount": 2,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "HI-LO",
-          "EventDate": "2026-07-11T00:00:00.0000000",
-          "EventUrl": "https://www.ostendbeach.be/en/bands/hi-lo",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Michael Amani",
-          "EventDate": "2026-07-10T00:00:00.0000000",
-          "EventUrl": "https://www.ostendbeach.be/en/bands/michael-amani",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-10T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ScraperId": "Pukkelpop",
-      "ScraperName": "PukkelpopScraper",
-      "VenueName": "Pukkelpop",
-      "TotalEvents": 185,
-      "ErrorCount": 0,
-      "WarningCount": 0,
-      "Issues": [],
-      "EventDetails": []
-    },
-    {
-      "ScraperId": "Werchter",
-      "ScraperName": "WerchterScraper",
-      "VenueName": "Rock Werchter",
-      "TotalEvents": 50,
-      "ErrorCount": 0,
-      "WarningCount": 50,
-      "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Mumford & Sons",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/mumford-sons",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The War on Drugs",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-war-on-drugs",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Lumineers",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-lumineers",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kasabian",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/kasabian",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Triggerfinger",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/triggerfinger",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Zwangere Guy",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/zwangere-guy",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yong Yello",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/yong-yello",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Prodigy",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-prodigy",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "JADE",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/jade",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Loyle Carner",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/loyle-carner",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Vaccines",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-vaccines",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "All Them Witches",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/all-them-witches",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Balu Brigada",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/balu-brigada",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Blood Incantation",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/blood-incantation",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tom Smith",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/tom-smith",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dylan Gossett",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/dylan-gossett",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Yard Act",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/yard-act",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Bente",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/bente",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Monza",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/monza",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Midnight Generation",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/midnight-generation",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "PUP",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/pup",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Karen Dió",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/karen-dio",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "LA LOM",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/la-lom",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Basht.",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/basht",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ben Ellis",
-          "EventDate": "2026-07-02",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/ben-ellis",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-02"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The xx",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-xx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lewis Capaldi",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/lewis-capaldi",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Teddy Swims",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/teddy-swims",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Royel Otis",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/royel-otis",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Last Dinner Party",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/the-last-dinner-party",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Wolf Alice",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/wolf-alice",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kingfishr",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/kingfishr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Charlotte de Witte",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/charlotte-de-witte",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FKA twigs",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/fka-twigs",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Franz Ferdinand",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/franz-ferdinand",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Viagra Boys",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/viagra-boys",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Social Distortion",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/social-distortion",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Good Neighbours",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/good-neighbours",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lauren Spencer Smith",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/lauren-spencer-smith",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Agnes Obel",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/agnes-obel",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kae Tempest",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/kae-tempest",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Paris Paloma",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/paris-paloma",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "High Hi",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/high-hi",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ISE",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/ise",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Alice Mae",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/alice-mae",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Radio Free Alice",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/radio-free-alice",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Scene Queen",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/scene-queen",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Keo",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/keo",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Cardinals",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/cardinals",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        },
-        {
-          "EventTitle": "overpass",
-          "EventDate": "2026-07-03",
-          "EventUrl": "https://www.rockwerchter.be/nl/acts/overpass",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-07-03'.",
-              "Severity": 1,
-              "ActualValue": "2026-07-03"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 185,
+      "TotalEvents": 183,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
