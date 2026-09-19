@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-18T05:00:06.2293911Z",
-  "ValidatedAt": "2026-09-18T05:00:06.2293913Z",
+  "GeneratedAt": "2026-09-19T05:00:16.3963264Z",
+  "ValidatedAt": "2026-09-19T05:00:16.3964439Z",
   "TotalScrapers": 33,
-  "TotalEvents": 2983,
+  "TotalEvents": 3115,
   "TotalErrors": 1,
-  "TotalWarnings": 930,
+  "TotalWarnings": 1073,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 254,
+      "TotalEvents": 252,
       "ErrorCount": 0,
-      "WarningCount": 254,
+      "WarningCount": 252,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Youth L'AB Takeover + CalligraFFerz, Adnae, Yannick Wouters Opoku, UITWEG",
-          "EventDate": "2026-09-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/youth-lab-takeover/a10Qw00000GqIHRIA3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "(John) Coltrane 100: A Love Supreme - Salva Sanchis & Anne Teresa De Keersmaeker",
-          "EventDate": "2026-09-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-a-love-supreme-salva-sanchis-anne-teresa-de-keersmaeker/a10Qw0000060EkJIAU",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Mosfet Club",
           "EventDate": "2026-09-18T00:00:00.0000000",
@@ -455,7 +429,7 @@
           ]
         },
         {
-          "EventTitle": "New date: Last Train",
+          "EventTitle": "New date: Last Train + Eosine",
           "EventDate": "2026-10-01T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-last-train/a10Qw000007txl1IAA",
           "Issues": [
@@ -663,7 +637,7 @@
           ]
         },
         {
-          "EventTitle": "Ultra Vomit",
+          "EventTitle": "Ultra Vomit + Bob's Not Dead",
           "EventDate": "2026-10-09T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ultra-vomit/a10Qw00000667EhIAI",
           "Issues": [
@@ -728,9 +702,9 @@
           ]
         },
         {
-          "EventTitle": "corto.alto",
+          "EventTitle": "The Sisters Of Mercy + Soft Palms",
           "EventDate": "2026-10-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cortoalto/a10Qw00000HlaxWIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjCIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -741,9 +715,9 @@
           ]
         },
         {
-          "EventTitle": "The Sisters Of Mercy + Soft Palms",
+          "EventTitle": "corto.alto + Terra Kin",
           "EventDate": "2026-10-12T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-sisters-of-mercy/a10Qw00000FNEjCIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cortoalto/a10Qw00000HlaxWIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -884,7 +858,7 @@
           ]
         },
         {
-          "EventTitle": "Allie X",
+          "EventTitle": "Allie X + Boyish",
           "EventDate": "2026-10-18T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/allie-x/a10Qw00000BMSiTIAX",
           "Issues": [
@@ -1508,9 +1482,9 @@
           ]
         },
         {
-          "EventTitle": "Ice Sealed Eyes",
+          "EventTitle": "JeanJass",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -1521,9 +1495,9 @@
           ]
         },
         {
-          "EventTitle": "JeanJass",
+          "EventTitle": "Ice Sealed Eyes + Affenpinshers, EIGA",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -2938,9 +2912,9 @@
           ]
         },
         {
-          "EventTitle": "Medium Build",
+          "EventTitle": "Jersey",
           "EventDate": "2027-03-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/medium-build/a10Qw00000Go5cnIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jersey/a10Qw00000MNEdXIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -2951,9 +2925,9 @@
           ]
         },
         {
-          "EventTitle": "Jersey",
+          "EventTitle": "Medium Build",
           "EventDate": "2027-03-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jersey/a10Qw00000MNEdXIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/medium-build/a10Qw00000Go5cnIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -3333,7 +3307,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 233,
+      "TotalEvents": 229,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3343,7 +3317,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 212,
+      "TotalEvents": 211,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -3406,24 +3380,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Humo's Rock Rally 2026 - Voorronde West-Vlaanderen",
-          "EventDate": "2026-09-18T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/humos-rock-rally-2026-voorronde-wv",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "John Carroll Kirby",
           "EventDate": "2026-09-22T00:00:00.0000000",
@@ -3451,7 +3412,7 @@
           ]
         },
         {
-          "EventTitle": "Fischer-Z",
+          "EventTitle": "Fischer-Z + Chloe Leigh",
           "EventDate": "2026-09-24T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/fischer-z",
           "Issues": [
@@ -3555,7 +3516,7 @@
           ]
         },
         {
-          "EventTitle": "Bizkit Park",
+          "EventTitle": "Bizkit Park + A Small District",
           "EventDate": "2026-10-09T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bizkit-park-1",
           "Issues": [
@@ -3581,7 +3542,7 @@
           ]
         },
         {
-          "EventTitle": "Bizkit Park - extra show",
+          "EventTitle": "Bizkit Park + Aeveris - extra show",
           "EventDate": "2026-10-11T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bizkit-park-2",
           "Issues": [
@@ -4332,9 +4293,9 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 108,
+      "TotalEvents": 109,
       "ErrorCount": 0,
-      "WarningCount": 108,
+      "WarningCount": 109,
       "Issues": [],
       "EventDetails": [
         {
@@ -4490,6 +4451,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-09'.",
               "Severity": 1,
               "ActualValue": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Onbespreekbaar? Laten we erover praten!",
+          "EventDate": "2026-10-10",
+          "EventUrl": "https://cczoetegem.be/programma/onbespreekbaar-laten-we-erover-praten.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-10"
             }
           ]
         },
@@ -6044,7 +6018,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 140,
+      "TotalEvents": 138,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7635,7 +7609,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 93,
+      "TotalEvents": 92,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7645,15 +7619,509 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 7,
+      "TotalEvents": 151,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 151,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Unknown Title",
-          "EventDate": "2026-10-05",
+          "EventTitle": "Bloemen doorheen de seizoenen",
+          "EventDate": "2026-09-21",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/bloemen-doorheen-de-seizoenen-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Creatief met materialen uit de natuur of tuin",
+          "EventDate": "2026-09-21",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/creatief-met-materialen-uit-de-natuur-tuin",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Alleen een wonder",
+          "EventDate": "2026-09-25",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/alleen-een-wonder",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Feestweekend",
+          "EventDate": "2026-09-25",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/feestweekend",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Inclusief theateratelier BRUUT",
+          "EventDate": "2026-09-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/inclusief-theateratelier-bruut",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Inclusief theateratelier BRUUT",
+          "EventDate": "2026-09-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/inclusief-theateratelier-bruut-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Opening expo Verticaal Gebogen",
+          "EventDate": "2026-09-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-verticaal-gebogen",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Verticaal Gebogen",
+          "EventDate": "2026-09-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/verticaal-gebogen",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bright Lights Sessions",
+          "EventDate": "2026-09-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/bright-lights-sessions",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lie Down/Dawn",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/lie-downdawn",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Photobooth",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/photobooth",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Workshop partneracrobatiek bij Hugs & Handshakes 16+",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/workshop-partneracrobatiek-bij-hugs-handshakes-16",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Concert Big Band Ateliers Muziek",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/concert-big-band-ateliers-muziek",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Opening verjaardagsfeest",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-verjaardagsfeest",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Heimweefsel",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/heimweefsel",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tembo",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/tembo",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het Cadeau",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/het-cadeau",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Drink & Draw",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/drink-draw",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Wandelconcert",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/wandelconcert",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Hugs & Handshakes",
+          "EventDate": "2026-09-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/hugs-handshakes",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Potten draaien op maandagavond",
+          "EventDate": "2026-09-28",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-maandagavond-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-28'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Fatilou M.",
+          "EventDate": "2026-09-29",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/fatilou-m",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Potten draaien op woensdagvoormiddag",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-woensdagvoormiddag-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Potten draaien op woensdagnamiddag",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-woensdagnamiddag-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beeldlabo groep 1 - 6 t.e.m. 7 jaar",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-groep-1-6-tem-7-jaar",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "STEK: Schilderen, Tekenen en Kunst - 9 t.e.m. 12 jaar",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/stek-schilderen-tekenen-en-kunst-9-tem-12-jaar-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beeldlabo groep 2 - 6 t.e.m. 9 jaar",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-groep-2-6-tem-9-jaar",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Potten draaien op woensdagavond",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-woensdagavond-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Secret Agent",
+          "EventDate": "2026-09-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/secret-agent",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
+              "Severity": 1,
+              "ActualValue": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "BÉCAUD",
+          "EventDate": "2026-10-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/becaud",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het woord en het ding",
+          "EventDate": "2026-10-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/het-woord-en-het-ding",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Keramiek op donderdagavond",
+          "EventDate": "2026-10-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/keramiek-op-donderdagavond-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Zing mee met Marie",
+          "EventDate": "2026-10-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/zing-mee-met-marie-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Potten draaien op donderdagavond",
+          "EventDate": "2026-10-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-donderdagavond-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Basis acteren: in het moment",
+          "EventDate": "2026-10-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/basis-acteren-het-moment",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tempest",
+          "EventDate": "2026-10-02",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/tempest",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kunstig met klei 8 t.e.m. 11 jaar",
+          "EventDate": "2026-10-03",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kunstig-met-klei-8-tem-11-jaar-1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beeldlabo groep 3 - 6 t.e.m. 9 jaar",
+          "EventDate": "2026-10-03",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-groep-3-6-tem-9-jaar",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-03'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "WOEST",
+          "EventDate": "2026-10-05",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/woest",
           "Issues": [
             {
               "Field": "DateString",
@@ -7664,7 +8132,111 @@
           ]
         },
         {
-          "EventTitle": "Unknown Title",
+          "EventTitle": "WOEST",
+          "EventDate": "2026-10-05",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/woest-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Popkoor voor gevorderden",
+          "EventDate": "2026-10-05",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/popkoor-voor-gevorderden-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Keramiek op dinsdagnamiddag",
+          "EventDate": "2026-10-06",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/keramiek-op-dinsdagnamiddag-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-06'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Keramiek op dinsdagavond",
+          "EventDate": "2026-10-06",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/keramiek-op-dinsdagavond-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-06'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tekenatelier",
+          "EventDate": "2026-10-06",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/tekenatelier-3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-06'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kunstig met klei 11 t.e.m. 14 jaar",
+          "EventDate": "2026-10-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kunstig-met-klei-11-tem-14-jaar-1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beeldlabo 2de en 3de kleuterklas - groep 1",
+          "EventDate": "2026-10-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-2de-en-3de-kleuterklas-groep-1-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beeldlabo 2de en 3de kleuterklas - groep 2",
+          "EventDate": "2026-10-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-2de-en-3de-kleuterklas-groep-2-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Vrij atelier beeldende technieken 15 t.e.m. 20 jaar",
           "EventDate": "2026-10-07",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/vrij-atelier-beeldende-technieken-15-tem-20-jaar-2",
           "Issues": [
@@ -7677,33 +8249,319 @@
           ]
         },
         {
-          "EventTitle": "Unknown Title",
-          "EventDate": "2026-12-19",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/inclusief-theateratelier-bruut",
+          "EventTitle": "Modeltekenen",
+          "EventDate": "2026-10-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/modeltekenen-1",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-19'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
               "Severity": 1,
-              "ActualValue": "2026-12-19"
+              "ActualValue": "2026-10-07"
             }
           ]
         },
         {
-          "EventTitle": "Unknown Title",
-          "EventDate": "2026-12-06",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/weekend-illustreren-0",
+          "EventTitle": "Babel",
+          "EventDate": "2026-10-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/babel",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-06'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-07'.",
               "Severity": 1,
-              "ActualValue": "2026-12-06"
+              "ActualValue": "2026-10-07"
             }
           ]
         },
         {
-          "EventTitle": "Unknown Title",
+          "EventTitle": "Mystica",
+          "EventDate": "2026-10-10",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/mystica",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Chromatique 2,5+",
+          "EventDate": "2026-10-11",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/chromatique-25",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Chromatique 2,5+",
+          "EventDate": "2026-10-11",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/chromatique-25-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "confetti",
+          "EventDate": "2026-10-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/confetti",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Fotografie voor beginners",
+          "EventDate": "2026-10-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/fotografie-voor-beginners-2",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "confetti",
+          "EventDate": "2026-10-13",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/confetti-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "confetti",
+          "EventDate": "2026-10-13",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/confetti-1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sound of Falling",
+          "EventDate": "2026-10-14",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/sound-falling",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Conclave",
+          "EventDate": "2026-10-15",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/conclave",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Absynthe Minded",
+          "EventDate": "2026-10-16",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/absynthe-minded",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-16'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rondleiding Verticaal Gebogen",
+          "EventDate": "2026-10-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/rondleiding-verticaal-gebogen",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Auteur op de planken",
+          "EventDate": "2026-10-21",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/auteur-op-de-planken-6",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stabieler",
+          "EventDate": "2026-10-24",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/stabieler",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La Florestita 4+",
+          "EventDate": "2026-10-25",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-florestita-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La Florestita 4+",
+          "EventDate": "2026-10-25",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-florestita-4-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "No Other Choice",
+          "EventDate": "2026-10-28",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/no-other-choice",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Le Petit Chaperon Rouge / Roodkapje 7+",
+          "EventDate": "2026-10-29",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/le-petit-chaperon-rouge-roodkapje-7",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Miss Moxy 5+",
+          "EventDate": "2026-11-08",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/miss-moxy-5",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-08'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-08"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stembevrijding",
+          "EventDate": "2026-11-10",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/stembevrijding",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Urchin",
+          "EventDate": "2026-11-11",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/urchin",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bienvenue chez les Ch'tis",
+          "EventDate": "2026-11-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/bienvenue-chez-les-chtis",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Love is a Thing with Feathers",
+          "EventDate": "2026-11-13",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/love-thing-feathers",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kunstendag voor kinderen: door de ogen van Irmine Remue",
           "EventDate": "2026-11-15",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kunstendag-voor-kinderen-door-de-ogen-van-irmine-remue",
           "Issues": [
@@ -7716,7 +8574,7 @@
           ]
         },
         {
-          "EventTitle": "Unknown Title",
+          "EventTitle": "Kunstendag voor kinderen: door de ogen van Irmine Remue",
           "EventDate": "2026-11-15",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kunstendag-voor-kinderen-door-de-ogen-van-irmine-remue-0",
           "Issues": [
@@ -7729,7 +8587,475 @@
           ]
         },
         {
-          "EventTitle": "Unknown Title",
+          "EventTitle": "ZolenZooi",
+          "EventDate": "2026-11-16",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/zolenzooi",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-16'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "ZolenZooi",
+          "EventDate": "2026-11-16",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/zolenzooi-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-16'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Aquarel",
+          "EventDate": "2026-11-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/aquarel-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Auteur op de planken",
+          "EventDate": "2026-11-20",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/auteur-op-de-planken-7",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-20'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ciao Italia!",
+          "EventDate": "2026-11-21",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ciao-italia",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Preekstoel - de helende kracht van kunst",
+          "EventDate": "2026-11-22",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/de-preekstoel-de-helende-kracht-van-kunst",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-22'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Een koud kunstje",
+          "EventDate": "2026-11-24",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/een-koud-kunstje",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Een koud kunstje",
+          "EventDate": "2026-11-24",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/een-koud-kunstje-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La danse des renards",
+          "EventDate": "2026-11-25",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-danse-des-renards",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-25'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Jaren",
+          "EventDate": "2026-11-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/de-jaren",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Farce Majeure",
+          "EventDate": "2026-11-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/farce-majeure",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rondleiding Verticaal Gebogen",
+          "EventDate": "2026-11-29",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/rondleiding-verticaal-gebogen-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-29'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Weekend illustreren",
+          "EventDate": "2026-12-05",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/weekend-illustreren-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Romería",
+          "EventDate": "2026-12-09",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/romeria",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-09'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Maria",
+          "EventDate": "2026-12-10",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/maria",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Best of Nele",
+          "EventDate": "2026-12-11",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/best-nele",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tiramisu",
+          "EventDate": "2026-12-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/tiramisu",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mother’s Baby",
+          "EventDate": "2026-12-16",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/mothers-baby",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Midnight Sun",
+          "EventDate": "2026-12-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/midnight-sun",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Twist that record baby!",
+          "EventDate": "2026-12-19",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/twist-record-baby",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het geheim van de meesjes 6+",
+          "EventDate": "2026-12-20",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/het-geheim-van-de-meesjes-6",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-20'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SCHOONBEEST",
+          "EventDate": "2027-01-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/schoonbeest",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-07'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SCHOONBEEST",
+          "EventDate": "2027-01-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/schoonbeest-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-07'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Naked Songs",
+          "EventDate": "2027-01-08",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/naked-songs",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-08'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-08"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Alles Kapot",
+          "EventDate": "2027-01-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/alles-kapot",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-12'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Alles Kapot",
+          "EventDate": "2027-01-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/alles-kapot-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-12'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nickenik",
+          "EventDate": "2027-01-14",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/nickenik",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-14'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Psycho Solo: Lof der Zotheid",
+          "EventDate": "2027-01-15",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/psycho-solo-lof-der-zotheid",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-15'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Psycho Solo: Lof der Zotheid",
+          "EventDate": "2027-01-16",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/psycho-solo-lof-der-zotheid-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-16'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Small Things Like These",
+          "EventDate": "2027-01-21",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/small-things-these-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Night Owl",
+          "EventDate": "2027-01-22",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/night-owl",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-22'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La Brèche (De Bres)",
+          "EventDate": "2027-01-28",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-breche-de-bres",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-28'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-28"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Amore Di Amore",
+          "EventDate": "2027-01-29",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/amore-di-amore",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-29'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Amore Di Amore",
+          "EventDate": "2027-01-29",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/amore-di-amore-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-29'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-29"
+            }
+          ]
+        },
+        {
+          "EventTitle": "AMAI SPECIAAL CHAPEAU 3+",
+          "EventDate": "2027-01-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/amai-speciaal-chapeau-3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-30'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "AMAI SPECIAAL CHAPEAU 3+",
+          "EventDate": "2027-01-30",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/amai-speciaal-chapeau-3-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-30'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mousse poppen maken",
           "EventDate": "2027-01-31",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/mousse-poppen-maken",
           "Issues": [
@@ -7740,6 +9066,526 @@
               "ActualValue": "2027-01-31"
             }
           ]
+        },
+        {
+          "EventTitle": "KAMP",
+          "EventDate": "2027-02-03",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kamp",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-03'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nachtgasten",
+          "EventDate": "2027-02-05",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/nachtgasten",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het kleine spookje Laban spookt weer rond 4+",
+          "EventDate": "2027-02-07",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/het-kleine-spookje-laban-spookt-weer-rond-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-07'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "La vie de ma mère",
+          "EventDate": "2027-02-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-vie-de-ma-mere",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Opening expo Jonas van Geel bedenkt de titel",
+          "EventDate": "2027-02-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-jonas-van-geel-bedenkt-de-titel",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jonas van Geel bedenkt de titel",
+          "EventDate": "2027-02-19",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/jonas-van-geel-bedenkt-de-titel",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-19'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "BOWIE 80: Many Returns of the Day",
+          "EventDate": "2027-02-19",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/bowie-80-many-returns-day",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-19'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Vitrine",
+          "EventDate": "2027-02-20",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/vitrine",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-20'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Preekstoel - de kracht van invloed en beïnvloeding",
+          "EventDate": "2027-02-21",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/de-preekstoel-de-kracht-van-invloed-en-beinvloeding",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "VIEREN",
+          "EventDate": "2027-02-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/vieren",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-26'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "BEYOND 8+",
+          "EventDate": "2027-02-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beyond-8",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pluche",
+          "EventDate": "2027-03-01",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/pluche",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-01'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pluche",
+          "EventDate": "2027-03-02",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/pluche-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pluche",
+          "EventDate": "2027-03-02",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/pluche-1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "All Time Classics",
+          "EventDate": "2027-03-05",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/all-time-classics",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "C'è Ancora Domani",
+          "EventDate": "2027-03-11",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ce-ancora-domani",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-11'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Auteur op de planken",
+          "EventDate": "2027-03-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/auteur-op-de-planken-8",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-12'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Inspirar",
+          "EventDate": "2027-03-13",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/inspirar",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-13'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Liegen 6+",
+          "EventDate": "2027-03-14",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/liegen-6",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-14'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Comedy Café: Neuro Divergent",
+          "EventDate": "2027-03-16",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/comedy-cafe-neuro-divergent",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-16'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "In Difference",
+          "EventDate": "2027-03-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/difference",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dood hoezo Dood",
+          "EventDate": "2027-03-19",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/dood-hoezo-dood",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-19'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-19"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Assepoester",
+          "EventDate": "2027-03-20",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/assepoester",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-20'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "SOLO! 4+",
+          "EventDate": "2027-03-21",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/solo-4",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-21"
+            }
+          ]
+        },
+        {
+          "EventTitle": "VAAS",
+          "EventDate": "2027-03-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/vaas",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Space cadet 6+",
+          "EventDate": "2027-04-04",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/space-cadet-6",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Opening expo Uh hu(g)h & Hu(g)h uh",
+          "EventDate": "2027-04-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-uh-hugh-hugh-uh",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Uh hu(g)h & Hu(g)h uh",
+          "EventDate": "2027-04-18",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/uh-hugh-hugh-uh",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-18"
+            }
+          ]
+        },
+        {
+          "EventTitle": "NACHT",
+          "EventDate": "2027-04-20",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/nacht",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-20'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "NACHT",
+          "EventDate": "2027-04-20",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/nacht-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-20'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-20"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sons",
+          "EventDate": "2027-04-22",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/sons",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-22'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-22"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Welkom Ongemak",
+          "EventDate": "2027-04-23",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/welkom-ongemak",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-23'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-23"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Petty Bison",
+          "EventDate": "2027-04-24",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/petty-bison",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-24'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ik werd als eerste wakker",
+          "EventDate": "2027-04-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ik-werd-als-eerste-wakker",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-26'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ik werd als eerste wakker",
+          "EventDate": "2027-04-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ik-werd-als-eerste-wakker-0",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ik werd als eerste wakker",
+          "EventDate": "2027-04-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ik-werd-als-eerste-wakker-1",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Auteur op de planken",
+          "EventDate": "2027-04-27",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/auteur-op-de-planken-9",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-27'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-27"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Piedestal 6+",
+          "EventDate": "2027-05-02",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/piedestal-6",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-02"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Comedy Café: De eeuwige 2e",
+          "EventDate": "2027-05-12",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/comedy-cafe-de-eeuwige-2e",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-12'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kellyanne Conway - The Musical",
+          "EventDate": "2027-05-13",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kellyanne-conway-musical",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-13'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-13"
+            }
+          ]
         }
       ]
     },
@@ -7747,28 +9593,15 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Knaldrang",
-          "EventDate": "2026-09-18T00:00:00",
-          "EventUrl": "https://decasino.be/concert/knaldrang-2/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-18T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fun Lovin' Criminals live with The DiFontaine Orchestra",
+          "EventTitle": "The Jayhawks + Dave Fidler",
           "EventDate": "2026-09-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/fun-lovin-criminals-live-with-the-difontaine-orchestra/",
+          "EventUrl": "https://decasino.be/concert/the-jayhawks/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7779,9 +9612,9 @@
           ]
         },
         {
-          "EventTitle": "The Jayhawks + Dave Fidler",
+          "EventTitle": "Fun Lovin' Criminals live with The DiFontaine Orchestra",
           "EventDate": "2026-09-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/the-jayhawks/",
+          "EventUrl": "https://decasino.be/concert/fun-lovin-criminals-live-with-the-difontaine-orchestra/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8525,7 +10358,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 150,
+      "TotalEvents": 149,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8535,9 +10368,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 159,
+      "TotalEvents": 158,
       "ErrorCount": 0,
-      "WarningCount": 114,
+      "WarningCount": 117,
       "Issues": [],
       "EventDetails": [
         {
@@ -8615,6 +10448,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-30T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-09-30T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "bij de expo Grondvesten van Griet Dobbels",
+          "EventDate": "2026-10-01T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-grondvesten-van-griet-dobbels-q83j",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-01T00:00:00.0000000"
             }
           ]
         },
@@ -8784,6 +10630,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Grondvesten - Griet Dobbels",
+          "EventDate": "2026-10-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/grondvesten-q838",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-18T00:00:00.0000000"
             }
           ]
         },
@@ -9087,6 +10946,19 @@
           ]
         },
         {
+          "EventTitle": "bij de expo Grondvesten van Griet Dobbels",
+          "EventDate": "2026-11-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-grondvesten-van-griet-dobbels-hkfb",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Farce Majeure - Michael Van Peel",
           "EventDate": "2026-11-19T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/farce-majeure-4m6k",
@@ -9259,6 +11131,19 @@
           "EventTitle": "REUSkleuter",
           "EventDate": "2026-12-13T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/reuskleuter-517k",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "bij de expo Grondvesten van Griet Dobbels",
+          "EventDate": "2026-12-13T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-grondvesten-van-griet-dobbels-9cg8",
           "Issues": [
             {
               "Field": "DateString",
@@ -10008,19 +11893,6 @@
               "ActualValue": "2027-06-09T00:00:00.0000000"
             }
           ]
-        },
-        {
-          "EventTitle": "Stabieler (Herneming) - Steven Mahieu",
-          "EventDate": "2027-06-19T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stabieler-herneming-ts2h",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-06-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-06-19T00:00:00.0000000"
-            }
-          ]
         }
       ]
     },
@@ -10028,24 +11900,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 68,
+      "WarningCount": 67,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ellen Schoenaerts",
-          "EventDate": "2026-09-18T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/ellen-schoenaerts?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-18T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Het Farcetheater | DUBBEL OP - Met TV-opnames",
           "EventDate": "2026-09-23T00:00:00.0000000",
@@ -11970,7 +13829,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 107,
+      "TotalEvents": 110,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11980,7 +13839,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 160,
+      "TotalEvents": 159,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11990,7 +13849,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12177,19 +14036,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-01T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-10-01T22:00:00Z"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ahmed Soultan (full band)",
-          "EventDate": "2026-10-02T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/ahmed-soultan-full-band",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-02T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-02T22:00:00Z"
             }
           ]
         },
@@ -12413,6 +14259,19 @@
               "ActualValue": "2026-12-18T23:00:00Z"
             }
           ]
+        },
+        {
+          "EventTitle": "[NEW DATE] Ahmed Soultan (full band)",
+          "EventDate": "2027-01-15T23:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/new-date-ahmed-soultan-full-band",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-15T23:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-15T23:00:00Z"
+            }
+          ]
         }
       ]
     },
@@ -12420,7 +14279,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 69,
+      "TotalEvents": 70,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
