@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-20T05:00:12.200619Z",
-  "ValidatedAt": "2026-09-20T05:00:12.2006191Z",
+  "GeneratedAt": "2026-09-21T05:00:17.7808888Z",
+  "ValidatedAt": "2026-09-21T05:00:17.7810199Z",
   "TotalScrapers": 33,
-  "TotalEvents": 3101,
+  "TotalEvents": 3090,
   "TotalErrors": 1,
-  "TotalWarnings": 1069,
+  "TotalWarnings": 1061,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,76 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 248,
+      "TotalEvents": 244,
       "ErrorCount": 0,
-      "WarningCount": 248,
+      "WarningCount": 244,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sound Healing w/ Sonne Soundhealing",
-          "EventDate": "2026-09-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sound-healing-w-sonne-soundhealing/a10Qw00000L9HiIIAV",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sunday Morning Concert: Gwen Sainte-Rose",
-          "EventDate": "2026-09-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/sunday-morning-concert-gwen-sainte-rose/a10Qw00000L9GCkIAN",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Street Sounds met Bankra Bike Sound System & Sound of Brussels Orchestra + DJ IMAN, Ravi Bongo b2b Torito22",
-          "EventDate": "2026-09-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/street-sounds-met-bankra-bike-sound-system-sound-of-brussels-orchestra/a10Qw000000VkBRIA0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Qi Gong w/ Alessio Porcelli",
-          "EventDate": "2026-09-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/qi-gong-w-alessio-porcelli/a10Qw00000PXt7RIAT",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Soundscape & Painting w/ KULTURA",
-          "EventDate": "2026-09-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/soundscape-painting-w-kultura/a10Qw00000PYXOAIA5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Beartooth + Silverstein, Kingdom Of Giants",
           "EventDate": "2026-09-21T00:00:00.0000000",
@@ -1430,9 +1365,9 @@
           ]
         },
         {
-          "EventTitle": "JeanJass",
+          "EventTitle": "Ice Sealed Eyes + Affenpinshers, EIGA",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
           "Issues": [
             {
               "Field": "DateString",
@@ -1443,9 +1378,9 @@
           ]
         },
         {
-          "EventTitle": "Ice Sealed Eyes + Affenpinshers, EIGA",
+          "EventTitle": "JeanJass",
           "EventDate": "2026-11-14T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jeanjass/a10Qw000007RZfCIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -2951,6 +2886,19 @@
           ]
         },
         {
+          "EventTitle": "Keinevision",
+          "EventDate": "2027-03-20T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/keinevision/a10Qw00000PpqMOIAZ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-20T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-20T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Graveyard & Blues Pills + Spiders",
           "EventDate": "2027-03-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/graveyard-blues-pills/a10Qw00000FPXMjIAP",
@@ -3265,7 +3213,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 208,
+      "TotalEvents": 205,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -4241,24 +4189,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 109,
+      "TotalEvents": 108,
       "ErrorCount": 0,
-      "WarningCount": 109,
+      "WarningCount": 108,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Rainbow Run",
-          "EventDate": "2026-09-20",
-          "EventUrl": "https://cczoetegem.be/programma/rainbow-run.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20"
-            }
-          ]
-        },
         {
           "EventTitle": "Openingsfilm Ciné Local - Dust",
           "EventDate": "2026-09-22",
@@ -7557,7 +7492,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 92,
+      "TotalEvents": 94,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9541,37 +9476,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 58,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Jayhawks + Dave Fidler",
-          "EventDate": "2026-09-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/the-jayhawks/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Fun Lovin' Criminals live with The DiFontaine Orchestra",
-          "EventDate": "2026-09-20T00:00:00",
-          "EventUrl": "https://decasino.be/concert/fun-lovin-criminals-live-with-the-difontaine-orchestra/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Ão (try-out)",
           "EventDate": "2026-09-23T00:00:00",
@@ -10306,7 +10215,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 147,
+      "TotalEvents": 146,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10316,24 +10225,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 158,
+      "TotalEvents": 159,
       "ErrorCount": 0,
-      "WarningCount": 117,
+      "WarningCount": 116,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "internationaal circus- en straattheaterfestival - de kleine stooringe",
-          "EventDate": "2026-09-20T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/internationaal-circus-en-straattheaterfestival-q8zr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-20T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Filmkus - Per Te",
           "EventDate": "2026-09-22T00:00:00.0000000",
@@ -13707,7 +13603,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 84,
+      "TotalEvents": 83,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13787,7 +13683,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 158,
+      "TotalEvents": 157,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13896,19 +13792,6 @@
       "WarningCount": 25,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Seizoensopener | Floris Francis Arthur (solo) + Baertman",
-          "EventDate": "2026-09-19T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/seizoensopener-floris-francis-arthur-solo-baertman",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-19T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-19T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "VK Unplugged 012 - alster, Deborah Mahoro",
           "EventDate": "2026-09-22T22:00:00Z",
@@ -14220,6 +14103,19 @@
               "ActualValue": "2027-03-04T23:00:00Z"
             }
           ]
+        },
+        {
+          "EventTitle": "Dyna, Lewis & The Soul Caravan",
+          "EventDate": "2027-04-09T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/dyna-lewis-soul-caravan",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-09T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-09T22:00:00Z"
+            }
+          ]
         }
       ]
     },
@@ -14227,7 +14123,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
