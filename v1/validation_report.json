@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-28T05:00:17.2040351Z",
-  "ValidatedAt": "2026-09-28T05:00:17.2040352Z",
+  "GeneratedAt": "2026-09-29T05:00:18.7871555Z",
+  "ValidatedAt": "2026-09-29T05:00:18.7871556Z",
   "TotalScrapers": 34,
-  "TotalEvents": 3162,
+  "TotalEvents": 3066,
   "TotalErrors": 1,
-  "TotalWarnings": 1041,
+  "TotalWarnings": 1046,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 200,
+      "TotalEvents": 202,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3237,13 +3237,13 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 57,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "W.E.R.F. Records Night - Compro Oro + Helena Casella + KUNDE + re#encounter + bààn + Margitte",
+          "EventTitle": "W.E.R.F. Records Night - Compro Oro + Helena Casella + KUNDE + re#encounter + bààn + Margitte + Dj Benjamin",
           "EventDate": "2026-10-02T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/werf-records-night",
           "Issues": [
@@ -3373,7 +3373,7 @@
           ]
         },
         {
-          "EventTitle": "High Hi",
+          "EventTitle": "High Hi + uwase",
           "EventDate": "2026-10-15T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/high-hi",
           "Issues": [
@@ -3893,6 +3893,19 @@
           ]
         },
         {
+          "EventTitle": "Anna Erhard",
+          "EventDate": "2027-03-16T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/anna-erhard",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Nits",
           "EventDate": "2027-03-19T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/nits",
@@ -3954,6 +3967,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-04-21T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-04-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sietepè: Gabriel Ríos + Augusto Bracho + Ruben Samama",
+          "EventDate": "2027-04-22T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/sietepe",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-22T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-22T00:00:00.0000000"
             }
           ]
         },
@@ -5571,7 +5597,7 @@
           ]
         },
         {
-          "EventTitle": "High Hi",
+          "EventTitle": "High Hi + Gender Reveal Atomic Bomb",
           "EventDate": "2026-10-17",
           "EventUrl": "https://aff.be/events/highhi/",
           "Issues": [
@@ -5859,7 +5885,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 55,
+      "TotalEvents": 56,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7450,24 +7476,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 131,
+      "TotalEvents": 130,
       "ErrorCount": 0,
-      "WarningCount": 131,
+      "WarningCount": 130,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Potten draaien op maandagavond",
-          "EventDate": "2026-09-28",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-maandagavond-4",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-28'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-28"
-            }
-          ]
-        },
         {
           "EventTitle": "Fatilou M.",
           "EventDate": "2026-09-29",
@@ -9164,9 +9177,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 58,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
         {
@@ -9677,9 +9690,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9690,9 +9703,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9911,6 +9924,19 @@
           ]
         },
         {
+          "EventTitle": "Sietepè / Gabriel Rios + Augusto Bracho + Ruben Samama",
+          "EventDate": "2027-04-21T00:00:00",
+          "EventUrl": "https://decasino.be/concert/sietepe-gabriel-rios-augusto-bracho-ruben-samama/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-21T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-21T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "The Mission",
           "EventDate": "2027-10-15T00:00:00",
           "EventUrl": "https://decasino.be/concert/the-mission-3/",
@@ -9929,21 +9955,21 @@
       "ScraperId": "DeGrotePost",
       "ScraperName": "DeGrotePostScraper",
       "VenueName": "De Grote Post, Oostende",
-      "TotalEvents": 127,
+      "TotalEvents": 24,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "VUURWERK",
-          "EventDate": "2027-04-01T00:00:00.0000000",
-          "EventUrl": "https://www.degrotepost.be/agenda/vuurwerk-xqfs",
+          "EventTitle": "Embodied Visions",
+          "EventDate": "2026-10-02T00:00:00.0000000",
+          "EventUrl": "https://www.degrotepost.be/agenda/embodied-visions-1ljf",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-01T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-02T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2027-04-01T00:00:00.0000000"
+              "ActualValue": "2026-10-02T00:00:00.0000000"
             }
           ]
         }
@@ -12466,9 +12492,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 71,
+      "TotalEvents": 73,
       "ErrorCount": 1,
-      "WarningCount": 71,
+      "WarningCount": 73,
       "Issues": [],
       "EventDetails": [
         {
@@ -13297,6 +13323,19 @@
           ]
         },
         {
+          "EventTitle": "Clap Your Hands Say Yeah",
+          "EventDate": "2027-02-17",
+          "EventUrl": "https://www.democrazy.be/agenda/3249-clap-your-hands-say-yeah/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-17'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-17"
+            }
+          ]
+        },
+        {
           "EventTitle": "RONKER + Stoelen en Banken",
           "EventDate": "2027-03-11",
           "EventUrl": "https://www.democrazy.be/agenda/3238-ronker-stoelen-en-banken/",
@@ -13375,6 +13414,19 @@
           ]
         },
         {
+          "EventTitle": "Sietepè",
+          "EventDate": "2027-04-16",
+          "EventUrl": "https://www.democrazy.be/agenda/3248-sietepe-gabriel-rios-augusto-bracho-ruben-samama/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-16'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-16"
+            }
+          ]
+        },
+        {
           "EventTitle": "Daniel Norgren",
           "EventDate": "2027-04-21",
           "EventUrl": "https://www.democrazy.be/agenda/3187-daniel-norgren/",
@@ -13406,7 +13458,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 82,
+      "TotalEvents": 81,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13416,7 +13468,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 159,
+      "TotalEvents": 157,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13486,7 +13538,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 161,
+      "TotalEvents": 162,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13496,7 +13548,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 19,
+      "TotalEvents": 20,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13530,7 +13582,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 177,
+      "TotalEvents": 176,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -13590,9 +13642,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 21,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 21,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
         {
@@ -13687,9 +13739,9 @@
           ]
         },
         {
-          "EventTitle": "Los Piranas",
+          "EventTitle": "Los Piranas + Humanga Danga",
           "EventDate": "2026-10-29T23:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/los-piranas",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/los-piranas-humanga-danga",
           "Issues": [
             {
               "Field": "DateString",
@@ -13774,6 +13826,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-20T23:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-11-20T23:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "A Postcard from MORTIMER - A Live Acoustic Experience",
+          "EventDate": "2026-11-26T23:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/postcard-mortimer-live-acoustic-experience",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-26T23:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-26T23:00:00Z"
             }
           ]
         },
@@ -13874,7 +13939,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 65,
+      "TotalEvents": 66,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
