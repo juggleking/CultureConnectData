@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-09-29T05:00:18.7871555Z",
-  "ValidatedAt": "2026-09-29T05:00:18.7871556Z",
+  "GeneratedAt": "2026-09-30T05:00:14.7952195Z",
+  "ValidatedAt": "2026-09-30T05:00:14.7952195Z",
   "TotalScrapers": 34,
-  "TotalEvents": 3066,
+  "TotalEvents": 2735,
   "TotalErrors": 1,
-  "TotalWarnings": 1046,
+  "TotalWarnings": 940,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 202,
+      "TotalEvents": 203,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3237,9 +3237,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 59,
+      "TotalEvents": 61,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
         {
@@ -3382,6 +3382,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-15T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Villa Bota",
+          "EventDate": "2026-10-17T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/villa-bota",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-17T00:00:00.0000000"
             }
           ]
         },
@@ -3867,6 +3880,19 @@
           ]
         },
         {
+          "EventTitle": "Mad Caddies",
+          "EventDate": "2027-03-04T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/mad-caddies",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "DYAD",
           "EventDate": "2027-03-07T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/DYAD",
@@ -4015,7 +4041,7 @@
       "ScraperId": "CcBrugge",
       "ScraperName": "CcBruggeScraper",
       "VenueName": "CC Brugge",
-      "TotalEvents": 180,
+      "TotalEvents": 12,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4176,24 +4202,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 106,
+      "TotalEvents": 105,
       "ErrorCount": 0,
-      "WarningCount": 106,
+      "WarningCount": 105,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ciné Local: Hamnet (actie Open Cinema 1+1)",
-          "EventDate": "2026-09-29",
-          "EventUrl": "https://cczoetegem.be/programma/cine-local-hamnet-actie-open-cinema-11-.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-29"
-            }
-          ]
-        },
         {
           "EventTitle": "The Scene (Nederland) en Willy On Tour",
           "EventDate": "2026-10-02",
@@ -5571,7 +5584,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Naomi Celis",
+          "EventTitle": "Naomi Celis + Precious Mascarina",
           "EventDate": "2026-10-09",
           "EventUrl": "https://aff.be/events/naomicelis/",
           "Issues": [
@@ -5875,7 +5888,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 126,
+      "TotalEvents": 124,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5885,7 +5898,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 56,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5923,19 +5936,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-30'.",
               "Severity": 1,
               "ActualValue": "2026-09-30"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Pop-up expo Stedelijke woonzorgcentra Aalst",
-          "EventDate": "2026-09-08",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stedelijke-woonzorgcentra-aalst/10203/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-08"
             }
           ]
         },
@@ -6668,6 +6668,19 @@
           ]
         },
         {
+          "EventTitle": "Roiteklasjen voor kinderen (namiddag)",
+          "EventDate": "2027-01-09",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-namiddag/7764/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-09'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-09"
+            }
+          ]
+        },
+        {
           "EventTitle": "Pop-up expo Anja Deilgat",
           "EventDate": "2027-01-05",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
@@ -6697,19 +6710,6 @@
           "EventTitle": "Carnaval in beeld (met een digitaal fototoestel)",
           "EventDate": "2027-01-09",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/carnaval-in-beeld-met-een-digitaal-fototoestel/9206/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-09'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-09"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Roiteklasjen voor kinderen (namiddag)",
-          "EventDate": "2027-01-09",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-namiddag/7764/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6980,19 +6980,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Stuft",
-          "EventDate": "2027-02-02",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-02"
-            }
-          ]
-        },
-        {
           "EventTitle": "Academie voor Podiumkunsten vestiging Denderleeuw",
           "EventDate": "2027-02-03",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/academie-voor-podiumkunsten-vestiging-denderleeuw/9937/",
@@ -7002,6 +6989,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-03'.",
               "Severity": 1,
               "ActualValue": "2027-02-03"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Stuft",
+          "EventDate": "2027-02-02",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-02"
             }
           ]
         },
@@ -7292,19 +7292,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Olena Polishchuk",
-          "EventDate": "2027-03-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-olena-polishchuk/10204/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-04"
-            }
-          ]
-        },
-        {
           "EventTitle": "hetpaleis & De Nwe Tijd / Suzanne Grotenhuis",
           "EventDate": "2027-03-07",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/hetpaleis-de-nwe-tijd-suzanne-grotenhuis/9903/",
@@ -7314,6 +7301,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-07'.",
               "Severity": 1,
               "ActualValue": "2027-03-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Olena Polishchuk",
+          "EventDate": "2027-03-04",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-olena-polishchuk/10204/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-04"
             }
           ]
         },
@@ -7459,6 +7459,19 @@
               "ActualValue": "2027-03-25"
             }
           ]
+        },
+        {
+          "EventTitle": "Louis Janssens & Toneelhuis",
+          "EventDate": "2027-03-26",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/louis-janssens-toneelhuis/9913/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-26'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-26"
+            }
+          ]
         }
       ]
     },
@@ -7466,7 +7479,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 94,
+      "TotalEvents": 97,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7481,19 +7494,6 @@
       "WarningCount": 130,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Fatilou M.",
-          "EventDate": "2026-09-29",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/fatilou-m",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-29"
-            }
-          ]
-        },
         {
           "EventTitle": "Potten draaien op woensdagvoormiddag",
           "EventDate": "2026-09-30",
@@ -8015,6 +8015,19 @@
           ]
         },
         {
+          "EventTitle": "Inclusief theateratelier BRUUT",
+          "EventDate": "2026-10-24",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/inclusief-theateratelier-bruut",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24"
+            }
+          ]
+        },
+        {
           "EventTitle": "Stabieler",
           "EventDate": "2026-10-24",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/stabieler",
@@ -8050,6 +8063,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
               "Severity": 1,
               "ActualValue": "2026-10-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Le Chant des forêts (extra voorstelling)",
+          "EventDate": "2026-10-26",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/le-chant-des-forets-extra-voorstelling",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-26'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-26"
             }
           ]
         },
@@ -8938,19 +8964,6 @@
           ]
         },
         {
-          "EventTitle": "Assepoester",
-          "EventDate": "2027-03-20",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/assepoester",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-20'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-20"
-            }
-          ]
-        },
-        {
           "EventTitle": "SOLO! 4+",
           "EventDate": "2027-03-21",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/solo-4",
@@ -9177,9 +9190,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 59,
+      "TotalEvents": 61,
       "ErrorCount": 0,
-      "WarningCount": 59,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
         {
@@ -9651,6 +9664,19 @@
           ]
         },
         {
+          "EventTitle": "Club RiRi (by Goestink)",
+          "EventDate": "2026-11-28T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-riri-by-goestink-12/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-28T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-28T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Welcome to the Jazzclub / Ola Tunji",
           "EventDate": "2026-11-29T00:00:00",
           "EventUrl": "https://decasino.be/concert/welcome-to-the-jazzclub-ola-tunji/",
@@ -9816,6 +9842,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-14T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2027-01-14T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Zwarte Piste",
+          "EventDate": "2027-01-22T00:00:00",
+          "EventUrl": "https://decasino.be/concert/de-zwarte-piste/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-22T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-22T00:00:00"
             }
           ]
         },
@@ -9989,24 +10028,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 168,
+      "TotalEvents": 7,
       "ErrorCount": 0,
-      "WarningCount": 115,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "De Andere Film - Yellow Letters",
-          "EventDate": "2026-09-29T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-f7hf",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-29T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "De Vader - één zee",
           "EventDate": "2026-09-30T00:00:00.0000000",
@@ -10095,1397 +10121,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-04T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Liminal Tour - Joep Beving",
-          "EventDate": "2026-10-05T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/liminal-tour-tsgp",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - Amrum",
-          "EventDate": "2026-10-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-xn83",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "MAMA - Pascale Platel",
-          "EventDate": "2026-10-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/mama-nr7v",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "30 YEARS ANNIVERSARY TOUR",
-          "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/30-years-anniversary-tour-m5c2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-08T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Dans les Rushes",
-          "EventDate": "2026-10-09T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/dans-les-rushes-ts3k",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Tuin der Onrusten",
-          "EventDate": "2026-10-10T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-tuin-der-onrusten-ryhg",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Sessions",
-          "EventDate": "2026-10-12T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/the-sessions-c2pm",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-12T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Andere Film - Calle Málaga",
-          "EventDate": "2026-10-13T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-ryk8",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Being Britney - Colette Goossens",
-          "EventDate": "2026-10-14T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/being-britney-nrsv",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-14T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TRAUM - Roeshoofd",
-          "EventDate": "2026-10-16T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/traum-518v",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Grondvesten - Griet Dobbels",
-          "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/grondvesten-q838",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TA MAL OU",
-          "EventDate": "2026-10-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ta-mal-ou-9cyr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - Omaha",
-          "EventDate": "2026-10-20T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-4mq9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kwintetten van Mozart & Beethoven",
-          "EventDate": "2026-10-21T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kwintetten-van-mozart-beethoven-ry34",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Levenslust",
-          "EventDate": "2026-10-23T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/levenslust-nrsx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-23T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-23T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "An Evening with - Kristin Hersh",
-          "EventDate": "2026-10-26T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/an-evening-with-dt88",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-26T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Andere Film - Primavera",
-          "EventDate": "2026-10-27T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-51gt",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Pieter Coenaerts en Manmanman - CabaretBomToer",
-          "EventDate": "2026-10-28T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/pieter-coenaerts-en-manmanman-sh49",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lullabye - Anneleen Keppens",
-          "EventDate": "2026-10-29T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/lullabye-m5q8",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kietelkriebels",
-          "EventDate": "2026-11-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kietelkriebels-q8sq",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Le petit chaperon rouge / Roodkapje - Cie. Sylvain Huc",
-          "EventDate": "2026-11-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/le-petit-chaperon-rouge-roodkapje-lpwj",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stuutjes en cinema - Toy Story 5",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-nrh9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stuutjes en cinema - Lampje",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-51g9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stuutjes en cinema",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-nrhn",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FEST - Zonzo Compagnie",
-          "EventDate": "2026-11-03T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/fest-hkm3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - The Beloved",
-          "EventDate": "2026-11-03T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-q847",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "WEB - ONAF",
-          "EventDate": "2026-11-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/web-m5f7",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DE EXPLODERENDE WALVISMUSICAL - Elsa van Dijk",
-          "EventDate": "2026-11-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-exploderende-walvismusical-tsjz",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "tijdens Hagelslag",
-          "EventDate": "2026-11-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/tijdens-hagelslag-6fjs",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "HOMMAGE AAN GUIDO, DOOR JEROEN DEPRAETERE",
-          "EventDate": "2026-11-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/hommage-aan-guido-door-jeroen-depraetere-y3d1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "OnlyFans for Therapy - Verona Verbakel",
-          "EventDate": "2026-11-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/onlyfans-for-therapy-f72b",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Andere Film - À Voix Basse",
-          "EventDate": "2026-11-10T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-lp9p",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DESNUDA",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/desnuda-dtrr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kerff - Compagnie Cecilia",
-          "EventDate": "2026-11-12T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kerff-ryhq",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-12T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus i.s.m. Broederlijk Delen - Eat more Trees",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-i-s-m-broederlijk-delen-dtll",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Grote Gameshow",
-          "EventDate": "2026-11-15T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-grote-gameshow-1jl6",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - Broken English",
-          "EventDate": "2026-11-17T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-shmc",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "bij de expo Grondvesten van Griet Dobbels",
-          "EventDate": "2026-11-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-grondvesten-van-griet-dobbels-hkfb",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Het Prethuis persenteert",
-          "EventDate": "2026-11-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/het-prethuis-persenteert-q8h8",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Farce Majeure - Michael Van Peel",
-          "EventDate": "2026-11-19T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/farce-majeure-4m6k",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Andere Film",
-          "EventDate": "2026-11-24T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-1jwy",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-24T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "No Yogurt for the Dead",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/no-yogurt-for-the-dead-zv6l",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mozart en Bruckner",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/mozart-en-bruckner-dtss",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Verstaanbaar - Wannes Cappelle",
-          "EventDate": "2026-11-28T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/verstaanbaar-1jz9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stuutjes en cinema",
-          "EventDate": "2026-11-29T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-rykw",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - No Other Choice",
-          "EventDate": "2026-12-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-nrgd",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "An Evening with - Lambchop",
-          "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/an-evening-with-y3pd",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Tiramisu - theater arsenaal",
-          "EventDate": "2026-12-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/tiramisu-518d",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Twee Procent - Bas Birker",
-          "EventDate": "2026-12-05T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/twee-procent-7lgm",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Backstage Producties",
-          "EventDate": "2026-12-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/backstage-producties-m58g",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Andere Film",
-          "EventDate": "2026-12-08T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-q842",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-08T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sieber Marly en Eva De Roovere - CabaretBomToer",
-          "EventDate": "2026-12-09T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/sieber-marly-en-eva-de-roovere-nr8k",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DJ Loebas - Piv Huvluv",
-          "EventDate": "2026-12-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/dj-loebas-j4k9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "REUSkleuter",
-          "EventDate": "2026-12-13T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/reuskleuter-517k",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "bij de expo Grondvesten van Griet Dobbels",
-          "EventDate": "2026-12-13T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-grondvesten-van-griet-dobbels-9cg8",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - Silent Friend",
-          "EventDate": "2026-12-15T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-9cl7",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-15T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Hier, ik als Keizerin - Molenstraat 103/Bus 5",
-          "EventDate": "2026-12-16T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/hier-ik-als-keizerin-molenstraat-103-bus-5-q8jf",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ben en Vero - Benjamin Vandewalle",
-          "EventDate": "2026-12-16T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ben-en-vero-8g43",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-16T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Een warme kerst met Ingeborg, Impact vocals en Vox Musica",
-          "EventDate": "2026-12-19T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/een-warme-kerst-met-ingeborg-impact-vocals-en-vox-musica-ts4v",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Andere Film",
-          "EventDate": "2026-12-22T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-andere-film-hkn6",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Quand ça lâche - Cirque Emboîté",
-          "EventDate": "2026-12-23T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/quand-ca-lache-m5nr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-23T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-23T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "New Year's Glow 2027",
-          "EventDate": "2027-01-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/new-year-s-glow-2027-bq82",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Neurodivergent en content",
-          "EventDate": "2027-01-13T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/neurodivergent-en-content-j4wd",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Truthful",
-          "EventDate": "2027-01-14T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/the-truthful-lpvl",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-14T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FOR MATA, WITH LOVE",
-          "EventDate": "2027-01-23T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/for-mata-with-love-bq17",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-23T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-23T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "TISOVERALIETS - Günther Lesage",
-          "EventDate": "2027-01-23T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/tisoveraliets-1jh7",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-23T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-23T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Missie 2026 - Hetty Helsmoortel",
-          "EventDate": "2027-01-27T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/missie-2026-f78x",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "A Huff and a Puff (and I blow your house in) - Three is a Crowd",
-          "EventDate": "2027-01-29T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/a-huff-and-a-puff-and-i-blow-your-house-in-q8y1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-29T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "ROOM",
-          "EventDate": "2027-01-30T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/room-xnfj",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-30T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-30T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Hommage aan Herman de Coninck",
-          "EventDate": "2027-01-31T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/hommage-aan-herman-de-coninck-tsh3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-31T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Zwaarste Theatershow - Andries Beckers",
-          "EventDate": "2027-02-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-zwaarste-theatershow-q8g7",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Zebra Rene - MARS 2064",
-          "EventDate": "2027-02-10T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/zebra-rene-1jwq",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Petty Bison - Thomas Vantuycom",
-          "EventDate": "2027-02-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/petty-bison-tsyh",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Van van Beethoven",
-          "EventDate": "2027-02-12T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/van-van-beethoven-9c8q",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-12T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-12T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Je suis une Montagne - Éric Arnal-Burtschy",
-          "EventDate": "2027-02-14T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/je-suis-une-montagne-ry4z",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-14T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "CASTL",
-          "EventDate": "2027-02-14T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/castl-nr8m",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-14T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De nalatenschap van Adriaen Willaert",
-          "EventDate": "2027-02-14T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-nalatenschap-van-adriaen-willaert-c2zw",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-14T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Wild Narcissus - Bavo Buys",
-          "EventDate": "2027-02-18T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/wild-narcissus-hk6w",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Protpourri - Gunter Lamoot",
-          "EventDate": "2027-02-19T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/protpourri-6ftf",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "(in 't Westvlams)",
-          "EventDate": "2027-02-22T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/in-t-westvlams-ryln",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "VAAS - Rosalie Custers",
-          "EventDate": "2027-02-24T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/vaas-rygl",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-24T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Psycho Solo - Han Solo",
-          "EventDate": "2027-02-27T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/psycho-solo-hk5x",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kukeleku! De Grote Boerderijshow - Kapitein Winokio",
-          "EventDate": "2027-02-28T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kukeleku-de-grote-boerderijshow-f7s6",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kizuna",
-          "EventDate": "2027-03-03T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kizuna-q82n",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-03T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-03T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nimble",
-          "EventDate": "2027-03-04T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/nimble-c2l4",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-04T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-04T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Ik ben een boom",
-          "EventDate": "2027-03-05T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ik-ben-een-boom-dtjj",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Galapagos - Abattoir Fermé",
-          "EventDate": "2027-03-06T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/galapagos-f7j8",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-06T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-06T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Werk van Beethoven, Brahms en Grant Still",
-          "EventDate": "2027-03-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/werk-van-beethoven-brahms-en-grant-still-tshw",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Handle with Care - Ontroerend Goed",
-          "EventDate": "2027-03-07T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/handle-with-care-ts4w",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-07T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "en de Zeven Schlagers - Nele Bauwens",
-          "EventDate": "2027-03-09T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/en-de-zeven-schlagers-dt11",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-09T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "SUMMIT Roeselare",
-          "EventDate": "2027-03-10T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/summit-roeselare-6f1t",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Butterpie Effect",
-          "EventDate": "2027-03-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/the-butterpie-effect-6fcq",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Crooner - Daan",
-          "EventDate": "2027-03-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/crooner-9c2c",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Surplace - Johnny Mus",
-          "EventDate": "2027-03-17T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/surplace-ryzh",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Jupi",
-          "EventDate": "2027-03-21T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/jupi-517b",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Gen Z",
-          "EventDate": "2027-03-24T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/gen-z-4mfd",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-24T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "FURORE",
-          "EventDate": "2027-03-25T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/furore-tsy4",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-25T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Amor Fati - 10 jaar in Vlaanderen",
-          "EventDate": "2027-03-26T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/amor-fati-10-jaar-in-vlaanderen-bqcr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-26T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Belachelijk! - Henk Rijckaert",
-          "EventDate": "2027-03-31T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/belachelijk-zvmj",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-31T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-31T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Revolutionary Road",
-          "EventDate": "2027-04-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/revolutionary-road-dt77",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "COPYRIOT - KRAPP / KVS",
-          "EventDate": "2027-04-08T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/copyriot-8g3p",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-08T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Future Was Today - SONICO",
-          "EventDate": "2027-04-10T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/the-future-was-today-hkdv",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Angelina - Sibran Sampers",
-          "EventDate": "2027-04-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/angelina-rygf",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Natalia's",
-          "EventDate": "2027-04-14T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/natalia-s-f7hy",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-14T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-14T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DDT houdt uitverkoop",
-          "EventDate": "2027-04-22T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/ddt-houdt-uitverkoop-1jpf",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-22T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-22T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Liefde, verlangen en verlies",
-          "EventDate": "2027-04-25T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/liefde-verlangen-en-verlies-m51j",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-25T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Drift - William Boeva",
-          "EventDate": "2027-04-29T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/drift-lpky",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-29T00:00:00.0000000"
             }
           ]
         }
@@ -12357,7 +10992,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "THE MAGIC NUMBERS",
+          "EventTitle": "THE MAGIC NUMBERS + Stoop Kid",
           "EventDate": "2026-10-13T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/253-the-magic-numbers/",
           "Issues": [
@@ -12492,37 +11127,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 73,
+      "TotalEvents": 72,
       "ErrorCount": 1,
-      "WarningCount": 73,
+      "WarningCount": 72,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Big Next: GB + senna JMB",
-          "EventDate": "2026-09-29",
-          "EventUrl": "https://www.democrazy.be/agenda/3204-big-next-gb/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-29"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Charlie Cunningham",
-          "EventDate": "2026-09-29",
-          "EventUrl": "https://www.democrazy.be/agenda/3182-charlie-cunningham-sorren-maclean/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-09-29'.",
-              "Severity": 1,
-              "ActualValue": "2026-09-29"
-            }
-          ]
-        },
         {
           "EventTitle": "Dizzee Rascal",
           "EventDate": "2026-09-30",
@@ -13375,6 +11984,19 @@
           ]
         },
         {
+          "EventTitle": "Bianca Steck",
+          "EventDate": "2027-03-18",
+          "EventUrl": "https://www.democrazy.be/agenda/3250-bianca-steck/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-18'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-18"
+            }
+          ]
+        },
+        {
           "EventTitle": "Heideroosjes",
           "EventDate": "2027-03-19",
           "EventUrl": "https://www.democrazy.be/agenda/3228-heideroosjes/",
@@ -13528,7 +12150,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 112,
+      "TotalEvents": 111,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13538,7 +12160,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 162,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13582,7 +12204,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 176,
+      "TotalEvents": 174,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -13939,7 +12561,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 66,
+      "TotalEvents": 67,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -13949,7 +12571,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 70,
+      "TotalEvents": 67,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
