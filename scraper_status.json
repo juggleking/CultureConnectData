@@ -99,9 +99,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:02:04.006106Z",
-    "StartedAt": "2026-10-01T10:00:09.9314589Z",
-    "FinishedAt": "2026-10-01T10:02:04.0061019Z",
+    "RunTime": "2026-10-01T14:01:50.6443462Z",
+    "StartedAt": "2026-10-01T14:00:08.1522192Z",
+    "FinishedAt": "2026-10-01T14:01:50.6443416Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
     "NewEvents": []
   },
@@ -110,7 +110,7 @@
     "VenueId": "Toneelhuis",
     "VenueName": "Toneelhuis, Antwerpen",
     "Category": "Theatre",
-    "TotalEventsFound": 174,
+    "TotalEventsFound": 176,
     "MonthlyFiles": [
       {
         "Month": 10,
@@ -147,8 +147,8 @@
         "Year": 2026,
         "FileName": "toneelhuis-11-2026.json",
         "FilePath": "events/theatre/toneelhuis/toneelhuis-11-2026.json",
-        "Hash": "ad8313c87cdf273496e815c157ad0e7b9bdde95883f6e9eeeb0e9cef52a9f743",
-        "EventCount": 18,
+        "Hash": "c3b77ba8ad97fa20d78290b0b93d8a0e86e52d08fd4d9dd93160ae7d6596be55",
+        "EventCount": 20,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -205,18 +205,43 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:40.8900662Z",
-    "StartedAt": "2026-10-01T10:00:09.9318696Z",
-    "FinishedAt": "2026-10-01T10:00:40.8896839Z",
+    "RunTime": "2026-10-01T14:00:38.8448066Z",
+    "StartedAt": "2026-10-01T14:00:08.1537246Z",
+    "FinishedAt": "2026-10-01T14:00:38.8447727Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Hij houdt van mij, hij houdt niet van mij",
+        "DateString": "2026-11-07T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/hij-houdt-van-mij-hij-houdt-niet-van-mij/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000bssxOIAQ_730x410.jpg",
+        "Location": "Bourlaschouwburg, Antwerpen",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.216",
+        "Longitude": "4.4073"
+      },
+      {
+        "Title": "Variaties op eend",
+        "DateString": "2026-11-08T20:00:00.0000000",
+        "Url": "https://toneelhuis.be/nl/programma/variaties-op-eend/",
+        "ImageUrl": "https://s3.eu-central-1.amazonaws.com/ths-sdn/a13Vh00000bsYIsIAM_730x410.jpg",
+        "Location": "Bourlaschouwburg, Antwerpen",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.216",
+        "Longitude": "4.4073"
+      }
+    ]
   },
   {
     "ScraperName": "CcAntwerpenScraper",
     "VenueId": "CcAntwerpen",
     "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 230,
+    "TotalEventsFound": 229,
     "MonthlyFiles": [
       {
         "Month": 12,
@@ -233,8 +258,8 @@
         "Year": 2026,
         "FileName": "ccantwerpen-10-2026.json",
         "FilePath": "events/cultuurcentra/ccantwerpen/ccantwerpen-10-2026.json",
-        "Hash": "38fed5151a32ff943d0170ced6e5bd757b23b4cb4a0d4127f0a4ba269d1fb089",
-        "EventCount": 84,
+        "Hash": "cfae7f85bb99478afb4a39deb230741a50a2ffca369c7c84b8db960bb76a2d08",
+        "EventCount": 83,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -311,9 +336,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:20.1056553Z",
-    "StartedAt": "2026-10-01T10:00:09.9321502Z",
-    "FinishedAt": "2026-10-01T10:00:20.105651Z",
+    "RunTime": "2026-10-01T14:00:16.1116002Z",
+    "StartedAt": "2026-10-01T14:00:08.1549976Z",
+    "FinishedAt": "2026-10-01T14:00:16.1115959Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -347,9 +372,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:12.8366936Z",
-    "StartedAt": "2026-10-01T10:00:09.9322675Z",
-    "FinishedAt": "2026-10-01T10:00:12.8366891Z",
+    "RunTime": "2026-10-01T14:00:10.3739899Z",
+    "StartedAt": "2026-10-01T14:00:08.1553473Z",
+    "FinishedAt": "2026-10-01T14:00:10.3739854Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -383,9 +408,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.4998428Z",
-    "StartedAt": "2026-10-01T10:00:09.9325408Z",
-    "FinishedAt": "2026-10-01T10:00:11.4998389Z",
+    "RunTime": "2026-10-01T14:00:09.4996219Z",
+    "StartedAt": "2026-10-01T14:00:08.156661Z",
+    "FinishedAt": "2026-10-01T14:00:09.4996175Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -479,9 +504,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:12.5269095Z",
-    "StartedAt": "2026-10-01T10:00:09.9327759Z",
-    "FinishedAt": "2026-10-01T10:00:12.526885Z",
+    "RunTime": "2026-10-01T14:00:10.4309326Z",
+    "StartedAt": "2026-10-01T14:00:08.1573868Z",
+    "FinishedAt": "2026-10-01T14:00:10.4309283Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -575,9 +600,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:28.1894942Z",
-    "StartedAt": "2026-10-01T10:00:09.9330223Z",
-    "FinishedAt": "2026-10-01T10:00:28.1894896Z",
+    "RunTime": "2026-10-01T14:00:31.4230364Z",
+    "StartedAt": "2026-10-01T14:00:08.1585274Z",
+    "FinishedAt": "2026-10-01T14:00:31.4230323Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -671,9 +696,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.446336Z",
-    "StartedAt": "2026-10-01T10:00:09.93323Z",
-    "FinishedAt": "2026-10-01T10:00:11.4463314Z",
+    "RunTime": "2026-10-01T14:00:09.5271957Z",
+    "StartedAt": "2026-10-01T14:00:08.1592369Z",
+    "FinishedAt": "2026-10-01T14:00:09.527191Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -707,9 +732,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:14.5833363Z",
-    "StartedAt": "2026-10-01T10:00:09.933445Z",
-    "FinishedAt": "2026-10-01T10:00:14.5833213Z",
+    "RunTime": "2026-10-01T14:00:12.2070703Z",
+    "StartedAt": "2026-10-01T14:00:08.1599146Z",
+    "FinishedAt": "2026-10-01T14:00:12.207067Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -718,7 +743,7 @@
     "VenueId": "DeKluize",
     "VenueName": "GC De Kluize, Oosterzele",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 81,
+    "TotalEventsFound": 82,
     "MonthlyFiles": [
       {
         "Month": 10,
@@ -755,8 +780,8 @@
         "Year": 2027,
         "FileName": "dekluize-01-2027.json",
         "FilePath": "events/cultuurcentra/dekluize/dekluize-01-2027.json",
-        "Hash": "b41c3b335d8640be3e2ae9a387590f7637fec0af978409777e23a9f8d4fffdaa",
-        "EventCount": 13,
+        "Hash": "3e3234e2850c98956a971292d8a49add7703f23a37102a752f4157797b39d729",
+        "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -813,11 +838,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:12.4638553Z",
-    "StartedAt": "2026-10-01T10:00:09.9336847Z",
-    "FinishedAt": "2026-10-01T10:00:12.4638506Z",
+    "RunTime": "2026-10-01T14:00:10.4293751Z",
+    "StartedAt": "2026-10-01T14:00:08.1607813Z",
+    "FinishedAt": "2026-10-01T14:00:10.4293718Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "De millennium case [TRY-OUT]",
+        "DateString": "2027-01-27T20:00:00.0000000",
+        "Url": "https://gcdekluize.be/voorstelling/de-millennium-case-try-out",
+        "ImageUrl": "",
+        "Location": "GC De Kluize",
+        "Description": "de volksjury live 16\u002B Theaterspecial Try-out",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.9414",
+        "Longitude": "3.7938"
+      }
+    ]
   },
   {
     "ScraperName": "DeMeentScraper",
@@ -909,9 +947,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.580835Z",
-    "StartedAt": "2026-10-01T10:00:09.9339666Z",
-    "FinishedAt": "2026-10-01T10:00:11.5808308Z",
+    "RunTime": "2026-10-01T14:00:09.1912071Z",
+    "StartedAt": "2026-10-01T14:00:08.1613605Z",
+    "FinishedAt": "2026-10-01T14:00:09.1912024Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -920,24 +958,24 @@
     "VenueId": "DeSpil",
     "VenueName": "De Spil, Roeselare",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 8,
+    "TotalEventsFound": 7,
     "MonthlyFiles": [
       {
         "Month": 10,
         "Year": 2026,
         "FileName": "despil-10-2026.json",
         "FilePath": "events/cultuurcentra/despil/despil-10-2026.json",
-        "Hash": "054b33de5d62bcc111398300882830319c769bfe60bdea5a8f830b04462514b6",
-        "EventCount": 8,
+        "Hash": "3e8a6f25beb6ba7cdd983df0be9dc2a5cc7bbb90d7dde3a0387059d514cebd98",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:12.6683031Z",
-    "StartedAt": "2026-10-01T10:00:09.9345725Z",
-    "FinishedAt": "2026-10-01T10:00:12.6682987Z",
+    "RunTime": "2026-10-01T14:00:10.2208359Z",
+    "StartedAt": "2026-10-01T14:00:08.1622512Z",
+    "FinishedAt": "2026-10-01T14:00:10.2208314Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -993,7 +1031,7 @@
         "Year": 2027,
         "FileName": "dewerf-01-2027.json",
         "FilePath": "events/cultuurcentra/dewerf/dewerf-01-2027.json",
-        "Hash": "42a3c06243ebad48fe909a5566d5c793889f6af65d9934171110eacc401c411a",
+        "Hash": "5b126c6c819ed81725a741a53029666ea04782508262304eb81188baabbec3f7",
         "EventCount": 24,
         "Status": "Success",
         "ErrorMessage": null
@@ -1031,9 +1069,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:17.6354335Z",
-    "StartedAt": "2026-10-01T10:00:09.9349104Z",
-    "FinishedAt": "2026-10-01T10:00:17.6354286Z",
+    "RunTime": "2026-10-01T14:00:15.4137218Z",
+    "StartedAt": "2026-10-01T14:00:08.162932Z",
+    "FinishedAt": "2026-10-01T14:00:15.4137169Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
     "NewEvents": []
   },
@@ -1137,9 +1175,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:15.3362841Z",
-    "StartedAt": "2026-10-01T10:00:09.935158Z",
-    "FinishedAt": "2026-10-01T10:00:15.3362791Z",
+    "RunTime": "2026-10-01T14:00:11.8465245Z",
+    "StartedAt": "2026-10-01T14:00:08.1630747Z",
+    "FinishedAt": "2026-10-01T14:00:11.8465198Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1243,24 +1281,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:14.3508258Z",
-    "StartedAt": "2026-10-01T10:00:09.9353739Z",
-    "FinishedAt": "2026-10-01T10:00:14.3508227Z",
+    "RunTime": "2026-10-01T14:00:10.5878312Z",
+    "StartedAt": "2026-10-01T14:00:08.1631689Z",
+    "FinishedAt": "2026-10-01T14:00:10.5878268Z",
     "FaviconUrl": null,
-    "NewEvents": [
-      {
-        "Title": "Olivia (3de - 6de leerjaar)",
-        "DateString": "2026-12-14T13:30:00.0000000",
-        "Url": "https://www.leietheater.be/activiteiten/detail/3467/olivia-3de-6de-leerjaar",
-        "ImageUrl": "https://www.leietheater.be/file/imagecache/Rdx2Ad8paIj3eJ89OKr2ZRoDOG5kx8CGdk0vdLmo3d/list/673b8294-553f-499d-b027-56a6029f00a1/5170.png",
-        "Location": "Leietheater",
-        "Description": "filmvertoning voor scholen",
-        "Room": "",
-        "Address": "Brielstraat 8, 9800 Deinze",
-        "Latitude": "50.9819",
-        "Longitude": "3.5246"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "SintLievensHoutemScraper",
@@ -1322,9 +1347,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:14.0489593Z",
-    "StartedAt": "2026-10-01T10:00:09.9356354Z",
-    "FinishedAt": "2026-10-01T10:00:14.0409167Z",
+    "RunTime": "2026-10-01T14:00:10.6125875Z",
+    "StartedAt": "2026-10-01T14:00:08.1632649Z",
+    "FinishedAt": "2026-10-01T14:00:10.6125832Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1335,11 +1360,11 @@
     "Category": "Concerts",
     "TotalEventsFound": 0,
     "MonthlyFiles": [],
-    "Status": "Success (250 invalid)",
+    "Status": "Success (251 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:29.3193811Z",
-    "StartedAt": "2026-10-01T10:00:09.935857Z",
-    "FinishedAt": "2026-10-01T10:00:29.3190551Z",
+    "RunTime": "2026-10-01T14:00:24.9951796Z",
+    "StartedAt": "2026-10-01T14:00:08.1633495Z",
+    "FinishedAt": "2026-10-01T14:00:24.995176Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -1365,7 +1390,7 @@
         "Year": 2026,
         "FileName": "aff-11-2026.json",
         "FilePath": "events/concerts/aff/aff-11-2026.json",
-        "Hash": "53ba4fc63c516e405354470a1f6340962c70663271a464726c22cd2c2f1ae3e5",
+        "Hash": "b5b0fa49473db1c925e64007f8ff07a5efecb071a098ec5a4703d8fe39988890",
         "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
@@ -1375,7 +1400,7 @@
         "Year": 2026,
         "FileName": "aff-12-2026.json",
         "FilePath": "events/concerts/aff/aff-12-2026.json",
-        "Hash": "3b61bea324fa239d630a9647687272d2d52e33578a569a74fb8d06de0ec06a36",
+        "Hash": "91432b61c99a534296f6e945ec699adb103ad47e57b2792397e0a78ded70c30e",
         "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
@@ -1413,9 +1438,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:17.3692225Z",
-    "StartedAt": "2026-10-01T10:00:09.9360644Z",
-    "FinishedAt": "2026-10-01T10:00:17.3680882Z",
+    "RunTime": "2026-10-01T14:00:31.292982Z",
+    "StartedAt": "2026-10-01T14:00:08.1634382Z",
+    "FinishedAt": "2026-10-01T14:00:31.2929772Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -1441,7 +1466,7 @@
         "Year": 2026,
         "FileName": "botanique-11-2026.json",
         "FilePath": "events/concerts/botanique/botanique-11-2026.json",
-        "Hash": "e5a5aec88c739b7be6c3f6ca8ecc709e15eb946ae0c69c1eb690e8c234f8a5c9",
+        "Hash": "ffac870e316e8d61ff1c58b2c1f5dcff67c36369c193677c42b5f2fee7fef06c",
         "EventCount": 50,
         "Status": "Success",
         "ErrorMessage": null
@@ -1461,7 +1486,7 @@
         "Year": 2027,
         "FileName": "botanique-01-2027.json",
         "FilePath": "events/concerts/botanique/botanique-01-2027.json",
-        "Hash": "8820abb976bfa5cf4422ac0855ddf915f7e7fedf2b3b27f420cad6a5e053e401",
+        "Hash": "1bca0ad57186108799bdf7cf672039d5b152902c57802bd047022767ed2ddce6",
         "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
@@ -1499,60 +1524,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:56.1288642Z",
-    "StartedAt": "2026-10-01T10:00:09.9362535Z",
-    "FinishedAt": "2026-10-01T10:00:56.1288614Z",
+    "RunTime": "2026-10-01T14:00:31.0456901Z",
+    "StartedAt": "2026-10-01T14:00:08.1655644Z",
+    "FinishedAt": "2026-10-01T14:00:31.0456856Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
-    "NewEvents": [
-      {
-        "Title": "World Brain - St\u00E9phane Odrobinski",
-        "DateString": "2026-10-09T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/world-brain-stephane-odrobinski-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-05/world%20Brain.jpeg?itok=7GgS3gwR",
-        "Location": "Botanique, Brussels",
-        "Description": "Een hybride en inventieve popstijl met verfijnde arrangementen; op het podium veranderen zijn nummers in een speels en spetterend feest",
-        "Room": "Witloof Bar",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      },
-      {
-        "Title": "Shaking Hand - D\u00E9sespoir des Singes",
-        "DateString": "2026-11-25T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/shaking-hand-desespoir-des-singes-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-04/shanking%20hand.jpg?itok=-gwVu37O",
-        "Location": "Botanique, Brussels",
-        "Description": "Sfeervolle en diepgaande indierock, be\u00EFnvloed door experimentele texturen en post-rock-opbouw",
-        "Room": "Witloof Bar",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      },
-      {
-        "Title": "Pongo - Bona L\u00E9a (dj-set)",
-        "DateString": "2026-12-03T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/pongo-bona-lea-dj-set-2026",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-05/%C2%A9JoannaCorreia-PONGO-27.jpg?itok=oPwOwzYa",
-        "Location": "Botanique, Brussels",
-        "Description": "Een van de meest bijzondere stemmen uit de hedendaagse afro-fusion-scene.",
-        "Room": "Museum",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      },
-      {
-        "Title": "Gabrielle Verleyen",
-        "DateString": "2027-01-22T18:30:00.0000000",
-        "Url": "https://botanique.be/nl/concert/gabrielle-verleyen-2027",
-        "ImageUrl": "https://botanique.be/sites/default/files/styles/event_overview/public/2026-10/Gabrielle%20Verleyen_12%C2%A9Joy%20Lonchay.jpg?itok=kErZ3Sf1",
-        "Location": "Botanique, Brussels",
-        "Description": "",
-        "Room": "Rotonde",
-        "Address": "Botanique, Brussels",
-        "Latitude": "50.8531",
-        "Longitude": "4.3662"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "CactusMusicScraper",
@@ -1634,9 +1610,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.8566997Z",
-    "StartedAt": "2026-10-01T10:00:09.9364611Z",
-    "FinishedAt": "2026-10-01T10:00:11.8566945Z",
+    "RunTime": "2026-10-01T14:00:09.0885604Z",
+    "StartedAt": "2026-10-01T14:00:08.1657772Z",
+    "FinishedAt": "2026-10-01T14:00:09.0885558Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -1730,9 +1706,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.9780241Z",
-    "StartedAt": "2026-10-01T10:00:09.9366705Z",
-    "FinishedAt": "2026-10-01T10:00:11.9780192Z",
+    "RunTime": "2026-10-01T14:00:09.4681512Z",
+    "StartedAt": "2026-10-01T14:00:08.1658599Z",
+    "FinishedAt": "2026-10-01T14:00:09.468146Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -1758,7 +1734,7 @@
         "Year": 2026,
         "FileName": "democrazy-11-2026.json",
         "FilePath": "events/concerts/democrazy/democrazy-11-2026.json",
-        "Hash": "e2b2c57948d6e238c5a7d34668e25bca7305b282f3c4aa4a05213b2eb3e45c44",
+        "Hash": "3addd0e025980f2103a73c8317f0e65e95b5c5cb06160da30c31117c04041efb",
         "EventCount": 19,
         "Status": "Success",
         "ErrorMessage": null
@@ -1816,9 +1792,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.5284Z",
-    "StartedAt": "2026-10-01T10:00:09.9368843Z",
-    "FinishedAt": "2026-10-01T10:00:11.5283955Z",
+    "RunTime": "2026-10-01T14:00:09.3040521Z",
+    "StartedAt": "2026-10-01T14:00:08.1659398Z",
+    "FinishedAt": "2026-10-01T14:00:09.3040479Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -1844,7 +1820,7 @@
         "Year": 2026,
         "FileName": "deroma-11-2026.json",
         "FilePath": "events/concerts/deroma/deroma-11-2026.json",
-        "Hash": "b79385f27ea3f6c0c863a721c2edce878cb0cd00191726eb81cbb3739bb4bca9",
+        "Hash": "9a918831d8c73e5d53c4404261cc38e82a379886b002fb4b0763d4d2b36a6046",
         "EventCount": 36,
         "Status": "Success",
         "ErrorMessage": null
@@ -1922,9 +1898,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:14.2000006Z",
-    "StartedAt": "2026-10-01T10:00:09.9370747Z",
-    "FinishedAt": "2026-10-01T10:00:14.1999973Z",
+    "RunTime": "2026-10-01T14:00:10.2647767Z",
+    "StartedAt": "2026-10-01T14:00:08.166018Z",
+    "FinishedAt": "2026-10-01T14:00:10.2647732Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
     "NewEvents": []
   },
@@ -2028,9 +2004,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.6856575Z",
-    "StartedAt": "2026-10-01T10:00:09.9372698Z",
-    "FinishedAt": "2026-10-01T10:00:11.6856313Z",
+    "RunTime": "2026-10-01T14:00:08.9209285Z",
+    "StartedAt": "2026-10-01T14:00:08.1661147Z",
+    "FinishedAt": "2026-10-01T14:00:08.9209236Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -2094,9 +2070,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.4851404Z",
-    "StartedAt": "2026-10-01T10:00:09.937486Z",
-    "FinishedAt": "2026-10-01T10:00:11.4851279Z",
+    "RunTime": "2026-10-01T14:00:08.8379066Z",
+    "StartedAt": "2026-10-01T14:00:08.166201Z",
+    "FinishedAt": "2026-10-01T14:00:08.837902Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -2150,9 +2126,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.9090448Z",
-    "StartedAt": "2026-10-01T10:00:09.9376897Z",
-    "FinishedAt": "2026-10-01T10:00:11.9090315Z",
+    "RunTime": "2026-10-01T14:00:09.5098945Z",
+    "StartedAt": "2026-10-01T14:00:08.1662799Z",
+    "FinishedAt": "2026-10-01T14:00:09.5098895Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -2176,9 +2152,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:13.5929408Z",
-    "StartedAt": "2026-10-01T10:00:09.9379163Z",
-    "FinishedAt": "2026-10-01T10:00:13.5929361Z",
+    "RunTime": "2026-10-01T14:00:10.8217052Z",
+    "StartedAt": "2026-10-01T14:00:08.1663723Z",
+    "FinishedAt": "2026-10-01T14:00:10.8217003Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
     "NewEvents": []
   },
@@ -2282,51 +2258,26 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:01:00.4774798Z",
-    "StartedAt": "2026-10-01T10:00:09.9381499Z",
-    "FinishedAt": "2026-10-01T10:01:00.4774764Z",
+    "RunTime": "2026-10-01T14:00:51.8951774Z",
+    "StartedAt": "2026-10-01T14:00:08.166457Z",
+    "FinishedAt": "2026-10-01T14:00:51.8951728Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
-    "NewEvents": [
-      {
-        "Title": "de volksjury De millennium case",
-        "DateString": "2027-03-25T20:00:00",
-        "Url": "https://www.hetdepot.be/concert/2027/de-volksjury-1",
-        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0ac100000ethYNAAY_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=Ts6gGaTm",
-        "Location": "Het Depot, Leuven",
-        "Description": "Een live whodunnit in de nillies met flip phones, MySpace-speurwerk en geschifte actiesc\u00E8nes.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8815",
-        "Longitude": "4.7138"
-      },
-      {
-        "Title": "de volksjury De millennium case",
-        "DateString": "2027-03-26T20:00:00",
-        "Url": "https://www.hetdepot.be/concert/2027/de-volksjury-2",
-        "ImageUrl": "https://www.hetdepot.be/sites/default/files/styles/share_image/public/a0ac100000eu76DAAQ_1800x810_1800.jpg?h=3d7e6699\u0026amp;itok=of1H3EH2",
-        "Location": "Het Depot, Leuven",
-        "Description": "Een live whodunnit in de nillies met flip phones, MySpace-speurwerk en geschifte actiesc\u00E8nes.",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.8815",
-        "Longitude": "4.7138"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "N9Scraper",
     "VenueId": "N9",
     "VenueName": "N9, Eeklo",
     "Category": "Concerts",
-    "TotalEventsFound": 20,
+    "TotalEventsFound": 21,
     "MonthlyFiles": [
       {
         "Month": 10,
         "Year": 2026,
         "FileName": "n9-10-2026.json",
         "FilePath": "events/concerts/n9/n9-10-2026.json",
-        "Hash": "4dafb3a4b211ff736694d240a07bd14b9db66ebe6770b540123961d32ed5050d",
-        "EventCount": 6,
+        "Hash": "f9912b6d72f613ea0b3cb2d1ff467ab91c9702baf75f98bd1a3e26d5bf6cab3a",
+        "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2373,11 +2324,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:12.421441Z",
-    "StartedAt": "2026-10-01T10:00:09.9383768Z",
-    "FinishedAt": "2026-10-01T10:00:12.4214365Z",
+    "RunTime": "2026-10-01T14:00:09.0479374Z",
+    "StartedAt": "2026-10-01T14:00:08.1668027Z",
+    "FinishedAt": "2026-10-01T14:00:09.0479342Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "VOLKSKEUKEN \u2014 23-10-2026",
+        "DateString": "2026-10-23T18:00:00\u002B02:00",
+        "Url": "https://www.n9.be/agenda/5207-volkskeuken/",
+        "ImageUrl": "https://www.n9.be/media/event-large/3283-111705635volkskeuken.jpg",
+        "Location": "N9 fabriek",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.1808",
+        "Longitude": "4.903"
+      }
+    ]
   },
   {
     "ScraperName": "RivierenhofScraper",
@@ -2388,9 +2352,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:12.7376034Z",
-    "StartedAt": "2026-10-01T10:00:09.9385837Z",
-    "FinishedAt": "2026-10-01T10:00:12.7376016Z",
+    "RunTime": "2026-10-01T14:00:08.7438746Z",
+    "StartedAt": "2026-10-01T14:00:08.1670412Z",
+    "FinishedAt": "2026-10-01T14:00:08.7438732Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -2403,9 +2367,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:11.4885956Z",
-    "StartedAt": "2026-10-01T10:00:09.9387504Z",
-    "FinishedAt": "2026-10-01T10:00:11.4885849Z",
+    "RunTime": "2026-10-01T14:00:09.0018148Z",
+    "StartedAt": "2026-10-01T14:00:08.1672634Z",
+    "FinishedAt": "2026-10-01T14:00:09.0018109Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
     "NewEvents": []
   },
@@ -2414,15 +2378,15 @@
     "VenueId": "VaartKapoen",
     "VenueName": "Vaartkapoen",
     "Category": "Concerts",
-    "TotalEventsFound": 22,
+    "TotalEventsFound": 23,
     "MonthlyFiles": [
       {
         "Month": 10,
         "Year": 2026,
         "FileName": "vaartkapoen-10-2026.json",
         "FilePath": "events/concerts/vaartkapoen/vaartkapoen-10-2026.json",
-        "Hash": "09d025b44c8c6b0cd81cb5094507e5f089b105d09e69ad1a9e83c76d4bbe75f1",
-        "EventCount": 9,
+        "Hash": "0dd682c1a4faa6a54aefd8b15fbdbc3fb16d0327faf0fb50c8d2c303bfae80dc",
+        "EventCount": 10,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2431,7 +2395,7 @@
         "Year": 2026,
         "FileName": "vaartkapoen-11-2026.json",
         "FilePath": "events/concerts/vaartkapoen/vaartkapoen-11-2026.json",
-        "Hash": "3ebf886b0afe24d07686672ec37ae82eeae63d90b7cc4ec3853eda74458384c6",
+        "Hash": "1c440b28eb6dd72c68a4cf8788125fcf0ab81bb4479a8007243848672a8edcb6",
         "EventCount": 7,
         "Status": "Success",
         "ErrorMessage": null
@@ -2479,11 +2443,24 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:14.5661117Z",
-    "StartedAt": "2026-10-01T10:00:09.9389544Z",
-    "FinishedAt": "2026-10-01T10:00:14.5661069Z",
+    "RunTime": "2026-10-01T14:00:11.4120495Z",
+    "StartedAt": "2026-10-01T14:00:08.1675745Z",
+    "FinishedAt": "2026-10-01T14:00:11.412046Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Kunt Kill\u0027Halloween",
+        "DateString": "2026-10-23T22:00:00Z",
+        "Url": "https://www.vaartkapoen.be/activiteiten/kunt-killhalloween",
+        "ImageUrl": "",
+        "Location": "Molenbeek, Brussels",
+        "Description": "Het nachtleven keert terug naar de VK: Kunt Kill\u2019Ha organiseert een nieuwe Kiki Vogue Night, die wordt gevolgd door een feest!",
+        "Room": "",
+        "Address": null,
+        "Latitude": "50.8815",
+        "Longitude": "4.3511"
+      }
+    ]
   },
   {
     "ScraperName": "WildeWestenScraper",
@@ -2575,9 +2552,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:02:03.1807316Z",
-    "StartedAt": "2026-10-01T10:00:09.9391418Z",
-    "FinishedAt": "2026-10-01T10:02:03.1807271Z",
+    "RunTime": "2026-10-01T14:01:58.5130045Z",
+    "StartedAt": "2026-10-01T14:00:08.1678481Z",
+    "FinishedAt": "2026-10-01T14:01:58.5129813Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -2586,7 +2563,7 @@
     "VenueId": "Wintercircus",
     "VenueName": "Wintercircus, Gent",
     "Category": "Concerts",
-    "TotalEventsFound": 67,
+    "TotalEventsFound": 68,
     "MonthlyFiles": [
       {
         "Month": 3,
@@ -2663,8 +2640,8 @@
         "Year": 2026,
         "FileName": "wintercircus-11-2026.json",
         "FilePath": "events/concerts/wintercircus/wintercircus-11-2026.json",
-        "Hash": "5d1535480f1e7fa6fcfde0f36f140cfa83eafa5394232b821f30f256fa7e494e",
-        "EventCount": 17,
+        "Hash": "fe338fac851e7025f0a511ef5a1239250c95d2a2c5f41b446ed649f1f639010e",
+        "EventCount": 18,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2711,10 +2688,23 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-10-01T10:00:10.7147084Z",
-    "StartedAt": "2026-10-01T10:00:09.9393331Z",
-    "FinishedAt": "2026-10-01T10:00:10.7147036Z",
+    "RunTime": "2026-10-01T14:00:08.8657265Z",
+    "StartedAt": "2026-10-01T14:00:08.168125Z",
+    "FinishedAt": "2026-10-01T14:00:08.8657236Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Spreey x Ksawery Komputery",
+        "DateString": "2026-11-10T21:30:00",
+        "Url": "https://www.spreey.be/events",
+        "ImageUrl": "https://images.ctfassets.net/i2zi6dwnrtqt/1d32pTeoQZOIfVVxqjQTaw/cd2c82b97915ef1ec211d68531d9153b/Odoo_ClubNight.jpg",
+        "Location": "Wintercircus, Gent",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0481",
+        "Longitude": "3.728"
+      }
+    ]
   }
 ]

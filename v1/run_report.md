@@ -1,12 +1,12 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-01T06:03:23.0231163Z
+**Generated At:** 2026-10-01T10:03:23.3798792Z
 **Total Scrapers Run:** 34
 
 ## ✅ Successful Scrapers
 - **CeciliaScraper**: Found 123 events across 9 monthly files.
 - **ToneelhuisScraper**: Found 174 events across 9 monthly files.
-- **CcAntwerpenScraper**: Found 229 events across 9 monthly files.
+- **CcAntwerpenScraper**: Found 230 events across 9 monthly files.
 - **CcBruggeScraper**: Found 12 events across 2 monthly files.
 - **CCHetSpoorScraper**: Found 10 events across 2 monthly files.
 - **CcZoetegemScraper**: Found 105 events across 8 monthly files.
@@ -18,11 +18,11 @@
 - **DeSpilScraper**: Found 8 events across 1 monthly files.
 - **DeWerfScraper**: Found 120 events across 8 monthly files.
 - **EmotiaScraper**: Found 95 events across 9 monthly files.
-- **LeietheaterScraper**: Found 161 events across 9 monthly files.
+- **LeietheaterScraper**: Found 162 events across 9 monthly files.
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 0 events across 0 monthly files.
 - **AffScraper**: Found 23 events across 6 monthly files.
-- **BotaniqueScraper**: Found 200 events across 7 monthly files.
+- **BotaniqueScraper**: Found 201 events across 7 monthly files.
 - **CactusMusicScraper**: Found 61 events across 7 monthly files.
 - **DeCasinoScraper**: Found 61 events across 8 monthly files.
 - **DemocrazyScraper**: Found 73 events across 7 monthly files.
@@ -31,7 +31,7 @@
 - **DeZwerverScraper**: Found 10 events across 5 monthly files.
 - **FourAdScraper**: Found 15 events across 4 monthly files.
 - **HaConcertsScraper**: Found 3 events across 1 monthly files.
-- **HetDepotScraper**: Found 112 events across 9 monthly files.
+- **HetDepotScraper**: Found 114 events across 9 monthly files.
 - **N9Scraper**: Found 20 events across 5 monthly files.
 - **RivierenhofScraper**: Found 0 events across 0 monthly files.
 - **TrixScraper**: Found 0 events across 0 monthly files.
