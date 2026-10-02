@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-10-01T05:00:16.0927805Z",
-  "ValidatedAt": "2026-10-01T05:00:16.0927806Z",
+  "GeneratedAt": "2026-10-02T05:00:16.4384152Z",
+  "ValidatedAt": "2026-10-02T05:00:16.4384153Z",
   "TotalScrapers": 34,
-  "TotalEvents": 2727,
+  "TotalEvents": 2715,
   "TotalErrors": 1,
-  "TotalWarnings": 935,
+  "TotalWarnings": 926,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 229,
+      "TotalEvents": 223,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 200,
+      "TotalEvents": 199,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3698,7 +3698,7 @@
           ]
         },
         {
-          "EventTitle": "Shaking Hand",
+          "EventTitle": "Shaking Hand + Félicette",
           "EventDate": "2026-11-24T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/shaking-hand",
           "Issues": [
@@ -4067,19 +4067,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Bruno Deneckere en Kathleen Vandenhoudt - Sharing the blues",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=f599e061-efa1-4c76-89d6-c9b85bc17b88&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
           "EventTitle": "KH Vooruit, Florestan Bataillie en Jan Dewilde - Het verhaal van Benoit",
           "EventDate": "2026-10-10",
           "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=f8550c40-dfa0-4293-8b44-29f0224b6e44&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
@@ -4193,6 +4180,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-05'.",
               "Severity": 1,
               "ActualValue": "2026-11-05"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lezing Campus Eilandstraat: Julien Delagrange - ART.BE Hedendaagse kunst in België",
+          "EventDate": "2026-11-12",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=6ec498ea-e32f-4359-b710-6a3e7563d231&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-12'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-12"
             }
           ]
         }
@@ -5888,7 +5888,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 123,
+      "TotalEvents": 122,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5936,32 +5936,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-23'.",
               "Severity": 1,
               "ActualValue": "2026-09-23"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Werken met Canva",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/werken-met-canva/8889/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Theatercompagnie De Kroon",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/theatercompagnie-de-kroon/9847/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
             }
           ]
         },
@@ -6200,9 +6174,9 @@
           ]
         },
         {
-          "EventTitle": "Die Verdammte Spielerei",
+          "EventTitle": "Workshop lampionnen maken",
           "EventDate": "2026-11-05",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/die-verdammte-spielerei/9182/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/workshop-lampionnen-maken/10210/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6213,22 +6187,9 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Jan Hutsebaut",
-          "EventDate": "2026-11-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-jan-hutsebaut/10108/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-04"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Workshop lampionnen maken",
+          "EventTitle": "Die Verdammte Spielerei",
           "EventDate": "2026-11-05",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/workshop-lampionnen-maken/10210/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/die-verdammte-spielerei/9182/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6248,6 +6209,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-07'.",
               "Severity": 1,
               "ActualValue": "2026-11-07"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Jan Hutsebaut",
+          "EventDate": "2026-11-04",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-jan-hutsebaut/10108/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04"
             }
           ]
         },
@@ -6668,9 +6642,9 @@
           ]
         },
         {
-          "EventTitle": "Roiteklasjen voor kinderen (namiddag)",
+          "EventTitle": "Carnaval in beeld (met een digitaal fototoestel)",
           "EventDate": "2027-01-09",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-namiddag/7764/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/carnaval-in-beeld-met-een-digitaal-fototoestel/9206/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6681,22 +6655,9 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Anja Deilgat",
-          "EventDate": "2027-01-05",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-05"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Carnaval in beeld (met een digitaal fototoestel)",
+          "EventTitle": "Roiteklasjen voor kinderen (namiddag)",
           "EventDate": "2027-01-09",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/carnaval-in-beeld-met-een-digitaal-fototoestel/9206/",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/roiteklasjen-voor-kinderen-namiddag/7764/",
           "Issues": [
             {
               "Field": "DateString",
@@ -6716,6 +6677,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-10'.",
               "Severity": 1,
               "ActualValue": "2027-01-10"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Anja Deilgat",
+          "EventDate": "2027-01-05",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-05"
             }
           ]
         },
@@ -6993,19 +6967,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Stuft",
-          "EventDate": "2027-02-02",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-02"
-            }
-          ]
-        },
-        {
           "EventTitle": "Sam Bettens",
           "EventDate": "2027-02-04",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/sam-bettens/9896/",
@@ -7028,6 +6989,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-11'.",
               "Severity": 1,
               "ActualValue": "2027-02-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Stuft",
+          "EventDate": "2027-02-02",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-02"
             }
           ]
         },
@@ -7305,19 +7279,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Olena Polishchuk",
-          "EventDate": "2027-03-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-olena-polishchuk/10204/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-04"
-            }
-          ]
-        },
-        {
           "EventTitle": "Pruiken uit foam",
           "EventDate": "2027-03-10",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pruiken-uit-foam/8874/",
@@ -7340,6 +7301,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-11'.",
               "Severity": 1,
               "ActualValue": "2027-03-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Olena Polishchuk",
+          "EventDate": "2027-03-04",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-olena-polishchuk/10204/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-04"
             }
           ]
         },
@@ -7472,6 +7446,32 @@
               "ActualValue": "2027-03-27"
             }
           ]
+        },
+        {
+          "EventTitle": "Xander De Rycke",
+          "EventDate": "2027-04-01",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/xander-de-rycke/9817/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-01'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-01"
+            }
+          ]
+        },
+        {
+          "EventTitle": "de volksjury live",
+          "EventDate": "2027-04-07",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/de-volksjury-live/10218/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-07'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-07"
+            }
+          ]
         }
       ]
     },
@@ -7479,7 +7479,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 95,
+      "TotalEvents": 94,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7489,89 +7489,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 123,
+      "TotalEvents": 117,
       "ErrorCount": 0,
-      "WarningCount": 123,
+      "WarningCount": 117,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "BÉCAUD",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/becaud",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Het woord en het ding",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/het-woord-en-het-ding",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Keramiek op donderdagavond",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/keramiek-op-donderdagavond-2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Zing mee met Marie",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/zing-mee-met-marie-0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Potten draaien op donderdagavond",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/potten-draaien-op-donderdagavond-4",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Basis acteren: in het moment",
-          "EventDate": "2026-10-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/basis-acteren-het-moment",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01"
-            }
-          ]
-        },
         {
           "EventTitle": "GEANNULEERD - Tempest",
           "EventDate": "2026-10-02",
@@ -8769,7 +8691,7 @@
           ]
         },
         {
-          "EventTitle": "All Time Classics",
+          "EventTitle": "Pending Title",
           "EventDate": "2027-03-05",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/all-time-classics",
           "Issues": [
@@ -9099,37 +9021,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 61,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 61,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Hooverphonic & Noémie Wolfs / 30 Years Anniversary Tour",
-          "EventDate": "2026-10-01T00:00:00",
-          "EventUrl": "https://decasino.be/concert/hooverphonic-noemie-wolfs-30-years-anniversary-tour/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Nacht van de Leerkracht",
-          "EventDate": "2026-10-01T00:00:00",
-          "EventUrl": "https://decasino.be/concert/nacht-van-de-leerkracht-3/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "AFTRAP!",
           "EventDate": "2026-10-02T00:00:00",
@@ -9183,9 +9079,9 @@
           ]
         },
         {
-          "EventTitle": "Monolord + Dopelord",
+          "EventTitle": "Club Casino / One-T",
           "EventDate": "2026-10-09T00:00:00",
-          "EventUrl": "https://decasino.be/concert/monolord-dopelord/",
+          "EventUrl": "https://decasino.be/concert/club-casino-one-t/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9196,9 +9092,9 @@
           ]
         },
         {
-          "EventTitle": "Club Casino / One-T",
+          "EventTitle": "Monolord + Dopelord",
           "EventDate": "2026-10-09T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-casino-one-t/",
+          "EventUrl": "https://decasino.be/concert/monolord-dopelord/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9261,9 +9157,9 @@
           ]
         },
         {
-          "EventTitle": "High Hi",
+          "EventTitle": "Club Casino / Lumen",
           "EventDate": "2026-10-16T00:00:00",
-          "EventUrl": "https://decasino.be/concert/high-hi-2/",
+          "EventUrl": "https://decasino.be/concert/club-casino-lumen/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9274,9 +9170,9 @@
           ]
         },
         {
-          "EventTitle": "Club Casino / Lumen",
+          "EventTitle": "High Hi",
           "EventDate": "2026-10-16T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-casino-lumen/",
+          "EventUrl": "https://decasino.be/concert/high-hi-2/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9625,9 +9521,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9638,9 +9534,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9927,7 +9823,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 146,
+      "TotalEvents": 145,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9937,37 +9833,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 8,
+      "TotalEvents": 10,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Stad Roeselare",
-          "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stad-roeselare-6frc",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "bij de expo Grondvesten van Griet Dobbels",
-          "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/bij-de-expo-grondvesten-van-griet-dobbels-q83j",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Larie - Gover Meit",
           "EventDate": "2026-10-02T00:00:00.0000000",
@@ -12015,7 +11885,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 81,
+      "TotalEvents": 82,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12041,19 +11911,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Nothing Bigger Than Humanity",
-          "EventDate": "2026-10-01T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/nothing-bigger-than-humanity-01-10-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Tiny Tunes: Iqnovara",
           "EventDate": "2026-10-02T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/tiny-tunes-iqnovara-02-10-26",
@@ -12078,6 +11935,19 @@
               "ActualValue": "2026-10-02T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Pieter Savenberg",
+          "EventDate": "2026-10-03T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/pieter-savenberg-03-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-03T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -12085,7 +11955,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 112,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12105,7 +11975,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 20,
+      "TotalEvents": 21,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12199,9 +12069,9 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 22,
+      "TotalEvents": 23,
       "ErrorCount": 0,
-      "WarningCount": 22,
+      "WarningCount": 23,
       "Issues": [],
       "EventDetails": [
         {
@@ -12292,6 +12162,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-22T22:00:00Z'.",
               "Severity": 1,
               "ActualValue": "2026-10-22T22:00:00Z"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Kunt Kill'Halloween",
+          "EventDate": "2026-10-23T22:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/kunt-killhalloween",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-23T22:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-23T22:00:00Z"
             }
           ]
         },
@@ -12387,7 +12270,7 @@
           ]
         },
         {
-          "EventTitle": "A Postcard from MORTIMER - A Live Acoustic Experience",
+          "EventTitle": "A Postcard from Mortimer - A Live Acoustic Experience",
           "EventDate": "2026-11-26T23:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/postcard-mortimer-live-acoustic-experience",
           "Issues": [
@@ -12506,7 +12389,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 67,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
