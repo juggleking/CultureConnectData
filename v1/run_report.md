@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-02T22:03:26.5786801Z
+**Generated At:** 2026-10-03T02:04:02.7141560Z
 **Total Scrapers Run:** 34
 
 ## ✅ Successful Scrapers
@@ -22,11 +22,11 @@
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 0 events across 0 monthly files.
 - **AffScraper**: Found 24 events across 6 monthly files.
-- **BotaniqueScraper**: Found 199 events across 7 monthly files.
+- **BotaniqueScraper**: Found 198 events across 7 monthly files.
 - **CactusMusicScraper**: Found 60 events across 7 monthly files.
-- **DeCasinoScraper**: Found 62 events across 8 monthly files.
+- **DeCasinoScraper**: Found 61 events across 8 monthly files.
 - **DemocrazyScraper**: Found 73 events across 7 monthly files.
-- **DeRomaScraper**: Found 147 events across 9 monthly files.
+- **DeRomaScraper**: Found 146 events across 9 monthly files.
 - **DeSteenovenScraper**: Found 64 events across 9 monthly files.
 - **DeZwerverScraper**: Found 10 events across 5 monthly files.
 - **FourAdScraper**: Found 14 events across 4 monthly files.
@@ -35,6 +35,6 @@
 - **N9Scraper**: Found 21 events across 5 monthly files.
 - **RivierenhofScraper**: Found 0 events across 0 monthly files.
 - **TrixScraper**: Found 0 events across 0 monthly files.
-- **VaartKapoenScraper**: Found 24 events across 6 monthly files.
-- **WildeWestenScraper**: Found 69 events across 8 monthly files.
+- **VaartKapoenScraper**: Found 23 events across 6 monthly files.
+- **WildeWestenScraper**: Found 68 events across 8 monthly files.
 - **WintercircusScraper**: Found 67 events across 12 monthly files.
