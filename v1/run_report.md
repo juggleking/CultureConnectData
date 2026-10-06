@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-06T02:03:21.3218191Z
+**Generated At:** 2026-10-06T06:03:18.0200340Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
@@ -24,7 +24,7 @@
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 0 events across 0 monthly files.
 - **AffScraper**: Found 24 events across 6 monthly files.
-- **BotaniqueScraper**: Found 45 events across 1 monthly files.
+- **BotaniqueScraper**: Found 192 events across 7 monthly files.
 - **CactusMusicScraper**: Found 60 events across 7 monthly files.
 - **DeCasinoScraper**: Found 60 events across 8 monthly files.
 - **DemocrazyScraper**: Found 75 events across 7 monthly files.
