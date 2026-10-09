@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-09T06:03:14.3048252Z
+**Generated At:** 2026-10-09T10:03:16.5618043Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
@@ -14,9 +14,9 @@
 - **CultuurhuisMerelbekeScraper**: Found 102 events across 8 monthly files.
 - **CultuurKnokkeHeistScraper**: Found 58 events across 8 monthly files.
 - **DeGrotePostScraper**: Found 12 events across 2 monthly files.
-- **DeKluizeScraper**: Found 80 events across 9 monthly files.
+- **DeKluizeScraper**: Found 79 events across 9 monthly files.
 - **DeMeentScraper**: Found 149 events across 8 monthly files.
-- **DeSpilScraper**: Found 13 events across 1 monthly files.
+- **DeSpilScraper**: Found 14 events across 1 monthly files.
 - **DeWerfScraper**: Found 120 events across 8 monthly files.
 - **EmotiaScraper**: Found 92 events across 9 monthly files.
 - **GildhofScraper**: Found 120 events across 9 monthly files.
@@ -24,14 +24,14 @@
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 0 events across 0 monthly files.
 - **AffScraper**: Found 24 events across 6 monthly files.
-- **BotaniqueScraper**: Found 190 events across 7 monthly files.
+- **BotaniqueScraper**: Found 192 events across 7 monthly files.
 - **CactusMusicScraper**: Found 59 events across 7 monthly files.
-- **DeCasinoScraper**: Found 59 events across 8 monthly files.
+- **DeCasinoScraper**: Found 60 events across 8 monthly files.
 - **DemocrazyScraper**: Found 76 events across 7 monthly files.
-- **DeRomaScraper**: Found 154 events across 9 monthly files.
+- **DeRomaScraper**: Found 152 events across 9 monthly files.
 - **DeSteenovenScraper**: Found 63 events across 9 monthly files.
 - **DeZwerverScraper**: Found 12 events across 5 monthly files.
-- **FourAdScraper**: Found 15 events across 5 monthly files.
+- **FourAdScraper**: Found 16 events across 6 monthly files.
 - **HaConcertsScraper**: Found 3 events across 1 monthly files.
 - **HetDepotScraper**: Found 114 events across 9 monthly files.
 - **N9Scraper**: Found 21 events across 6 monthly files.
