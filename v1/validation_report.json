@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-10-08T05:00:09.0620104Z",
-  "ValidatedAt": "2026-10-08T05:00:09.0620105Z",
+  "GeneratedAt": "2026-10-09T05:00:11.6383377Z",
+  "ValidatedAt": "2026-10-09T05:00:11.6383378Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2761,
+  "TotalEvents": 2808,
   "TotalErrors": 1,
-  "TotalWarnings": 906,
+  "TotalWarnings": 905,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 207,
+      "TotalEvents": 204,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4186,7 +4186,7 @@
       "ScraperId": "CcNovaWetteren",
       "ScraperName": "CcNovaWetterenScraper",
       "VenueName": "CC Nova, Wetteren",
-      "TotalEvents": 45,
+      "TotalEvents": 44,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4196,24 +4196,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 100,
+      "TotalEvents": 99,
       "ErrorCount": 0,
-      "WarningCount": 100,
+      "WarningCount": 99,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Michael Van Peel - Farce Majeure - LAATSTE KAARTEN!",
-          "EventDate": "2026-10-08",
-          "EventUrl": "https://cczoetegem.be/programma/michael-van-peel-farce-majeure.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-08"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciné Local in het bos: Le Chant des forêts",
           "EventDate": "2026-10-09",
@@ -5830,7 +5817,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 118,
+      "TotalEvents": 117,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8774,24 +8761,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 60,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "DJ Krush + Mister Critical",
-          "EventDate": "2026-10-08T00:00:00",
-          "EventUrl": "https://decasino.be/concert/dj-krush/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-08T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-08T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Monolord + Dopelord",
           "EventDate": "2026-10-09T00:00:00",
@@ -9575,7 +9549,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 96,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9590,19 +9564,6 @@
       "WarningCount": 5,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "30 YEARS ANNIVERSARY TOUR",
-          "EventDate": "2026-10-08T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/30-years-anniversary-tour-m5c2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-08T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-08T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Dans les Rushes",
           "EventDate": "2026-10-09T00:00:00.0000000",
@@ -9652,6 +9613,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-13T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Being Britney - Colette Goossens",
+          "EventDate": "2026-10-14T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/being-britney-nrsv",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14T00:00:00.0000000"
             }
           ]
         }
@@ -10491,9 +10465,9 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 11,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 12,
       "Issues": [],
       "EventDetails": [
         {
@@ -10627,6 +10601,19 @@
           ]
         },
         {
+          "EventTitle": "16 HORSEPOWER",
+          "EventDate": "2026-04-12T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/282-16-horsepower/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-04-12T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-04-12T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "ALBERTA CROSS",
           "EventDate": "2026-04-14T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/280-alberta-cross/",
@@ -10650,19 +10637,6 @@
       "WarningCount": 76,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Skeler + c8o + LOSTMANE",
-          "EventDate": "2026-10-08",
-          "EventUrl": "https://www.democrazy.be/agenda/3235-skeler/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-08'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-08"
-            }
-          ]
-        },
         {
           "EventTitle": "Send in the Clowns presents a Cabaret Party",
           "EventDate": "2026-10-09",
@@ -10862,6 +10836,19 @@
           "EventTitle": "Uberdope",
           "EventDate": "2026-10-24",
           "EventUrl": "https://www.democrazy.be/agenda/3207-uberdope/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Uberdope afterparty",
+          "EventDate": "2026-10-24",
+          "EventUrl": "https://www.democrazy.be/agenda/3259-uberdope-uitgefeest/",
           "Issues": [
             {
               "Field": "DateString",
@@ -11660,7 +11647,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 151,
+      "TotalEvents": 149,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11720,7 +11707,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 115,
+      "TotalEvents": 114,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11730,7 +11717,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 160,
+      "TotalEvents": 161,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11839,19 +11826,6 @@
       "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "V-Kurated x BX.CULTURE - Ekany, Eddy Ape, Roxy Rose + Ms Mavy b2b BROWNSUGVR",
-          "EventDate": "2026-10-07T22:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/v-kurated-x-bxculture-ekany-eddy-ape-roxy-rose-ms-mavy-b2b-brownsugvr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-07T22:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-07T22:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "BCUC + Pemba | AB × VK",
           "EventDate": "2026-10-13T22:00:00Z",
@@ -12113,6 +12087,19 @@
           ]
         },
         {
+          "EventTitle": "Daniele Silvestri",
+          "EventDate": "2027-03-10T23:00:00Z",
+          "EventUrl": "https://www.vaartkapoen.be/activiteiten/daniele-silvestri",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-10T23:00:00Z'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-10T23:00:00Z"
+            }
+          ]
+        },
+        {
           "EventTitle": "Dyna, Lewis & The Soul Caravan",
           "EventDate": "2027-04-09T22:00:00Z",
           "EventUrl": "https://www.vaartkapoen.be/activiteiten/dyna-lewis-soul-caravan",
@@ -12131,7 +12118,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12141,7 +12128,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 69,
+      "TotalEvents": 67,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
