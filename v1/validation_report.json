@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-10-10T05:00:05.2469992Z",
-  "ValidatedAt": "2026-10-10T05:00:05.2469993Z",
+  "GeneratedAt": "2026-10-11T05:00:07.4549825Z",
+  "ValidatedAt": "2026-10-11T05:00:07.4549826Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2806,
+  "TotalEvents": 2780,
   "TotalErrors": 1,
-  "TotalWarnings": 903,
+  "TotalWarnings": 898,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 208,
+      "TotalEvents": 206,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 189,
+      "TotalEvents": 185,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3237,24 +3237,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Benenwerk Indoor - Classix Edition ft. VJ Alex van Oostrom",
-          "EventDate": "2026-10-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/benenwerk-indoor-classix",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Bizkit Park + Aeveris - extra show",
           "EventDate": "2026-10-11T00:00:00.0000000",
@@ -4022,7 +4009,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 125,
+      "TotalEvents": 124,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4037,19 +4024,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "KH Vooruit, Florestan Bataillie en Jan Dewilde - Het verhaal van Benoit",
-          "EventDate": "2026-10-10",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=f8550c40-dfa0-4293-8b44-29f0224b6e44&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10"
-            }
-          ]
-        },
         {
           "EventTitle": "Campus Eilandstraat: Ine Van Wymersch - Zwijgrecht",
           "EventDate": "2026-10-15",
@@ -4166,6 +4140,19 @@
               "ActualValue": "2026-11-12"
             }
           ]
+        },
+        {
+          "EventTitle": "Marble Sounds",
+          "EventDate": "2026-11-13",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=d7d53fc8-4ced-49c4-8fb8-8635983739aa&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-13"
+            }
+          ]
         }
       ]
     },
@@ -4183,24 +4170,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 99,
+      "TotalEvents": 98,
       "ErrorCount": 0,
-      "WarningCount": 99,
+      "WarningCount": 98,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Onbespreekbaar? Laten we erover praten!",
-          "EventDate": "2026-10-10",
-          "EventUrl": "https://cczoetegem.be/programma/onbespreekbaar-laten-we-erover-praten.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10"
-            }
-          ]
-        },
         {
           "EventTitle": "Peter Adriaenssens - De flexgeneratie - UITVERKOCHT!",
           "EventDate": "2026-10-12",
@@ -5481,24 +5455,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 25,
+      "TotalEvents": 24,
       "ErrorCount": 0,
-      "WarningCount": 25,
+      "WarningCount": 24,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Naomi Celis + Precious Mascarina",
-          "EventDate": "2026-10-09",
-          "EventUrl": "https://aff.be/events/naomicelis/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-09'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-09"
-            }
-          ]
-        },
         {
           "EventTitle": "Fence + Bed Rugs",
           "EventDate": "2026-10-16",
@@ -5817,7 +5778,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 116,
+      "TotalEvents": 115,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7414,7 +7375,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 91,
+      "TotalEvents": 89,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7424,24 +7385,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 102,
+      "TotalEvents": 101,
       "ErrorCount": 0,
-      "WarningCount": 102,
+      "WarningCount": 101,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Mystica",
-          "EventDate": "2026-10-10",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/mystica",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10"
-            }
-          ]
-        },
         {
           "EventTitle": "Chromatique 2,5+",
           "EventDate": "2026-10-11",
@@ -8761,24 +8709,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kate Ryan Live",
-          "EventDate": "2026-10-10T00:00:00",
-          "EventUrl": "https://decasino.be/concert/kate-ryan-live/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Future Palace + As Everything Unfolds + Luna Kills",
           "EventDate": "2026-10-11T00:00:00",
@@ -9536,7 +9471,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 154,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9546,24 +9481,11 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 15,
+      "TotalEvents": 12,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "De Tuin der Onrusten",
-          "EventDate": "2026-10-10T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/de-tuin-der-onrusten-ryhg",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "The Sessions",
           "EventDate": "2026-10-12T00:00:00.0000000",
@@ -9615,6 +9537,32 @@
               "ActualValue": "2026-10-16T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Grondvesten - Griet Dobbels",
+          "EventDate": "2026-10-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/grondvesten-q838",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "TA MAL OU",
+          "EventDate": "2026-10-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/ta-mal-ou-9cyr",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-18T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -9622,24 +9570,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 62,
+      "TotalEvents": 61,
       "ErrorCount": 0,
-      "WarningCount": 62,
+      "WarningCount": 61,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Eén Zee | DE VADER",
-          "EventDate": "2026-10-10T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/een-zee--de-vader?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "DEREK & De Tedere Kompanen - Release HUNKER",
           "EventDate": "2026-10-15T00:00:00.0000000",
@@ -11624,19 +11559,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Sara Correia",
-          "EventDate": "2026-10-10T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/sara-correia-10-10-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-10T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-10T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Lennert Jacobs / Adia Vanheerentals / Thijs Troch",
           "EventDate": "2026-10-11T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/lennert-jacobs-adia-vanheerentals-thijs-troch-11-10-26",
@@ -11661,6 +11583,19 @@
               "ActualValue": "2026-10-12T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Telehiv",
+          "EventDate": "2026-10-14T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/telehiv-14-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-14T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -11668,7 +11603,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 113,
+      "TotalEvents": 112,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11678,7 +11613,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 160,
+      "TotalEvents": 159,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11688,7 +11623,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 20,
+      "TotalEvents": 19,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11722,7 +11657,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 165,
+      "TotalEvents": 163,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -12092,7 +12027,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
