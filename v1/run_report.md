@@ -1,10 +1,10 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-15T02:03:23.1654611Z
+**Generated At:** 2026-10-15T06:03:13.6594468Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
-- **CeciliaScraper**: Found 113 events across 9 monthly files.
+- **CeciliaScraper**: Found 0 events across 0 monthly files.
 - **ToneelhuisScraper**: Found 166 events across 9 monthly files.
 - **CcAntwerpenScraper**: Found 209 events across 9 monthly files.
 - **CcBruggeScraper**: Found 12 events across 2 monthly files.
