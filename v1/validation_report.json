@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-10-15T05:00:09.2880356Z",
-  "ValidatedAt": "2026-10-15T05:00:09.2880357Z",
+  "GeneratedAt": "2026-10-16T05:00:06.6010134Z",
+  "ValidatedAt": "2026-10-16T05:00:06.6010134Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2779,
+  "TotalEvents": 2764,
   "TotalErrors": 1,
-  "TotalWarnings": 892,
+  "TotalWarnings": 886,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 209,
+      "TotalEvents": 202,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 185,
+      "TotalEvents": 186,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3237,24 +3237,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "High Hi + uwase",
-          "EventDate": "2026-10-15T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/high-hi",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Villa Bota",
           "EventDate": "2026-10-17T00:00:00.0000000",
@@ -3919,9 +3906,9 @@
           ]
         },
         {
-          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
+          "EventTitle": "Richard Thompson & band + Danny Bradley",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
           "Issues": [
             {
               "Field": "DateString",
@@ -3932,9 +3919,9 @@
           ]
         },
         {
-          "EventTitle": "Richard Thompson & band + Danny Bradley",
+          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
           "Issues": [
             {
               "Field": "DateString",
@@ -4009,7 +3996,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 140,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4024,19 +4011,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Campus Eilandstraat: Ine Van Wymersch - Zwijgrecht",
-          "EventDate": "2026-10-15",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=594985e3-2a00-4c26-bdeb-03dfb86d6eca&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15"
-            }
-          ]
-        },
         {
           "EventTitle": "Wannes Cappelle - Verstaanbaar",
           "EventDate": "2026-10-17",
@@ -4153,6 +4127,19 @@
               "ActualValue": "2026-11-13"
             }
           ]
+        },
+        {
+          "EventTitle": "NEXT - Lola Arias: Androgynous. Portrait of a naked dancer",
+          "EventDate": "2026-11-14",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=d39292ea-5eb3-4528-bdb3-058cd714e075&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-14'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-14"
+            }
+          ]
         }
       ]
     },
@@ -4170,24 +4157,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 97,
+      "TotalEvents": 96,
       "ErrorCount": 0,
-      "WarningCount": 97,
+      "WarningCount": 96,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Bas Birker - Twee procent",
-          "EventDate": "2026-10-15",
-          "EventUrl": "https://cczoetegem.be/programma/bas-birker-twee-procent.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15"
-            }
-          ]
-        },
         {
           "EventTitle": "Zilverscherm - Zondag de negenste",
           "EventDate": "2026-10-19",
@@ -5500,7 +5474,7 @@
           ]
         },
         {
-          "EventTitle": "Johnny van Riems + Kregel",
+          "EventTitle": "Johnny van Riems + Kregel + Batteraaf",
           "EventDate": "2026-10-24",
           "EventUrl": "https://aff.be/events/johnnyvanriems/",
           "Issues": [
@@ -5765,7 +5739,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 113,
+      "TotalEvents": 112,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5775,7 +5749,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7372,24 +7346,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 94,
+      "TotalEvents": 93,
       "ErrorCount": 0,
-      "WarningCount": 94,
+      "WarningCount": 93,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Conclave",
-          "EventDate": "2026-10-15",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/conclave",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15"
-            }
-          ]
-        },
         {
           "EventTitle": "Absynthe Minded",
           "EventDate": "2026-10-16",
@@ -8611,20 +8572,7 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Carte Blanche / Sem Cappaert invites",
-          "EventDate": "2026-10-15T00:00:00",
-          "EventUrl": "https://decasino.be/concert/carte-blanche-sem-cappaert-invites/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "High Hi + Rosie Stuart",
+          "EventTitle": "High Hi",
           "EventDate": "2026-10-16T00:00:00",
           "EventUrl": "https://decasino.be/concert/high-hi-2/",
           "Issues": [
@@ -8663,9 +8611,9 @@
           ]
         },
         {
-          "EventTitle": "Club Casino / Dyango Unchained",
+          "EventTitle": "Novastar (solo)",
           "EventDate": "2026-10-23T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-casino-dyango-unchained/",
+          "EventUrl": "https://decasino.be/concert/novastar-solo/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8676,9 +8624,9 @@
           ]
         },
         {
-          "EventTitle": "Novastar (solo)",
+          "EventTitle": "Club Casino / Dyango Unchained",
           "EventDate": "2026-10-23T00:00:00",
-          "EventUrl": "https://decasino.be/concert/novastar-solo/",
+          "EventUrl": "https://decasino.be/concert/club-casino-dyango-unchained/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8919,6 +8867,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-21T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-11-21T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Aan tafel by Nova",
+          "EventDate": "2026-11-22T00:00:00",
+          "EventUrl": "https://decasino.be/concert/aan-tafel-by-nova/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-22T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-22T00:00:00"
             }
           ]
         },
@@ -9440,24 +9401,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 67,
+      "TotalEvents": 66,
       "ErrorCount": 0,
-      "WarningCount": 67,
+      "WarningCount": 66,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "DEREK & De Tedere Kompanen - Release HUNKER",
-          "EventDate": "2026-10-15T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/derek---release-hunker?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "BERLAEN - Lui zweet",
           "EventDate": "2026-10-17T00:00:00.0000000",
@@ -10489,37 +10437,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 74,
+      "TotalEvents": 72,
       "ErrorCount": 1,
-      "WarningCount": 74,
+      "WarningCount": 72,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Uberdope (extra show)",
-          "EventDate": "2026-10-15",
-          "EventUrl": "https://www.democrazy.be/agenda/3214-uberdope/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15"
-            }
-          ]
-        },
-        {
-          "EventTitle": "WASTE",
-          "EventDate": "2026-10-15",
-          "EventUrl": "https://www.democrazy.be/agenda/3186-waste/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-15'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-15"
-            }
-          ]
-        },
         {
           "EventTitle": "Humo's Rock Rally '26: Halve Finale",
           "EventDate": "2026-10-16",
@@ -11538,7 +11460,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 114,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11548,7 +11470,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 155,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
