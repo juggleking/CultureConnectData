@@ -1,12 +1,12 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-17T10:03:21.2607802Z
+**Generated At:** 2026-10-17T14:03:12.1576920Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
 - **CeciliaScraper**: Found 111 events across 9 monthly files.
 - **ToneelhuisScraper**: Found 164 events across 9 monthly files.
-- **CcAntwerpenScraper**: Found 202 events across 9 monthly files.
+- **CcAntwerpenScraper**: Found 201 events across 9 monthly files.
 - **CcBruggeScraper**: Found 12 events across 2 monthly files.
 - **CCHetSpoorScraper**: Found 10 events across 2 monthly files.
 - **CcNovaWetterenScraper**: Found 42 events across 7 monthly files.
@@ -38,5 +38,5 @@
 - **RivierenhofScraper**: Found 0 events across 0 monthly files.
 - **TrixScraper**: Found 0 events across 0 monthly files.
 - **VaartKapoenScraper**: Found 22 events across 7 monthly files.
-- **WildeWestenScraper**: Found 68 events across 9 monthly files.
+- **WildeWestenScraper**: Found 69 events across 9 monthly files.
 - **WintercircusScraper**: Found 60 events across 12 monthly files.
