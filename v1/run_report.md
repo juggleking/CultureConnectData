@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-10-19T14:03:07.4282786Z
+**Generated At:** 2026-10-19T18:03:31.6565715Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
@@ -14,8 +14,8 @@
 - **CultuurhuisMerelbekeScraper**: Found 91 events across 8 monthly files.
 - **CultuurKnokkeHeistScraper**: Found 55 events across 8 monthly files.
 - **DeGrotePostScraper**: Found 14 events across 2 monthly files.
-- **DeKluizeScraper**: Found 75 events across 9 monthly files.
-- **DeMeentScraper**: Found 139 events across 8 monthly files.
+- **DeKluizeScraper**: Found 70 events across 9 monthly files.
+- **DeMeentScraper**: Found 137 events across 8 monthly files.
 - **DeSpilScraper**: Found 12 events across 1 monthly files.
 - **DeWerfScraper**: Found 120 events across 8 monthly files.
 - **EmotiaScraper**: Found 88 events across 9 monthly files.
@@ -24,11 +24,11 @@
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 0 events across 0 monthly files.
 - **AffScraper**: Found 21 events across 6 monthly files.
-- **BotaniqueScraper**: Found 184 events across 9 monthly files.
+- **BotaniqueScraper**: Found 185 events across 9 monthly files.
 - **CactusMusicScraper**: Found 54 events across 7 monthly files.
 - **DeCasinoScraper**: Found 54 events across 8 monthly files.
 - **DemocrazyScraper**: Found 69 events across 7 monthly files.
-- **DeRomaScraper**: Found 150 events across 9 monthly files.
+- **DeRomaScraper**: Found 96 events across 5 monthly files.
 - **DeSteenovenScraper**: Found 65 events across 9 monthly files.
 - **DeZwerverScraper**: Found 12 events across 5 monthly files.
 - **FourAdScraper**: Found 15 events across 6 monthly files.
@@ -39,4 +39,4 @@
 - **TrixScraper**: Found 0 events across 0 monthly files.
 - **VaartKapoenScraper**: Found 21 events across 7 monthly files.
 - **WildeWestenScraper**: Found 66 events across 9 monthly files.
-- **WintercircusScraper**: Found 60 events across 12 monthly files.
+- **WintercircusScraper**: Found 62 events across 13 monthly files.
