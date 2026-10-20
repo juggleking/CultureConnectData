@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-10-19T05:00:05.7520882Z",
-  "ValidatedAt": "2026-10-19T05:00:05.7520882Z",
+  "GeneratedAt": "2026-10-20T05:00:14.8051483Z",
+  "ValidatedAt": "2026-10-20T05:00:14.8051484Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2719,
+  "TotalEvents": 2715,
   "TotalErrors": 1,
   "TotalWarnings": 874,
   "Results": [
@@ -4131,24 +4131,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 96,
+      "TotalEvents": 95,
       "ErrorCount": 0,
-      "WarningCount": 96,
+      "WarningCount": 95,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Zilverscherm - Zondag de negenste",
-          "EventDate": "2026-10-19",
-          "EventUrl": "https://cczoetegem.be/programma/zilverscherm-zondag-de-negenste.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-19'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-19"
-            }
-          ]
-        },
         {
           "EventTitle": "Ciné Local: I Swear",
           "EventDate": "2026-10-20",
@@ -4527,7 +4514,7 @@
           ]
         },
         {
-          "EventTitle": "Wannes Cappelle - Verstaanbaar",
+          "EventTitle": "Wannes Cappelle - Verstaanbaar - LAATSTE KAARTEN!",
           "EventDate": "2026-11-26",
           "EventUrl": "https://cczoetegem.be/programma/wannes-cappelle-verstaanbaar.aspx",
           "Issues": [
@@ -4735,7 +4722,7 @@
           ]
         },
         {
-          "EventTitle": "David Lynch - Twin Peaks Marathon (seizoen 1)",
+          "EventTitle": "David Lynch - Twin Peaks Marathon (seizoen 1) - GEANNULEERD!",
           "EventDate": "2026-12-19",
           "EventUrl": "https://cczoetegem.be/programma/david-lynch-twin-peaks-marathon-1.aspx",
           "Issues": [
@@ -4956,7 +4943,7 @@
           ]
         },
         {
-          "EventTitle": "David Lynch - Twin Peaks Marathon (seizoen 2)",
+          "EventTitle": "David Lynch - Twin Peaks Marathon (seizoen 2) - GEANNULEERD!",
           "EventDate": "2027-02-06",
           "EventUrl": "https://cczoetegem.be/programma/david-lynch-twin-peaks-marathon-2.aspx",
           "Issues": [
@@ -8475,9 +8462,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 53,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
         {
@@ -8845,9 +8832,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8858,9 +8845,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8919,6 +8906,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-11T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-12-11T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Vosfuif",
+          "EventDate": "2026-12-12T00:00:00",
+          "EventUrl": "https://decasino.be/concert/vosfuif-6/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-12T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-12T00:00:00"
             }
           ]
         },
@@ -9199,7 +9199,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 149,
+      "TotalEvents": 150,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11261,7 +11261,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 75,
+      "TotalEvents": 70,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11271,7 +11271,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 139,
+      "TotalEvents": 137,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11739,7 +11739,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 60,
+      "TotalEvents": 62,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
