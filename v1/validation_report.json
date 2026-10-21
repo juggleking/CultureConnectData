@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-10-20T05:00:14.8051483Z",
-  "ValidatedAt": "2026-10-20T05:00:14.8051484Z",
+  "GeneratedAt": "2026-10-21T05:00:14.1455369Z",
+  "ValidatedAt": "2026-10-21T05:00:14.145537Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2715,
+  "TotalEvents": 2721,
   "TotalErrors": 1,
-  "TotalWarnings": 874,
+  "TotalWarnings": 876,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 199,
+      "TotalEvents": 200,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 183,
+      "TotalEvents": 180,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -3986,19 +3986,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Campus Eilandstraat: Wim Rasschaert - De zoektocht naar De Rechtvaardige Rechters",
-          "EventDate": "2026-10-20",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=896249b8-447d-41c5-98df-d0cfb88fdb77&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-20'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-20"
-            }
-          ]
-        },
-        {
           "EventTitle": "Leue met An Miller en Koen Vanmechelen - Ode aan de verwondering",
           "EventDate": "2026-10-23",
           "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=3803a60d-3fdf-47b3-9603-d0f9e91174ad&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
@@ -4114,6 +4101,19 @@
               "ActualValue": "2026-11-15"
             }
           ]
+        },
+        {
+          "EventTitle": "Ultima Thule - Alles Kapot",
+          "EventDate": "2026-11-18",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=0467791d-7a98-48b5-b00e-833107a195e2&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-18"
+            }
+          ]
         }
       ]
     },
@@ -4131,24 +4131,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 95,
+      "TotalEvents": 96,
       "ErrorCount": 0,
-      "WarningCount": 95,
+      "WarningCount": 96,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ciné Local: I Swear",
-          "EventDate": "2026-10-20",
-          "EventUrl": "https://cczoetegem.be/programma/cine-local-i-swear.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-20'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-20"
-            }
-          ]
-        },
         {
           "EventTitle": "Xander De Rycke",
           "EventDate": "2026-10-21",
@@ -4748,6 +4735,19 @@
           ]
         },
         {
+          "EventTitle": "Ciné Local openingsfilm: Coward",
+          "EventDate": "2027-01-05",
+          "EventUrl": "https://cczoetegem.be/programma/cine-local-openingsfilm-coward.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-05"
+            }
+          ]
+        },
+        {
           "EventTitle": "Tom Hannes en The Moonlovers - Bowie 80: Many Returns of the Day (try-out)",
           "EventDate": "2027-01-07",
           "EventUrl": "https://cczoetegem.be/programma/tom-hannes-en-the-moonlovers-bowie-80-many-returns-of-the-day-tryout.aspx",
@@ -4887,6 +4887,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-30'.",
               "Severity": 1,
               "ActualValue": "2027-01-30"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Zilverscherm: Heysel 85",
+          "EventDate": "2027-02-01",
+          "EventUrl": "https://cczoetegem.be/programma/zilverscherm-heysel-85.aspx",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-01'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-01"
             }
           ]
         },
@@ -7258,7 +7271,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 88,
+      "TotalEvents": 91,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8767,7 +8780,7 @@
           ]
         },
         {
-          "EventTitle": "Geoff Tate",
+          "EventTitle": "Geoff Tate + Inner Vitriol",
           "EventDate": "2026-11-27T00:00:00",
           "EventUrl": "https://decasino.be/concert/geoff-tate/",
           "Issues": [
@@ -9199,7 +9212,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 150,
+      "TotalEvents": 151,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9209,9 +9222,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 12,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 8,
+      "WarningCount": 7,
       "Issues": [],
       "EventDetails": [
         {
@@ -9224,19 +9237,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - Omaha",
-          "EventDate": "2026-10-20T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-4mq9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-20T00:00:00.0000000"
             }
           ]
         },
@@ -10212,7 +10212,7 @@
           ]
         },
         {
-          "EventTitle": "BLOODSPORTS + support",
+          "EventTitle": "BLOODSPORTS + DRUUGG",
           "EventDate": "2026-11-02T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/261-bloodsports/",
           "Issues": [
@@ -10347,9 +10347,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 69,
+      "TotalEvents": 71,
       "ErrorCount": 1,
-      "WarningCount": 69,
+      "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
         {
@@ -10996,6 +10996,19 @@
           ]
         },
         {
+          "EventTitle": "RANT. ALBUM RELEASE",
+          "EventDate": "2027-02-04",
+          "EventUrl": "https://www.democrazy.be/agenda/3266-rant.-album-release/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-04"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ana Lua Caiano",
           "EventDate": "2027-02-09",
           "EventUrl": "https://www.democrazy.be/agenda/3251-ana-lua-caiano/",
@@ -11165,6 +11178,19 @@
           ]
         },
         {
+          "EventTitle": "Other Lives",
+          "EventDate": "2027-03-21",
+          "EventUrl": "https://www.democrazy.be/agenda/3264-other-lives/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-21'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-21"
+            }
+          ]
+        },
+        {
           "EventTitle": "Lenny Lenny",
           "EventDate": "2027-03-25",
           "EventUrl": "https://www.democrazy.be/agenda/3253-lenny-lenny/",
@@ -11287,19 +11313,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Laniakea + Jozef Dumoulin",
-          "EventDate": "2026-10-20T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/laniakea-jozef-dumoulin-20-10-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-20T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-20T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Stef Kamil Carlens & The Poem",
           "EventDate": "2026-10-22T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/stef-kamil-carlens-en-the-poem-22-10-26",
@@ -11324,6 +11337,19 @@
               "ActualValue": "2026-10-24T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Zap Mama & K.ZIA",
+          "EventDate": "2026-10-24T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/zap-mama-en-k.zia-24-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-24T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -11331,7 +11357,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 112,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11341,7 +11367,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 151,
+      "TotalEvents": 150,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11385,7 +11411,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 163,
+      "TotalEvents": 162,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11729,7 +11755,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 66,
+      "TotalEvents": 65,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
