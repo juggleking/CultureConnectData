@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-10-21T05:00:14.1455369Z",
-  "ValidatedAt": "2026-10-21T05:00:14.145537Z",
+  "GeneratedAt": "2026-10-22T05:00:10.4793958Z",
+  "ValidatedAt": "2026-10-22T05:00:10.4793958Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2721,
+  "TotalEvents": 2726,
   "TotalErrors": 1,
-  "TotalWarnings": 876,
+  "TotalWarnings": 878,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 200,
+      "TotalEvents": 201,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3237,9 +3237,9 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 54,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
         {
@@ -3360,7 +3360,7 @@
           ]
         },
         {
-          "EventTitle": "Tsar B",
+          "EventTitle": "Tsar B + Frederik Daelemans",
           "EventDate": "2026-11-04T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/tsar-b",
           "Issues": [
@@ -3460,6 +3460,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-13T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Senses",
+          "EventDate": "2026-11-14T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/senses",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-14T00:00:00.0000000"
             }
           ]
         },
@@ -3724,6 +3737,19 @@
           ]
         },
         {
+          "EventTitle": "Trixie Whitley",
+          "EventDate": "2027-03-03T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/trixie-whitley",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Mad Caddies",
           "EventDate": "2027-03-04T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/mad-caddies",
@@ -3970,7 +3996,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 140,
+      "TotalEvents": 139,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4131,24 +4157,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 96,
+      "TotalEvents": 95,
       "ErrorCount": 0,
-      "WarningCount": 96,
+      "WarningCount": 95,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Xander De Rycke",
-          "EventDate": "2026-10-21",
-          "EventUrl": "https://cczoetegem.be/programma/xander-de-rycke.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Xander De Rycke",
           "EventDate": "2026-10-22",
@@ -5390,9 +5403,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 21,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 21,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
         {
@@ -5639,6 +5652,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-11'.",
               "Severity": 1,
               "ActualValue": "2027-03-11"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Trixie Whitley",
+          "EventDate": "2027-03-13",
+          "EventUrl": "https://aff.be/events/trixiewhitley/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-13'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-13"
             }
           ]
         },
@@ -7271,7 +7297,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 91,
+      "TotalEvents": 90,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7281,24 +7307,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 91,
+      "TotalEvents": 90,
       "ErrorCount": 0,
-      "WarningCount": 91,
+      "WarningCount": 90,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Auteur op de planken",
-          "EventDate": "2026-10-21",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/auteur-op-de-planken-6",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Inclusief theateratelier BRUUT",
           "EventDate": "2026-10-24",
@@ -9212,7 +9225,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 151,
+      "TotalEvents": 153,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9222,9 +9235,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 15,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -9237,19 +9250,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kwintetten van Mozart & Beethoven",
-          "EventDate": "2026-10-21T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kwintetten-van-mozart-beethoven-ry34",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21T00:00:00.0000000"
             }
           ]
         },
@@ -10186,19 +10186,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "DELIVERY + Kookaburra",
-          "EventDate": "2026-10-21T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/274-delivery/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21T00:00:00"
-            }
-          ]
-        },
-        {
           "EventTitle": "THE SUBWAYS + Cheap Cult",
           "EventDate": "2026-10-23T00:00:00",
           "EventUrl": "https://www.dezwerver.be/agenda/273-the-subways-cheap-cult/",
@@ -10340,6 +10327,19 @@
               "ActualValue": "2027-04-12T00:00:00"
             }
           ]
+        },
+        {
+          "EventTitle": "ALBERTA CROSS",
+          "EventDate": "2027-04-14T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/280-alberta-cross/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-14T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-14T00:00:00"
+            }
+          ]
         }
       ]
     },
@@ -10347,24 +10347,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 71,
+      "TotalEvents": 73,
       "ErrorCount": 1,
-      "WarningCount": 71,
+      "WarningCount": 73,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Berre",
-          "EventDate": "2026-10-21",
-          "EventUrl": "https://www.democrazy.be/agenda/3203-berre/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-21"
-            }
-          ]
-        },
         {
           "EventTitle": "Dotan",
           "EventDate": "2026-10-22",
@@ -11113,6 +11100,19 @@
           ]
         },
         {
+          "EventTitle": "Trixie Whitley",
+          "EventDate": "2027-03-06",
+          "EventUrl": "https://www.democrazy.be/agenda/3263-trixie-whitley/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-06'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-06"
+            }
+          ]
+        },
+        {
           "EventTitle": "RONKER + Stoelen en Banken",
           "EventDate": "2027-03-11",
           "EventUrl": "https://www.democrazy.be/agenda/3238-ronker-stoelen-en-banken/",
@@ -11280,6 +11280,32 @@
               "ActualValue": "2027-04-29"
             }
           ]
+        },
+        {
+          "EventTitle": "Codeine",
+          "EventDate": "2027-05-26",
+          "EventUrl": "https://www.democrazy.be/agenda/3262-codeine/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-26'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-26"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sivert Høyem",
+          "EventDate": "2027-09-29",
+          "EventUrl": "https://www.democrazy.be/agenda/3265-sivert-hoyem/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-09-29'.",
+              "Severity": 1,
+              "ActualValue": "2027-09-29"
+            }
+          ]
         }
       ]
     },
@@ -11297,7 +11323,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 137,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11411,7 +11437,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 162,
+      "TotalEvents": 158,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -11755,7 +11781,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 65,
+      "TotalEvents": 66,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
