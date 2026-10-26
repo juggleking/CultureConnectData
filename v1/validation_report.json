@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-10-25T06:00:06.951035Z",
-  "ValidatedAt": "2026-10-25T06:00:06.9510351Z",
+  "GeneratedAt": "2026-10-26T06:00:04.1158625Z",
+  "ValidatedAt": "2026-10-26T06:00:04.1158625Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2625,
+  "TotalEvents": 2621,
   "TotalErrors": 1,
-  "TotalWarnings": 872,
+  "TotalWarnings": 862,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 192,
+      "TotalEvents": 191,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3263,24 +3263,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 57,
+      "TotalEvents": 56,
       "ErrorCount": 0,
-      "WarningCount": 57,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Wolves In The Throne Room + Oranssi Pazuzu + Worm + Mur + Final Dose + Primitive Warfare",
-          "EventDate": "2026-10-25T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/bruges-is-doomed-festival",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Personal Trainer + Spike Fuck",
           "EventDate": "2026-10-27T00:00:00.0000000",
@@ -3425,9 +3412,9 @@
           ]
         },
         {
-          "EventTitle": "Spike and The Gimme Gimmes + The Priceduifkes",
+          "EventTitle": "8BRUISEND",
           "EventDate": "2026-11-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/spike-and-the-gimme-gimmes",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/8bruisend",
           "Issues": [
             {
               "Field": "DateString",
@@ -3438,9 +3425,9 @@
           ]
         },
         {
-          "EventTitle": "8BRUISEND",
+          "EventTitle": "Spike and The Gimme Gimmes + The Priceduifkes",
           "EventDate": "2026-11-10T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/8bruisend",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/spike-and-the-gimme-gimmes",
           "Issues": [
             {
               "Field": "DateString",
@@ -4035,7 +4022,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 135,
+      "TotalEvents": 133,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -4050,19 +4037,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Günther Neefs - Nostalgisch",
-          "EventDate": "2026-10-25",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=95d6f20e-b1b3-452d-bb26-92b99abf73bc&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25"
-            }
-          ]
-        },
         {
           "EventTitle": "CinéHa: IT",
           "EventDate": "2026-10-30",
@@ -4179,6 +4153,19 @@
               "ActualValue": "2026-11-19"
             }
           ]
+        },
+        {
+          "EventTitle": "Steven Mahieu - Stabieler",
+          "EventDate": "2026-11-21",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=e9fdfca3-3bb3-41ab-83b1-9c68059274eb&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-21"
+            }
+          ]
         }
       ]
     },
@@ -4196,24 +4183,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 96,
+      "TotalEvents": 95,
       "ErrorCount": 0,
-      "WarningCount": 96,
+      "WarningCount": 95,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Apero Klassiek - License to Reed",
-          "EventDate": "2026-10-25",
-          "EventUrl": "https://cczoetegem.be/programma/apero-klassiek-license-to-reed.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25"
-            }
-          ]
-        },
         {
           "EventTitle": "3de graad secundair: Altijd aan - Pieter Verelst",
           "EventDate": "2026-10-27",
@@ -5455,24 +5429,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 21,
+      "TotalEvents": 20,
       "ErrorCount": 0,
-      "WarningCount": 21,
+      "WarningCount": 20,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Johnny van Riems + Kregel + Batteraaf",
-          "EventDate": "2026-10-24",
-          "EventUrl": "https://aff.be/events/johnnyvanriems/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-24'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-24"
-            }
-          ]
-        },
         {
           "EventTitle": "Personal Trainer + Tracey Nelson + Stoop Kid + Tin Fingers",
           "EventDate": "2026-10-29",
@@ -5739,83 +5700,17 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 73,
+      "TotalEvents": 84,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Dood hoezo dood",
-          "EventDate": "2027-03-11T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/dood-hoezo-dood",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Witte weelde",
-          "EventDate": "2027-03-17T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/witte-weelde",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "De Distributieriem",
-          "EventDate": "2027-03-19T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/de-distributieriem",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-19T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Inter:view",
-          "EventDate": "2027-02-18T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/interview",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-18T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "B.I.G.T (But it's getting there)",
-          "EventDate": "2027-02-19T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/b-i-g-t-but-its-getting-there",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-19T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-19T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7412,37 +7307,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 88,
+      "TotalEvents": 86,
       "ErrorCount": 0,
-      "WarningCount": 88,
+      "WarningCount": 86,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "La Florestita 4+",
-          "EventDate": "2026-10-25",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-florestita-4",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25"
-            }
-          ]
-        },
-        {
-          "EventTitle": "La Florestita 4+",
-          "EventDate": "2026-10-25",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-florestita-4-0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25"
-            }
-          ]
-        },
         {
           "EventTitle": "Le Chant des forêts (extra voorstelling)",
           "EventDate": "2026-10-26",
@@ -9291,7 +9160,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 148,
+      "TotalEvents": 147,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11259,7 +11128,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 135,
+      "TotalEvents": 133,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11275,32 +11144,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "NEKANDINSKIE (1-3 j)",
-          "EventDate": "2026-10-25T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/nekandinskie-1-3-j-25-10-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "NEKANDINSKIE (1-3 j) * 2de show",
-          "EventDate": "2026-10-25T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/nekandinskie-1-3-j-2de-show-25-10-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-25T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-25T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Ezhel",
           "EventDate": "2026-10-27T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/ezhel-27-10-26",
@@ -11310,6 +11153,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-27T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-27T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Danko Jones",
+          "EventDate": "2026-10-28T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/danko-jones-28-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Eliades Ochoa",
+          "EventDate": "2026-10-30T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/eliades-ochoa-30-10-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-10-30T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-10-30T00:00:00.0000000"
             }
           ]
         }
@@ -11329,7 +11198,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 146,
+      "TotalEvents": 145,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11339,7 +11208,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11704,7 +11573,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 64,
+      "TotalEvents": 63,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
