@@ -4,18 +4,8 @@
     "VenueId": "Cecilia",
     "VenueName": "Compagnie Cecilia, Gent",
     "Category": "Theatre",
-    "TotalEventsFound": 53,
+    "TotalEventsFound": 45,
     "MonthlyFiles": [
-      {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "cecilia-10-2026.json",
-        "FilePath": "events/theatre/cecilia/cecilia-10-2026.json",
-        "Hash": "7de3e9e415eeb605e5b9496336805a7f855ffd3a194b38a49cf7cb63097398bd",
-        "EventCount": 2,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 11,
         "Year": 2026,
@@ -57,32 +47,12 @@
         "ErrorMessage": null
       },
       {
-        "Month": 6,
-        "Year": 2027,
-        "FileName": "cecilia-06-2027.json",
-        "FilePath": "events/theatre/cecilia/cecilia-06-2027.json",
-        "Hash": "2f2822d6ab2326cf922b392dcd4b9d42ac8f4b57ae6fde106496920cba32e878",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
-        "Month": 7,
-        "Year": 2027,
-        "FileName": "cecilia-07-2027.json",
-        "FilePath": "events/theatre/cecilia/cecilia-07-2027.json",
-        "Hash": "77f01b76d817a4c6446efdc65e858aa7d943c95ba764b8144ced201ec17bdb51",
-        "EventCount": 7,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
         "Month": 1,
         "Year": 2027,
         "FileName": "cecilia-01-2027.json",
         "FilePath": "events/theatre/cecilia/cecilia-01-2027.json",
-        "Hash": "2fa70784bd69dd8439655bdf76fd316eb49d1b7074c4542f48e23cc9436bc1ff",
-        "EventCount": 10,
+        "Hash": "209fb4ed35f3c7f769a148b3fc8ce74fd0aab6ab72cfc88bebfb8c1d7c9934c2",
+        "EventCount": 12,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -99,39 +69,44 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:13.9642182Z",
-    "StartedAt": "2026-10-31T19:00:00.4075844Z",
-    "FinishedAt": "2026-10-31T19:00:13.964215Z",
+    "RunTime": "2026-10-31T23:00:11.71608Z",
+    "StartedAt": "2026-10-31T23:00:00.3604184Z",
+    "FinishedAt": "2026-10-31T23:00:11.7160778Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Laurie en Lou",
+        "DateString": "2027-01-28T00:00:00.0000000",
+        "Url": "https://compagnie-cecilia.be/nl/programma/laurie-en-lou",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_43479.jpg%3Fv%3D1793401266?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=8c79957093544d24f76978615f5abcd1",
+        "Location": "De Expeditie (Gent)",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0656",
+        "Longitude": "3.7308"
+      },
+      {
+        "Title": "Napels zien (en sterven)",
+        "DateString": "2027-01-29T00:00:00.0000000",
+        "Url": "https://compagnie-cecilia.be/nl/programma/napels-zien-en-sterven",
+        "ImageUrl": "https://amplify-cdn.glue.be/https%3A%2F%2Fcompagnie-cecilia.be%2Fvolumes%2Fgeneral%2FFeature_43522.jpg%3Fv%3D1793401272?auto=compress%2Cformat\u0026amp;crop=focalpoint\u0026amp;dpr=2\u0026amp;fit=crop\u0026amp;fp-x=0.5\u0026amp;fp-y=0.5\u0026amp;h=80\u0026amp;q=80\u0026amp;w=122\u0026amp;s=57317e6f01a4145a49ca7f0a4708d62c",
+        "Location": "De Expeditie (Gent)",
+        "Description": "",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0656",
+        "Longitude": "3.7308"
+      }
+    ]
   },
   {
     "ScraperName": "ToneelhuisScraper",
     "VenueId": "Toneelhuis",
     "VenueName": "Toneelhuis, Antwerpen",
     "Category": "Theatre",
-    "TotalEventsFound": 143,
+    "TotalEventsFound": 142,
     "MonthlyFiles": [
-      {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "toneelhuis-10-2026.json",
-        "FilePath": "events/theatre/toneelhuis/toneelhuis-10-2026.json",
-        "Hash": "856a3bcd72a7ffb8e672441957b52adf781667487f9ddc46eea6c19647578381",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
-        "Month": 3,
-        "Year": 2027,
-        "FileName": "toneelhuis-03-2027.json",
-        "FilePath": "events/theatre/toneelhuis/toneelhuis-03-2027.json",
-        "Hash": "1023d83eab59755c3d73be25aa31bc0b4974c123860db4fad3c7271fd1d56e76",
-        "EventCount": 30,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 11,
         "Year": 2026,
@@ -159,6 +134,16 @@
         "FilePath": "events/theatre/toneelhuis/toneelhuis-02-2027.json",
         "Hash": "d6af6cdcee222ed875fcb8384574b40ac8df4415a81bcab102622d6fb3625883",
         "EventCount": 16,
+        "Status": "Success",
+        "ErrorMessage": null
+      },
+      {
+        "Month": 3,
+        "Year": 2027,
+        "FileName": "toneelhuis-03-2027.json",
+        "FilePath": "events/theatre/toneelhuis/toneelhuis-03-2027.json",
+        "Hash": "c225eb422d4b700b0dd49e5b0ce8865b227c5d8bb40dcb2751d94f47801a7ac5",
+        "EventCount": 30,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -205,9 +190,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:32.5694469Z",
-    "StartedAt": "2026-10-31T19:00:00.4093885Z",
-    "FinishedAt": "2026-10-31T19:00:32.5694429Z",
+    "RunTime": "2026-10-31T23:00:36.5061254Z",
+    "StartedAt": "2026-10-31T23:00:00.3607369Z",
+    "FinishedAt": "2026-10-31T23:00:36.5061216Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
     "NewEvents": []
   },
@@ -216,7 +201,7 @@
     "VenueId": "CcAntwerpen",
     "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 172,
+    "TotalEventsFound": 167,
     "MonthlyFiles": [
       {
         "Month": 12,
@@ -293,17 +278,17 @@
         "Year": 2026,
         "FileName": "ccantwerpen-10-2026.json",
         "FilePath": "events/cultuurcentra/ccantwerpen/ccantwerpen-10-2026.json",
-        "Hash": "c8837e61886227d6a6d5531ba192df4143bc60e72956c1687759b3ab7493a81d",
-        "EventCount": 6,
+        "Hash": "64cadd9ce16d8041075bfbcc73b1f81e6979b727ce1fd11e87b564dcb2bd901a",
+        "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:07.8796908Z",
-    "StartedAt": "2026-10-31T19:00:00.4098177Z",
-    "FinishedAt": "2026-10-31T19:00:07.8796861Z",
+    "RunTime": "2026-10-31T23:00:08.0585188Z",
+    "StartedAt": "2026-10-31T23:00:00.3609568Z",
+    "FinishedAt": "2026-10-31T23:00:08.0585147Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -329,8 +314,8 @@
         "Year": 2026,
         "FileName": "ccbrugge-10-2026.json",
         "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-10-2026.json",
-        "Hash": "88151a3b78f42fb55e120ff428765c73bce1b6263d81184ca2c22f7a2f651d8d",
-        "EventCount": 2,
+        "Hash": "d2f85e42d64fad43ed3f14f886e3111f8499a9ee25cecb6118aa8b5940db8152",
+        "EventCount": 1,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -339,19 +324,32 @@
         "Year": 2026,
         "FileName": "ccbrugge-11-2026.json",
         "FilePath": "events/cultuurcentra/ccbrugge/ccbrugge-11-2026.json",
-        "Hash": "a2e965754a88a32f10a482e6780d0a2ea96b2e1323ba711c24f8abcfbb6e87d9",
-        "EventCount": 8,
+        "Hash": "c8e85986086cdafdac5d6fe74c481912a3d230b0c731e7cfdd2ee87ba131d1d7",
+        "EventCount": 9,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.794272Z",
-    "StartedAt": "2026-10-31T19:00:00.4099905Z",
-    "FinishedAt": "2026-10-31T19:00:02.794267Z",
+    "RunTime": "2026-10-31T23:00:03.5079391Z",
+    "StartedAt": "2026-10-31T23:00:00.3610307Z",
+    "FinishedAt": "2026-10-31T23:00:03.5079363Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Prins Arthur V",
+        "DateString": "2026-11-07T20:00:00.0000000",
+        "Url": "https://www.ccbrugge.be/agenda/prins-arthur-v-fsc3",
+        "ImageUrl": "https://img.ccbrugge.be/z9pbIUzkJDYQvjdEdbjDcMt_SKfX2nHj_4zeGOc9ypQ/c:3654:2065:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuY2NicnVnZ2UuYmUvL2Ntc19maWxlcy9zeXN0ZW0vaW1hZ2VzL2ltZzI4MzUwX29yaWcuanBn",
+        "Location": "CC Brugge",
+        "Description": "Theater Froefroe",
+        "Room": "Koninklijke Stadsschouwburg",
+        "Address": "Vlamingstraat 29, Brugge",
+        "Latitude": "51.2105",
+        "Longitude": "3.2236"
+      }
+    ]
   },
   {
     "ScraperName": "CCHetSpoorScraper",
@@ -373,9 +371,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.3450874Z",
-    "StartedAt": "2026-10-31T19:00:00.4103548Z",
-    "FinishedAt": "2026-10-31T19:00:02.3450828Z",
+    "RunTime": "2026-10-31T23:00:02.0193765Z",
+    "StartedAt": "2026-10-31T23:00:00.3612994Z",
+    "FinishedAt": "2026-10-31T23:00:02.0193717Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -384,15 +382,15 @@
     "VenueId": "CcNovaWetteren",
     "VenueName": "CC Nova, Wetteren",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 34,
+    "TotalEventsFound": 33,
     "MonthlyFiles": [
       {
         "Month": 12,
         "Year": 2026,
         "FileName": "ccnovawetteren-12-2026.json",
         "FilePath": "events/cultuurcentra/ccnovawetteren/ccnovawetteren-12-2026.json",
-        "Hash": "429b555040a0db643fb067de781171661fed62b88a6826083cb7936a8844d2dd",
-        "EventCount": 6,
+        "Hash": "1bd5ec4c30ca46f85f77122671c772ccf7356dd7317f861852256024c60d52bb",
+        "EventCount": 5,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -449,9 +447,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.3894843Z",
-    "StartedAt": "2026-10-31T19:00:00.4105501Z",
-    "FinishedAt": "2026-10-31T19:00:02.3893407Z",
+    "RunTime": "2026-10-31T23:00:02.4213686Z",
+    "StartedAt": "2026-10-31T23:00:00.361515Z",
+    "FinishedAt": "2026-10-31T23:00:02.4213658Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -535,9 +533,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:07.3693676Z",
-    "StartedAt": "2026-10-31T19:00:00.4107334Z",
-    "FinishedAt": "2026-10-31T19:00:07.3693628Z",
+    "RunTime": "2026-10-31T23:00:03.7617484Z",
+    "StartedAt": "2026-10-31T23:00:00.3616669Z",
+    "FinishedAt": "2026-10-31T23:00:03.7617436Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
     "NewEvents": []
   },
@@ -621,9 +619,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:11.9923225Z",
-    "StartedAt": "2026-10-31T19:00:00.4109278Z",
-    "FinishedAt": "2026-10-31T19:00:11.9923184Z",
+    "RunTime": "2026-10-31T23:00:12.5718495Z",
+    "StartedAt": "2026-10-31T23:00:00.3618308Z",
+    "FinishedAt": "2026-10-31T23:00:12.5718451Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
     "NewEvents": []
   },
@@ -707,9 +705,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.0523393Z",
-    "StartedAt": "2026-10-31T19:00:00.411212Z",
-    "FinishedAt": "2026-10-31T19:00:02.0523345Z",
+    "RunTime": "2026-10-31T23:00:01.527272Z",
+    "StartedAt": "2026-10-31T23:00:00.3620189Z",
+    "FinishedAt": "2026-10-31T23:00:01.5272663Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -721,33 +719,36 @@
     "TotalEventsFound": 14,
     "MonthlyFiles": [
       {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "degrotepost-10-2026.json",
-        "FilePath": "events/cultuurcentra/degrotepost/degrotepost-10-2026.json",
-        "Hash": "e32c9a3350afe18c658cce319ee2fb866419e7619a742e1b5b531ac4cbb9f1f4",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
         "Month": 11,
         "Year": 2026,
         "FileName": "degrotepost-11-2026.json",
         "FilePath": "events/cultuurcentra/degrotepost/degrotepost-11-2026.json",
-        "Hash": "4492a4960caa94ead32fc75c04f0eb86462bedeb01600cd02d253290332d02a8",
-        "EventCount": 13,
+        "Hash": "33e8117664901ea057cf0fb93deb29fe70bb03e7b7c0562d09a5523c6afa2664",
+        "EventCount": 14,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:03.8416288Z",
-    "StartedAt": "2026-10-31T19:00:00.4114644Z",
-    "FinishedAt": "2026-10-31T19:00:03.8416251Z",
+    "RunTime": "2026-10-31T23:00:05.4933557Z",
+    "StartedAt": "2026-10-31T23:00:00.3622129Z",
+    "FinishedAt": "2026-10-31T23:00:05.4933532Z",
     "FaviconUrl": null,
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Nachthalte: Max Forage / Grote Geelstaart / Gameboyz 2 Men",
+        "DateString": "2026-11-20T20:30:00.0000000",
+        "Url": "https://www.degrotepost.be/agenda/nachthalte-max-forage-grote-geelstaart-gameboyz-2-men-n88p",
+        "ImageUrl": "https://img.degrotepost.be/evwoCB4eGviTJu2VIV_PnS0GbYS96rb7orEW0t34DOo/c:2560:1446:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZGVncm90ZXBvc3QuYmUvL2Ntc19maWxlcy9zeXN0ZW0vaW1hZ2VzL2ltZzIxMDg5X29yaWcuSlBH",
+        "Location": "De Grote Post, Oostende - zaal Kleine Post",
+        "Description": "De Grote Post \u0026 OHK",
+        "Room": "",
+        "Address": "H. Serruyslaan 18A, 8400 Oostende",
+        "Latitude": "51.23",
+        "Longitude": "2.916"
+      }
+    ]
   },
   {
     "ScraperName": "DeKluizeScraper",
@@ -849,9 +850,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:03.2110819Z",
-    "StartedAt": "2026-10-31T19:00:00.4117507Z",
-    "FinishedAt": "2026-10-31T19:00:03.2110774Z",
+    "RunTime": "2026-10-31T23:00:04.315622Z",
+    "StartedAt": "2026-10-31T23:00:00.3624059Z",
+    "FinishedAt": "2026-10-31T23:00:04.3150045Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
     "NewEvents": []
   },
@@ -935,9 +936,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.9219956Z",
-    "StartedAt": "2026-10-31T19:00:00.4119463Z",
-    "FinishedAt": "2026-10-31T19:00:01.9219908Z",
+    "RunTime": "2026-10-31T23:00:01.5385519Z",
+    "StartedAt": "2026-10-31T23:00:00.3626468Z",
+    "FinishedAt": "2026-10-31T23:00:01.5385477Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -971,9 +972,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.9776581Z",
-    "StartedAt": "2026-10-31T19:00:00.4124784Z",
-    "FinishedAt": "2026-10-31T19:00:02.9776531Z",
+    "RunTime": "2026-10-31T23:00:03.087247Z",
+    "StartedAt": "2026-10-31T23:00:00.3629592Z",
+    "FinishedAt": "2026-10-31T23:00:03.0872425Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1057,24 +1058,11 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:06.704241Z",
-    "StartedAt": "2026-10-31T19:00:00.412804Z",
-    "FinishedAt": "2026-10-31T19:00:06.7042362Z",
+    "RunTime": "2026-10-31T23:00:07.3107055Z",
+    "StartedAt": "2026-10-31T23:00:00.3630953Z",
+    "FinishedAt": "2026-10-31T23:00:07.3107017Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
-    "NewEvents": [
-      {
-        "Title": "Mayo (Mats Vandroogenbroeck \u0026 Jonas Baeke) / DE MAAN",
-        "DateString": "2027-03-21",
-        "Url": "https://www.dewerfcultuurhuis.be/nl/programma/detail/mayo-mats-vandroogenbroeck-jonas-baeke-de-maan/9910/",
-        "ImageUrl": "https://www.dewerfcultuurhuis.be/images/og-image/mayodemaannachtdiegofranssensweb.jpg",
-        "Location": "Aalst",
-        "Description": "",
-        "Room": "",
-        "Address": null,
-        "Latitude": "50.9383",
-        "Longitude": "4.0392"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "EmotiaScraper",
@@ -1166,9 +1154,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:03.2578048Z",
-    "StartedAt": "2026-10-31T19:00:00.4131018Z",
-    "FinishedAt": "2026-10-31T19:00:03.2578007Z",
+    "RunTime": "2026-10-31T23:00:03.5224663Z",
+    "StartedAt": "2026-10-31T23:00:00.3694097Z",
+    "FinishedAt": "2026-10-31T23:00:03.5224619Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
     "NewEvents": []
   },
@@ -1262,9 +1250,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:25.2983509Z",
-    "StartedAt": "2026-10-31T19:00:00.4134186Z",
-    "FinishedAt": "2026-10-31T19:00:25.2983479Z",
+    "RunTime": "2026-10-31T23:00:30.1171878Z",
+    "StartedAt": "2026-10-31T23:00:00.3695358Z",
+    "FinishedAt": "2026-10-31T23:00:30.1171845Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1273,18 +1261,8 @@
     "VenueId": "Leietheater",
     "VenueName": "Leietheater, Deinze",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 144,
+    "TotalEventsFound": 143,
     "MonthlyFiles": [
-      {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "leietheater-10-2026.json",
-        "FilePath": "events/cultuurcentra/leietheater/leietheater-10-2026.json",
-        "Hash": "76b152f996105a4ffa52c581163d8471f4728992c16b26c69169ceb782f05551",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 11,
         "Year": 2026,
@@ -1368,9 +1346,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.3213932Z",
-    "StartedAt": "2026-10-31T19:00:00.4135822Z",
-    "FinishedAt": "2026-10-31T19:00:02.3213887Z",
+    "RunTime": "2026-10-31T23:00:02.4943456Z",
+    "StartedAt": "2026-10-31T23:00:00.3705383Z",
+    "FinishedAt": "2026-10-31T23:00:02.494341Z",
     "FaviconUrl": null,
     "NewEvents": []
   },
@@ -1434,9 +1412,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.3763779Z",
-    "StartedAt": "2026-10-31T19:00:00.4138926Z",
-    "FinishedAt": "2026-10-31T19:00:02.3763738Z",
+    "RunTime": "2026-10-31T23:00:02.3620656Z",
+    "StartedAt": "2026-10-31T23:00:00.3707402Z",
+    "FinishedAt": "2026-10-31T23:00:02.3620611Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
     "NewEvents": []
   },
@@ -1447,11 +1425,11 @@
     "Category": "Concerts",
     "TotalEventsFound": 0,
     "MonthlyFiles": [],
-    "Status": "Success (244 invalid)",
+    "Status": "Success (241 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:05.9127108Z",
-    "StartedAt": "2026-10-31T19:00:00.4142251Z",
-    "FinishedAt": "2026-10-31T19:00:05.9127059Z",
+    "RunTime": "2026-10-31T23:00:07.0079406Z",
+    "StartedAt": "2026-10-31T23:00:00.3708424Z",
+    "FinishedAt": "2026-10-31T23:00:07.007936Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
     "NewEvents": []
   },
@@ -1525,9 +1503,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:03.2537699Z",
-    "StartedAt": "2026-10-31T19:00:00.4144666Z",
-    "FinishedAt": "2026-10-31T19:00:03.2535974Z",
+    "RunTime": "2026-10-31T23:00:03.5169512Z",
+    "StartedAt": "2026-10-31T23:00:00.3709383Z",
+    "FinishedAt": "2026-10-31T23:00:03.5169467Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
     "NewEvents": []
   },
@@ -1631,9 +1609,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:22.3105819Z",
-    "StartedAt": "2026-10-31T19:00:00.4146775Z",
-    "FinishedAt": "2026-10-31T19:00:22.3105799Z",
+    "RunTime": "2026-10-31T23:00:26.6250204Z",
+    "StartedAt": "2026-10-31T23:00:00.3710255Z",
+    "FinishedAt": "2026-10-31T23:00:26.6250188Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
     "NewEvents": []
   },
@@ -1727,9 +1705,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.6543229Z",
-    "StartedAt": "2026-10-31T19:00:00.4149228Z",
-    "FinishedAt": "2026-10-31T19:00:01.6543188Z",
+    "RunTime": "2026-10-31T23:00:01.4398632Z",
+    "StartedAt": "2026-10-31T23:00:00.3711282Z",
+    "FinishedAt": "2026-10-31T23:00:01.4398584Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
     "NewEvents": []
   },
@@ -1823,9 +1801,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.9756884Z",
-    "StartedAt": "2026-10-31T19:00:00.4151243Z",
-    "FinishedAt": "2026-10-31T19:00:01.9756838Z",
+    "RunTime": "2026-10-31T23:00:02.3326598Z",
+    "StartedAt": "2026-10-31T23:00:00.3713987Z",
+    "FinishedAt": "2026-10-31T23:00:02.3326555Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
     "NewEvents": []
   },
@@ -1919,9 +1897,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.5395113Z",
-    "StartedAt": "2026-10-31T19:00:00.4153295Z",
-    "FinishedAt": "2026-10-31T19:00:01.5395062Z",
+    "RunTime": "2026-10-31T23:00:01.8886476Z",
+    "StartedAt": "2026-10-31T23:00:00.3714924Z",
+    "FinishedAt": "2026-10-31T23:00:01.8886432Z",
     "FaviconUrl": "https://www.democrazy.be/favicon.ico",
     "NewEvents": []
   },
@@ -2025,42 +2003,19 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:06.2988678Z",
-    "StartedAt": "2026-10-31T19:00:00.4155203Z",
-    "FinishedAt": "2026-10-31T19:00:06.2988652Z",
+    "RunTime": "2026-10-31T23:00:03.5255315Z",
+    "StartedAt": "2026-10-31T23:00:00.3715747Z",
+    "FinishedAt": "2026-10-31T23:00:03.5255281Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
-    "NewEvents": [
-      {
-        "Title": "Madou",
-        "DateString": "2027-01-27T20:00:00.0000000",
-        "Url": "https://www.deroma.be/nl/event/madou-12",
-        "ImageUrl": "https://www.deroma.be/media/cache/default_tile/upload/media/default/eebc/02/9ea6ba739228e9347784ec513b90acb31bc2a80b.png",
-        "Location": "De Roma",
-        "Description": "Belgische cultband viert Lifetime Achievement Award van boegbeeld Vera Coomans.",
-        "Room": "",
-        "Address": "Turnhoutsebaan 286, 2140 Borgerhout",
-        "Latitude": "51.2134",
-        "Longitude": "4.44"
-      }
-    ]
+    "NewEvents": []
   },
   {
     "ScraperName": "DeSteenovenScraper",
     "VenueId": "Steenoven",
     "VenueName": "De Steenoven, Herzele",
     "Category": "CultuurCentra",
-    "TotalEventsFound": 62,
+    "TotalEventsFound": 61,
     "MonthlyFiles": [
-      {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "steenoven-10-2026.json",
-        "FilePath": "events/cultuurcentra/steenoven/steenoven-10-2026.json",
-        "Hash": "324e22bf1f8a9183f243e4e2244e690fc47d10227dd7a2c2dd911ae1f70ed22d",
-        "EventCount": 4,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 11,
         "Year": 2026,
@@ -2140,13 +2095,23 @@
         "EventCount": 6,
         "Status": "Success",
         "ErrorMessage": null
+      },
+      {
+        "Month": 10,
+        "Year": 2026,
+        "FileName": "steenoven-10-2026.json",
+        "FilePath": "events/cultuurcentra/steenoven/steenoven-10-2026.json",
+        "Hash": "35d45bc6a9331db394c988134d0da9a3e57c60ba328ca4d6b2a94383ca276219",
+        "EventCount": 3,
+        "Status": "Success",
+        "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.3969421Z",
-    "StartedAt": "2026-10-31T19:00:00.4156459Z",
-    "FinishedAt": "2026-10-31T19:00:01.3969281Z",
+    "RunTime": "2026-10-31T23:00:01.2648245Z",
+    "StartedAt": "2026-10-31T23:00:00.3716706Z",
+    "FinishedAt": "2026-10-31T23:00:01.2648204Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
     "NewEvents": []
   },
@@ -2210,9 +2175,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.2806953Z",
-    "StartedAt": "2026-10-31T19:00:00.4157381Z",
-    "FinishedAt": "2026-10-31T19:00:01.2806905Z",
+    "RunTime": "2026-10-31T23:00:01.134063Z",
+    "StartedAt": "2026-10-31T23:00:00.3717615Z",
+    "FinishedAt": "2026-10-31T23:00:01.134059Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
     "NewEvents": []
   },
@@ -2286,9 +2251,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:02.8345882Z",
-    "StartedAt": "2026-10-31T19:00:00.4158158Z",
-    "FinishedAt": "2026-10-31T19:00:02.8345838Z",
+    "RunTime": "2026-10-31T23:00:01.870644Z",
+    "StartedAt": "2026-10-31T23:00:00.3718421Z",
+    "FinishedAt": "2026-10-31T23:00:01.8706395Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
     "NewEvents": []
   },
@@ -2300,40 +2265,43 @@
     "TotalEventsFound": 3,
     "MonthlyFiles": [
       {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "haconcerts-10-2026.json",
-        "FilePath": "events/concerts/haconcerts/haconcerts-10-2026.json",
-        "Hash": "072872a3325d7f37bc8dc072aff6b3f21746ef7153251a24cde161172f47f169",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
-      {
         "Month": 11,
         "Year": 2026,
         "FileName": "haconcerts-11-2026.json",
         "FilePath": "events/concerts/haconcerts/haconcerts-11-2026.json",
-        "Hash": "653bacaf4ba748bee3c936cb079753b18971a25373e98c8b544fd93f701f272c",
-        "EventCount": 2,
+        "Hash": "7c874a41807446a8bf126a26b1903fa544e8c4ae7283e5f4bb88cddeb22f6f5d",
+        "EventCount": 3,
         "Status": "Success",
         "ErrorMessage": null
       }
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:03.9000899Z",
-    "StartedAt": "2026-10-31T19:00:00.4159024Z",
-    "FinishedAt": "2026-10-31T19:00:03.9000857Z",
+    "RunTime": "2026-10-31T23:00:08.4278511Z",
+    "StartedAt": "2026-10-31T23:00:00.371932Z",
+    "FinishedAt": "2026-10-31T23:00:08.4278461Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
-    "NewEvents": []
+    "NewEvents": [
+      {
+        "Title": "Di Domenico / Cabras / Thielemans",
+        "DateString": "2026-11-08T00:00:00.0000000",
+        "Url": "https://www.haconcerts.be/nl/concertagenda/concerten/di-domenico-cabras-thielemans-08-11-26",
+        "ImageUrl": "",
+        "Location": "Ha Concerts",
+        "Description": "Op zoek naar vruchtbare grond",
+        "Room": "",
+        "Address": null,
+        "Latitude": "51.0499",
+        "Longitude": "3.7233"
+      }
+    ]
   },
   {
     "ScraperName": "HetDepotScraper",
     "VenueId": "HetDepot",
     "VenueName": "Het Depot, Leuven",
     "Category": "Concerts",
-    "TotalEventsFound": 107,
+    "TotalEventsFound": 106,
     "MonthlyFiles": [
       {
         "Month": 10,
@@ -2380,8 +2348,8 @@
         "Year": 2027,
         "FileName": "hetdepot-02-2027.json",
         "FilePath": "events/concerts/hetdepot/hetdepot-02-2027.json",
-        "Hash": "e7ebffa879ffc1cee806e9796bf206aff62335f9c77ed3445eab8b4d19f35c0b",
-        "EventCount": 19,
+        "Hash": "82422d90a76363370f32f0d498ae98902ff91efb3d090d183b820f77efb29a0e",
+        "EventCount": 18,
         "Status": "Success",
         "ErrorMessage": null
       },
@@ -2428,9 +2396,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:31.4539559Z",
-    "StartedAt": "2026-10-31T19:00:00.4159883Z",
-    "FinishedAt": "2026-10-31T19:00:31.4539389Z",
+    "RunTime": "2026-10-31T23:01:05.6410386Z",
+    "StartedAt": "2026-10-31T23:00:00.3720211Z",
+    "FinishedAt": "2026-10-31T23:01:05.6410257Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
     "NewEvents": []
   },
@@ -2439,18 +2407,8 @@
     "VenueId": "N9",
     "VenueName": "N9, Eeklo",
     "Category": "Concerts",
-    "TotalEventsFound": 18,
+    "TotalEventsFound": 17,
     "MonthlyFiles": [
-      {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "n9-10-2026.json",
-        "FilePath": "events/concerts/n9/n9-10-2026.json",
-        "Hash": "a47d3145707c5cf2fff700805381cec19c15457ec479b13a5962d3e52f3298a3",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 11,
         "Year": 2026,
@@ -2514,9 +2472,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.3342506Z",
-    "StartedAt": "2026-10-31T19:00:00.4173875Z",
-    "FinishedAt": "2026-10-31T19:00:01.3342463Z",
+    "RunTime": "2026-10-31T23:00:01.0234341Z",
+    "StartedAt": "2026-10-31T23:00:00.3721158Z",
+    "FinishedAt": "2026-10-31T23:00:01.0234297Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
     "NewEvents": []
   },
@@ -2529,9 +2487,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.379639Z",
-    "StartedAt": "2026-10-31T19:00:00.4176116Z",
-    "FinishedAt": "2026-10-31T19:00:01.379635Z",
+    "RunTime": "2026-10-31T23:00:00.8987772Z",
+    "StartedAt": "2026-10-31T23:00:00.3723795Z",
+    "FinishedAt": "2026-10-31T23:00:00.8987738Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/rivierenhof.png",
     "NewEvents": []
   },
@@ -2544,9 +2502,9 @@
     "MonthlyFiles": [],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.4418948Z",
-    "StartedAt": "2026-10-31T19:00:00.4178059Z",
-    "FinishedAt": "2026-10-31T19:00:01.4418914Z",
+    "RunTime": "2026-10-31T23:00:01.0469041Z",
+    "StartedAt": "2026-10-31T23:00:00.3725324Z",
+    "FinishedAt": "2026-10-31T23:00:01.046901Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
     "NewEvents": []
   },
@@ -2630,9 +2588,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:09.440287Z",
-    "StartedAt": "2026-10-31T19:00:00.4180348Z",
-    "FinishedAt": "2026-10-31T19:00:09.4402823Z",
+    "RunTime": "2026-10-31T23:00:08.1512069Z",
+    "StartedAt": "2026-10-31T23:00:00.3727661Z",
+    "FinishedAt": "2026-10-31T23:00:08.1512032Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
     "NewEvents": []
   },
@@ -2641,18 +2599,8 @@
     "VenueId": "WildeWesten",
     "VenueName": "Wilde Westen, Kortrijk",
     "Category": "Concerts",
-    "TotalEventsFound": 61,
+    "TotalEventsFound": 60,
     "MonthlyFiles": [
-      {
-        "Month": 10,
-        "Year": 2026,
-        "FileName": "wildewesten-10-2026.json",
-        "FilePath": "events/concerts/wildewesten/wildewesten-10-2026.json",
-        "Hash": "c6614c5f5ffd761a31971498d69a96155e55527207d39ee2b13dc3a285f6df56",
-        "EventCount": 1,
-        "Status": "Success",
-        "ErrorMessage": null
-      },
       {
         "Month": 11,
         "Year": 2026,
@@ -2736,9 +2684,9 @@
     ],
     "Status": "Success",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:01:46.5537064Z",
-    "StartedAt": "2026-10-31T19:00:00.4182518Z",
-    "FinishedAt": "2026-10-31T19:01:46.5536055Z",
+    "RunTime": "2026-10-31T23:01:42.210303Z",
+    "StartedAt": "2026-10-31T23:00:00.3730596Z",
+    "FinishedAt": "2026-10-31T23:01:42.2102982Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
     "NewEvents": []
   },
@@ -2882,9 +2830,9 @@
     ],
     "Status": "Success (1 invalid)",
     "ErrorMessage": null,
-    "RunTime": "2026-10-31T19:00:01.1374377Z",
-    "StartedAt": "2026-10-31T19:00:00.4183619Z",
-    "FinishedAt": "2026-10-31T19:00:01.1373048Z",
+    "RunTime": "2026-10-31T23:00:00.8212777Z",
+    "StartedAt": "2026-10-31T23:00:00.3733863Z",
+    "FinishedAt": "2026-10-31T23:00:00.8212737Z",
     "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
     "NewEvents": []
   }
