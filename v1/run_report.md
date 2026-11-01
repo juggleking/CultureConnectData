@@ -1,10 +1,10 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-11-01T15:03:40.1419166Z
+**Generated At:** 2026-11-01T19:03:26.3879123Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
-- **CeciliaScraper**: Found 45 events across 6 monthly files.
+- **CeciliaScraper**: Found 67 events across 6 monthly files.
 - **ToneelhuisScraper**: Found 142 events across 8 monthly files.
 - **CcAntwerpenScraper**: Found 166 events across 8 monthly files.
 - **CcBruggeScraper**: Found 12 events across 3 monthly files.
@@ -12,7 +12,7 @@
 - **CcNovaWetterenScraper**: Found 33 events across 6 monthly files.
 - **CcZoetegemScraper**: Found 92 events across 7 monthly files.
 - **CultuurhuisMerelbekeScraper**: Found 84 events across 7 monthly files.
-- **CultuurKnokkeHeistScraper**: Found 51 events across 7 monthly files.
+- **CultuurKnokkeHeistScraper**: Found 50 events across 7 monthly files.
 - **DeGrotePostScraper**: Found 14 events across 1 monthly files.
 - **DeKluizeScraper**: Found 69 events across 9 monthly files.
 - **DeMeentScraper**: Found 125 events across 7 monthly files.
@@ -20,15 +20,15 @@
 - **DeWerfScraper**: Found 120 events across 7 monthly files.
 - **EmotiaScraper**: Found 85 events across 8 monthly files.
 - **GildhofScraper**: Found 131 events across 8 monthly files.
-- **LeietheaterScraper**: Found 143 events across 8 monthly files.
+- **LeietheaterScraper**: Found 141 events across 8 monthly files.
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 0 events across 0 monthly files.
 - **AffScraper**: Found 16 events across 5 monthly files.
-- **BotaniqueScraper**: Found 175 events across 9 monthly files.
+- **BotaniqueScraper**: Found 174 events across 9 monthly files.
 - **CactusMusicScraper**: Found 53 events across 7 monthly files.
 - **DeCasinoScraper**: Found 53 events across 8 monthly files.
 - **DemocrazyScraper**: Found 61 events across 8 monthly files.
-- **DeRomaScraper**: Found 147 events across 8 monthly files.
+- **DeRomaScraper**: Found 139 events across 8 monthly files.
 - **DeSteenovenScraper**: Found 61 events across 9 monthly files.
 - **DeZwerverScraper**: Found 12 events across 5 monthly files.
 - **FourAdScraper**: Found 17 events across 5 monthly files.
