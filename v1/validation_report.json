@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-11-01T06:00:04.3331047Z",
-  "ValidatedAt": "2026-11-01T06:00:04.3331047Z",
+  "GeneratedAt": "2026-11-02T06:00:06.816791Z",
+  "ValidatedAt": "2026-11-02T06:00:06.8167911Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2463,
+  "TotalEvents": 2488,
   "TotalErrors": 1,
-  "TotalWarnings": 844,
+  "TotalWarnings": 843,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 167,
+      "TotalEvents": 166,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 175,
+      "TotalEvents": 174,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -3250,24 +3250,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Flawed Mangoes + Hongza",
-          "EventDate": "2026-11-01T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/flawed-mangoes",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Tsar B + Frederik Daelemans",
           "EventDate": "2026-11-04T00:00:00.0000000",
@@ -3633,9 +3620,9 @@
           ]
         },
         {
-          "EventTitle": "YIN YIN",
+          "EventTitle": "Kiioto",
           "EventDate": "2027-02-23T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/yin-yin",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/kiioto",
           "Issues": [
             {
               "Field": "DateString",
@@ -3646,9 +3633,9 @@
           ]
         },
         {
-          "EventTitle": "Kiioto",
+          "EventTitle": "YIN YIN",
           "EventDate": "2027-02-23T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/kiioto",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/yin-yin",
           "Issues": [
             {
               "Field": "DateString",
@@ -3867,9 +3854,9 @@
           ]
         },
         {
-          "EventTitle": "Richard Thompson & band + Danny Bradley",
+          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
           "Issues": [
             {
               "Field": "DateString",
@@ -3880,9 +3867,9 @@
           ]
         },
         {
-          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
+          "EventTitle": "Richard Thompson & band + Danny Bradley",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
           "Issues": [
             {
               "Field": "DateString",
@@ -3985,19 +3972,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "REVEIL - Jamina - Solo",
-          "EventDate": "2026-11-01",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=c2be456e-8c71-49cf-93cb-b8114d0bf97f&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01"
-            }
-          ]
-        },
         {
           "EventTitle": "Cirkanto - Solita",
           "EventDate": "2026-11-05",
@@ -4112,6 +4086,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-25'.",
               "Severity": 1,
               "ActualValue": "2026-11-25"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Theater Malpertuis / Piet Arfeuille - De Jaren",
+          "EventDate": "2026-11-27",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=c92ec9bb-dfea-4bad-8faf-b07d599f95f7&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-27"
             }
           ]
         }
@@ -5338,24 +5325,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 17,
+      "WarningCount": 16,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "POTHAMUS + CROUCH + AUFHEBUNG",
-          "EventDate": "2026-10-31",
-          "EventUrl": "https://aff.be/events/pothamus/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-10-31'.",
-              "Severity": 1,
-              "ActualValue": "2026-10-31"
-            }
-          ]
-        },
         {
           "EventTitle": "Jeffrey Lewis & The Voltage + Benny Zen & The Love Jelly Support Circle",
           "EventDate": "2026-11-04",
@@ -5570,17 +5544,44 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 69,
+      "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 2,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Laurie en Lou",
+          "EventDate": "2027-01-28T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/laurie-en-lou",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Napels zien (en sterven)",
+          "EventDate": "2027-01-29T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/napels-zien-en-sterven",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-29T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 52,
+      "TotalEvents": 50,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8280,24 +8281,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
-      "WarningCount": 53,
+      "WarningCount": 52,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Casino Brass Ensemble / When the Saints go marching in!",
-          "EventDate": "2026-11-01T00:00:00",
-          "EventUrl": "https://decasino.be/concert/casino-brass-ensemble-when-the-saints-go-marching-in/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Bizkit Park (extra concert) + Walls",
           "EventDate": "2026-11-05T00:00:00",
@@ -8572,9 +8560,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8585,9 +8573,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9004,7 +8992,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 80,
+      "TotalEvents": 138,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9014,7 +9002,7 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 24,
+      "TotalEvents": 25,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -9029,32 +9017,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kietelkriebels",
-          "EventDate": "2026-11-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/kietelkriebels-q8sq",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Le petit chaperon rouge / Roodkapje - Cie. Sylvain Huc",
-          "EventDate": "2026-11-01T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/le-petit-chaperon-rouge-roodkapje-lpwj",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-01T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-01T00:00:00.0000000"
             }
           ]
         },
@@ -9081,6 +9043,32 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stuutjes en cinema",
+          "EventDate": "2026-11-02T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-nrhn",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-02T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "FEST - Zonzo Compagnie",
+          "EventDate": "2026-11-03T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/fest-hkm3",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03T00:00:00.0000000"
             }
           ]
         }
@@ -10941,7 +10929,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 106,
+      "TotalEvents": 105,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10951,7 +10939,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 143,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
