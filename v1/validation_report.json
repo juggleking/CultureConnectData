@@ -1,8 +1,8 @@
 {
-  "GeneratedAt": "2026-11-02T06:00:06.816791Z",
-  "ValidatedAt": "2026-11-02T06:00:06.8167911Z",
+  "GeneratedAt": "2026-11-03T06:00:06.1612556Z",
+  "ValidatedAt": "2026-11-03T06:00:06.1612556Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2488,
+  "TotalEvents": 2483,
   "TotalErrors": 1,
   "TotalWarnings": 843,
   "Results": [
@@ -10,7 +10,7 @@
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3177,7 +3177,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 166,
+      "TotalEvents": 165,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3187,7 +3187,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 174,
+      "TotalEvents": 175,
       "ErrorCount": 0,
       "WarningCount": 4,
       "Issues": [],
@@ -5325,9 +5325,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 16,
+      "TotalEvents": 17,
       "ErrorCount": 0,
-      "WarningCount": 16,
+      "WarningCount": 17,
       "Issues": [],
       "EventDetails": [
         {
@@ -5379,6 +5379,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-12'.",
               "Severity": 1,
               "ActualValue": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "EventTitle": "LASWERK i.s.m. B-Classic",
+          "EventDate": "2026-11-18",
+          "EventUrl": "https://aff.be/events/laswerk16/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-18'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-18"
             }
           ]
         },
@@ -5546,42 +5559,15 @@
       "VenueName": "Compagnie Cecilia, Gent",
       "TotalEvents": 45,
       "ErrorCount": 0,
-      "WarningCount": 2,
+      "WarningCount": 0,
       "Issues": [],
-      "EventDetails": [
-        {
-          "EventTitle": "Laurie en Lou",
-          "EventDate": "2027-01-28T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/laurie-en-lou",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Napels zien (en sterven)",
-          "EventDate": "2027-01-29T00:00:00.0000000",
-          "EventUrl": "https://compagnie-cecilia.be/nl/programma/napels-zien-en-sterven",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-29T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-29T00:00:00.0000000"
-            }
-          ]
-        }
-      ]
+      "EventDetails": []
     },
     {
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 50,
+      "TotalEvents": 48,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -7168,7 +7154,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 85,
+      "TotalEvents": 86,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8281,9 +8267,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 52,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 52,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
         {
@@ -8937,6 +8923,19 @@
           ]
         },
         {
+          "EventTitle": "Suicide Silence + FleshGod Apocalypse + To The Grave + The Gloom In The Corner",
+          "EventDate": "2027-05-04T00:00:00",
+          "EventUrl": "https://decasino.be/concert/suicide-silence/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-04T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-04T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "Spin Doctors",
           "EventDate": "2027-05-18T00:00:00",
           "EventUrl": "https://decasino.be/concert/spin-doctors/",
@@ -8992,7 +8991,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 138,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -9002,9 +9001,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 25,
+      "TotalEvents": 23,
       "ErrorCount": 0,
-      "WarningCount": 5,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -9021,45 +9020,6 @@
           ]
         },
         {
-          "EventTitle": "Stuutjes en cinema - Toy Story 5",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-nrh9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stuutjes en cinema - Lampje",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-51g9",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Stuutjes en cinema",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/stuutjes-en-cinema-nrhn",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "FEST - Zonzo Compagnie",
           "EventDate": "2026-11-03T00:00:00.0000000",
           "EventUrl": "https://www.despil.be/agenda/fest-hkm3",
@@ -9069,6 +9029,58 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Filmkus - The Beloved",
+          "EventDate": "2026-11-03T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/filmkus-q847",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-03T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-03T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "WEB - ONAF",
+          "EventDate": "2026-11-04T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/web-m5f7",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "DE EXPLODERENDE WALVISMUSICAL - Elsa van Dijk",
+          "EventDate": "2026-11-04T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/de-exploderende-walvismusical-tsjz",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "tijdens Hagelslag",
+          "EventDate": "2026-11-04T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/tijdens-hagelslag-6fjs",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-04T00:00:00.0000000"
             }
           ]
         }
@@ -9882,24 +9894,11 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "BLOODSPORTS + DRUUGG",
-          "EventDate": "2026-11-02T00:00:00",
-          "EventUrl": "https://www.dezwerver.be/agenda/261-bloodsports/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "TRIXIE WHITLEY",
           "EventDate": "2026-11-14T00:00:00",
@@ -10869,7 +10868,7 @@
       "ScraperId": "DeMeent",
       "ScraperName": "DeMeentScraper",
       "VenueName": "GC De Meent",
-      "TotalEvents": 125,
+      "TotalEvents": 121,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10884,19 +10883,6 @@
       "WarningCount": 3,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Herfstkamp (6-16 jaar)",
-          "EventDate": "2026-11-02T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/herfstkamp-6-16-jaar-02-11-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-02T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-02T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Amadou, Ribot & Smith",
           "EventDate": "2026-11-07T00:00:00.0000000",
@@ -10920,6 +10906,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-08T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-11-08T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Re:Context! Over Paul Simon, Graceland",
+          "EventDate": "2026-11-10T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/re-context-over-paul-simon-graceland-10-11-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-10T00:00:00.0000000"
             }
           ]
         }
@@ -10983,7 +10982,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 142,
+      "TotalEvents": 141,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
