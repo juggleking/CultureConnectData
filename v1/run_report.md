@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-11-10T07:02:04.3142238Z
+**Generated At:** 2026-11-10T11:02:08.2063895Z
 **Total Scrapers Run:** 36
 
 ## ⚠️ Failed Scrapers
