@@ -1,10 +1,10 @@
 {
-  "GeneratedAt": "2026-11-11T06:00:02.0368032Z",
-  "ValidatedAt": "2026-11-11T06:00:02.0370279Z",
+  "GeneratedAt": "2026-11-12T06:00:04.8086725Z",
+  "ValidatedAt": "2026-11-12T06:00:04.8088555Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2535,
+  "TotalEvents": 2516,
   "TotalErrors": 1,
-  "TotalWarnings": 818,
+  "TotalWarnings": 814,
   "Results": [
     {
       "ScraperId": "FourAD",
@@ -20,50 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 230,
+      "TotalEvents": 227,
       "ErrorCount": 0,
-      "WarningCount": 230,
+      "WarningCount": 227,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Fifty Lab Music Festival + Fake Empire, Steve Ibrahim, Black Fondu, Honeydrip",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/fifty-lab-music-festival/a10Qw000001mCBBIA2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "(John) Coltrane 100: Joe Lovano x Melissa Aldana x Nduduzo Makhathini x ...",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/john-coltrane-100-joe-lovano-x-melissa-aldana-x-nduduzo-makhathini-x/a10Qw00000JgqP4IAJ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Montell Fish",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/montell-fish/a10Qw00000MH3WIIA1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Fifty Lab Music Festival + LinLin, waterbaby, Teyma, H.LLS",
           "EventDate": "2026-11-12T00:00:00.0000000",
@@ -390,19 +351,6 @@
           ]
         },
         {
-          "EventTitle": "Asian Persuasion + Aqua Riyaz, Elise & Emma, Ria Lina, Ro-Mi Pouw, Faradays",
-          "EventDate": "2026-11-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/asian-persuasion/a10Qw00000C0VJSIA3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-21T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-21T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Joe Jackson",
           "EventDate": "2026-11-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/joe-jackson/a10Qw000009DhGXIA0",
@@ -419,6 +367,19 @@
           "EventTitle": "Nightlab Session: It Began In Ipanema w/ Daniel Haaksman",
           "EventDate": "2026-11-21T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-session-it-began-in-ipanema-w-daniel-haaksman/a10Qw00000S5sakIAB",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-21T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-21T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Asian Persuasion + Aqua Riyaz, Elise & Emma, Ria Lina, Ro-Mi Pouw, Faradays",
+          "EventDate": "2026-11-21T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/asian-persuasion/a10Qw00000C0VJSIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -559,9 +520,9 @@
           ]
         },
         {
-          "EventTitle": "Froukje - 'Kijk Je Naar Mij?' Albumtour 2026 + Jaïr Faria",
+          "EventTitle": "Gotu Jim + igor",
           "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/froukje-kijk-je-naar-mij-albumtour-2026/a10Qw000009zet0IAA",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/gotu-jim/a10Qw00000GLMQvIAP",
           "Issues": [
             {
               "Field": "DateString",
@@ -572,9 +533,9 @@
           ]
         },
         {
-          "EventTitle": "Gotu Jim + igor",
+          "EventTitle": "Froukje - 'Kijk Je Naar Mij?' Albumtour 2026 + Jaïr Faria",
           "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gotu-jim/a10Qw00000GLMQvIAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/froukje-kijk-je-naar-mij-albumtour-2026/a10Qw000009zet0IAA",
           "Issues": [
             {
               "Field": "DateString",
@@ -754,9 +715,9 @@
           ]
         },
         {
-          "EventTitle": "Elmiene + Jahson Paynter",
+          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -767,9 +728,9 @@
           ]
         },
         {
-          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
+          "EventTitle": "Elmiene + Jahson Paynter",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -3021,7 +2982,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 155,
+      "TotalEvents": 154,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3031,7 +2992,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 169,
+      "TotalEvents": 167,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -3107,24 +3068,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 48,
+      "TotalEvents": 47,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 47,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Joan As Police Woman",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/joan-as-police-woman",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Felix da Housecat",
           "EventDate": "2026-11-13T00:00:00.0000000",
@@ -3762,7 +3710,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 128,
+      "TotalEvents": 127,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5026,9 +4974,9 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 14,
+      "TotalEvents": 15,
       "ErrorCount": 0,
-      "WarningCount": 14,
+      "WarningCount": 15,
       "Issues": [],
       "EventDetails": [
         {
@@ -5212,6 +5160,19 @@
               "ActualValue": "2027-04-03"
             }
           ]
+        },
+        {
+          "EventTitle": "REVOCATION + DEFEATED SANITY + GOROD + CARNOSUS",
+          "EventDate": "2027-04-30",
+          "EventUrl": "https://aff.be/events/revocation/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-30'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-30"
+            }
+          ]
         }
       ]
     },
@@ -5221,9 +5182,35 @@
       "VenueName": "Compagnie Cecilia, Gent",
       "TotalEvents": 42,
       "ErrorCount": 0,
-      "WarningCount": 3,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
+        {
+          "EventTitle": "Laurie en Lou",
+          "EventDate": "2027-01-28T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/laurie-en-lou",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Napels zien (en sterven)",
+          "EventDate": "2027-01-29T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/napels-zien-en-sterven",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-29T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-29T00:00:00.0000000"
+            }
+          ]
+        },
         {
           "EventTitle": "Micha Wertheim voor iedereen",
           "EventDate": "2027-01-30T00:00:00.0000000",
@@ -5262,6 +5249,19 @@
               "ActualValue": "2027-02-04T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Surplace",
+          "EventDate": "2027-02-11T00:00:00.0000000",
+          "EventUrl": "https://compagnie-cecilia.be/nl/programma/surplace",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-11T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -5269,7 +5269,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 43,
+      "TotalEvents": 42,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6866,24 +6866,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 82,
+      "TotalEvents": 81,
       "ErrorCount": 0,
-      "WarningCount": 82,
+      "WarningCount": 81,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Urchin",
-          "EventDate": "2026-11-11",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/urchin",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11"
-            }
-          ]
-        },
         {
           "EventTitle": "Bienvenue chez les Ch'tis",
           "EventDate": "2026-11-12",
@@ -7943,24 +7930,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 50,
+      "TotalEvents": 49,
       "ErrorCount": 0,
-      "WarningCount": 50,
+      "WarningCount": 49,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kompas invites",
-          "EventDate": "2026-11-11T00:00:00",
-          "EventUrl": "https://decasino.be/concert/kompas-invites/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Jeremy Pinnell",
           "EventDate": "2026-11-12T00:00:00",
@@ -8628,7 +8602,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 131,
+      "TotalEvents": 130,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8653,19 +8627,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "DESNUDA",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/desnuda-dtrr",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
             }
           ]
         },
@@ -8733,6 +8694,19 @@
               "ActualValue": "2026-11-18T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Het Prethuis persenteert",
+          "EventDate": "2026-11-18T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/het-prethuis-persenteert-q8h8",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-18T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -8740,24 +8714,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 60,
+      "TotalEvents": 59,
       "ErrorCount": 0,
-      "WarningCount": 60,
+      "WarningCount": 59,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Bruno Vanden Broecke | Confessie",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/bruno-vanden-broecke--confessie?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Pink Floyd | \"60 years of Pink Floyd\"",
           "EventDate": "2026-11-12T00:00:00.0000000",
@@ -9698,24 +9659,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 61,
+      "TotalEvents": 60,
       "ErrorCount": 1,
-      "WarningCount": 61,
+      "WarningCount": 60,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ão (extra show)",
-          "EventDate": "2026-11-11",
-          "EventUrl": "https://www.democrazy.be/agenda/3172-ao/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11"
-            }
-          ]
-        },
         {
           "EventTitle": "Ão",
           "EventDate": "2026-11-12",
@@ -10534,19 +10482,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Ão (albumrelease)",
-          "EventDate": "2026-11-11T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/Ao-albumrelease-11-11-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-11T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Tiny Tunes: Ão",
           "EventDate": "2026-11-12T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/tiny-tunes-Ao-12-11-26",
@@ -10571,6 +10506,19 @@
               "ActualValue": "2026-11-12T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Mary Halvorson met Canis Major",
+          "EventDate": "2026-11-13T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/mary-halvorson-met-canis-major-13-11-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-13T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -10578,7 +10526,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 104,
+      "TotalEvents": 103,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10632,7 +10580,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 157,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 3,
       "Issues": [],
@@ -10682,7 +10630,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 119,
+      "TotalEvents": 116,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11002,7 +10950,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
