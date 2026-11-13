@@ -1,12 +1,12 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-11-13T11:03:03.0361615Z
+**Generated At:** 2026-11-13T15:03:11.6674302Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
 - **CeciliaScraper**: Found 85 events across 8 monthly files.
 - **ToneelhuisScraper**: Found 164 events across 9 monthly files.
-- **CcAntwerpenScraper**: Found 154 events across 9 monthly files.
+- **CcAntwerpenScraper**: Found 153 events across 9 monthly files.
 - **CcBruggeScraper**: Found 12 events across 3 monthly files.
 - **CCHetSpoorScraper**: Found 10 events across 2 monthly files.
 - **CcNovaWetterenScraper**: Found 28 events across 5 monthly files.
@@ -14,18 +14,18 @@
 - **CultuurhuisMerelbekeScraper**: Found 80 events across 7 monthly files.
 - **CultuurKnokkeHeistScraper**: Found 42 events across 7 monthly files.
 - **DeGrotePostScraper**: Found 18 events across 3 monthly files.
-- **DeKluizeScraper**: Found 64 events across 8 monthly files.
+- **DeKluizeScraper**: Found 63 events across 8 monthly files.
 - **DeMeentScraper**: Found 147 events across 7 monthly files.
 - **DeSpilScraper**: Found 17 events across 2 monthly files.
 - **DeWerfScraper**: Found 120 events across 8 monthly files.
 - **EmotiaScraper**: Found 88 events across 8 monthly files.
 - **GildhofScraper**: Found 127 events across 7 monthly files.
-- **LeietheaterScraper**: Found 139 events across 8 monthly files.
+- **LeietheaterScraper**: Found 140 events across 8 monthly files.
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
 - **AbConcertsScraper**: Found 228 events across 9 monthly files.
 - **AffScraper**: Found 14 events across 5 monthly files.
 - **BotaniqueScraper**: Found 168 events across 10 monthly files.
-- **CactusMusicScraper**: Found 48 events across 7 monthly files.
+- **CactusMusicScraper**: Found 51 events across 8 monthly files.
 - **DeCasinoScraper**: Found 50 events across 8 monthly files.
 - **DemocrazyScraper**: Found 59 events across 8 monthly files.
 - **DeRomaScraper**: Found 130 events across 8 monthly files.
