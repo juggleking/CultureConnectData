@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-11-14T07:03:00.3850689Z
+**Generated At:** 2026-11-14T11:03:02.7132647Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
@@ -39,4 +39,4 @@
 - **TrixScraper**: Found 118 events across 9 monthly files.
 - **VaartKapoenScraper**: Found 22 events across 7 monthly files.
 - **WildeWestenScraper**: Found 58 events across 8 monthly files.
-- **WintercircusScraper**: Found 52 events across 13 monthly files.
+- **WintercircusScraper**: Found 51 events across 13 monthly files.
