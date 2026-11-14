@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-11-13T06:00:01.2905939Z",
-  "ValidatedAt": "2026-11-13T06:00:01.2905943Z",
+  "GeneratedAt": "2026-11-14T06:00:04.7145167Z",
+  "ValidatedAt": "2026-11-14T06:00:04.7145168Z",
   "TotalScrapers": 36,
-  "TotalEvents": 2566,
+  "TotalEvents": 2551,
   "TotalErrors": 1,
-  "TotalWarnings": 806,
+  "TotalWarnings": 801,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 16,
+      "TotalEvents": 17,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,50 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 227,
+      "TotalEvents": 226,
       "ErrorCount": 0,
-      "WarningCount": 227,
+      "WarningCount": 226,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Fifty Lab Music Festival + Alewya, Fred Gata, namesbliss, Bombay Mami",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/fifty-lab-music-festival/a10Qw000001mCBDIA2",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "New date: Swing",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-swing/a10Qw0000059ryJIAQ",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lonnie Holley w/ Nelson Patton & Indré Jurgeleviciute",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/lonnie-holley-w-nelson-patton-indre-jurgeleviciute/a10Qw00000SLkRAIA1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Ice Sealed Eyes + Affenpinshers, EIGA",
           "EventDate": "2026-11-14T00:00:00.0000000",
@@ -325,9 +286,9 @@
           ]
         },
         {
-          "EventTitle": "Asian Persuasion + Aqua Riyaz, Elise & Emma, Ria Lina, Ro-Mi Pouw, Faradays",
+          "EventTitle": "Nightlab Session: It Began In Ipanema w/ Daniel Haaksman",
           "EventDate": "2026-11-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/asian-persuasion/a10Qw00000C0VJSIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-session-it-began-in-ipanema-w-daniel-haaksman/a10Qw00000S5sakIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -338,9 +299,9 @@
           ]
         },
         {
-          "EventTitle": "Nightlab Session: It Began In Ipanema w/ Daniel Haaksman",
+          "EventTitle": "Asian Persuasion + Aqua Riyaz, Elise & Emma, Ria Lina, Ro-Mi Pouw, Faradays",
           "EventDate": "2026-11-21T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/nightlab-session-it-began-in-ipanema-w-daniel-haaksman/a10Qw00000S5sakIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/asian-persuasion/a10Qw00000C0VJSIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -676,9 +637,9 @@
           ]
         },
         {
-          "EventTitle": "Elmiene + Jahson Paynter",
+          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -689,9 +650,9 @@
           ]
         },
         {
-          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
+          "EventTitle": "Elmiene + Jahson Paynter",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -1534,9 +1495,9 @@
           ]
         },
         {
-          "EventTitle": "Eosine + Gender Reveal Atomic Bomb",
+          "EventTitle": "DIKKE",
           "EventDate": "2027-02-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/eosine/a10Qw00000GZBaTIAX",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/dikke/a10Qw00000HdWmDIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -1547,9 +1508,9 @@
           ]
         },
         {
-          "EventTitle": "DIKKE",
+          "EventTitle": "Eosine + Gender Reveal Atomic Bomb",
           "EventDate": "2027-02-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/dikke/a10Qw00000HdWmDIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/eosine/a10Qw00000GZBaTIAX",
           "Issues": [
             {
               "Field": "DateString",
@@ -2119,6 +2080,19 @@
           ]
         },
         {
+          "EventTitle": "Kojaque",
+          "EventDate": "2027-03-09T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kojaque/a10Qw00000ILAObIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Aili & Orson",
           "EventDate": "2027-03-10T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/aili-orson/a10Qw00000H3eiKIAR",
@@ -2167,6 +2141,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-11T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-03-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Makala",
+          "EventDate": "2027-03-12T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/makala/a10Qw00000H9NBhIAN",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-12T00:00:00.0000000"
             }
           ]
         },
@@ -2982,7 +2969,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 154,
+      "TotalEvents": 151,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -2992,7 +2979,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 167,
+      "TotalEvents": 166,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -3068,24 +3055,11 @@
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 48,
+      "TotalEvents": 50,
       "ErrorCount": 0,
-      "WarningCount": 48,
+      "WarningCount": 50,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Felix da Housecat",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/club-cactus",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Senses",
           "EventDate": "2026-11-14T00:00:00.0000000",
@@ -3696,6 +3670,45 @@
               "ActualValue": "2027-05-17T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Cactusfestival 2027",
+          "EventDate": "2027-07-09T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactusfestival-2027-vrijdag",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-07-09T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-07-09T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cactusfestival 2027",
+          "EventDate": "2027-07-10T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactusfestival-2027-zaterdag",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-07-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-07-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cactusfestival 2027",
+          "EventDate": "2027-07-11T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/cactusfestival-2027-zondag",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-07-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-07-11T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -3738,19 +3751,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Marble Sounds",
-          "EventDate": "2026-11-13",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=d7d53fc8-4ced-49c4-8fb8-8635983739aa&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13"
-            }
-          ]
-        },
         {
           "EventTitle": "NEXT - Lola Arias: Androgynous. Portrait of a naked dancer",
           "EventDate": "2026-11-14",
@@ -3867,6 +3867,19 @@
               "ActualValue": "2026-12-03"
             }
           ]
+        },
+        {
+          "EventTitle": "Tweeklank: Sander Boury, Albumrelease",
+          "EventDate": "2026-12-11",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=41fbdc0e-0dba-45a1-b6b5-ed97556543e7&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-11'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-11"
+            }
+          ]
         }
       ]
     },
@@ -3874,7 +3887,7 @@
       "ScraperId": "CcNovaWetteren",
       "ScraperName": "CcNovaWetterenScraper",
       "VenueName": "CC Nova, Wetteren",
-      "TotalEvents": 28,
+      "TotalEvents": 27,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3884,24 +3897,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 83,
+      "TotalEvents": 82,
       "ErrorCount": 0,
-      "WarningCount": 83,
+      "WarningCount": 82,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kadril - Het Liedboek van Kadril",
-          "EventDate": "2026-11-13",
-          "EventUrl": "https://cczoetegem.be/programma/kadril-het-liedboek-van-kadril.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13"
-            }
-          ]
-        },
         {
           "EventTitle": "Kunstendag voor Kinderen 2026",
           "EventDate": "2026-11-15",
@@ -4974,24 +4974,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 15,
+      "TotalEvents": 14,
       "ErrorCount": 0,
-      "WarningCount": 15,
+      "WarningCount": 14,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Lézard + JAKOMO",
-          "EventDate": "2026-11-12",
-          "EventUrl": "https://aff.be/events/lezard/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-12'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-12"
-            }
-          ]
-        },
         {
           "EventTitle": "LASWERK i.s.m. B-Classic",
           "EventDate": "2026-11-18",
@@ -5180,7 +5167,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 85,
+      "TotalEvents": 83,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5190,7 +5177,7 @@
       "ScraperId": "CultuurKnokkeHeist",
       "ScraperName": "CultuurKnokkeHeistScraper",
       "VenueName": "Cultuur Knokke-Heist",
-      "TotalEvents": 42,
+      "TotalEvents": 41,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5228,19 +5215,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-09-23'.",
               "Severity": 1,
               "ActualValue": "2026-09-23"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kamal Kharmach",
-          "EventDate": "2026-11-10",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/kamal-kharmach/9862/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-10'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-10"
             }
           ]
         },
@@ -5336,6 +5310,19 @@
           ]
         },
         {
+          "EventTitle": "Retro Beleef.TIJD",
+          "EventDate": "2026-11-21",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10260/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-21'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-21"
+            }
+          ]
+        },
+        {
           "EventTitle": "An Nelissen",
           "EventDate": "2026-11-21",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/an-nelissen/9867/",
@@ -5365,19 +5352,6 @@
           "EventTitle": "Retro Beleef.TIJD",
           "EventDate": "2026-11-21",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10261/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-21'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-21"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Retro Beleef.TIJD",
-          "EventDate": "2026-11-21",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10260/",
           "Issues": [
             {
               "Field": "DateString",
@@ -5505,6 +5479,19 @@
           ]
         },
         {
+          "EventTitle": "Retro Beleef.TIJD",
+          "EventDate": "2026-11-23",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10238/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-23'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-23"
+            }
+          ]
+        },
+        {
           "EventTitle": "Koninklijke Symfonische Kring Aalst 'Door Eendracht Groot'",
           "EventDate": "2026-11-23",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/koninklijke-symfonische-kring-aalst-door-eendracht-groot/9966/",
@@ -5534,19 +5521,6 @@
           "EventTitle": "Retro Beleef.TIJD",
           "EventDate": "2026-11-23",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10248/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-23'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-23"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Retro Beleef.TIJD",
-          "EventDate": "2026-11-23",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10238/",
           "Issues": [
             {
               "Field": "DateString",
@@ -5650,6 +5624,19 @@
         {
           "EventTitle": "Retro Beleef.TIJD",
           "EventDate": "2026-11-24",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10270/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-24'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-24"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Retro Beleef.TIJD",
+          "EventDate": "2026-11-24",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10232/",
           "Issues": [
             {
@@ -5664,19 +5651,6 @@
           "EventTitle": "Retro Beleef.TIJD",
           "EventDate": "2026-11-24",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10233/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-24'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-24"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Retro Beleef.TIJD",
-          "EventDate": "2026-11-24",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/retro-beleeftijd/10270/",
           "Issues": [
             {
               "Field": "DateString",
@@ -5817,19 +5791,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Karel Uyttendaele",
-          "EventDate": "2026-12-02",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-karel-uyttendaele/10237/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-02'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-02"
-            }
-          ]
-        },
-        {
           "EventTitle": "Casier & Dies",
           "EventDate": "2026-12-13",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/casier-dies/9877/",
@@ -5839,6 +5800,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-13'.",
               "Severity": 1,
               "ActualValue": "2026-12-13"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Karel Uyttendaele",
+          "EventDate": "2026-12-02",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-karel-uyttendaele/10237/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-02'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-02"
             }
           ]
         },
@@ -5973,19 +5947,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Anja Deilgat",
-          "EventDate": "2027-01-05",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-05"
-            }
-          ]
-        },
-        {
           "EventTitle": "DvM Humaniora en Basisschool",
           "EventDate": "2027-01-15",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/dvm-humaniora-en-basisschool/10279/",
@@ -5995,6 +5956,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-15'.",
               "Severity": 1,
               "ActualValue": "2027-01-15"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Anja Deilgat",
+          "EventDate": "2027-01-05",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-anja-deilgat/10141/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-01-05'.",
+              "Severity": 1,
+              "ActualValue": "2027-01-05"
             }
           ]
         },
@@ -6291,19 +6265,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Stuft",
-          "EventDate": "2027-02-02",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-02"
-            }
-          ]
-        },
-        {
           "EventTitle": "Latijnse Kring: Abtsdagboeken over de bouw van een kerk",
           "EventDate": "2027-02-16",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/latijnse-kring-abtsdagboeken-over-de-bouw-van-een-kerk/9085/",
@@ -6313,6 +6274,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-16'.",
               "Severity": 1,
               "ActualValue": "2027-02-16"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Stuft",
+          "EventDate": "2027-02-02",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-stuft/10173/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-02'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-02"
             }
           ]
         },
@@ -6603,19 +6577,6 @@
           ]
         },
         {
-          "EventTitle": "Pop-up expo Olena Polishchuk",
-          "EventDate": "2027-03-04",
-          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-olena-polishchuk/10204/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-04"
-            }
-          ]
-        },
-        {
           "EventTitle": "Ruth Beeckmans, Robrecht Vanden Thoren & Tim Van Aelst",
           "EventDate": "2027-03-14",
           "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/ruth-beeckmans-robrecht-vanden-thoren-tim-van-aelst/9906/",
@@ -6625,6 +6586,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-14'.",
               "Severity": 1,
               "ActualValue": "2027-03-14"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Pop-up expo Olena Polishchuk",
+          "EventDate": "2027-03-04",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/pop-up-expo-olena-polishchuk/10204/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-04"
             }
           ]
         },
@@ -6770,6 +6744,19 @@
               "ActualValue": "2027-04-09"
             }
           ]
+        },
+        {
+          "EventTitle": "Raymond van het Groenewoud",
+          "EventDate": "2027-04-10",
+          "EventUrl": "https://www.dewerfcultuurhuis.be/nl/programma/detail/raymond-van-het-groenewoud/9916/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-10'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-10"
+            }
+          ]
         }
       ]
     },
@@ -6777,7 +6764,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 88,
+      "TotalEvents": 87,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6787,24 +6774,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 80,
+      "TotalEvents": 79,
       "ErrorCount": 0,
-      "WarningCount": 80,
+      "WarningCount": 79,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Love is a Thing with Feathers",
-          "EventDate": "2026-11-13",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/love-thing-feathers",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13"
-            }
-          ]
-        },
         {
           "EventTitle": "Kunstendag voor kinderen: door de ogen van Irmine Remue",
           "EventDate": "2026-11-15",
@@ -7838,9 +7812,9 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 50,
+      "TotalEvents": 51,
       "ErrorCount": 0,
-      "WarningCount": 50,
+      "WarningCount": 51,
       "Issues": [],
       "EventDetails": [
         {
@@ -8178,6 +8152,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-17T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-12-17T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Club Kabaal x Young & Loud",
+          "EventDate": "2026-12-19T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-kabaal-x-young-loud/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-19T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-19T00:00:00"
             }
           ]
         },
@@ -8533,9 +8520,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 6,
       "Issues": [],
       "EventDetails": [
         {
@@ -8548,19 +8535,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus i.s.m. Broederlijk Delen - Eat more Trees",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-i-s-m-broederlijk-delen-dtll",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
             }
           ]
         },
@@ -8635,24 +8609,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 58,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Hans Cools | Zolang de voorraad strekt",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/hans-cools--zolang-de-voorraad-strekt-te-gast?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Toneelgroep Torengalm | What's up James?",
           "EventDate": "2026-11-20T00:00:00.0000000",
@@ -9567,24 +9528,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 1,
-      "WarningCount": 59,
+      "WarningCount": 58,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Max Cooper: 3D/AV Live",
-          "EventDate": "2026-11-13",
-          "EventUrl": "https://www.democrazy.be/agenda/3205-max-cooper-3d-av-live/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13"
-            }
-          ]
-        },
         {
           "EventTitle": "Max Cooper: 3D/AV Live",
           "EventDate": "2026-11-14",
@@ -10351,7 +10299,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 64,
+      "TotalEvents": 63,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10377,19 +10325,6 @@
       "Issues": [],
       "EventDetails": [
         {
-          "EventTitle": "Mary Halvorson met Canis Major",
-          "EventDate": "2026-11-13T00:00:00.0000000",
-          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/mary-halvorson-met-canis-major-13-11-26",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-13T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-13T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Re:Context met Fred Wesley",
           "EventDate": "2026-11-14T00:00:00.0000000",
           "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/re-context-met-fred-wesley-14-11-26",
@@ -10414,6 +10349,19 @@
               "ActualValue": "2026-11-14T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Ha Jam Sessions",
+          "EventDate": "2026-11-14T00:00:00.0000000",
+          "EventUrl": "https://www.haconcerts.be/nl/concertagenda/concerten/ha-jam-sessions-14-11-26",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-14T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-14T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -10421,7 +10369,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 105,
+      "TotalEvents": 104,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10525,7 +10473,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 117,
+      "TotalEvents": 118,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10535,24 +10483,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 23,
+      "TotalEvents": 22,
       "ErrorCount": 0,
-      "WarningCount": 23,
+      "WarningCount": 22,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Angel Bat Dawid + tyroneisaacstuart",
-          "EventDate": "2026-11-12T23:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/angel-bat-dawid-tyroneisaacstuart",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-12T23:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-12T23:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "ZELO | UNBOUND TOUR 2026",
           "EventDate": "2026-11-16T23:00:00Z",
@@ -10855,7 +10790,7 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 53,
+      "TotalEvents": 52,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
