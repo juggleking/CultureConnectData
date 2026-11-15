@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-11-15T11:03:12.7334914Z
+**Generated At:** 2026-11-15T15:04:08.2126582Z
 **Total Scrapers Run:** 36
 
 ## ✅ Successful Scrapers
@@ -10,21 +10,21 @@
 - **CcBruggeScraper**: Found 12 events across 3 monthly files.
 - **CCHetSpoorScraper**: Found 10 events across 3 monthly files.
 - **CcNovaWetterenScraper**: Found 27 events across 5 monthly files.
-- **CcZoetegemScraper**: Found 81 events across 7 monthly files.
+- **CcZoetegemScraper**: Found 80 events across 7 monthly files.
 - **CultuurhuisMerelbekeScraper**: Found 79 events across 7 monthly files.
 - **CultuurKnokkeHeistScraper**: Found 40 events across 7 monthly files.
 - **DeGrotePostScraper**: Found 18 events across 3 monthly files.
 - **DeKluizeScraper**: Found 63 events across 8 monthly files.
 - **DeMeentScraper**: Found 147 events across 7 monthly files.
-- **DeSpilScraper**: Found 16 events across 2 monthly files.
+- **DeSpilScraper**: Found 17 events across 2 monthly files.
 - **DeWerfScraper**: Found 120 events across 8 monthly files.
-- **EmotiaScraper**: Found 86 events across 8 monthly files.
-- **GildhofScraper**: Found 126 events across 7 monthly files.
-- **LeietheaterScraper**: Found 138 events across 8 monthly files.
+- **EmotiaScraper**: Found 85 events across 8 monthly files.
+- **GildhofScraper**: Found 124 events across 7 monthly files.
+- **LeietheaterScraper**: Found 137 events across 8 monthly files.
 - **SintLievensHoutemScraper**: Found 29 events across 5 monthly files.
-- **AbConcertsScraper**: Found 224 events across 9 monthly files.
+- **AbConcertsScraper**: Found 223 events across 9 monthly files.
 - **AffScraper**: Found 14 events across 5 monthly files.
-- **BotaniqueScraper**: Found 165 events across 10 monthly files.
+- **BotaniqueScraper**: Found 164 events across 10 monthly files.
 - **CactusMusicScraper**: Found 49 events across 8 monthly files.
 - **DeCasinoScraper**: Found 50 events across 8 monthly files.
 - **DemocrazyScraper**: Found 57 events across 8 monthly files.
