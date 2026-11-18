@@ -1,6 +1,6 @@
 {
-  "GeneratedAt": "2026-11-17T06:00:04.7148957Z",
-  "ValidatedAt": "2026-11-17T06:00:04.7148957Z",
+  "GeneratedAt": "2026-11-18T06:00:11.1811763Z",
+  "ValidatedAt": "2026-11-18T06:00:11.1811763Z",
   "TotalScrapers": 36,
   "TotalEvents": 2494,
   "TotalErrors": 1,
@@ -20,37 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 218,
+      "TotalEvents": 221,
       "ErrorCount": 0,
-      "WarningCount": 218,
+      "WarningCount": 221,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Eluveitie + Pain, WOLFHEART",
-          "EventDate": "2026-11-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/eluveitie/a10Qw00000CUGYJIA5",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-17T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Au Pairs + Mek'dr'dr",
-          "EventDate": "2026-11-17T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/au-pairs/a10Qw00000J5WdpIAF",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-17T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "NIGHTLAB Producing Workshop w/ Blck Mamba- beginner",
           "EventDate": "2026-11-18T00:00:00.0000000",
@@ -65,9 +39,9 @@
           ]
         },
         {
-          "EventTitle": "Luther",
+          "EventTitle": "Pyo + Nemode",
           "EventDate": "2026-11-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/luther/a10Qw0000097A8jIAE",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/pyo/a10Qw00000HMGdpIAH",
           "Issues": [
             {
               "Field": "DateString",
@@ -78,9 +52,9 @@
           ]
         },
         {
-          "EventTitle": "Pyo + Nemode",
+          "EventTitle": "Luther",
           "EventDate": "2026-11-18T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/pyo/a10Qw00000HMGdpIAH",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/luther/a10Qw0000097A8jIAE",
           "Issues": [
             {
               "Field": "DateString",
@@ -728,6 +702,19 @@
           ]
         },
         {
+          "EventTitle": "The Black Wizards (PT) + Tranen (BE) + TRANEN",
+          "EventDate": "2026-12-10T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-black-wizards-pt-tranen-be/a10Qu00000ZsA4fIAF",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-10T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-10T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Channel Zero",
           "EventDate": "2026-12-11T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU",
@@ -923,9 +910,9 @@
           ]
         },
         {
-          "EventTitle": "Passi & Neg' Marrons",
+          "EventTitle": "Tommigun + uma shanti dew",
           "EventDate": "2026-12-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/passi-neg-marrons/a10Qw00000HQ1rWIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tommigun/a10Qw00000HqJZRIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -936,9 +923,9 @@
           ]
         },
         {
-          "EventTitle": "Tommigun + uma shanti dew",
+          "EventTitle": "Passi & Neg' Marrons",
           "EventDate": "2026-12-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tommigun/a10Qw00000HqJZRIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/passi-neg-marrons/a10Qw00000HQ1rWIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -2405,6 +2392,19 @@
           ]
         },
         {
+          "EventTitle": "Ninajirachi",
+          "EventDate": "2027-04-12T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ninajirachi/a10Qw00000K4TeDIAV",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-12T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-12T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Rodrigo y Gabriela",
           "EventDate": "2027-04-13T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/rodrigo-y-gabriela/a10Qw00000EWGMXIA5",
@@ -2626,6 +2626,19 @@
           ]
         },
         {
+          "EventTitle": "The Cat Empire + Little Quirks",
+          "EventDate": "2027-05-04T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-cat-empire/a10Qw00000KTLC1IAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ão",
           "EventDate": "2027-05-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ao/a10Qw00000Io83GIAR",
@@ -2687,6 +2700,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-05-14T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-05-14T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "L' Entourloop",
+          "EventDate": "2027-05-15T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/l-entourloop/a10Qw00000ItjGgIAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-15T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-15T00:00:00.0000000"
             }
           ]
         },
@@ -2834,6 +2860,19 @@
           ]
         },
         {
+          "EventTitle": "Drake Milligan",
+          "EventDate": "2027-06-17T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/drake-milligan/a10Qw00000SJQEoIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-06-17T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-06-17T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Ziggy Alberts",
           "EventDate": "2027-09-04T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ziggy-alberts/a10Qw00000K4z6DIAR",
@@ -2865,7 +2904,7 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 152,
+      "TotalEvents": 156,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -2875,7 +2914,7 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 161,
+      "TotalEvents": 160,
       "ErrorCount": 0,
       "WarningCount": 5,
       "Issues": [],
@@ -3464,9 +3503,9 @@
           ]
         },
         {
-          "EventTitle": "Richard Thompson & band + Danny Bradley",
+          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
           "Issues": [
             {
               "Field": "DateString",
@@ -3477,9 +3516,9 @@
           ]
         },
         {
-          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
+          "EventTitle": "Richard Thompson & band + Danny Bradley",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
           "Issues": [
             {
               "Field": "DateString",
@@ -3606,7 +3645,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 122,
+      "TotalEvents": 121,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3757,7 +3796,7 @@
       "ScraperId": "CcNovaWetteren",
       "ScraperName": "CcNovaWetterenScraper",
       "VenueName": "CC Nova, Wetteren",
-      "TotalEvents": 26,
+      "TotalEvents": 25,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3767,24 +3806,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 77,
+      "TotalEvents": 76,
       "ErrorCount": 0,
-      "WarningCount": 77,
+      "WarningCount": 76,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Ciné Local: The Odyssey",
-          "EventDate": "2026-11-17",
-          "EventUrl": "https://cczoetegem.be/programma/cine-local-the-odyssey.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-17'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-17"
-            }
-          ]
-        },
         {
           "EventTitle": "Lieven Scheire - Live in Nerdland",
           "EventDate": "2026-11-18",
@@ -7565,24 +7591,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 50,
+      "TotalEvents": 49,
       "ErrorCount": 0,
-      "WarningCount": 50,
+      "WarningCount": 49,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Sin City Burning / Get Well",
-          "EventDate": "2026-11-17T00:00:00",
-          "EventUrl": "https://decasino.be/concert/sin-city-burning-get-well/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-17T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Douwe Bob + Tim Seeker",
           "EventDate": "2026-11-18T00:00:00",
@@ -8226,7 +8239,7 @@
       "ScraperId": "DeGrotePost",
       "ScraperName": "DeGrotePostScraper",
       "VenueName": "De Grote Post, Oostende",
-      "TotalEvents": 18,
+      "TotalEvents": 17,
       "ErrorCount": 0,
       "WarningCount": 1,
       "Issues": [],
@@ -8250,7 +8263,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 130,
+      "TotalEvents": 128,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8260,9 +8273,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
-      "WarningCount": 6,
+      "WarningCount": 5,
       "Issues": [],
       "EventDetails": [
         {
@@ -8275,19 +8288,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Filmkus - Broken English",
-          "EventDate": "2026-11-17T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/filmkus-shmc",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-17T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-17T00:00:00.0000000"
             }
           ]
         },
@@ -9101,9 +9101,9 @@
       "ScraperId": "DeZwerver",
       "ScraperName": "DeZwerverScraper",
       "VenueName": "De Zwerver",
-      "TotalEvents": 10,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 10,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
         {
@@ -9116,6 +9116,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-11-24T00:00:00'.",
               "Severity": 1,
               "ActualValue": "2026-11-24T00:00:00"
+            }
+          ]
+        },
+        {
+          "EventTitle": "PISSBUGS + SEXTC",
+          "EventDate": "2026-12-12T00:00:00",
+          "EventUrl": "https://www.dezwerver.be/agenda/290-pissbugs-sextc/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-12T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-12T00:00:00"
             }
           ]
         },
@@ -10096,7 +10109,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 105,
+      "TotalEvents": 106,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10106,7 +10119,7 @@
       "ScraperId": "Leietheater",
       "ScraperName": "LeietheaterScraper",
       "VenueName": "Leietheater, Deinze",
-      "TotalEvents": 138,
+      "TotalEvents": 137,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10210,24 +10223,11 @@
       "ScraperId": "VaartKapoen",
       "ScraperName": "VaartKapoenScraper",
       "VenueName": "Vaartkapoen",
-      "TotalEvents": 22,
+      "TotalEvents": 21,
       "ErrorCount": 0,
-      "WarningCount": 22,
+      "WarningCount": 21,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "ZELO | UNBOUND TOUR 2026",
-          "EventDate": "2026-11-16T23:00:00Z",
-          "EventUrl": "https://www.vaartkapoen.be/activiteiten/zelo-unbound-tour-2026",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-16T23:00:00Z'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-16T23:00:00Z"
-            }
-          ]
-        },
         {
           "EventTitle": "VK Unplugged 013 - Patches, BREEO",
           "EventDate": "2026-11-17T23:00:00Z",
@@ -10507,7 +10507,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 55,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
