@@ -1,6 +1,6 @@
 # CultureConnect Scraper Run Report
 
-**Generated At:** 2026-11-26T03:06:31.3607771Z
+**Generated At:** 2026-11-26T07:03:07.9929374Z
 **Total Scrapers Run:** 41
 
 ## ⚠️ Failed Scrapers
@@ -19,7 +19,7 @@
 - **CCHetSpoorScraper**: Found 10 events across 4 monthly files.
 - **CcNovaWetterenScraper**: Found 38 events across 5 monthly files.
 - **CcZoetegemScraper**: Found 0 events across 0 monthly files.
-- **CultuurhuisMerelbekeScraper**: Found 85 events across 7 monthly files.
+- **CultuurhuisMerelbekeScraper**: Found 69 events across 7 monthly files.
 - **CultuurKnokkeHeistScraper**: Found 36 events across 7 monthly files.
 - **DeGrotePostScraper**: Found 25 events across 2 monthly files.
 - **DeKluizeScraper**: Found 58 events across 8 monthly files.
@@ -36,7 +36,7 @@
 - **CactusMusicScraper**: Found 49 events across 8 monthly files.
 - **DeCasinoScraper**: Found 65 events across 12 monthly files.
 - **DemocrazyScraper**: Found 56 events across 9 monthly files.
-- **DeRomaScraper**: Found 64 events across 4 monthly files.
+- **DeRomaScraper**: Found 127 events across 11 monthly files.
 - **DeSteenovenScraper**: Found 55 events across 9 monthly files.
 - **DeZwerverScraper**: Found 12 events across 6 monthly files.
 - **FourAdScraper**: Found 16 events across 6 monthly files.
