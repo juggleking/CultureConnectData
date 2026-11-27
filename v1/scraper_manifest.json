@@ -1,16 +1,16 @@
 {
   "Version": "2026.11.27.1025",
-  "GeneratedAt": "2026-11-27T11:02:01.00301Z",
-  "StartedAt": "2026-11-27T11:00:01.3946991Z",
-  "FinishedAt": "2026-11-27T11:01:50.8705319Z",
-  "LastUploadAt": "2026-11-27T11:02:01.0295229Z",
+  "GeneratedAt": "2026-11-27T15:01:45.5825167Z",
+  "StartedAt": "2026-11-27T15:00:01.7117045Z",
+  "FinishedAt": "2026-11-27T15:01:43.1747778Z",
+  "LastUploadAt": "2026-11-27T15:01:45.5967125Z",
   "Venues": [
     {
       "VenueId": "FourAD",
       "VenueName": "4AD, Diksmuide",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8102361Z",
-      "FinishedAt": "2026-11-27T11:00:06.2683402Z",
+      "StartedAt": "2026-11-27T15:00:01.9075932Z",
+      "FinishedAt": "2026-11-27T15:00:03.9144133Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/fourad.png",
       "Files": [
         {
@@ -91,8 +91,8 @@
       "VenueId": "AbConcerts",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.729157Z",
-      "FinishedAt": "2026-11-27T11:00:21.6034571Z",
+      "StartedAt": "2026-11-27T15:00:01.9054502Z",
+      "FinishedAt": "2026-11-27T15:00:14.9715827Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/abconcerts.png",
       "Files": [
         {
@@ -136,9 +136,9 @@
           "Year": 2027,
           "FileName": "abconcerts-02-2027.json",
           "FilePath": "events/concerts/abconcerts/abconcerts-02-2027.json",
-          "Hash": "173d1ca53994e5f88fd5e1f196e4ba14bf6eb35a9bff087147ff4638ab54a4a5",
+          "Hash": "ec83609bbe914db4cdf36d2703064b4f2d4b98751586fbc4e95762964c1372ba",
           "DescriptionsFilePath": "events/concerts/abconcerts/abconcerts-02-2027.descriptions.json",
-          "DescriptionsHash": "78dfaaa29797a0f8d2404b6b153b2bc741d38860d434dcd5ccee4e9e4af68610",
+          "DescriptionsHash": "0e9062bc387a7856b38e3bea331e348ba81950283312d695cc919c491840c872",
           "EventCount": 42,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -351,8 +351,8 @@
       "VenueId": "Botanique",
       "VenueName": "Botanique, Brussels",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T07:00:01.5845181Z",
-      "FinishedAt": "2026-11-27T07:00:09.9265704Z",
+      "StartedAt": "2026-11-27T15:00:01.905823Z",
+      "FinishedAt": "2026-11-27T15:00:47.2064665Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/botanique.png",
       "Files": [
         {
@@ -360,10 +360,10 @@
           "Year": 2026,
           "FileName": "botanique-11-2026.json",
           "FilePath": "events/concerts/botanique/botanique-11-2026.json",
-          "Hash": "d3ed31e1956c97e6a854803f4adaea4f2a37173ebe44b8f8d2f91421447335e4",
+          "Hash": "ed8068c8eefd8c8fc76514b86ff04c0967b5de310a21015ce972080b02e7bde0",
           "DescriptionsFilePath": "events/concerts/botanique/botanique-11-2026.descriptions.json",
-          "DescriptionsHash": "4731a74a6f6089b5a29ccd5bf8700cb052e215e26a31b44be811473edf6a1690",
-          "EventCount": 5,
+          "DescriptionsHash": "71da559314b84f494e5ce199fd1a5d30364e4c5c43e20943aa3a834757ebdd1c",
+          "EventCount": 2,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -372,10 +372,106 @@
           "Year": 2026,
           "FileName": "botanique-12-2026.json",
           "FilePath": "events/concerts/botanique/botanique-12-2026.json",
-          "Hash": "6a8b7f695ee88b4ac0058374d0e08659743a7a20552f64db413cb34c48ea0094",
+          "Hash": "59485c55c30384678b79c9312c4d1af7343563fa8d5e6cd0ebc867e14b64ee95",
           "DescriptionsFilePath": "events/concerts/botanique/botanique-12-2026.descriptions.json",
-          "DescriptionsHash": "2fc04ea751fa8c5c38aebda6a7cdc566df3d1f24183cb126232582ebd2de8efd",
-          "EventCount": 10,
+          "DescriptionsHash": "4c490e98fadae9d3bd304bfcba9d73c4c8f2cc688921048f979d55427de07de9",
+          "EventCount": 34,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 1,
+          "Year": 2027,
+          "FileName": "botanique-01-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-01-2027.json",
+          "Hash": "8068baf5ad61a5f5c120a325d144fcf57164be7ca74e16a95534812357fb497f",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-01-2027.descriptions.json",
+          "DescriptionsHash": "6072ed616a33f0b4c3d1bbd5cb47824481574aff962cc43b25e777f61f187ce2",
+          "EventCount": 17,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 2,
+          "Year": 2027,
+          "FileName": "botanique-02-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-02-2027.json",
+          "Hash": "6c75bf712a5b69968af56970945c0581fb28f6027000a57e4cadb8392d60e17d",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-02-2027.descriptions.json",
+          "DescriptionsHash": "71860ac9f17ba642eaab0f908b61c8315407db636c9a98b3f82fd1de71d42e94",
+          "EventCount": 43,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 3,
+          "Year": 2027,
+          "FileName": "botanique-03-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-03-2027.json",
+          "Hash": "0c047db2f51ce7b68b8b72c9f7017ddcc1cb9e0358b615cd6789e48dcaf01d89",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-03-2027.descriptions.json",
+          "DescriptionsHash": "72bb0c8defabf8afe875130057ef1799cab7092ea4b14687425fce47b0290828",
+          "EventCount": 31,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 4,
+          "Year": 2027,
+          "FileName": "botanique-04-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-04-2027.json",
+          "Hash": "545b6075c531dcf6b1cd00763e9e87180c7af62dac6cba89014da66db7e722c5",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-04-2027.descriptions.json",
+          "DescriptionsHash": "4c2fe3d638ecb071d6a1f5830f52549ff97c44899f5e7502bf33f0550d2444d3",
+          "EventCount": 22,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 5,
+          "Year": 2027,
+          "FileName": "botanique-05-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-05-2027.json",
+          "Hash": "d6cd7a775f079b38e41d962161b1fd55e7de7fba17beef71f7a8b4ef3974e3b6",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-05-2027.descriptions.json",
+          "DescriptionsHash": "72bf22f4801257221e25499ec56d09a6e4de2d40b6d20caecd7cec385febf150",
+          "EventCount": 7,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 6,
+          "Year": 2027,
+          "FileName": "botanique-06-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-06-2027.json",
+          "Hash": "f78020420b5c260a56d89485a212e7439716d1c7c91ca8f3c1b1cb8b0f8087c6",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-06-2027.descriptions.json",
+          "DescriptionsHash": "7f7800e6875965a90b86755c59e310368121953151106abbcbfcd30615be486a",
+          "EventCount": 2,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 9,
+          "Year": 2027,
+          "FileName": "botanique-09-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-09-2027.json",
+          "Hash": "fd1f3c7d882e2be9ca561ca2e6c382c8fc8ef5d0ee63f5bb211badb96670b9e0",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-09-2027.descriptions.json",
+          "DescriptionsHash": "855f1832b3a30a14637e05296d4e9c8fa95ad1ad5b6a8285e3814a87fe9b22b1",
+          "EventCount": 1,
+          "Status": "Unknown",
+          "ErrorMessage": null
+        },
+        {
+          "Month": 10,
+          "Year": 2027,
+          "FileName": "botanique-10-2027.json",
+          "FilePath": "events/concerts/botanique/botanique-10-2027.json",
+          "Hash": "3068792706abeeafa082c9d5b490d319791bf85b4849deddaa9d3e4a94d5facc",
+          "DescriptionsFilePath": "events/concerts/botanique/botanique-10-2027.descriptions.json",
+          "DescriptionsHash": "2daf772e655a9183a2e0bbf2dbf1aebf18b138e8a2ace692815acd0e911acee4",
+          "EventCount": 1,
           "Status": "Unknown",
           "ErrorMessage": null
         }
@@ -385,8 +481,8 @@
       "VenueId": "CactusMusic",
       "VenueName": "Cactus Muziekcentrum, Brugge",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.7586862Z",
-      "FinishedAt": "2026-11-27T11:00:10.4019022Z",
+      "StartedAt": "2026-11-27T15:00:01.9060251Z",
+      "FinishedAt": "2026-11-27T15:00:06.2219162Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cactusmusic.png",
       "Files": [
         {
@@ -491,8 +587,8 @@
       "VenueId": "CcBrugge",
       "VenueName": "CC Brugge",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.5675972Z",
-      "FinishedAt": "2026-11-27T11:00:10.2501488Z",
+      "StartedAt": "2026-11-27T15:00:01.8976204Z",
+      "FinishedAt": "2026-11-27T15:00:07.3114675Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -549,8 +645,8 @@
       "VenueId": "SintLievensHoutem",
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.7215735Z",
-      "FinishedAt": "2026-11-27T11:00:14.3109739Z",
+      "StartedAt": "2026-11-27T15:00:01.9051552Z",
+      "FinishedAt": "2026-11-27T15:00:07.9554815Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/slh.png",
       "Files": [
         {
@@ -619,8 +715,8 @@
       "VenueId": "Gildhof",
       "VenueName": "CC Gildhof, Tielt",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.7038184Z",
-      "FinishedAt": "2026-11-27T11:00:29.1399938Z",
+      "StartedAt": "2026-11-27T15:00:01.9027105Z",
+      "FinishedAt": "2026-11-27T15:00:32.5929668Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -713,8 +809,8 @@
       "VenueId": "CCHetSpoor",
       "VenueName": "CC Het Spoor",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.57958Z",
-      "FinishedAt": "2026-11-27T11:00:10.1856072Z",
+      "StartedAt": "2026-11-27T15:00:01.8980204Z",
+      "FinishedAt": "2026-11-27T15:00:06.1106228Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -771,8 +867,8 @@
       "VenueId": "CcNovaWetteren",
       "VenueName": "CC Nova, Wetteren",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.5909182Z",
-      "FinishedAt": "2026-11-27T11:00:10.495154Z",
+      "StartedAt": "2026-11-27T15:00:01.898398Z",
+      "FinishedAt": "2026-11-27T15:00:06.028029Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -841,8 +937,8 @@
       "VenueId": "CcZoetegem",
       "VenueName": "CC Zoetegem",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6002501Z",
-      "FinishedAt": "2026-11-27T11:00:10.7607867Z",
+      "StartedAt": "2026-11-27T15:00:01.8986663Z",
+      "FinishedAt": "2026-11-27T15:00:05.9945304Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cczoetegem.ico",
       "Files": [
         {
@@ -935,8 +1031,8 @@
       "VenueId": "Aff",
       "VenueName": "Club AFF / Absolutely Free Festival",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.7381756Z",
-      "FinishedAt": "2026-11-27T11:00:13.7091476Z",
+      "StartedAt": "2026-11-27T15:00:01.9056246Z",
+      "FinishedAt": "2026-11-27T15:00:07.723745Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/aff.png",
       "Files": [
         {
@@ -993,8 +1089,8 @@
       "VenueId": "Cecilia",
       "VenueName": "Compagnie Cecilia, Gent",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.3946991Z",
-      "FinishedAt": "2026-11-27T11:01:46.568818Z",
+      "StartedAt": "2026-11-27T15:00:01.7117045Z",
+      "FinishedAt": "2026-11-27T15:01:43.1747778Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/cecilia.png",
       "Files": [
         {
@@ -1074,7 +1170,7 @@
           "Year": 2027,
           "FileName": "cecilia-05-2027.json",
           "FilePath": "events/theatre/cecilia/cecilia-05-2027.json",
-          "Hash": "c37d7133e9064e86dfc1b0f264e352a0871b1acf892fb5a16a135ce0c1a34557",
+          "Hash": "b6087e399af61c223e9f6c31bb4ac0ab5e1c7713fe8533d344da6f144f9eedc1",
           "DescriptionsFilePath": "events/theatre/cecilia/cecilia-05-2027.descriptions.json",
           "DescriptionsHash": "87eb2fa7a1fef81bf8d85e88c74ef6268f53aecb7aef129b16dc1eb37e7c3bd9",
           "EventCount": 14,
@@ -1111,8 +1207,8 @@
       "VenueId": "CultuurKnokkeHeist",
       "VenueName": "Cultuur Knokke-Heist",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6269913Z",
-      "FinishedAt": "2026-11-27T11:00:09.2447955Z",
+      "StartedAt": "2026-11-27T15:00:01.899328Z",
+      "FinishedAt": "2026-11-27T15:00:05.7747682Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1205,8 +1301,8 @@
       "VenueId": "DeWerf",
       "VenueName": "Cultuurhuis De Werf",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6843323Z",
-      "FinishedAt": "2026-11-27T11:00:18.3328461Z",
+      "StartedAt": "2026-11-27T15:00:01.9019081Z",
+      "FinishedAt": "2026-11-27T15:00:13.8517817Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dewerf.png",
       "Files": [
         {
@@ -1323,8 +1419,8 @@
       "VenueId": "Emotia",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6940308Z",
-      "FinishedAt": "2026-11-27T11:00:16.8656657Z",
+      "StartedAt": "2026-11-27T15:00:01.9021534Z",
+      "FinishedAt": "2026-11-27T15:00:09.2106038Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/emotia.png",
       "Files": [
         {
@@ -1429,8 +1525,8 @@
       "VenueId": "CultuurhuisMerelbeke",
       "VenueName": "Cultuurhuis Merelbeke",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6078087Z",
-      "FinishedAt": "2026-11-27T11:00:26.6740297Z",
+      "StartedAt": "2026-11-27T15:00:01.8989589Z",
+      "FinishedAt": "2026-11-27T15:00:18.7632493Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/merelbeke.png",
       "Files": [
         {
@@ -1523,8 +1619,8 @@
       "VenueId": "DeCasino",
       "VenueName": "De Casino",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.7666178Z",
-      "FinishedAt": "2026-11-27T11:00:06.8810211Z",
+      "StartedAt": "2026-11-27T15:00:01.9061864Z",
+      "FinishedAt": "2026-11-27T15:00:05.4384348Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/decasino.svg",
       "Files": [
         {
@@ -1677,8 +1773,8 @@
       "VenueId": "DeGrotePost",
       "VenueName": "De Grote Post, Oostende",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6380885Z",
-      "FinishedAt": "2026-11-27T11:00:13.1248662Z",
+      "StartedAt": "2026-11-27T15:00:01.8997049Z",
+      "FinishedAt": "2026-11-27T15:00:08.2422445Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1711,8 +1807,8 @@
       "VenueId": "DeRoma",
       "VenueName": "De Roma",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.7826481Z",
-      "FinishedAt": "2026-11-27T11:00:08.8334216Z",
+      "StartedAt": "2026-11-27T15:00:01.9066696Z",
+      "FinishedAt": "2026-11-27T15:00:09.9217975Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/deroma.svg",
       "Files": [
         {
@@ -1756,10 +1852,10 @@
           "Year": 2027,
           "FileName": "deroma-02-2027.json",
           "FilePath": "events/concerts/deroma/deroma-02-2027.json",
-          "Hash": "d6e4bfacdefa518bddda984140f6a042ef19f5056f6822d7f75d137684488658",
+          "Hash": "7a44f19cadb786e784512cd1ed777f62bd65bcffc7451c6762932e3130a5055b",
           "DescriptionsFilePath": "events/concerts/deroma/deroma-02-2027.descriptions.json",
-          "DescriptionsHash": "47e9a0bd6138bc109d66a2d8dc482b65df9c3417fc43b0afcdc9075f8974f4a6",
-          "EventCount": 21,
+          "DescriptionsHash": "f7a3a0424da0565550721119c5e11c974d15142111a1ac8ac1d9a11c01c27175",
+          "EventCount": 22,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -1853,8 +1949,8 @@
       "VenueId": "DeSpil",
       "VenueName": "De Spil, Roeselare",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6716731Z",
-      "FinishedAt": "2026-11-27T11:00:08.7146863Z",
+      "StartedAt": "2026-11-27T15:00:01.9011228Z",
+      "FinishedAt": "2026-11-27T15:00:06.1261132Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -1899,8 +1995,8 @@
       "VenueId": "Steenoven",
       "VenueName": "De Steenoven, Herzele",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.7915518Z",
-      "FinishedAt": "2026-11-27T11:00:08.5979411Z",
+      "StartedAt": "2026-11-27T15:00:01.9068576Z",
+      "FinishedAt": "2026-11-27T15:00:03.9269212Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/steenoven.png",
       "Files": [
         {
@@ -2017,8 +2113,8 @@
       "VenueId": "DeZwerver",
       "VenueName": "De Zwerver",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8003129Z",
-      "FinishedAt": "2026-11-27T11:00:10.2568322Z",
+      "StartedAt": "2026-11-27T15:00:01.9070591Z",
+      "FinishedAt": "2026-11-27T15:00:05.4162676Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dezwerver.svg",
       "Files": [
         {
@@ -2099,8 +2195,8 @@
       "VenueId": "Democrazy",
       "VenueName": "Democrazy, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.7741536Z",
-      "FinishedAt": "2026-11-27T11:00:06.2265179Z",
+      "StartedAt": "2026-11-27T15:00:01.9063504Z",
+      "FinishedAt": "2026-11-27T15:00:04.796581Z",
       "FaviconUrl": "https://www.democrazy.be/favicon.ico",
       "Files": [
         {
@@ -2217,8 +2313,8 @@
       "VenueId": "DeKluize",
       "VenueName": "GC De Kluize, Oosterzele",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6494767Z",
-      "FinishedAt": "2026-11-27T11:00:09.4539023Z",
+      "StartedAt": "2026-11-27T15:00:01.9000563Z",
+      "FinishedAt": "2026-11-27T15:00:10.1210868Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/dekluize.png",
       "Files": [
         {
@@ -2250,9 +2346,9 @@
           "Year": 2027,
           "FileName": "dekluize-01-2027.json",
           "FilePath": "events/cultuurcentra/dekluize/dekluize-01-2027.json",
-          "Hash": "a235d2f01b049720c28af00a807be3fa2c0cd326bab950e32b8e205f0977e88c",
+          "Hash": "819e5337aa65df4eb5fb44d37c48bae5ee44b364edcd28a6959f4f775746c56d",
           "DescriptionsFilePath": "events/cultuurcentra/dekluize/dekluize-01-2027.descriptions.json",
-          "DescriptionsHash": "0e11e0698d20f73dea5b9488946ba3486da627f715ad9616cf64255d2408b754",
+          "DescriptionsHash": "98910250076c7a3b1fd013209055514739f40b9a5cf49a2f40fa29cf7320564a",
           "EventCount": 14,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -2323,8 +2419,8 @@
       "VenueId": "DeMeent",
       "VenueName": "GC De Meent",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.6584229Z",
-      "FinishedAt": "2026-11-27T11:00:07.5314249Z",
+      "StartedAt": "2026-11-27T15:00:01.9004192Z",
+      "FinishedAt": "2026-11-27T15:00:05.4034483Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2417,8 +2513,8 @@
       "VenueId": "HaConcerts",
       "VenueName": "Ha Concerts, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8194604Z",
-      "FinishedAt": "2026-11-27T11:00:05.998568Z",
+      "StartedAt": "2026-11-27T15:00:01.9079391Z",
+      "FinishedAt": "2026-11-27T15:00:04.0674132Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/haconcerts.png",
       "Files": [
         {
@@ -2439,8 +2535,8 @@
       "VenueId": "HetDepot",
       "VenueName": "Het Depot, Leuven",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8272946Z",
-      "FinishedAt": "2026-11-27T11:01:01.0101555Z",
+      "StartedAt": "2026-11-27T15:00:01.9086154Z",
+      "FinishedAt": "2026-11-27T15:00:38.8715915Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/hetdepot.png",
       "Files": [
         {
@@ -2460,7 +2556,7 @@
           "Year": 2026,
           "FileName": "hetdepot-12-2026.json",
           "FilePath": "events/concerts/hetdepot/hetdepot-12-2026.json",
-          "Hash": "8414795163d5167313032878d3893664f6fe859ca6e305933996169ed4e0433a",
+          "Hash": "ba4ad1dea57be92de9c6965fbb1cb1116dfa59a72707a8773fd47da13364d8f4",
           "DescriptionsFilePath": "events/concerts/hetdepot/hetdepot-12-2026.descriptions.json",
           "DescriptionsHash": "604d4be3be69e1d9aa1d2ea134a9a245ff56d1441f7bd3f6b42c27e5a19f0038",
           "EventCount": 16,
@@ -2569,8 +2665,8 @@
       "VenueId": "Hetpaleis",
       "VenueName": "HETPALEIS, Antwerpen",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.460822Z",
-      "FinishedAt": "2026-11-27T11:00:24.5048355Z",
+      "StartedAt": "2026-11-27T15:00:01.7136995Z",
+      "FinishedAt": "2026-11-27T15:00:16.1431208Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2675,8 +2771,8 @@
       "VenueId": "Kaaitheater",
       "VenueName": "Kaaitheater, Brussel",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.4767159Z",
-      "FinishedAt": "2026-11-27T11:00:39.277564Z",
+      "StartedAt": "2026-11-27T15:00:01.7151581Z",
+      "FinishedAt": "2026-11-27T15:00:40.9048059Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2733,8 +2829,8 @@
       "VenueId": "Kvs",
       "VenueName": "KVS, Brussel",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.4879218Z",
-      "FinishedAt": "2026-11-27T11:00:29.9956721Z",
+      "StartedAt": "2026-11-27T15:00:01.715676Z",
+      "FinishedAt": "2026-11-27T15:00:21.3544208Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2827,8 +2923,8 @@
       "VenueId": "Leietheater",
       "VenueName": "Leietheater, Deinze",
       "Category": "CultuurCentra",
-      "StartedAt": "2026-11-27T11:00:01.7125696Z",
-      "FinishedAt": "2026-11-27T11:00:16.2830903Z",
+      "StartedAt": "2026-11-27T15:00:01.9028828Z",
+      "FinishedAt": "2026-11-27T15:00:08.7573127Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -2848,9 +2944,9 @@
           "Year": 2026,
           "FileName": "leietheater-12-2026.json",
           "FilePath": "events/cultuurcentra/leietheater/leietheater-12-2026.json",
-          "Hash": "270f03b6e4a7ea8b19d24cbf4aa97d8583ef53f69aab16cb8456e5e697c5962f",
+          "Hash": "806b8dd7c4a56c2547c63b5960bdda8b4522175432363b25725d5be1f656c356",
           "DescriptionsFilePath": "events/cultuurcentra/leietheater/leietheater-12-2026.descriptions.json",
-          "DescriptionsHash": "a51b62532bacdad07b789f4a2c5e56132c6929065191df74189e4ff82af955cf",
+          "DescriptionsHash": "2f0de31f61ca4a46880d62c43b9618c5fb05a8314f9fa78cde403e51f48c60eb",
           "EventCount": 28,
           "Status": "Unknown",
           "ErrorMessage": null
@@ -2872,10 +2968,10 @@
           "Year": 2027,
           "FileName": "leietheater-02-2027.json",
           "FilePath": "events/cultuurcentra/leietheater/leietheater-02-2027.json",
-          "Hash": "684144a239aca45970214776f3c8fe3d508f84e352b8be74613a3a2ad5e7d7b1",
+          "Hash": "6a6fb0860b0074abbc800c72853bf7de3aa49c3318b6cf6b2fce6981d303bb39",
           "DescriptionsFilePath": "events/cultuurcentra/leietheater/leietheater-02-2027.descriptions.json",
-          "DescriptionsHash": "e97481940945c5428be286036b033676bc3c1c994ea34a36e67d50876237d265",
-          "EventCount": 28,
+          "DescriptionsHash": "7e2314ee9ea91089cdb5e7d9d71cc9656002c8b2d2cc5d4669229e0c96b87bd9",
+          "EventCount": 29,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -2933,8 +3029,8 @@
       "VenueId": "Minard",
       "VenueName": "Minardschouwburg, Gent",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.50014Z",
-      "FinishedAt": "2026-11-27T11:00:21.8306807Z",
+      "StartedAt": "2026-11-27T15:00:01.717036Z",
+      "FinishedAt": "2026-11-27T15:00:16.9697011Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -3039,8 +3135,8 @@
       "VenueId": "N9",
       "VenueName": "N9, Eeklo",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8367073Z",
-      "FinishedAt": "2026-11-27T11:00:06.0533515Z",
+      "StartedAt": "2026-11-27T15:00:01.9088857Z",
+      "FinishedAt": "2026-11-27T15:00:04.0591661Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/n9.png",
       "Files": [
         {
@@ -3121,8 +3217,8 @@
       "VenueId": "NtGent",
       "VenueName": "NTGent, Gent",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.5116672Z",
-      "FinishedAt": "2026-11-27T11:00:12.7549243Z",
+      "StartedAt": "2026-11-27T15:00:01.717334Z",
+      "FinishedAt": "2026-11-27T15:00:10.6841308Z",
       "FaviconUrl": null,
       "Files": [
         {
@@ -3235,8 +3331,8 @@
       "VenueId": "Toneelhuis",
       "VenueName": "Toneelhuis, Antwerpen",
       "Category": "Theatre",
-      "StartedAt": "2026-11-27T11:00:01.5421671Z",
-      "FinishedAt": "2026-11-27T11:00:46.8717338Z",
+      "StartedAt": "2026-11-27T15:00:01.8966217Z",
+      "FinishedAt": "2026-11-27T15:00:40.977529Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/toneelhuis.png",
       "Files": [
         {
@@ -3353,8 +3449,8 @@
       "VenueId": "Trix",
       "VenueName": "Trix",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8520572Z",
-      "FinishedAt": "2026-11-27T11:00:11.9736192Z",
+      "StartedAt": "2026-11-27T15:00:01.9092526Z",
+      "FinishedAt": "2026-11-27T15:00:08.3150567Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/trix.svg",
       "Files": [
         {
@@ -3362,10 +3458,10 @@
           "Year": 2026,
           "FileName": "trix-11-2026.json",
           "FilePath": "events/concerts/trix/trix-11-2026.json",
-          "Hash": "5ff1cb2b5d472e596b243f0464bfee8947196cc2d201a13f209b371dd81a57ef",
+          "Hash": "4cdec0064f848cf381e7df3f18b71ab2ba481a1c7453143e4330e75083a6793e",
           "DescriptionsFilePath": "events/concerts/trix/trix-11-2026.descriptions.json",
-          "DescriptionsHash": "9eb9f72c596045241ae0486e7eb95dbcc3bda8e455d9a6b3a4d07ce3cf07e9ec",
-          "EventCount": 7,
+          "DescriptionsHash": "156f5fbfa614c47815961ae2058bfb9b45c0971617835dccff187207fcf3b584",
+          "EventCount": 6,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -3374,10 +3470,10 @@
           "Year": 2026,
           "FileName": "trix-12-2026.json",
           "FilePath": "events/concerts/trix/trix-12-2026.json",
-          "Hash": "f8a0e1e3a3c7625206063604bec0f0a1b097afe460187ecd0e7af1a72bf64f5e",
+          "Hash": "575dfea3e7749a08e784571f20e44d02610bd8bcad5865026f4085d4f916bfbe",
           "DescriptionsFilePath": "events/concerts/trix/trix-12-2026.descriptions.json",
-          "DescriptionsHash": "9026c0357298a79c5ece6bd19d70644c82d45f7a650ee779188bdd1f1c4ccff2",
-          "EventCount": 20,
+          "DescriptionsHash": "0f0ae78a0baae378fa70449a370e47457304f7271c04c84aa60b181d6da02611",
+          "EventCount": 21,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -3471,8 +3567,8 @@
       "VenueId": "VaartKapoen",
       "VenueName": "Vaartkapoen",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8609728Z",
-      "FinishedAt": "2026-11-27T11:00:14.3185957Z",
+      "StartedAt": "2026-11-27T15:00:01.9094452Z",
+      "FinishedAt": "2026-11-27T15:00:08.1061681Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/vaartkapoen.png",
       "Files": [
         {
@@ -3565,8 +3661,8 @@
       "VenueId": "WildeWesten",
       "VenueName": "Wilde Westen, Kortrijk",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8690046Z",
-      "FinishedAt": "2026-11-27T11:01:50.8705319Z",
+      "StartedAt": "2026-11-27T15:00:01.9096306Z",
+      "FinishedAt": "2026-11-27T15:01:40.8923687Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wildewesten.png",
       "Files": [
         {
@@ -3671,8 +3767,8 @@
       "VenueId": "Wintercircus",
       "VenueName": "Wintercircus, Gent",
       "Category": "Concerts",
-      "StartedAt": "2026-11-27T11:00:01.8834605Z",
-      "FinishedAt": "2026-11-27T11:00:23.900989Z",
+      "StartedAt": "2026-11-27T15:00:01.9098295Z",
+      "FinishedAt": "2026-11-27T15:00:12.3426783Z",
       "FaviconUrl": "_content/CultureConnect.Ui.Shared/images/icons/wintercircus.png",
       "Files": [
         {
@@ -3788,10 +3884,10 @@
           "Year": 2027,
           "FileName": "wintercircus-01-2027.json",
           "FilePath": "events/concerts/wintercircus/wintercircus-01-2027.json",
-          "Hash": "a49e40ed56c8ca7b99fdc4957e534dd9cfc67fa92c1ef185b458a1e2df4f155d",
+          "Hash": "d3ea5c032ed5067a716c131e47c97f52902bb62bc8a0bd05055ecb18153b2aa5",
           "DescriptionsFilePath": "events/concerts/wintercircus/wintercircus-01-2027.descriptions.json",
-          "DescriptionsHash": "3151f9c118410c14064d43703547ff1f74f64471ab8f48cb46517504ed97cebe",
-          "EventCount": 3,
+          "DescriptionsHash": "87892b6920977022acc5c090c70e6bb56a4da42a2cb6a4118e8d0bde6a82e783",
+          "EventCount": 2,
           "Status": "Unknown",
           "ErrorMessage": null
         },
@@ -3802,7 +3898,7 @@
           "FilePath": "events/concerts/wintercircus/wintercircus-02-2027.json",
           "Hash": "3c525ffc9dde7bec3735dddc690fefc772de4d52f8fd64f248732f0536e43a65",
           "DescriptionsFilePath": "events/concerts/wintercircus/wintercircus-02-2027.descriptions.json",
-          "DescriptionsHash": "1f795bd5935f0c4ceee88e205ef7857b494d78c23ae368f96de4789ebe860740",
+          "DescriptionsHash": "e8b1b9f75f4ddf0312d3aec5945f9e774f758a636536e139e960425b41105dd0",
           "EventCount": 6,
           "Status": "Unknown",
           "ErrorMessage": null
