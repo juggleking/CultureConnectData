@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-11-26T06:00:06.8646654Z",
-  "ValidatedAt": "2026-11-26T06:00:06.8647775Z",
+  "GeneratedAt": "2026-11-27T06:00:09.826282Z",
+  "ValidatedAt": "2026-11-27T06:00:09.8264104Z",
   "TotalScrapers": 41,
-  "TotalEvents": 2876,
-  "TotalErrors": 1,
-  "TotalWarnings": 784,
+  "TotalEvents": 2838,
+  "TotalErrors": 146,
+  "TotalWarnings": 804,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 16,
+      "TotalEvents": 17,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,50 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 223,
+      "TotalEvents": 224,
       "ErrorCount": 0,
-      "WarningCount": 223,
+      "WarningCount": 232,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "De Kleine Boterhammen presenteert Camilo Donoso",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/de-kleine-boterhammen-presenteert-camilo-donoso/a10Qw00000HSSSfIAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kodaline + Bertie Newman",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kodaline/a10Qw000009l2FhIAI",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Juste Shani + Jade & Naïa",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/juste-shani/a10Qw00000GLJPqIAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Gotu Jim + igor",
           "EventDate": "2026-11-27T00:00:00.0000000",
@@ -104,23 +65,16 @@
           ]
         },
         {
-          "EventTitle": "Arkane",
-          "EventDate": "2026-11-28T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/arkane/a10Qw000005YSlOIAW",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-28T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-28T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "ILA + Mushh",
           "EventDate": "2026-11-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/ila/a10Qw00000Ey1cIIAR",
           "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "The quartet presents their majestic second album following a European tour"
+            },
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2026-11-28T00:00:00.0000000'.",
@@ -133,6 +87,19 @@
           "EventTitle": "Wild Classical Music Ensemble & Fournèz",
           "EventDate": "2026-11-28T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/wild-classical-music-ensemble-fournez/a10Qw00000Q55MfIAJ",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-11-28T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Arkane",
+          "EventDate": "2026-11-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/arkane/a10Qw000005YSlOIAW",
           "Issues": [
             {
               "Field": "DateString",
@@ -234,9 +201,9 @@
           ]
         },
         {
-          "EventTitle": "Pierre de Maere",
+          "EventTitle": "Vernis Rouge + Nicolas Beckers",
           "EventDate": "2026-12-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/pierre-de-maere/a10Qw00000CiJRUIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/vernis-rouge/a10Qw00000HyCUMIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -247,9 +214,9 @@
           ]
         },
         {
-          "EventTitle": "Vernis Rouge + Nicolas Beckers",
+          "EventTitle": "Pierre de Maere",
           "EventDate": "2026-12-02T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/vernis-rouge/a10Qw00000HyCUMIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/pierre-de-maere/a10Qw00000CiJRUIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -273,9 +240,9 @@
           ]
         },
         {
-          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
+          "EventTitle": "Elmiene + Jahson Paynter",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -286,9 +253,9 @@
           ]
         },
         {
-          "EventTitle": "Elmiene + Jahson Paynter",
+          "EventTitle": "Kaat Van Stralen + Camilo Donoso",
           "EventDate": "2026-12-03T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/elmiene/a10Qw00000FKcbZIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/kaat-van-stralen/a10Qw00000H1KJ3IAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -338,19 +305,6 @@
           ]
         },
         {
-          "EventTitle": "AB x VK: Bilal",
-          "EventDate": "2026-12-05T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/ab-x-vk-bilal/a10Qw00000IGYcrIAH",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-05T00:00:00.0000000"
-            }
-          ]
-        },
-        {
           "EventTitle": "Gurriers + Enola Gay, Mixed Waste",
           "EventDate": "2026-12-05T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/gurriers/a10Qw00000FA6czIAD",
@@ -377,9 +331,22 @@
           ]
         },
         {
-          "EventTitle": "Brunch Listening Session: Susobrino presents: QUE VELGA LE PASA A SUSO + Susobrino",
+          "EventTitle": "AB x VK: Bilal",
+          "EventDate": "2026-12-05T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ab-x-vk-bilal/a10Qw00000IGYcrIAH",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Brunch Listening Session: Susobrino personally presents his new album + Susobrino",
           "EventDate": "2026-12-06T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/brunch-listening-session-susobrino-presents-que-velga-le-pasa-a-suso/a10Qu00000ZfMZvIAN",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/brunch-listening-session-susobrino-personally-presents-his-new-album/a10Qu00000ZfMZvIAN",
           "Issues": [
             {
               "Field": "DateString",
@@ -616,6 +583,12 @@
           "EventUrl": "https://www.abconcerts.be/en/agenda/a-beginners-guide-to-charles-mingus-door-guy-peters/a10Qw00000R46XBIAZ",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (50 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "A fascinating account of one of the greats of jazz"
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2026-12-14T00:00:00.0000000'.",
               "Severity": 1,
@@ -624,7 +597,7 @@
           ]
         },
         {
-          "EventTitle": "Girls In Hawaii presents Eldorado",
+          "EventTitle": "Girls In Hawaii presents Eldorado + Coup Dur",
           "EventDate": "2026-12-15T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/girls-in-hawaii-presents-eldorado/a10Qw00000F1TKHIA3",
           "Issues": [
@@ -642,6 +615,12 @@
           "EventUrl": "https://www.abconcerts.be/en/agenda/klassiek-met-de-keere-hollywood-here-we-come-klassiek-op-het-witte-doek/a10Qw00000PJXoJIAX",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (37 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "A fascinating talk on classical music"
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2026-12-15T00:00:00.0000000'.",
               "Severity": 1,
@@ -650,7 +629,20 @@
           ]
         },
         {
-          "EventTitle": "Girls In Hawaii presents Eldorado",
+          "EventTitle": "KETCLUB: Girls in Hawaï present ELDORADO",
+          "EventDate": "2026-12-16T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/ketclub-girls-in-hawai-present-eldorado/a10Qu00000aQA0cIAG",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Girls In Hawaii presents Eldorado + Alice George Perez",
           "EventDate": "2026-12-16T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/girls-in-hawaii-presents-eldorado/a10Qw00000F1TKIIA3",
           "Issues": [
@@ -889,6 +881,12 @@
           "EventUrl": "https://www.abconcerts.be/en/agenda/namiddagconcert-johan-verminnen-afscheid-van-een-zanger/a10Qw00000J5a9aIAB",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (103 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Namiddagconcert: Johan Verminnen, Afscheid Van Een Zanger live at AB Concerts, Brussels (AB Main hall)."
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-01-17T00:00:00.0000000'.",
               "Severity": 1,
@@ -915,6 +913,12 @@
           "EventUrl": "https://www.abconcerts.be/en/agenda/klassiek-met-de-keere-happy-birthday-philip-glass/a10Qw00000PJXoKIAX",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (70 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "A birthday worth marking: Philip Glass, pioneer of musical minimalism."
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-01-18T00:00:00.0000000'.",
               "Severity": 1,
@@ -936,9 +940,9 @@
           ]
         },
         {
-          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
+          "EventTitle": "JGrrey",
           "EventDate": "2027-01-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENimkIAD",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/jgrrey/a10Qw00000Pyg7dIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -949,9 +953,9 @@
           ]
         },
         {
-          "EventTitle": "JGrrey",
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
           "EventDate": "2027-01-20T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/jgrrey/a10Qw00000Pyg7dIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENimkIAD",
           "Issues": [
             {
               "Field": "DateString",
@@ -975,9 +979,9 @@
           ]
         },
         {
-          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
+          "EventTitle": "Manassé",
           "EventDate": "2027-01-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENyMnIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/manasse/a10Qw00000IoOjAIAV",
           "Issues": [
             {
               "Field": "DateString",
@@ -988,9 +992,9 @@
           ]
         },
         {
-          "EventTitle": "Manassé",
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
           "EventDate": "2027-01-22T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/manasse/a10Qw00000IoOjAIAV",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENyMnIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -1014,9 +1018,9 @@
           ]
         },
         {
-          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
+          "EventTitle": "Hollywood Porn Stars",
           "EventDate": "2027-01-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENyMoIAL",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/hollywood-porn-stars/a10Qw00000Hf53dIAB",
           "Issues": [
             {
               "Field": "DateString",
@@ -1027,9 +1031,9 @@
           ]
         },
         {
-          "EventTitle": "Hollywood Porn Stars",
+          "EventTitle": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee Bezig’-tour",
           "EventDate": "2027-01-23T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/hollywood-porn-stars/a10Qw00000Hf53dIAB",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bart-peeters-de-ideale-mannen-premiere-we-zijn-ermee-bezig-tour/a10Qw00000ENyMoIAL",
           "Issues": [
             {
               "Field": "DateString",
@@ -1227,6 +1231,12 @@
           "EventUrl": "https://www.abconcerts.be/en/agenda/dikke/a10Qw00000HdWmDIAV",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (35 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Heavyweight in the Belgian rapscene"
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-02-05T00:00:00.0000000'.",
               "Severity": 1,
@@ -1270,6 +1280,19 @@
               "Description": "Event has no start time — only a date was scraped: '2027-02-06T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-02-06T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lela Soto",
+          "EventDate": "2027-02-07T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/lela-soto/a10Qw00000SNFUTIA5",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-07T00:00:00.0000000"
             }
           ]
         },
@@ -1552,6 +1575,12 @@
           "EventUrl": "https://www.abconcerts.be/en/agenda/klassiek-met-de-keere-van-beethoven-200/a10Qu00000aA1NtIAK",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (78 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "A captivating lecture on one of the most influential figures in Western music."
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-02-22T00:00:00.0000000'.",
               "Severity": 1,
@@ -1759,6 +1788,12 @@
           "EventDate": "2027-03-04T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/green-crow-collective/a10Qw00000Fr8q1IAB",
           "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (62 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Second album release from the country’s craziest Eurodada band"
+            },
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-03-04T00:00:00.0000000'.",
@@ -2262,6 +2297,19 @@
           ]
         },
         {
+          "EventTitle": "Bai Kamara Jr",
+          "EventDate": "2027-04-07T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/bai-kamara-jr/a10Qw00000RvpcXIAR",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-07T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-07T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Charles",
           "EventDate": "2027-04-08T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/charles/a10Qw00000AhvLRIAZ",
@@ -2678,6 +2726,19 @@
           ]
         },
         {
+          "EventTitle": "Svaneborg Kardyb",
+          "EventDate": "2027-05-18T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/svaneborg-kardyb/a10Qw00000RXIUrIAP",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-05-18T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-05-18T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Sanguijuelas del Guadiana",
           "EventDate": "2027-05-26T00:00:00.0000000",
           "EventUrl": "https://www.abconcerts.be/en/agenda/sanguijuelas-del-guadiana/a10Qw00000LcKknIAF",
@@ -2931,96 +2992,1923 @@
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
       "TotalEvents": 145,
-      "ErrorCount": 0,
-      "WarningCount": 0,
-      "Issues": [],
-      "EventDetails": []
-    },
-    {
-      "ScraperId": "Botanique",
-      "ScraperName": "BotaniqueScraper",
-      "VenueName": "Botanique, Brussels",
-      "TotalEvents": 161,
-      "ErrorCount": 0,
-      "WarningCount": 4,
-      "Issues": [],
+      "ErrorCount": 145,
+      "WarningCount": 1,
+      "Issues": [
+        {
+          "Field": "Description",
+          "Description": "More than 50% of events (145/145) have missing, short, or fallback descriptions — check body DOM selector.",
+          "Severity": 1,
+          "ActualValue": null
+        }
+      ],
       "EventDetails": [
         {
-          "EventTitle": "Fanny + Kid Sophie",
-          "EventDate": "2026-12-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/fanny-kid-sophie-2026",
+          "EventTitle": "(H)oops",
+          "EventDate": "2026-12-18T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
           "Issues": [
             {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-16T00:00:00.0000000"
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
             }
           ]
         },
         {
-          "EventTitle": "Premiers Live : Lovelace",
-          "EventDate": "2027-02-11T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/premiers-live-lovelace-2027",
+          "EventTitle": "Aan tafel met Toni Coppers",
+          "EventDate": "2026-12-10T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
           "Issues": [
             {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-11T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-11T00:00:00.0000000"
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
             }
           ]
         },
         {
-          "EventTitle": "Knives",
-          "EventDate": "2027-03-24T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/knives-2027",
+          "EventTitle": "Aanbevelingen voor een beter leven",
+          "EventDate": "2026-12-17T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
           "Issues": [
             {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-24T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-24T00:00:00.0000000"
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
             }
           ]
         },
         {
-          "EventTitle": "Danielle Ponder",
-          "EventDate": "2027-04-16T00:00:00.0000000",
-          "EventUrl": "https://botanique.be/nl/concert/danielle-ponder-2027",
+          "EventTitle": "Ann Van den Broeck & Geena Lisa",
+          "EventDate": "2026-12-20T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
           "Issues": [
             {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-16T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-16T00:00:00.0000000"
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bando",
+          "EventDate": "2026-12-04T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bobbejaanland",
+          "EventDate": "2026-12-19T09:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "CROQUE MUSIQUE / FEW BITS",
+          "EventDate": "2026-12-18T12:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cultuurcafé met Anke Jochems en Michael Vergauwen",
+          "EventDate": "2026-12-10T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Er Is Leven Na De Dood: Warren Zevon",
+          "EventDate": "2026-12-03T20:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Excel (basis)",
+          "EventDate": "2026-12-01T13:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Familiedag, Sinterklaasfeest",
+          "EventDate": "2026-12-06T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "HUMO'S FINALISTENTOUR",
+          "EventDate": "2026-12-01T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Leesclub • Het leugenachtige leven van volwassenen",
+          "EventDate": "2026-12-10T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lelijke Rosse Try-out - Roel Steeno",
+          "EventDate": "2026-12-05T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Memory Lane De Lux",
+          "EventDate": "2026-12-04T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: MARC NECHELPUT",
+          "EventDate": "2026-12-03T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ode aan de verwondering",
+          "EventDate": "2026-12-05T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Paniek in de Pietenfabriek",
+          "EventDate": "2026-12-06T10:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Paniek in de Pietenfabriek",
+          "EventDate": "2026-12-06T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Prijsbeest",
+          "EventDate": "2026-12-10T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen Koken december",
+          "EventDate": "2026-12-12T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen koken, samen eten",
+          "EventDate": "2026-12-09T13:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Scheldevondsten",
+          "EventDate": "2026-12-12T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Storemans",
+          "EventDate": "2026-12-12T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Strip- en Boekenplein",
+          "EventDate": "2026-12-20T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tussen de sterren (4 - 7 jaar)",
+          "EventDate": "2026-12-22T09:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tussen de sterren (8 - 12 jaar)",
+          "EventDate": "2026-12-22T09:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WARRE BORGMANS | Rozeke",
+          "EventDate": "2026-12-05T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WARRE BORGMANS | Rozeke",
+          "EventDate": "2026-12-06T15:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Weekbal met Rémi Geffroy",
+          "EventDate": "2026-12-02T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Winter Wonder Weken - schaatsles 4-7 jaar",
+          "EventDate": "2026-12-22T12:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Winter Wonder Weken - schaatsles 4-7 jaar",
+          "EventDate": "2026-12-29T12:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Winter Wonder Weken - schaatsles 8-12 jaar",
+          "EventDate": "2026-12-22T13:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Winter Wonder Weken - schaatsles 8-12 jaar",
+          "EventDate": "2026-12-29T13:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "A. Claeys, B. Weyters, F. Madou en F. Meulyzer",
+          "EventDate": "2027-01-08T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Aan tafel met Esohe Weyden",
+          "EventDate": "2027-01-14T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Appelbollenloop 10 of 5 km lopen / 2 km wandelen",
+          "EventDate": "2027-01-03T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gewoon Jazz",
+          "EventDate": "2027-01-16T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "GUNTER LAMOOT | Protpourri | Try Out",
+          "EventDate": "2027-01-15T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Iconen - Tutti Fratelli",
+          "EventDate": "2027-01-21T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "LOUAI HASHEM | Is het nog ver?",
+          "EventDate": "2027-01-22T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Louisaland: De Zandman",
+          "EventDate": "2027-01-31T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Mind over body, Body over mind - première",
+          "EventDate": "2027-01-29T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: LANTIS \"De bouw van de Oosterweelverbinding\"",
+          "EventDate": "2027-01-21T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nieuwjaarsconcert Schwung!",
+          "EventDate": "2027-01-10T11:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Nuff Said - Get Up Stand Up!",
+          "EventDate": "2027-01-15T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Open Mic | comedy-avond",
+          "EventDate": "2027-01-28T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Poëzielezing • Joke Emmers en Nico Sturm",
+          "EventDate": "2027-01-24T11:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen Koken januari",
+          "EventDate": "2027-01-16T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Scheldevondsten",
+          "EventDate": "2027-01-24T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Strip- en Boekenplein",
+          "EventDate": "2027-01-17T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Try-out TABOE",
+          "EventDate": "2027-01-12T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Try-out Typisch Thomas",
+          "EventDate": "2027-01-29T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WARME WINTERWOORDEN",
+          "EventDate": "2027-01-28T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WORKSHOP AQUAREL BEGINNERS & GEVORDERDEN",
+          "EventDate": "2027-01-22T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WORKSHOP AQUAREL semi-gevorderden",
+          "EventDate": "2027-01-20T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "workshop Gezonde Start & Lachyoga",
+          "EventDate": "2027-01-14T18:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WORKSHOP: BOETSEER JE EIGEN THEEPOT",
+          "EventDate": "2027-01-10T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Academie woord - beeld - muziekbad",
+          "EventDate": "2026-09-01T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Beurtenkaart Dance Fitness",
+          "EventDate": "2026-09-03T11:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Bewegen in het ochtendgloren",
+          "EventDate": "2026-09-10T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Film- en theaterlab",
+          "EventDate": "2026-09-02T17:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Het Koor van t Kiel",
+          "EventDate": "2026-09-01T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samenlezen",
+          "EventDate": "2026-09-15T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Skillslab",
+          "EventDate": "2026-09-02T15:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WORKSHOP GITAAR voor BEGINNERS met Jan Bellemans",
+          "EventDate": "2026-09-16T18:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WORKSHOP GITAAR voor GEVORDERDEN met Jan Bellemans",
+          "EventDate": "2026-09-16T19:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "ALINE GOFFIN",
+          "EventDate": "2027-04-30T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Filosofisch café • met Gideon Hakker",
+          "EventDate": "2027-04-29T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "KAMAGURKA | Op een zekere dag",
+          "EventDate": "2027-04-24T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "KARLIJN NIESTEN | Familie O.& N. Geluk | 6+",
+          "EventDate": "2027-04-14T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "KIZUNA - Tim Oelbrandt & De Studio",
+          "EventDate": "2027-04-15T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Leesclub • Vertrek(punt) • Julian Barnes",
+          "EventDate": "2027-04-08T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lezing • Lieselot Mariën en Suzanne Grotenhuis",
+          "EventDate": "2027-04-15T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: PETER D'HONDT \"Verkeers(on)veiligheid\"",
+          "EventDate": "2027-04-01T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen Koken april",
+          "EventDate": "2027-04-03T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Seminarie Filosofie, waarheidscrisis",
+          "EventDate": "2027-04-13T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "STAD DER DROMEN | Kunst en Magie",
+          "EventDate": "2027-04-17T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Strip- en Boekenplein",
+          "EventDate": "2027-04-18T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Belachelijk - Henk Rijckaert",
+          "EventDate": "2027-02-26T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "De Mantel",
+          "EventDate": "2027-02-05T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "De mantel - Vanessa Broes en Johan Petit",
+          "EventDate": "2027-02-04T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "DE SPIEGEL | BATTOE | 1-4J",
+          "EventDate": "2027-02-13T11:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "DE SPIEGEL | BATTOE | 1-4J",
+          "EventDate": "2027-02-13T15:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Foyer Soigné - Patsy's Flying Pitchfork",
+          "EventDate": "2027-02-12T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Foyer Soigné + maaltijd - Patsy's Flying Pitchfork",
+          "EventDate": "2027-02-12T18:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: ERIC DE MAERTELEIRE",
+          "EventDate": "2027-02-04T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: 'Het Parlement'",
+          "EventDate": "2027-02-17T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NICOLAS DUPONT en ATANERES | Vio-Lone",
+          "EventDate": "2027-02-20T15:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Piet Verbist | Flamenco Jazz Unit",
+          "EventDate": "2027-02-26T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen Koken februari",
+          "EventDate": "2027-02-06T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Seminarie Filosofie, vergeten filosofes",
+          "EventDate": "2027-02-02T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stad der Dromen | Word een toveropa | Workshop",
+          "EventDate": "2027-02-25T13:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Strip- en Boekenplein",
+          "EventDate": "2027-02-21T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "THOMAS SMITH | Typisch Thomas | Try Out",
+          "EventDate": "2027-02-05T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "THOMAS VAN CAENEGHEM z LANDER SEVERINS | Solo | 4+",
+          "EventDate": "2027-02-24T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "VANESSA BROES EN JOHAN PETIT | De Mantel",
+          "EventDate": "2027-02-18T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "VANESSA BROES EN JOHAN PETIT | De Mantel",
+          "EventDate": "2027-02-19T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "workshop Glas-in-lood raamhanger",
+          "EventDate": "2027-02-18T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "BRUNO VANDEN BROECKE | Confessie",
+          "EventDate": "2026-11-28T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Duopret",
+          "EventDate": "2026-11-29T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Is het nog ver? - Louai Hashem ism Mestizo Arts",
+          "EventDate": "2026-11-26T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lay Down Come Down",
+          "EventDate": "2026-11-26T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Literair Diner Cornichon",
+          "EventDate": "2026-11-28T17:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Literair Diner Kiebooms",
+          "EventDate": "2026-11-28T17:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Literair Diner Momo",
+          "EventDate": "2026-11-28T17:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Louisaland: Het Pakjesmysterie",
+          "EventDate": "2026-11-29T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "OP STAP: HANDELSBEURS met Tanquy Ottomer",
+          "EventDate": "2026-11-28T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Platenkast: Vincent Fierens",
+          "EventDate": "2026-11-26T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Prijsuitreiking Bronzen Uil",
+          "EventDate": "2026-11-28T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Skillslab - workshop 3-D printen",
+          "EventDate": "2026-11-18T15:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Volxkeuken en circusavond: Maaltijd",
+          "EventDate": "2026-11-28T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Winter Wonder Weken - Schaatsbaan",
+          "EventDate": "2026-11-27T18:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Workshop Zelfzorg: Zelfbeeld",
+          "EventDate": "2026-11-26T13:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Cézanne",
+          "EventDate": "2027-03-26T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Er Is Leven Na De Dood: Nina Simone",
+          "EventDate": "2027-03-04T20:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Foyer Soigné - Mad Pack",
+          "EventDate": "2027-03-12T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Foyer Soigné + maaltijd - Mad Pack",
+          "EventDate": "2027-03-12T18:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gitaarensemble Koninklijk Conservatorium Antwerpen",
+          "EventDate": "2027-03-11T20:15:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "JEUGDTHEATER KIP MET KOP | Grasland | 2,5 - 5",
+          "EventDate": "2027-03-20T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "KATLEEN SCHEIR en JOHN BLEK | Double Bill",
+          "EventDate": "2027-03-06T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Leesclub • De kinderwet • Ian McEwan",
+          "EventDate": "2027-03-04T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "LENTEVIERING: Slagtanden op ware grootte",
+          "EventDate": "2027-03-20T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Lezing • Tijl Nuyts en Annelies Verbeke",
+          "EventDate": "2027-03-11T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: MARIYAM SAFI",
+          "EventDate": "2027-03-04T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Open Mic | comedy-avond",
+          "EventDate": "2027-03-04T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "ROBRECHT VANDEN THOREN | Ten minste houdbaar tot",
+          "EventDate": "2027-03-18T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen Koken maart",
+          "EventDate": "2027-03-06T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Seminarie Filosofie, een beter mens worden",
+          "EventDate": "2027-03-09T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Stad der Dromen | Word een toveropa | Workshop",
+          "EventDate": "2027-03-25T13:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Strip- en Boekenplein",
+          "EventDate": "2027-03-21T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "workshop Bundelverven & Ecoprinten",
+          "EventDate": "2027-03-25T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Creatief atelier",
+          "EventDate": "2026-10-06T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Er Is Leven Na De Dood: Doe Maar (Hennie Vrienten)",
+          "EventDate": "2027-05-13T20:30:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "HET GEVOLG | Geen oude vrouwtjes",
+          "EventDate": "2027-05-09T16:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "HET GEVOLG | Geen oude vrouwtjes",
+          "EventDate": "2027-05-09T19:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "J. MOMBAERTS en J. CNAPELINCKX | Ik ben een boom",
+          "EventDate": "2027-05-20T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Leesclub • Charlatan • Zadie Smith",
+          "EventDate": "2027-05-13T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "MORPHOSE TRIO | Symfonische verhalen",
+          "EventDate": "2027-05-23T11:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "NEOS: LIEVEN DEBRAUWER | Humor bij Hitchcock",
+          "EventDate": "2027-05-13T14:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Open Mic | comedy-avond",
+          "EventDate": "2027-05-05T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Samen Koken mei",
+          "EventDate": "2027-05-15T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Seminarie Filosofie, de vrijheid om te blijven",
+          "EventDate": "2027-05-04T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "Strip- en Boekenplein",
+          "EventDate": "2027-05-16T10:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
+            }
+          ]
+        },
+        {
+          "EventTitle": "WARRE VERLINDEN | Zeker Onzeker",
+          "EventDate": "2027-05-13T20:00:00.0000000",
+          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is missing or empty.",
+              "Severity": 2,
+              "ActualValue": null
             }
           ]
         }
       ]
     },
     {
+      "ScraperId": "Botanique",
+      "ScraperName": "BotaniqueScraper",
+      "VenueName": "Botanique, Brussels",
+      "TotalEvents": 15,
+      "ErrorCount": 0,
+      "WarningCount": 0,
+      "Issues": [],
+      "EventDetails": []
+    },
+    {
       "ScraperId": "CactusMusic",
       "ScraperName": "CactusMusicScraper",
       "VenueName": "Cactus Muziekcentrum, Brugge",
-      "TotalEvents": 49,
+      "TotalEvents": 48,
       "ErrorCount": 0,
-      "WarningCount": 49,
+      "WarningCount": 48,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jah Wobble plays 'Metal Box rebuilt in Dub'",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/jah-wobble",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "AC/DC by High Voltage",
           "EventDate": "2026-11-27T00:00:00.0000000",
@@ -3048,7 +4936,7 @@
           ]
         },
         {
-          "EventTitle": "The Tubs",
+          "EventTitle": "The Tubs + Stoop Kid",
           "EventDate": "2026-12-07T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/the-tubs",
           "Issues": [
@@ -3126,7 +5014,7 @@
           ]
         },
         {
-          "EventTitle": "Black Box Revelation",
+          "EventTitle": "Black Box Revelation + Petite Noir x Youniss",
           "EventDate": "2027-01-28T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/black-box-revelation",
           "Issues": [
@@ -3663,15 +5551,55 @@
       "VenueName": "CC De Fabriek, Sint-Lievens-Houtem",
       "TotalEvents": 29,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 3,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Sentimental Value",
+          "EventDate": "2026-12-10T20:00:00.0000000",
+          "EventUrl": "https://www.sint-lievens-houtem.be/activiteiten/sentimental-value-noors-tragikomisch-familiedrama",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (41 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Sentimental Value at Sint-Lievens-Houtem."
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Brutalist",
+          "EventDate": "2027-01-28T20:00:00.0000000",
+          "EventUrl": "https://www.sint-lievens-houtem.be/activiteiten/the-brutalist-amerikaans-immigratiedrama",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (37 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "The Brutalist at Sint-Lievens-Houtem."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Heysel 85",
+          "EventDate": "2027-02-18T20:00:00.0000000",
+          "EventUrl": "https://www.sint-lievens-houtem.be/activiteiten/heysel-85-belgisch-nederlands-duits-drama",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (33 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Heysel 85 at Sint-Lievens-Houtem."
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 114,
+      "TotalEvents": 113,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3822,7 +5750,7 @@
       "ScraperId": "CcNovaWetteren",
       "ScraperName": "CcNovaWetterenScraper",
       "VenueName": "CC Nova, Wetteren",
-      "TotalEvents": 38,
+      "TotalEvents": 37,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -3832,24 +5760,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 72,
+      "TotalEvents": 71,
       "ErrorCount": 0,
-      "WarningCount": 72,
+      "WarningCount": 71,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Wannes Cappelle - Verstaanbaar - UITVERKOCHT!",
-          "EventDate": "2026-11-26",
-          "EventUrl": "https://cczoetegem.be/programma/wannes-cappelle-verstaanbaar.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26"
-            }
-          ]
-        },
         {
           "EventTitle": "Comedycafé: Nigel Williams, Raf Coppens en Ariane Van Hasselt",
           "EventDate": "2026-11-27",
@@ -4779,24 +6694,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 12,
+      "TotalEvents": 11,
       "ErrorCount": 0,
-      "WarningCount": 12,
+      "WarningCount": 11,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Jah Wobble plays Metal Box - Rebuilt in Dub",
-          "EventDate": "2026-11-25",
-          "EventUrl": "https://aff.be/events/jahwobble/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-25'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-25"
-            }
-          ]
-        },
         {
           "EventTitle": "The Bug Club + HAMERS + 30,000 Monkies",
           "EventDate": "2026-11-26",
@@ -4946,7 +6848,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 90,
+      "TotalEvents": 91,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -6365,24 +8267,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 85,
+      "TotalEvents": 68,
       "ErrorCount": 0,
-      "WarningCount": 85,
+      "WarningCount": 75,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "De Jaren",
-          "EventDate": "2026-11-26",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/de-jaren",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26"
-            }
-          ]
-        },
         {
           "EventTitle": "Farce Majeure",
           "EventDate": "2026-11-27",
@@ -6445,6 +8334,19 @@
               "Description": "Event has no start time — only a date was scraped: '2026-12-09'.",
               "Severity": 1,
               "ActualValue": "2026-12-09"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Start voorjaarsverkoop 2027",
+          "EventDate": "2026-12-10",
+          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/start-voorjaarsverkoop-2027",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-10'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-10"
             }
           ]
         },
@@ -6558,6 +8460,12 @@
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/schoonbeest-0",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (25 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "SCHOONBEEST at Merelbeke."
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-01-07'.",
               "Severity": 1,
@@ -6596,6 +8504,12 @@
           "EventDate": "2027-01-12",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/alles-kapot-0",
           "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (25 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Alles Kapot at Merelbeke."
+            },
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-01-12'.",
@@ -6666,45 +8580,6 @@
               "Description": "Event has no start time — only a date was scraped: '2027-01-22'.",
               "Severity": 1,
               "ActualValue": "2027-01-22"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Beeldlabo 2de en 3de kleuterklas - groep 1",
-          "EventDate": "2027-01-27",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-2de-en-3de-kleuterklas-groep-1-3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-27'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-27"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Beeldlabo 2de en 3de kleuterklas - groep 2",
-          "EventDate": "2027-01-27",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/beeldlabo-2de-en-3de-kleuterklas-groep-2-3",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-27'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-27"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Acteren voor beginners: de scène op",
-          "EventDate": "2027-01-27",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/acteren-voor-beginners-de-scene-op",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-01-27'.",
-              "Severity": 1,
-              "ActualValue": "2027-01-27"
             }
           ]
         },
@@ -6800,19 +8675,6 @@
           ]
         },
         {
-          "EventTitle": "Open sessie Voices United",
-          "EventDate": "2027-02-04",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/open-sessie-voices-united",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-04'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-04"
-            }
-          ]
-        },
-        {
           "EventTitle": "Nachtgasten",
           "EventDate": "2027-02-05",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/nachtgasten",
@@ -6839,48 +8701,9 @@
           ]
         },
         {
-          "EventTitle": "Improviseren met backingtracks",
-          "EventDate": "2027-02-15",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/improviseren-met-backingtracks",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-15'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-15"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Zing mee met Marie",
-          "EventDate": "2027-02-16",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/zing-mee-met-marie-1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-16'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-16"
-            }
-          ]
-        },
-        {
           "EventTitle": "La vie de ma mère",
           "EventDate": "2027-02-18",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/la-vie-de-ma-mere",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-18'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-18"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Voices United: samen zingen verbindt",
-          "EventDate": "2027-02-18",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/voices-united-samen-zingen-verbindt",
           "Issues": [
             {
               "Field": "DateString",
@@ -6956,19 +8779,6 @@
           ]
         },
         {
-          "EventTitle": "Voorjaarsbloemstukken",
-          "EventDate": "2027-02-22",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/voorjaarsbloemstukken",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-02-22'.",
-              "Severity": 1,
-              "ActualValue": "2027-02-22"
-            }
-          ]
-        },
-        {
           "EventTitle": "VIEREN",
           "EventDate": "2027-02-26",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/vieren",
@@ -7008,23 +8818,16 @@
           ]
         },
         {
-          "EventTitle": "Op pad met je camera",
-          "EventDate": "2027-03-01",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/op-pad-met-je-camera-0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-01'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-01"
-            }
-          ]
-        },
-        {
           "EventTitle": "Pluche",
           "EventDate": "2027-03-02",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/pluche-0",
           "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (20 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Pluche at Merelbeke."
+            },
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-03-02'.",
@@ -7038,6 +8841,12 @@
           "EventDate": "2027-03-02",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/pluche-1",
           "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (20 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Pluche at Merelbeke."
+            },
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-03-02'.",
@@ -7056,19 +8865,6 @@
               "Description": "Event has no start time — only a date was scraped: '2027-03-05'.",
               "Severity": 1,
               "ActualValue": "2027-03-05"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Waarnemingstekenen",
-          "EventDate": "2027-03-10",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/waarnemingstekenen-0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-03-10'.",
-              "Severity": 1,
-              "ActualValue": "2027-03-10"
             }
           ]
         },
@@ -7203,71 +8999,6 @@
           ]
         },
         {
-          "EventTitle": "Porselein inkleuren en draaien",
-          "EventDate": "2027-04-12",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/porselein-inkleuren-en-draaien",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-12'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-12"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Kurinuki en Sgraffito, de kunst van het weghalen",
-          "EventDate": "2027-04-13",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/kurinuki-en-sgraffito-de-kunst-van-het-weghalen",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-13'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-13"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Sta- en hanglampen draaien",
-          "EventDate": "2027-04-14",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/sta-en-hanglampen-draaien",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-14'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-14"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Aquarel: verdieping",
-          "EventDate": "2027-04-14",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/aquarel-verdieping",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-14'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-14"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Servies zonder draaien",
-          "EventDate": "2027-04-15",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/servies-zonder-draaien-1",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-15'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-15"
-            }
-          ]
-        },
-        {
           "EventTitle": "Opening expo Uh hu(g)h & Hu(g)h uh",
           "EventDate": "2027-04-18",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/opening-expo-uh-hugh-hugh-uh",
@@ -7312,23 +9043,16 @@
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/nacht-0",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (19 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NACHT at Merelbeke."
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-04-20'.",
               "Severity": 1,
               "ActualValue": "2027-04-20"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Theepotten draaien",
-          "EventDate": "2027-04-21",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/theepotten-draaien-0",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-04-21'.",
-              "Severity": 1,
-              "ActualValue": "2027-04-21"
             }
           ]
         },
@@ -7390,6 +9114,12 @@
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ik-werd-als-eerste-wakker-0",
           "Issues": [
             {
+              "Field": "Description",
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Ik werd als eerste wakker at Merelbeke."
+            },
+            {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-04-27'.",
               "Severity": 1,
@@ -7402,6 +9132,12 @@
           "EventDate": "2027-04-27",
           "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/ik-werd-als-eerste-wakker-1",
           "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Ik werd als eerste wakker at Merelbeke."
+            },
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-04-27'.",
@@ -7461,19 +9197,6 @@
               "ActualValue": "2027-05-13"
             }
           ]
-        },
-        {
-          "EventTitle": "Duoworkshop: Griekse vazen met een verhaal",
-          "EventDate": "2027-05-22",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/duoworkshop-griekse-vazen-met-een-verhaal",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-05-22'.",
-              "Severity": 1,
-              "ActualValue": "2027-05-22"
-            }
-          ]
         }
       ]
     },
@@ -7481,24 +9204,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 65,
+      "TotalEvents": 64,
       "ErrorCount": 0,
-      "WarningCount": 65,
+      "WarningCount": 64,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "She Past Away + Ultra Sunn",
-          "EventDate": "2026-11-26T00:00:00",
-          "EventUrl": "https://decasino.be/concert/she-past-away/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Geoff Tate + Inner Vitriol",
           "EventDate": "2026-11-27T00:00:00",
@@ -7591,9 +9301,9 @@
           ]
         },
         {
-          "EventTitle": "Club Casino",
+          "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-casino-3/",
+          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
           "Issues": [
             {
               "Field": "DateString",
@@ -7604,9 +9314,9 @@
           ]
         },
         {
-          "EventTitle": "BIMFEST DAY 1",
+          "EventTitle": "Club Casino",
           "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
+          "EventUrl": "https://decasino.be/concert/club-casino-3/",
           "Issues": [
             {
               "Field": "DateString",
@@ -8007,7 +9717,7 @@
           ]
         },
         {
-          "EventTitle": "Black Box Revelation",
+          "EventTitle": "Black Box Revelation + Youniss & Petite Noir",
           "EventDate": "2027-03-10T00:00:00",
           "EventUrl": "https://decasino.be/concert/black-box-revelation/",
           "Issues": [
@@ -8344,14 +10054,14 @@
       "EventDetails": [
         {
           "EventTitle": "Tot aan het gaatje",
-          "EventDate": "2026-11-26T00:00:00.0000000",
+          "EventDate": "2026-11-27T00:00:00.0000000",
           "EventUrl": "https://www.degrotepost.be/agenda/tot-aan-het-gaatje-s4w5",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
+              "ActualValue": "2026-11-27T00:00:00.0000000"
             }
           ]
         },
@@ -8387,7 +10097,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 64,
+      "TotalEvents": 127,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8397,9 +10107,9 @@
       "ScraperId": "DeSpil",
       "ScraperName": "DeSpilScraper",
       "VenueName": "De Spil, Roeselare",
-      "TotalEvents": 12,
+      "TotalEvents": 13,
       "ErrorCount": 0,
-      "WarningCount": 7,
+      "WarningCount": 8,
       "Issues": [],
       "EventDetails": [
         {
@@ -8412,19 +10122,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "No Yogurt for the Dead",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/no-yogurt-for-the-dead-zv6l",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
             }
           ]
         },
@@ -8492,6 +10189,32 @@
               "ActualValue": "2026-12-03T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Tiramisu - theater arsenaal",
+          "EventDate": "2026-12-04T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/tiramisu-518d",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-04T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-04T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Koninklijke Stadsharmonie presenteert",
+          "EventDate": "2026-12-05T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/koninklijke-stadsharmonie-presenteert-sh6r",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -8499,24 +10222,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 55,
+      "TotalEvents": 54,
       "ErrorCount": 0,
-      "WarningCount": 55,
+      "WarningCount": 54,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kommil Foo - BABEL",
-          "EventDate": "2026-11-26T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/kommil-foo---babel?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Kommil Foo - BABEL",
           "EventDate": "2026-11-27T00:00:00.0000000",
@@ -9392,9 +11102,9 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 56,
+      "TotalEvents": 57,
       "ErrorCount": 1,
-      "WarningCount": 56,
+      "WarningCount": 57,
       "Issues": [],
       "EventDetails": [
         {
@@ -9784,6 +11494,19 @@
           "EventTitle": "Eosine",
           "EventDate": "2027-03-04",
           "EventUrl": "https://www.democrazy.be/agenda/3255-eosine/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-04'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-04"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Jennifur",
+          "EventDate": "2027-03-04",
+          "EventUrl": "https://www.democrazy.be/agenda/3281-jennifur/",
           "Issues": [
             {
               "Field": "DateString",
@@ -10217,7 +11940,7 @@
       "ScraperId": "Hetpaleis",
       "ScraperName": "HetpaleisScraper",
       "VenueName": "HETPALEIS, Antwerpen",
-      "TotalEvents": 79,
+      "TotalEvents": 85,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10227,7 +11950,7 @@
       "ScraperId": "Kaaitheater",
       "ScraperName": "KaaitheaterScraper",
       "VenueName": "Kaaitheater, Brussel",
-      "TotalEvents": 71,
+      "TotalEvents": 69,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10237,7 +11960,7 @@
       "ScraperId": "Kvs",
       "ScraperName": "KvsScraper",
       "VenueName": "KVS, Brussel",
-      "TotalEvents": 88,
+      "TotalEvents": 149,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10277,7 +12000,7 @@
       "ScraperId": "NtGent",
       "ScraperName": "NtGentScraper",
       "VenueName": "NTGent, Gent",
-      "TotalEvents": 81,
+      "TotalEvents": 80,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10321,7 +12044,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 102,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10615,7 +12338,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 58,
+      "TotalEvents": 59,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10625,11 +12348,324 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 56,
+      "TotalEvents": 57,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 24,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Paint&Sip in de Arena",
+          "EventDate": "2026-04-08T16:00:00",
+          "EventUrl": "https://www.pigmentpaintandsip.be/open-events/",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (57 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Paint&Sip in de Arena live at Wintercircus - Arena, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Rollerdisco XL",
+          "EventDate": "2026-09-19T16:00:00",
+          "EventUrl": "https://fonkel.stager.co/shop/skate",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (64 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Fonkel BV organizes events with Stager - get your acts together!"
+            }
+          ]
+        },
+        {
+          "EventTitle": "The Night by Gentrepreneur",
+          "EventDate": "2026-10-19T20:45:00",
+          "EventUrl": "https://www.ftifestival.be/programma/gent/night",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "The Night by Gentrepreneur live at Wintercircus, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tectonic",
+          "EventDate": "2026-10-21T11:00:00",
+          "EventUrl": "https://www.ftifestival.be/programma/gent/tectonic",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (36 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Tectonic live at Wintercircus, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Slow Up For Humanity",
+          "EventDate": "2026-10-24T21:00:00",
+          "EventUrl": "https://www.ftifestival.be/programma/gent/slow-humanity",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (48 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Slow Up For Humanity live at Wintercircus, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Questival",
+          "EventDate": "2026-11-04T09:00:00",
+          "EventUrl": "https://www.ftifestival.be/programma/gent/questival",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (37 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Questival live at Wintercircus, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ksawery Komputery",
+          "EventDate": "2026-11-10T09:00:00",
+          "EventUrl": "https://www.ftifestival.be/programma/gent/ksawery-komputery",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (45 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Ksawery Komputery live at Wintercircus, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Dag van de Wetenschap: Wetenschapsfestival Gent",
+          "EventDate": "2026-11-15T09:00:00",
+          "EventUrl": "https://www.ftifestival.be/programma/gent/dag-van-de-wetenschap",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (75 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Dag van de Wetenschap: Wetenschapsfestival Gent live at Wintercircus, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Tobiahs",
+          "EventDate": "2026-11-26T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=234602421965&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (42 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Tobiahs live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Candela Capitán - The Death at the Club",
+          "EventDate": "2026-12-09T20:00:00",
+          "EventUrl": "https://tickets.ticketsgent.be/nl/buyingflow/tickets/45084/91594",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Candela Capitán - The Death at the Club live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "FROM DUSK TILL DAWN x CLOSER - VINYL ONLY",
+          "EventDate": "2026-12-12T23:00:00",
+          "EventUrl": "https://tickets.geestdrift.be/9f22d741e6b540d0b6e8d5e5b3fd6a57?fbclid=IwY2xjawVazrVleHRuA2FlbQIxMABwZG9mAWJyaWQRMWRCeFF6OUZhMUZ3dGtTdUZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfJEAmQahXn5hOlxvhFInHE-Xz2AYW9bwYO4qaWpmuzgPdtKooOmrm2F7oT5g_aem_gOOKv6abU5jZMJhKa3EJXA",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (76 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "FROM DUSK TILL DAWN x CLOSER - VINYL ONLY live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Ana Lua Caiano",
+          "EventDate": "2027-02-09T19:30:00",
+          "EventUrl": "https://tinyurl.com/AnaLuaCaianoTix",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Ana Lua Caiano live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "DJ BORING",
+          "EventDate": "2027-02-13T23:00:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=940639116808&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (44 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "DJ BORING live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Clap Your Hands Say Yeah",
+          "EventDate": "2027-02-17T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=197973139012&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (59 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Clap Your Hands Say Yeah live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sonder - Première, Yves Degryse / BERLIN & NTGent",
+          "EventDate": "2027-02-18T20:00:00",
+          "EventUrl": "https://tickets.ntgent.be/nl/buyingflow/tickets/41687/81077",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (84 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Sonder - Première, Yves Degryse / BERLIN & NTGent live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Sonder, Yves Degryse / BERLIN & NTGent",
+          "EventDate": "2027-02-20T20:00:00",
+          "EventUrl": "https://tickets.ntgent.be/nl/buyingflow/tickets/41687/81080",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (73 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Sonder, Yves Degryse / BERLIN & NTGent live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Gent: architectuur, cultuur & innovatie",
+          "EventDate": "2027-02-23T08:30:00",
+          "EventUrl": "https://shop.knokke-heist.be/Activities/Detail?Shop=0703DD14-3127-4B23-B08F-B5B2EC6A823B&ID=e74612c5-e4b0-f111-bd3d-005056a8cce8",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Gent: architectuur, cultuur & innovatie live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Skumic",
+          "EventDate": "2027-02-24T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=799366520851&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (41 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Skumic live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "DUB CIRCUS w/ Mala",
+          "EventDate": "2027-03-06T22:00:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=152319209019&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "DUB CIRCUS w/ Mala live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "RONKER + Stoelen en Banken",
+          "EventDate": "2027-03-11T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=838253678183&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (61 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "RONKER + Stoelen en Banken live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Will Linley",
+          "EventDate": "2027-03-18T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=512664695736&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (46 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Will Linley live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Other Lives",
+          "EventDate": "2027-03-21T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=295883631881&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (46 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Other Lives live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Frans Kalf",
+          "EventDate": "2027-04-15T19:30:00",
+          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=656217626323&l=nl#!/addtickets",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (45 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Frans Kalf live at Wintercircus - Club, Gent."
+            }
+          ]
+        },
+        {
+          "EventTitle": "Codeine",
+          "EventDate": "2027-05-26T19:30:00",
+          "EventUrl": "https://tinyurl.com/CodeineTix",
+          "Issues": [
+            {
+              "Field": "Description",
+              "Description": "Description is short (42 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Codeine live at Wintercircus - Club, Gent."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
