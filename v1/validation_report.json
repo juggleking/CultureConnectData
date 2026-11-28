@@ -1,16 +1,16 @@
 {
-  "GeneratedAt": "2026-11-27T06:00:09.826282Z",
-  "ValidatedAt": "2026-11-27T06:00:09.8264104Z",
+  "GeneratedAt": "2026-11-28T06:00:09.7317424Z",
+  "ValidatedAt": "2026-11-28T06:00:09.7319787Z",
   "TotalScrapers": 41,
-  "TotalEvents": 2838,
-  "TotalErrors": 146,
-  "TotalWarnings": 804,
+  "TotalEvents": 2951,
+  "TotalErrors": 0,
+  "TotalWarnings": 933,
   "Results": [
     {
       "ScraperId": "FourAD",
       "ScraperName": "FourADScraper",
       "VenueName": "4AD, Diksmuide",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -20,50 +20,11 @@
       "ScraperId": "AbConcerts",
       "ScraperName": "AbConcertsScraper",
       "VenueName": "Anspachlaan 110, 1000 Brussel",
-      "TotalEvents": 224,
+      "TotalEvents": 221,
       "ErrorCount": 0,
-      "WarningCount": 232,
+      "WarningCount": 229,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Gotu Jim + igor",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/gotu-jim/a10Qw00000GLMQvIAP",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Froukje - 'Kijk Je Naar Mij?' Albumtour 2026 + Jaïr Faria",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/froukje-kijk-je-naar-mij-albumtour-2026/a10Qw000009zet0IAA",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Double bill: Stefan Maier & Yuki Nakagawa",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/double-bill-stefan-maier-yuki-nakagawa/a10Qw00000IXJpWIAX",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "ILA + Mushh",
           "EventDate": "2026-11-28T00:00:00.0000000",
@@ -720,9 +681,9 @@
           ]
         },
         {
-          "EventTitle": "Passi & Neg' Marrons",
+          "EventTitle": "Tommigun + uma shanti dew",
           "EventDate": "2026-12-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/passi-neg-marrons/a10Qw00000HQ1rWIAT",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/tommigun/a10Qw00000HqJZRIA3",
           "Issues": [
             {
               "Field": "DateString",
@@ -733,9 +694,9 @@
           ]
         },
         {
-          "EventTitle": "Tommigun + uma shanti dew",
+          "EventTitle": "Passi & Neg' Marrons",
           "EventDate": "2026-12-19T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/tommigun/a10Qw00000HqJZRIA3",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/passi-neg-marrons/a10Qw00000HQ1rWIAT",
           "Issues": [
             {
               "Field": "DateString",
@@ -1310,9 +1271,9 @@
           ]
         },
         {
-          "EventTitle": "Cameron Whitcomb",
+          "EventTitle": "Scientist performing 'Scientist Rids the World of the Evil Curse of The Vampires",
           "EventDate": "2027-02-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/cameron-whitcomb/a10Qw00000H4taQIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/scientist-performing-scientist-rids-the-world-of-the-evil-curse-of-the-vampires/a10Qw00000M6zvNIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -1323,9 +1284,9 @@
           ]
         },
         {
-          "EventTitle": "Scientist performing 'Scientist Rids the World of the Evil Curse of The Vampires",
+          "EventTitle": "Cameron Whitcomb + Benjamin Steer",
           "EventDate": "2027-02-10T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/scientist-performing-scientist-rids-the-world-of-the-evil-curse-of-the-vampires/a10Qw00000M6zvNIAR",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/cameron-whitcomb/a10Qw00000H4taQIAR",
           "Issues": [
             {
               "Field": "DateString",
@@ -2817,28 +2778,15 @@
           ]
         },
         {
-          "EventTitle": "New date: The Wailers",
+          "EventTitle": "The Wailers",
           "EventDate": "2027-06-07T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/new-date-the-wailers/a10Qw00000SNIP7IAP",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-wailers/a10Qw00000SNIP7IAP",
           "Issues": [
             {
               "Field": "DateString",
               "Description": "Event has no start time — only a date was scraped: '2027-06-07T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2027-06-07T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "The Wailers",
-          "EventDate": "2027-06-09T00:00:00.0000000",
-          "EventUrl": "https://www.abconcerts.be/en/agenda/the-wailers/a10Qu00000alXa6IAE",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2027-06-09T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2027-06-09T00:00:00.0000000"
             }
           ]
         },
@@ -2984,6 +2932,19 @@
               "ActualValue": "2027-11-25T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "The Dead South",
+          "EventDate": "2027-11-28T00:00:00.0000000",
+          "EventUrl": "https://www.abconcerts.be/en/agenda/the-dead-south/a10Qw00000IlsvRIAR",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-11-28T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-11-28T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -2991,13 +2952,13 @@
       "ScraperId": "CcAntwerpen",
       "ScraperName": "CcAntwerpenScraper",
       "VenueName": "Antwerpse Cultuurcentra, Antwerpen",
-      "TotalEvents": 145,
-      "ErrorCount": 145,
-      "WarningCount": 1,
+      "TotalEvents": 140,
+      "ErrorCount": 0,
+      "WarningCount": 141,
       "Issues": [
         {
           "Field": "Description",
-          "Description": "More than 50% of events (145/145) have missing, short, or fallback descriptions — check body DOM selector.",
+          "Description": "More than 50% of events (140/140) have missing, short, or fallback descriptions — check body DOM selector.",
           "Severity": 1,
           "ActualValue": null
         }
@@ -3010,9 +2971,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (21 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "(H)oops at Gravenhof."
             }
           ]
         },
@@ -3023,9 +2984,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (50 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Aan tafel met Toni Coppers at Bibliotheek Hoboken."
             }
           ]
         },
@@ -3036,9 +2997,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (57 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Aanbevelingen voor een beter leven at Auditorium Permeke."
             }
           ]
         },
@@ -3049,9 +3010,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Ann Van den Broeck & Geena Lisa at Sint-Gertrudiskerk."
             }
           ]
         },
@@ -3062,9 +3023,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (26 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Bando at Het Oude Badhuis."
             }
           ]
         },
@@ -3075,9 +3036,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (28 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Bobbejaanland at Op locatie."
             }
           ]
         },
@@ -3088,9 +3049,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "CROQUE MUSIQUE / FEW BITS at FOYER STADSMAGAZIJN."
             }
           ]
         },
@@ -3101,9 +3062,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (69 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Cultuurcafé met Anke Jochems en Michael Vergauwen at grote zaal Nova."
             }
           ]
         },
@@ -3114,9 +3075,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (55 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Er Is Leven Na De Dood: Warren Zevon at ZUIDERPERSHUIS."
             }
           ]
         },
@@ -3127,9 +3088,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (44 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Excel (basis) at Computerklas VC De Schelde."
             }
           ]
         },
@@ -3140,9 +3101,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (44 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Familiedag, Sinterklaasfeest at Nova gebouw."
             }
           ]
         },
@@ -3153,9 +3114,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "HUMO'S FINALISTENTOUR at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3166,9 +3127,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (63 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Leesclub • Het leugenachtige leven van volwassenen at Bib Bist."
             }
           ]
         },
@@ -3179,9 +3140,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (55 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Lelijke Rosse Try-out - Roel Steeno at grote zaal Nova."
             }
           ]
         },
@@ -3192,9 +3153,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (32 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Memory Lane De Lux at Gravenhof."
             }
           ]
         },
@@ -3205,9 +3166,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (48 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: MARC NECHELPUT at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3218,9 +3179,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (37 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Ode aan de verwondering at Gravenhof."
             }
           ]
         },
@@ -3231,9 +3192,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (66 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Paniek in de Pietenfabriek at VC De Schelde Concertzaal genummerd."
             }
           ]
         },
@@ -3244,9 +3205,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (66 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Paniek in de Pietenfabriek at VC De Schelde Concertzaal genummerd."
             }
           ]
         },
@@ -3257,9 +3218,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (31 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Prijsbeest at Het Oude Badhuis."
             }
           ]
         },
@@ -3270,9 +3231,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (34 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen Koken december at BLOC 2030."
             }
           ]
         },
@@ -3283,9 +3244,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (37 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen koken, samen eten at Gravenhof."
             }
           ]
         },
@@ -3296,9 +3257,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Scheldevondsten at Foyer Vc De schelde."
             }
           ]
         },
@@ -3309,9 +3270,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (23 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Storemans at Gravenhof."
             }
           ]
         },
@@ -3322,9 +3283,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Strip- en Boekenplein — cultural event."
             }
           ]
         },
@@ -3335,9 +3296,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (44 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Tussen de sterren (4 - 7 jaar) at Gravenhof."
             }
           ]
         },
@@ -3348,9 +3309,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (45 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Tussen de sterren (8 - 12 jaar) at Gravenhof."
             }
           ]
         },
@@ -3361,9 +3322,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (46 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WARRE BORGMANS | Rozeke at Ekerse Theaterzaal."
             }
           ]
         },
@@ -3374,9 +3335,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (46 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WARRE BORGMANS | Rozeke at Ekerse Theaterzaal."
             }
           ]
         },
@@ -3387,9 +3348,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (45 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Weekbal met Rémi Geffroy at Het Oude Badhuis."
             }
           ]
         },
@@ -3400,9 +3361,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (77 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Winter Wonder Weken - schaatsles 4-7 jaar at Schaatsbaan Winter Wonder Weken."
             }
           ]
         },
@@ -3413,9 +3374,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (77 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Winter Wonder Weken - schaatsles 4-7 jaar at Schaatsbaan Winter Wonder Weken."
             }
           ]
         },
@@ -3426,9 +3387,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (78 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Winter Wonder Weken - schaatsles 8-12 jaar at Schaatsbaan Winter Wonder Weken."
             }
           ]
         },
@@ -3439,9 +3400,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (78 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Winter Wonder Weken - schaatsles 8-12 jaar at Schaatsbaan Winter Wonder Weken."
             }
           ]
         },
@@ -3452,9 +3413,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "A. Claeys, B. Weyters, F. Madou en F. Meulyzer at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3465,9 +3426,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (40 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Aan tafel met Esohe Weyden at Gravenhof."
             }
           ]
         },
@@ -3478,9 +3439,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (83 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Appelbollenloop 10 of 5 km lopen / 2 km wandelen at District Ekeren Apelbollenloop."
             }
           ]
         },
@@ -3491,9 +3452,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (25 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Gewoon Jazz at Gravenhof."
             }
           ]
         },
@@ -3504,9 +3465,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (76 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "GUNTER LAMOOT | Protpourri | Try Out at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -3517,9 +3478,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (43 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Iconen - Tutti Fratelli at grote zaal Nova."
             }
           ]
         },
@@ -3530,9 +3491,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (58 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "LOUAI HASHEM | Is het nog ver? at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3543,9 +3504,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (36 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Louisaland: De Zandman at Gravenhof."
             }
           ]
         },
@@ -3556,9 +3517,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (62 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Mind over body, Body over mind - première at Het Oude Badhuis."
             }
           ]
         },
@@ -3569,9 +3530,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (78 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: LANTIS \"De bouw van de Oosterweelverbinding\" at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3582,9 +3543,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (40 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Nieuwjaarsconcert Schwung! at Gravenhof."
             }
           ]
         },
@@ -3595,9 +3556,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (52 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Nuff Said - Get Up Stand Up! at Cultuurcafé Moretus."
             }
           ]
         },
@@ -3608,9 +3569,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (51 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Open Mic | comedy-avond at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3621,9 +3582,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Poëzielezing • Joke Emmers en Nico Sturm at Bib Bist."
             }
           ]
         },
@@ -3634,9 +3595,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (33 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen Koken januari at BLOC 2030."
             }
           ]
         },
@@ -3647,9 +3608,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Scheldevondsten at Foyer Vc De schelde."
             }
           ]
         },
@@ -3660,9 +3621,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Strip- en Boekenplein — cultural event."
             }
           ]
         },
@@ -3673,9 +3634,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (27 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Try-out TABOE at Gravenhof."
             }
           ]
         },
@@ -3686,9 +3647,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (36 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Try-out Typisch Thomas at Gravenhof."
             }
           ]
         },
@@ -3699,9 +3660,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WARME WINTERWOORDEN at ZAAL ZOLDER STADSMAGAZIJN."
             }
           ]
         },
@@ -3712,9 +3673,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (75 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WORKSHOP AQUAREL BEGINNERS & GEVORDERDEN at ZAAL OLIESLAGERS STADSMAGAZIJN."
             }
           ]
         },
@@ -3725,9 +3686,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (68 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WORKSHOP AQUAREL semi-gevorderden at ZAAL OLIESLAGERS STADSMAGAZIJN."
             }
           ]
         },
@@ -3738,9 +3699,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "workshop Gezonde Start & Lachyoga at Foyer BLOC 2030."
             }
           ]
         },
@@ -3751,9 +3712,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (63 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WORKSHOP: BOETSEER JE EIGEN THEEPOT at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3764,9 +3725,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Academie woord - beeld - muziekbad at Nova leslokaal."
             }
           ]
         },
@@ -3777,9 +3738,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (46 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Beurtenkaart Dance Fitness at grote zaal Nova."
             }
           ]
         },
@@ -3790,9 +3751,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (72 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Bewegen in het ochtendgloren at Concertzaal Vc De Schelde - Ongenummerd."
             }
           ]
         },
@@ -3803,9 +3764,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Film- en theaterlab at Repetitiekelder."
             }
           ]
         },
@@ -3816,9 +3777,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Het Koor van t Kiel at grote zaal Nova."
             }
           ]
         },
@@ -3829,9 +3790,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (29 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samenlezen at Nova backstage."
             }
           ]
         },
@@ -3842,9 +3803,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (29 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Skillslab at Repetitiekelder."
             }
           ]
         },
@@ -3855,9 +3816,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (78 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WORKSHOP GITAAR voor BEGINNERS met Jan Bellemans at ZAAL ZOLDER STADSMAGAZIJN."
             }
           ]
         },
@@ -3868,9 +3829,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (80 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WORKSHOP GITAAR voor GEVORDERDEN met Jan Bellemans at ZAAL ZOLDER STADSMAGAZIJN."
             }
           ]
         },
@@ -3881,9 +3842,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (40 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "ALINE GOFFIN at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3894,9 +3855,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Filosofisch café • met Gideon Hakker at Bib Bist."
             }
           ]
         },
@@ -3907,9 +3868,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (69 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "KAMAGURKA | Op een zekere dag at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -3920,9 +3881,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (71 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "KARLIJN NIESTEN | Familie O.& N. Geluk | 6+ at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3933,9 +3894,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "KIZUNA - Tim Oelbrandt & De Studio at grote zaal Nova."
             }
           ]
         },
@@ -3946,9 +3907,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Leesclub • Vertrek(punt) • Julian Barnes at Bib Bist."
             }
           ]
         },
@@ -3959,9 +3920,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (59 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Lezing • Lieselot Mariën en Suzanne Grotenhuis at Bib Bist."
             }
           ]
         },
@@ -3972,9 +3933,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (72 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: PETER D'HONDT \"Verkeers(on)veiligheid\" at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -3985,9 +3946,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (31 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen Koken april at BLOC 2030."
             }
           ]
         },
@@ -3998,9 +3959,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (56 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Seminarie Filosofie, waarheidscrisis at grote zaal Nova."
             }
           ]
         },
@@ -4011,9 +3972,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (60 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "STAD DER DROMEN | Kunst en Magie at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4024,9 +3985,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Strip- en Boekenplein — cultural event."
             }
           ]
         },
@@ -4037,9 +3998,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (48 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Belachelijk - Henk Rijckaert at grote zaal Nova."
             }
           ]
         },
@@ -4050,9 +4011,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (23 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "De Mantel at Gravenhof."
             }
           ]
         },
@@ -4063,9 +4024,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (60 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "De mantel - Vanessa Broes en Johan Petit at grote zaal Nova."
             }
           ]
         },
@@ -4076,9 +4037,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "DE SPIEGEL | BATTOE | 1-4J at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4089,9 +4050,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "DE SPIEGEL | BATTOE | 1-4J at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4102,9 +4063,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Foyer Soigné - Patsy's Flying Pitchfork at BLOC 2030."
             }
           ]
         },
@@ -4115,9 +4076,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (64 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Foyer Soigné + maaltijd - Patsy's Flying Pitchfork at BLOC 2030."
             }
           ]
         },
@@ -4128,9 +4089,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (53 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: ERIC DE MAERTELEIRE at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4141,9 +4102,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: 'Het Parlement' at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4154,9 +4115,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (57 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NICOLAS DUPONT en ATANERES | Vio-Lone at Academie Ekeren."
             }
           ]
         },
@@ -4167,9 +4128,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (61 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Piet Verbist | Flamenco Jazz Unit at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4180,9 +4141,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (34 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen Koken februari at BLOC 2030."
             }
           ]
         },
@@ -4193,9 +4154,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (59 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Seminarie Filosofie, vergeten filosofes at grote zaal Nova."
             }
           ]
         },
@@ -4206,9 +4167,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Stad der Dromen | Word een toveropa | Workshop at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4219,9 +4180,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Strip- en Boekenplein — cultural event."
             }
           ]
         },
@@ -4232,9 +4193,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (79 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "THOMAS SMITH | Typisch Thomas | Try Out at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4245,9 +4206,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (78 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "THOMAS VAN CAENEGHEM z LANDER SEVERINS | Solo | 4+ at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4258,9 +4219,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (80 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "VANESSA BROES EN JOHAN PETIT | De Mantel at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4271,9 +4232,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (80 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "VANESSA BROES EN JOHAN PETIT | De Mantel at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4284,9 +4245,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (52 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "workshop Glas-in-lood raamhanger at Foyer BLOC 2030."
             }
           ]
         },
@@ -4297,9 +4258,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (72 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "BRUNO VANDEN BROECKE | Confessie at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4310,35 +4271,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
-            }
-          ]
-        },
-        {
-          "EventTitle": "Is het nog ver? - Louai Hashem ism Mestizo Arts",
-          "EventDate": "2026-11-26T20:15:00.0000000",
-          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
-            }
-          ]
-        },
-        {
-          "EventTitle": "Lay Down Come Down",
-          "EventDate": "2026-11-26T19:00:00.0000000",
-          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (51 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Duopret at Concertzaal Vc De Schelde - Ongenummerd."
             }
           ]
         },
@@ -4349,9 +4284,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Literair Diner Cornichon at Op locatie."
             }
           ]
         },
@@ -4362,9 +4297,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (38 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Literair Diner Kiebooms at Op locatie."
             }
           ]
         },
@@ -4375,9 +4310,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (34 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Literair Diner Momo at Op locatie."
             }
           ]
         },
@@ -4388,9 +4323,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (44 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Louisaland: Het Pakjesmysterie at Gravenhof."
             }
           ]
         },
@@ -4401,22 +4336,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
-            }
-          ]
-        },
-        {
-          "EventTitle": "Platenkast: Vincent Fierens",
-          "EventDate": "2026-11-26T20:00:00.0000000",
-          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (66 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "OP STAP: HANDELSBEURS met Tanquy Ottomer at Stadsmagazijn OP STAP."
             }
           ]
         },
@@ -4427,9 +4349,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (51 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Prijsuitreiking Bronzen Uil at Bibliotheek Permeke."
             }
           ]
         },
@@ -4440,22 +4362,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
-            }
-          ]
-        },
-        {
-          "EventTitle": "Volxkeuken en circusavond: Maaltijd",
-          "EventDate": "2026-11-28T19:00:00.0000000",
-          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (52 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Skillslab - workshop 3-D printen at Repetitiekelder."
             }
           ]
         },
@@ -4466,22 +4375,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
-            }
-          ]
-        },
-        {
-          "EventTitle": "Workshop Zelfzorg: Zelfbeeld",
-          "EventDate": "2026-11-26T13:00:00.0000000",
-          "EventUrl": "https://cid.recreatex.be/Tickets/Overview",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (69 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Winter Wonder Weken - Schaatsbaan at Schaatsbaan Winter Wonder Weken."
             }
           ]
         },
@@ -4492,9 +4388,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (35 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Cézanne at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4505,9 +4401,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Er Is Leven Na De Dood: Nina Simone at ZUIDERPERSHUIS."
             }
           ]
         },
@@ -4518,9 +4414,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (37 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Foyer Soigné - Mad Pack at BLOC 2030."
             }
           ]
         },
@@ -4531,9 +4427,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (48 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Foyer Soigné + maaltijd - Mad Pack at BLOC 2030."
             }
           ]
         },
@@ -4544,9 +4440,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (70 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Gitaarensemble Koninklijk Conservatorium Antwerpen at grote zaal Nova."
             }
           ]
         },
@@ -4557,9 +4453,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (73 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "JEUGDTHEATER KIP MET KOP | Grasland | 2,5 - 5 at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4570,9 +4466,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (69 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "KATLEEN SCHEIR en JOHN BLEK | Double Bill at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4583,9 +4479,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (49 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Leesclub • De kinderwet • Ian McEwan at Bib Bist."
             }
           ]
         },
@@ -4596,9 +4492,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (68 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "LENTEVIERING: Slagtanden op ware grootte at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4609,9 +4505,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (52 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Lezing • Tijl Nuyts en Annelies Verbeke at Bib Bist."
             }
           ]
         },
@@ -4622,9 +4518,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (46 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: MARIYAM SAFI at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4635,9 +4531,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (51 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Open Mic | comedy-avond at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4648,9 +4544,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (88 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "ROBRECHT VANDEN THOREN | Ten minste houdbaar tot at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4661,9 +4557,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (31 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen Koken maart at BLOC 2030."
             }
           ]
         },
@@ -4674,9 +4570,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (62 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Seminarie Filosofie, een beter mens worden at grote zaal Nova."
             }
           ]
         },
@@ -4687,9 +4583,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Stad der Dromen | Word een toveropa | Workshop at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4700,9 +4596,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Strip- en Boekenplein — cultural event."
             }
           ]
         },
@@ -4713,9 +4609,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (54 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "workshop Bundelverven & Ecoprinten at Foyer BLOC 2030."
             }
           ]
         },
@@ -4726,9 +4622,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (35 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Creatief atelier at Nova leslokaal."
             }
           ]
         },
@@ -4739,9 +4635,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (69 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Er Is Leven Na De Dood: Doe Maar (Hennie Vrienten) at ZUIDERPERSHUIS."
             }
           ]
         },
@@ -4752,9 +4648,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (72 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "HET GEVOLG | Geen oude vrouwtjes at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4765,9 +4661,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (72 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "HET GEVOLG | Geen oude vrouwtjes at Cultuurhuis Hof De Bist - genummerd."
             }
           ]
         },
@@ -4778,9 +4674,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (76 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "J. MOMBAERTS en J. CNAPELINCKX | Ik ben een boom at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4791,9 +4687,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (47 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Leesclub • Charlatan • Zadie Smith at Bib Bist."
             }
           ]
         },
@@ -4804,9 +4700,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (64 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "MORPHOSE TRIO | Symfonische verhalen at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4817,9 +4713,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (72 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "NEOS: LIEVEN DEBRAUWER | Humor bij Hitchcock at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4830,9 +4726,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (51 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Open Mic | comedy-avond at Cultuurhuis Hof De Bist."
             }
           ]
         },
@@ -4843,9 +4739,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (29 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Samen Koken mei at BLOC 2030."
             }
           ]
         },
@@ -4856,9 +4752,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (66 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Seminarie Filosofie, de vrijheid om te blijven at grote zaal Nova."
             }
           ]
         },
@@ -4869,9 +4765,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (39 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "Strip- en Boekenplein — cultural event."
             }
           ]
         },
@@ -4882,9 +4778,9 @@
           "Issues": [
             {
               "Field": "Description",
-              "Description": "Description is missing or empty.",
-              "Severity": 2,
-              "ActualValue": null
+              "Description": "Description is short (59 chars) or uses a single-line fallback placeholder.",
+              "Severity": 1,
+              "ActualValue": "WARRE VERLINDEN | Zeker Onzeker at Cultuurhuis Hof De Bist."
             }
           ]
         }
@@ -4894,11 +4790,64 @@
       "ScraperId": "Botanique",
       "ScraperName": "BotaniqueScraper",
       "VenueName": "Botanique, Brussels",
-      "TotalEvents": 15,
+      "TotalEvents": 160,
       "ErrorCount": 0,
-      "WarningCount": 0,
+      "WarningCount": 4,
       "Issues": [],
-      "EventDetails": []
+      "EventDetails": [
+        {
+          "EventTitle": "Fanny + Kid Sophie",
+          "EventDate": "2026-12-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/fanny-kid-sophie-2026",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-16T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Premiers Live : Lovelace",
+          "EventDate": "2027-02-11T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/premiers-live-lovelace-2027",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-11T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-11T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Knives",
+          "EventDate": "2027-03-24T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/knives-2027",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-03-24T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-03-24T00:00:00.0000000"
+            }
+          ]
+        },
+        {
+          "EventTitle": "Danielle Ponder",
+          "EventDate": "2027-04-16T00:00:00.0000000",
+          "EventUrl": "https://botanique.be/nl/concert/danielle-ponder-2027",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-04-16T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-04-16T00:00:00.0000000"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScraperId": "CactusMusic",
@@ -4909,19 +4858,6 @@
       "WarningCount": 48,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "AC/DC by High Voltage",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/ac-dc-by-high-voltage",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Lézard + De Kloe",
           "EventDate": "2026-12-02T00:00:00.0000000",
@@ -5092,6 +5028,19 @@
           ]
         },
         {
+          "EventTitle": "Dr Lektroluv + Sound of Stereo",
+          "EventDate": "2027-02-19T00:00:00.0000000",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/lektroluv-stereo",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-19T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-19T00:00:00.0000000"
+            }
+          ]
+        },
+        {
           "EventTitle": "Late night music / Happy birthday, Concertgebouw!",
           "EventDate": "2027-02-20T00:00:00.0000000",
           "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/hb-concertgebouw",
@@ -5105,9 +5054,9 @@
           ]
         },
         {
-          "EventTitle": "YIN YIN",
+          "EventTitle": "Kiioto",
           "EventDate": "2027-02-23T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/yin-yin",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/kiioto",
           "Issues": [
             {
               "Field": "DateString",
@@ -5118,9 +5067,9 @@
           ]
         },
         {
-          "EventTitle": "Kiioto",
+          "EventTitle": "YIN YIN",
           "EventDate": "2027-02-23T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/kiioto",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/yin-yin",
           "Issues": [
             {
               "Field": "DateString",
@@ -5404,9 +5353,9 @@
           ]
         },
         {
-          "EventTitle": "Richard Thompson & band + Danny Bradley",
+          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
           "Issues": [
             {
               "Field": "DateString",
@@ -5417,9 +5366,9 @@
           ]
         },
         {
-          "EventTitle": "Oko Yono - We are Stardust, We are golden - Women of the 60's and 70's",
+          "EventTitle": "Richard Thompson & band + Danny Bradley",
           "EventDate": "2027-04-21T00:00:00.0000000",
-          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/oko-yono-21-04",
+          "EventUrl": "https://www.cactusmusic.be/NL/Concerten/Kalender/richard-thompson",
           "Issues": [
             {
               "Field": "DateString",
@@ -5599,7 +5548,7 @@
       "ScraperId": "Gildhof",
       "ScraperName": "GildhofScraper",
       "VenueName": "CC Gildhof, Tielt",
-      "TotalEvents": 113,
+      "TotalEvents": 111,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -5614,19 +5563,6 @@
       "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Theater Malpertuis / Piet Arfeuille - De Jaren",
-          "EventDate": "2026-11-27",
-          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=c92ec9bb-dfea-4bad-8faf-b07d599f95f7&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27"
-            }
-          ]
-        },
         {
           "EventTitle": "Theater Tieret i.s.m. Ida van Dril - Peter Pan",
           "EventDate": "2026-11-29",
@@ -5743,6 +5679,19 @@
               "ActualValue": "2027-02-06"
             }
           ]
+        },
+        {
+          "EventTitle": "Dag van het Woord - Poëziewandeling 2",
+          "EventDate": "2027-02-06",
+          "EventUrl": "https://www.cchetspoor.be/programmatie?cdbid=7a424b56-7370-4fe8-bf23-80a5d6cb2997&amp;utm_source=&amp;utm_medium=referral&amp;utm_campaign=widgets",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2027-02-06'.",
+              "Severity": 1,
+              "ActualValue": "2027-02-06"
+            }
+          ]
         }
       ]
     },
@@ -5760,24 +5709,11 @@
       "ScraperId": "CcZoetegem",
       "ScraperName": "CcZoetegemScraper",
       "VenueName": "CC Zoetegem",
-      "TotalEvents": 71,
+      "TotalEvents": 70,
       "ErrorCount": 0,
-      "WarningCount": 71,
+      "WarningCount": 70,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Comedycafé: Nigel Williams, Raf Coppens en Ariane Van Hasselt",
-          "EventDate": "2026-11-27",
-          "EventUrl": "https://cczoetegem.be/programma/comedycafe-nigel-williams--raf-coppens-en-ariane-van-hasselt.aspx",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27"
-            }
-          ]
-        },
         {
           "EventTitle": "Jahon - Het cadeautjesmysterie",
           "EventDate": "2026-11-29",
@@ -6694,24 +6630,11 @@
       "ScraperId": "Aff",
       "ScraperName": "AffScraper",
       "VenueName": "Club AFF / Absolutely Free Festival",
-      "TotalEvents": 11,
+      "TotalEvents": 10,
       "ErrorCount": 0,
-      "WarningCount": 11,
+      "WarningCount": 10,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "The Bug Club + HAMERS + 30,000 Monkies",
-          "EventDate": "2026-11-26",
-          "EventUrl": "https://aff.be/events/hamers30000monkies/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-26'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-26"
-            }
-          ]
-        },
         {
           "EventTitle": "TERROR + BANE + START TODAY + PEACE OF MIND",
           "EventDate": "2026-12-03",
@@ -6848,7 +6771,7 @@
       "ScraperId": "Cecilia",
       "ScraperName": "CeciliaScraper",
       "VenueName": "Compagnie Cecilia, Gent",
-      "TotalEvents": 91,
+      "TotalEvents": 92,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8257,7 +8180,7 @@
       "ScraperId": "Emotia",
       "ScraperName": "EmotiaScraper",
       "VenueName": "Cultuurhuis EMotia, Erpe-Mere",
-      "TotalEvents": 85,
+      "TotalEvents": 84,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -8267,24 +8190,11 @@
       "ScraperId": "CultuurhuisMerelbeke",
       "ScraperName": "CultuurhuisMerelbekeScraper",
       "VenueName": "Cultuurhuis Merelbeke",
-      "TotalEvents": 68,
+      "TotalEvents": 67,
       "ErrorCount": 0,
-      "WarningCount": 75,
+      "WarningCount": 74,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Farce Majeure",
-          "EventDate": "2026-11-27",
-          "EventUrl": "https://www.cultuurhuis.merelbeke-melle.be/aanbod/farce-majeure",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27"
-            }
-          ]
-        },
         {
           "EventTitle": "Inclusief theateratelier BRUUT",
           "EventDate": "2026-11-28",
@@ -9204,37 +9114,11 @@
       "ScraperId": "DeCasino",
       "ScraperName": "DeCasinoScraper",
       "VenueName": "De Casino",
-      "TotalEvents": 64,
+      "TotalEvents": 62,
       "ErrorCount": 0,
-      "WarningCount": 64,
+      "WarningCount": 62,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Geoff Tate + Inner Vitriol",
-          "EventDate": "2026-11-27T00:00:00",
-          "EventUrl": "https://decasino.be/concert/geoff-tate/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Club Casino",
-          "EventDate": "2026-11-27T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-casino-27-november/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00"
-            }
-          ]
-        },
         {
           "EventTitle": "Club RiRi (by Goestink)",
           "EventDate": "2026-11-28T00:00:00",
@@ -9288,6 +9172,19 @@
           ]
         },
         {
+          "EventTitle": "Club Casino",
+          "EventDate": "2026-12-04T00:00:00",
+          "EventUrl": "https://decasino.be/concert/club-casino-3/",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-04T00:00:00'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-04T00:00:00"
+            }
+          ]
+        },
+        {
           "EventTitle": "BIMFEST XXIV Combi (4 & 5 december)",
           "EventDate": "2026-12-04T00:00:00",
           "EventUrl": "https://decasino.be/concert/bimfest-xxiv-combi-4-5-december/",
@@ -9304,19 +9201,6 @@
           "EventTitle": "BIMFEST DAY 1",
           "EventDate": "2026-12-04T00:00:00",
           "EventUrl": "https://decasino.be/concert/bimfest-day-1-2026/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-12-04T00:00:00'.",
-              "Severity": 1,
-              "ActualValue": "2026-12-04T00:00:00"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Club Casino",
-          "EventDate": "2026-12-04T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-casino-3/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9470,9 +9354,9 @@
           ]
         },
         {
-          "EventTitle": "Club Kabaal x Family Rave",
+          "EventTitle": "Club Kabaal x Young & Loud",
           "EventDate": "2026-12-19T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-kabaal-family-rave/",
+          "EventUrl": "https://decasino.be/concert/club-kabaal-x-young-loud/",
           "Issues": [
             {
               "Field": "DateString",
@@ -9483,9 +9367,9 @@
           ]
         },
         {
-          "EventTitle": "Club Kabaal x Young & Loud",
+          "EventTitle": "Club Kabaal x Family Rave",
           "EventDate": "2026-12-19T00:00:00",
-          "EventUrl": "https://decasino.be/concert/club-kabaal-x-young-loud/",
+          "EventUrl": "https://decasino.be/concert/club-kabaal-family-rave/",
           "Issues": [
             {
               "Field": "DateString",
@@ -10054,14 +9938,14 @@
       "EventDetails": [
         {
           "EventTitle": "Tot aan het gaatje",
-          "EventDate": "2026-11-27T00:00:00.0000000",
+          "EventDate": "2026-11-28T00:00:00.0000000",
           "EventUrl": "https://www.degrotepost.be/agenda/tot-aan-het-gaatje-s4w5",
           "Issues": [
             {
               "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
+              "Description": "Event has no start time — only a date was scraped: '2026-11-28T00:00:00.0000000'.",
               "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
+              "ActualValue": "2026-11-28T00:00:00.0000000"
             }
           ]
         },
@@ -10097,7 +9981,7 @@
       "ScraperId": "DeRoma",
       "ScraperName": "DeRomaScraper",
       "VenueName": "De Roma",
-      "TotalEvents": 127,
+      "TotalEvents": 128,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -10122,19 +10006,6 @@
               "Description": "Event has no start time — only a date was scraped: '2026-10-18T00:00:00.0000000'.",
               "Severity": 1,
               "ActualValue": "2026-10-18T00:00:00.0000000"
-            }
-          ]
-        },
-        {
-          "EventTitle": "Mozart en Bruckner",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://www.despil.be/agenda/mozart-en-bruckner-dtss",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
             }
           ]
         },
@@ -10215,6 +10086,19 @@
               "ActualValue": "2026-12-05T00:00:00.0000000"
             }
           ]
+        },
+        {
+          "EventTitle": "Twee Procent - Bas Birker",
+          "EventDate": "2026-12-05T00:00:00.0000000",
+          "EventUrl": "https://www.despil.be/agenda/twee-procent-7lgm",
+          "Issues": [
+            {
+              "Field": "DateString",
+              "Description": "Event has no start time — only a date was scraped: '2026-12-05T00:00:00.0000000'.",
+              "Severity": 1,
+              "ActualValue": "2026-12-05T00:00:00.0000000"
+            }
+          ]
         }
       ]
     },
@@ -10222,24 +10106,11 @@
       "ScraperId": "Steenoven",
       "ScraperName": "SteenovenScraper",
       "VenueName": "De Steenoven, Herzele",
-      "TotalEvents": 54,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 54,
+      "WarningCount": 53,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "Kommil Foo - BABEL",
-          "EventDate": "2026-11-27T00:00:00.0000000",
-          "EventUrl": "https://steenoven.herzele.be/activiteiten/detail/9860/kommil-foo-babel?th=4047",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27T00:00:00.0000000'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27T00:00:00.0000000"
-            }
-          ]
-        },
         {
           "EventTitle": "Concertband Vivace - Lichtpuntjes",
           "EventDate": "2026-12-05T00:00:00.0000000",
@@ -11102,30 +10973,11 @@
       "ScraperId": "Democrazy",
       "ScraperName": "DemocrazyScraper",
       "VenueName": "Democrazy, Gent",
-      "TotalEvents": 57,
-      "ErrorCount": 1,
-      "WarningCount": 57,
+      "TotalEvents": 56,
+      "ErrorCount": 0,
+      "WarningCount": 56,
       "Issues": [],
       "EventDetails": [
-        {
-          "EventTitle": "CLUSTER 2026",
-          "EventDate": "2026-11-27",
-          "EventUrl": "https://www.democrazy.be/agenda/3239-cluster-2026/",
-          "Issues": [
-            {
-              "Field": "DateString",
-              "Description": "Event has no start time — only a date was scraped: '2026-11-27'.",
-              "Severity": 1,
-              "ActualValue": "2026-11-27"
-            },
-            {
-              "Field": "Location",
-              "Description": "Location is missing.",
-              "Severity": 2,
-              "ActualValue": null
-            }
-          ]
-        },
         {
           "EventTitle": "The Scratch",
           "EventDate": "2026-12-02",
@@ -11860,7 +11712,7 @@
       "ScraperId": "DeKluize",
       "ScraperName": "DeKluizeScraper",
       "VenueName": "GC De Kluize, Oosterzele",
-      "TotalEvents": 58,
+      "TotalEvents": 57,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11930,7 +11782,7 @@
       "ScraperId": "HetDepot",
       "ScraperName": "HetDepotScraper",
       "VenueName": "Het Depot, Leuven",
-      "TotalEvents": 105,
+      "TotalEvents": 104,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11940,7 +11792,7 @@
       "ScraperId": "Hetpaleis",
       "ScraperName": "HetpaleisScraper",
       "VenueName": "HETPALEIS, Antwerpen",
-      "TotalEvents": 85,
+      "TotalEvents": 84,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11950,7 +11802,7 @@
       "ScraperId": "Kaaitheater",
       "ScraperName": "KaaitheaterScraper",
       "VenueName": "Kaaitheater, Brussel",
-      "TotalEvents": 69,
+      "TotalEvents": 68,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11980,7 +11832,7 @@
       "ScraperId": "Minard",
       "ScraperName": "MinardScraper",
       "VenueName": "Minardschouwburg, Gent",
-      "TotalEvents": 102,
+      "TotalEvents": 100,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -11990,7 +11842,7 @@
       "ScraperId": "N9",
       "ScraperName": "N9Scraper",
       "VenueName": "N9, Eeklo",
-      "TotalEvents": 17,
+      "TotalEvents": 16,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12034,7 +11886,7 @@
       "ScraperId": "Toneelhuis",
       "ScraperName": "ToneelhuisScraper",
       "VenueName": "Toneelhuis, Antwerpen",
-      "TotalEvents": 187,
+      "TotalEvents": 186,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12044,7 +11896,7 @@
       "ScraperId": "Trix",
       "ScraperName": "TrixScraper",
       "VenueName": "Trix",
-      "TotalEvents": 100,
+      "TotalEvents": 98,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12338,7 +12190,7 @@
       "ScraperId": "WildeWesten",
       "ScraperName": "WildeWestenScraper",
       "VenueName": "Wilde Westen, Kortrijk",
-      "TotalEvents": 59,
+      "TotalEvents": 58,
       "ErrorCount": 0,
       "WarningCount": 0,
       "Issues": [],
@@ -12348,9 +12200,9 @@
       "ScraperId": "Wintercircus",
       "ScraperName": "WintercircusScraper",
       "VenueName": "Wintercircus, Gent",
-      "TotalEvents": 57,
+      "TotalEvents": 53,
       "ErrorCount": 0,
-      "WarningCount": 24,
+      "WarningCount": 19,
       "Issues": [],
       "EventDetails": [
         {
@@ -12458,19 +12310,6 @@
           ]
         },
         {
-          "EventTitle": "Tobiahs",
-          "EventDate": "2026-11-26T19:30:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=234602421965&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is short (42 chars) or uses a single-line fallback placeholder.",
-              "Severity": 1,
-              "ActualValue": "Tobiahs live at Wintercircus - Club, Gent."
-            }
-          ]
-        },
-        {
           "EventTitle": "Candela Capitán - The Death at the Club",
           "EventDate": "2026-12-09T20:00:00",
           "EventUrl": "https://tickets.ticketsgent.be/nl/buyingflow/tickets/45084/91594",
@@ -12510,32 +12349,6 @@
           ]
         },
         {
-          "EventTitle": "DJ BORING",
-          "EventDate": "2027-02-13T23:00:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=940639116808&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is short (44 chars) or uses a single-line fallback placeholder.",
-              "Severity": 1,
-              "ActualValue": "DJ BORING live at Wintercircus - Club, Gent."
-            }
-          ]
-        },
-        {
-          "EventTitle": "Clap Your Hands Say Yeah",
-          "EventDate": "2027-02-17T19:30:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=197973139012&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is short (59 chars) or uses a single-line fallback placeholder.",
-              "Severity": 1,
-              "ActualValue": "Clap Your Hands Say Yeah live at Wintercircus - Club, Gent."
-            }
-          ]
-        },
-        {
           "EventTitle": "Sonder - Première, Yves Degryse / BERLIN & NTGent",
           "EventDate": "2027-02-18T20:00:00",
           "EventUrl": "https://tickets.ntgent.be/nl/buyingflow/tickets/41687/81077",
@@ -12558,32 +12371,6 @@
               "Description": "Description is short (73 chars) or uses a single-line fallback placeholder.",
               "Severity": 1,
               "ActualValue": "Sonder, Yves Degryse / BERLIN & NTGent live at Wintercircus - Club, Gent."
-            }
-          ]
-        },
-        {
-          "EventTitle": "Gent: architectuur, cultuur & innovatie",
-          "EventDate": "2027-02-23T08:30:00",
-          "EventUrl": "https://shop.knokke-heist.be/Activities/Detail?Shop=0703DD14-3127-4B23-B08F-B5B2EC6A823B&ID=e74612c5-e4b0-f111-bd3d-005056a8cce8",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is short (74 chars) or uses a single-line fallback placeholder.",
-              "Severity": 1,
-              "ActualValue": "Gent: architectuur, cultuur & innovatie live at Wintercircus - Club, Gent."
-            }
-          ]
-        },
-        {
-          "EventTitle": "Skumic",
-          "EventDate": "2027-02-24T19:30:00",
-          "EventUrl": "https://apps.ticketmatic.com/widgets/democrazy/flow/tickets?event=799366520851&l=nl#!/addtickets",
-          "Issues": [
-            {
-              "Field": "Description",
-              "Description": "Description is short (41 chars) or uses a single-line fallback placeholder.",
-              "Severity": 1,
-              "ActualValue": "Skumic live at Wintercircus - Club, Gent."
             }
           ]
         },
